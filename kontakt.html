@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="shortcut icon" href="favicon.png">
+    <meta name="description" content="Kontaktieren Sie Andreas Ruppert Bäder und Heizungen in Diepholz. 24h-Notdienst verfügbar.">
+    <title>Kontakt | Andreas Ruppert Bäder und Heizungen</title>
+
+
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+    <!-- Top Bar -->
+    <div class="top-bar">
+        <div class="container">
+            <div class="top-bar-content">
+                <a href="tel:054415929780" class="top-bar-phone">📞 05441-5929780</a>
+                <a href="mailto:info@ruppert-baeder.de">✉️ info@ruppert-baeder.de</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <a href="index.html" class="logo">
+                    <img src="images/Logo.png" class="logo-img" alt="Andreas Ruppert Bäder und Heizungen">
+                </a>
+                <button class="menu-toggle" id="menuToggle" aria-label="Menü öffnen">☰</button>
+                <nav class="nav-menu" id="navMenu">
+                    <a href="index.html" class="nav-link">Startseite</a>
+                    <a href="leistungen.html" class="nav-link">Leistungen</a>
+                    <a href="branchennews.html" class="nav-link">Branchennews</a>
+                    <a href="ueber-uns.html" class="nav-link">Über uns</a>
+                    <a href="kontakt.html" class="btn-nav">📞 Kontakt</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Page Hero -->
+    <section class="hero hero-sm hero-light">
+        <div class="container">
+            <div class="hero-content">
+                <h1>Kontakt</h1>
+                <p class="hero-subtitle">Wir freuen uns auf Ihre Anfrage – telefonisch, per E-Mail oder über unser Kontaktformular</p>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Kontakt-Switch Section -->
+    <section class="section contact-switch-section">
+        <div class="container">
+            <div class="section-header">
+                <h2>So erreichen Sie uns</h2>
+                <p>Wählen Sie Ihre bevorzugte Kontaktmöglichkeit</p>
+            </div>
+
+            <!-- Cyber Switch -->
+            <div class="cyber-signboard">
+                <div class="cyber-switch">
+                    <input type="radio" id="cyber-opt-1" name="cyber-mode" checked>
+                    <label for="cyber-opt-1" class="cyber-label" aria-label="Kontaktformular">
+                        <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <rect x="3" y="3" width="7" height="9"></rect>
+                            <rect x="14" y="3" width="7" height="5"></rect>
+                            <rect x="14" y="12" width="7" height="9"></rect>
+                            <rect x="3" y="16" width="7" height="5"></rect>
+                        </svg>
+                        <span class="glare"></span>
+                    </label>
+
+                    <input type="radio" id="cyber-opt-2" name="cyber-mode">
+                    <label for="cyber-opt-2" class="cyber-label" aria-label="WhatsApp">
+                        <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+                        </svg>
+                        <span class="glare"></span>
+                    </label>
+
+                    <input type="radio" id="cyber-opt-3" name="cyber-mode">
+                    <label for="cyber-opt-3" class="cyber-label" aria-label="Telefon">
+                        <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.69 12a19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 3.64 1.18h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.68 2.81a2 2 0 0 1-.45 2.11L7.91 8.82a16 16 0 0 0 5.64 5.64l1-1.01a2 2 0 0 1 2.11-.45c.91.32 1.85.55 2.81.68A2 2 0 0 1 22 16.92z"></path>
+                        </svg>
+                        <span class="glare"></span>
+                    </label>
+
+                    <div class="cyber-highlight">
+                        <div class="highlight-inner"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Panel 1: Formular -->
+            <div class="contact-tab-panel" id="tab-formular">
+                <div class="form-container">
+                    <form id="contactForm" novalidate>
+                        <input type="text" id="honeypot" name="honeypot" style="display:none" tabindex="-1" autocomplete="off">
+
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="name">Name *</label>
+                                <input type="text" id="name" name="name" placeholder="Ihr vollständiger Name" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="email">E-Mail *</label>
+                                <input type="email" id="email" name="email" placeholder="ihre@email.de" required>
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="phone">Telefon (optional)</label>
+                                <input type="tel" id="phone" name="phone" placeholder="Ihre Telefonnummer">
+                            </div>
+                            <div class="form-group">
+                                <label for="subject">Betreff</label>
+                                <select id="subject" name="subject">
+                                    <option value="Allgemeine Anfrage">Allgemeine Anfrage</option>
+                                    <option value="Angebotsanfrage">Angebotsanfrage</option>
+                                    <option value="Terminanfrage">Terminanfrage</option>
+                                    <option value="Wartung &amp; Service">Wartung &amp; Service</option>
+                                    <option value="Notfall">Notfall</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="message">Nachricht *</label>
+                            <textarea id="message" name="message" rows="6" placeholder="Beschreiben Sie Ihr Anliegen..." required></textarea>
+                        </div>
+
+                        <div class="form-group form-checkbox">
+                            <input type="checkbox" id="privacy" name="privacy" required>
+                            <label for="privacy">Ich habe die <a href="datenschutz.html">Datenschutzerklärung</a> gelesen und stimme der Verarbeitung meiner Daten zur Bearbeitung meiner Anfrage zu. *</label>
+                        </div>
+
+                        <div class="btn-senden-wrap">
+                            <button type="submit" class="btn-senden-neu" id="submitBtn">
+                                <div class="outline"></div>
+                                <div class="state state--default">
+                                    <div class="icon">
+                                        <svg width="1em" height="1em" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <g style="filter:url(#sn-shadow)">
+                                                <path d="M14.2199 21.63C13.0399 21.63 11.3699 20.8 10.0499 16.83L9.32988 14.67L7.16988 13.95C3.20988 12.63 2.37988 10.96 2.37988 9.78001C2.37988 8.61001 3.20988 6.93001 7.16988 5.60001L15.6599 2.77001C17.7799 2.06001 19.5499 2.27001 20.6399 3.35001C21.7299 4.43001 21.9399 6.21001 21.2299 8.33001L18.3999 16.82C17.0699 20.8 15.3999 21.63 14.2199 21.63ZM7.63988 7.03001C4.85988 7.96001 3.86988 9.06001 3.86988 9.78001C3.86988 10.5 4.85988 11.6 7.63988 12.52L10.1599 13.36C10.3799 13.43 10.5599 13.61 10.6299 13.83L11.4699 16.35C12.3899 19.13 13.4999 20.12 14.2199 20.12C14.9399 20.12 16.0399 19.13 16.9699 16.35L19.7999 7.86001C20.3099 6.32001 20.2199 5.06001 19.5699 4.41001C18.9199 3.76001 17.6599 3.68001 16.1299 4.19001L7.63988 7.03001Z" fill="currentColor"></path>
+                                                <path d="M10.11 14.4C9.92005 14.4 9.73005 14.33 9.58005 14.18C9.29005 13.89 9.29005 13.41 9.58005 13.12L13.16 9.53C13.45 9.24 13.93 9.24 14.22 9.53C14.51 9.82 14.51 10.3 14.22 10.59L10.64 14.18C10.5 14.33 10.3 14.4 10.11 14.4Z" fill="currentColor"></path>
+                                            </g>
+                                            <defs>
+                                                <filter id="sn-shadow">
+                                                    <feDropShadow dx="0" dy="1" stdDeviation="0.6" flood-opacity="0.5"></feDropShadow>
+                                                </filter>
+                                            </defs>
+                                        </svg>
+                                    </div>
+                                    <p>
+                                        <span style="--i:0">N</span><span style="--i:1">a</span><span style="--i:2">ch</span><span style="--i:3">ri</span><span style="--i:4">ch</span><span style="--i:5">t&nbsp;</span><span style="--i:6">S</span><span style="--i:7">en</span><span style="--i:8">de</span><span style="--i:9">n</span>
+                                    </p>
+                                </div>
+                                <div class="state state--sent">
+                                    <div class="icon">
+                                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" height="1em" width="1em" stroke-width="0.5px" stroke="black">
+                                            <g style="filter:url(#sn-shadow)">
+                                                <path fill="currentColor" d="M12 22.75C6.07 22.75 1.25 17.93 1.25 12C1.25 6.07 6.07 1.25 12 1.25C17.93 1.25 22.75 6.07 22.75 12C22.75 17.93 17.93 22.75 12 22.75ZM12 2.75C6.9 2.75 2.75 6.9 2.75 12C2.75 17.1 6.9 21.25 12 21.25C17.1 21.25 21.25 17.1 21.25 12C21.25 6.9 17.1 2.75 12 2.75Z"></path>
+                                                <path fill="currentColor" d="M10.5795 15.5801C10.3795 15.5801 10.1895 15.5001 10.0495 15.3601L7.21945 12.5301C6.92945 12.2401 6.92945 11.7601 7.21945 11.4701C7.50945 11.1801 7.98945 11.1801 8.27945 11.4701L10.5795 13.7701L15.7195 8.6301C16.0095 8.3401 16.4895 8.3401 16.7795 8.6301C17.0695 8.9201 17.0695 9.4001 16.7795 9.6901L11.1095 15.3601C10.9695 15.5001 10.7795 15.5801 10.5795 15.5801Z"></path>
+                                            </g>
+                                        </svg>
+                                    </div>
+                                    <p>
+                                        <span style="--i:5">Gesendet</span>
+                                    </p>
+                                </div>
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <!-- Panel 2: WhatsApp (folgt in Kürze) -->
+            <div class="contact-tab-panel" id="tab-whatsapp" hidden>
+                <div class="contact-tab-placeholder">
+                    <div class="placeholder-icon">💬</div>
+                    <h3>WhatsApp-Chat</h3>
+                    <p>Der direkte WhatsApp-Chat ist in Kürze verfügbar.<br>Bis dahin erreichen Sie uns telefonisch oder per Formular.</p>
+                    <a href="tel:054415929780" class="btn btn-primary btn-large" data-phone="05441-5929780">📞 Jetzt anrufen</a>
+                </div>
+            </div>
+
+            <!-- Panel 3: Telefon -->
+            <div class="contact-tab-panel" id="tab-telefon" hidden>
+                <div class="contact-tab-phone">
+                    <div class="phone-primary">
+                        <div class="phone-label">Hauptnummer</div>
+                        <a href="tel:054415929780" class="phone-number">05441-5929780</a>
+                        <div class="phone-hours">Mo – Fr: 7:30 – 22:00 Uhr</div>
+                    </div>
+                    <div class="phone-divider"></div>
+                    <div class="phone-secondary-grid">
+                        <div class="phone-item">
+                            <div class="phone-item-label">Mobil</div>
+                            <a href="tel:01775929781">0177-592 97 81</a>
+                        </div>
+                        <div class="phone-item">
+                            <div class="phone-item-label">E-Mail</div>
+                            <a href="mailto:info@ruppert-baeder.de">info@ruppert-baeder.de</a>
+                        </div>
+                    </div>
+                    <a href="tel:054415929780" class="btn btn-primary btn-large" style="width: 100%; justify-content: center; margin-top: var(--space-lg);" data-phone="05441-5929780">📞 Jetzt anrufen</a>
+                    <div class="notdienst-hint">24/7 Notdienst verfügbar</div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- Map Section -->
+    <section class="section bg-muted">
+        <div class="container">
+            <div class="section-header">
+                <h2>So finden Sie uns</h2>
+                <p>Richthofenstr. 31, 49356 Diepholz</p>
+            </div>
+            <div class="map-container map-consent-wrap" id="mapWrap">
+                <!-- 2-Klick-Lösung: Karte wird erst nach Zustimmung geladen (DSGVO) -->
+                <div class="map-consent-overlay" id="mapConsent">
+                    <div class="map-consent-box">
+                        <div class="map-consent-icon">
+                            <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#29a374" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg>
+                        </div>
+                        <p class="map-consent-title">Google Maps laden</p>
+                        <p class="map-consent-text">Mit dem Laden der Karte akzeptieren Sie die <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Datenschutzerklärung von Google</a>. Google Maps setzt Cookies und kann Daten in die USA übertragen.</p>
+                        <button class="map-consent-btn" onclick="loadMap()">Karte jetzt laden</button>
+                        <p class="map-consent-hint">Einmalig für diese Seite</p>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+            function loadMap() {
+                const wrap = document.getElementById('mapWrap');
+                wrap.innerHTML = '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2419.4925394729834!2d8.369128176893982!3d52.60850457985214!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b68e5c1d5c5c5d%3A0x5c5c5c5c5c5c5c5c!2sRichthofenstr.%2031%2C%2049356%20Diepholz!5e0!3m2!1sde!2sde!4v1697000000000" width="100%" height="450" style="border:0;display:block;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Standort Andreas Ruppert Bäder und Heizungen"></iframe>';
+            }
+            </script>
+            <div style="text-align: center; margin-top: var(--space-lg);">
+                <a href="https://www.google.com/maps/dir/?api=1&destination=Richthofenstr.+31+49356+Diepholz"
+                   target="_blank"
+                   rel="noopener noreferrer"
+                   class="btn btn-primary btn-large">
+                    🚗 Routenplaner öffnen
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="cta-section">
+        <div class="container">
+            <h2>Haben Sie weitere Fragen?</h2>
+            <p>Rufen Sie uns einfach an – wir beraten Sie gerne!</p>
+            <div class="cta-buttons">
+                <a href="tel:054415929780" class="btn btn-white btn-large">Jetzt anrufen: 05441-5929780</a>
+                <a href="mailto:info@ruppert-baeder.de" class="btn btn-secondary btn-large">E-Mail schreiben</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-section">
+                    <h3>Andreas Ruppert</h3>
+                    <p>Ihr zuverlässiger Partner für Bäder und Heizungen in der Region seit über 30 Jahren.</p>
+                    <p>Richthofenstr. 31<br>49356 Diepholz</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Kontakt</h3>
+                    <p><a href="tel:054415929780">📞 05441-5929780</a></p>
+                    <p><a href="tel:01775929781">📱 0177-592 97 81</a></p>
+                    <p><a href="mailto:info@ruppert-baeder.de">✉️ info@ruppert-baeder.de</a></p>
+                    <p>Mo – Fr: 7:30 – 22:00 Uhr<br>24h-Notdienst verfügbar</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Schnellzugriff</h3>
+                    <ul class="footer-links">
+                        <li><a href="index.html">Startseite</a></li>
+                        <li><a href="leistungen.html">Leistungen</a></li>
+                        <li><a href="ueber-uns.html">Über uns</a></li>
+                        <li><a href="kontakt.html">Kontakt</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h3>Leistungen</h3>
+                    <ul class="footer-links">
+                        <li><a href="leistungen.html#heizung">Heizungstechnik</a></li>
+                        <li><a href="leistungen.html#bad">Badsanierung</a></li>
+                        <li><a href="leistungen.html#solar">Solarthermie</a></li>
+                        <li><a href="leistungen.html#wartung">Wartung &amp; Service</a></li>
+                        <li><a href="leistungen.html#notdienst">24h-Notdienst</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 Andreas Ruppert Bäder und Heizungen. Alle Rechte vorbehalten.</p>
+                <div class="footer-bottom-links">
+                    <a href="impressum.html">Impressum</a>
+                    <a href="datenschutz.html">Datenschutz</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="shortcut icon" href="favicon.png">
+    <meta name="description" content="Aktuelle Nachrichten aus der SHK-Branche – Heizung, Sanitär, Klimatechnik von SBZ Online und SHK Journal">
+    <title>Branchennews | Andreas Ruppert Bäder und Heizungen</title>
+
+
+<link rel="stylesheet" href="css/styles.css">
+    <style>
+        /* Ladebalken – Page Flip */
+        .news-loader-wrap {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: var(--space-2xl) 0 var(--space-xl);
+        }
+        .loader {
+            --background: linear-gradient(135deg, #29a374, #1f7a57);
+            --shadow: rgba(41, 163, 116, 0.3);
+            --text: #6c7486;
+            --page: rgba(255, 255, 255, 0.38);
+            --page-fold: rgba(255, 255, 255, 0.55);
+            --duration: 3s;
+            width: 200px;
+            height: 140px;
+            position: relative;
+        }
+        .loader:before, .loader:after {
+            --r: -6deg;
+            content: "";
+            position: absolute;
+            bottom: 8px;
+            width: 120px;
+            top: 80%;
+            box-shadow: 0 16px 12px var(--shadow);
+            transform: rotate(var(--r));
+        }
+        .loader:before { left: 4px; }
+        .loader:after { --r: 6deg; right: 4px; }
+        .loader div {
+            width: 100%;
+            height: 100%;
+            border-radius: 13px;
+            position: relative;
+            z-index: 1;
+            perspective: 600px;
+            box-shadow: 0 4px 6px var(--shadow);
+            background-image: var(--background);
+        }
+        .loader div ul {
+            margin: 0; padding: 0; list-style: none; position: relative;
+        }
+        .loader div ul li {
+            --r: 180deg;
+            --o: 0;
+            --c: var(--page);
+            position: absolute;
+            top: 10px; left: 10px;
+            transform-origin: 100% 50%;
+            color: var(--c);
+            opacity: var(--o);
+            transform: rotateY(var(--r));
+            animation: var(--duration) ease infinite;
+        }
+        .loader div ul li:nth-child(2) { --c: var(--page-fold); animation-name: page-2; }
+        .loader div ul li:nth-child(3) { --c: var(--page-fold); animation-name: page-3; }
+        .loader div ul li:nth-child(4) { --c: var(--page-fold); animation-name: page-4; }
+        .loader div ul li:nth-child(5) { --c: var(--page-fold); animation-name: page-5; }
+        .loader div ul li svg { width: 90px; height: 120px; display: block; }
+        .loader div ul li:first-child { --r: 0deg; --o: 1; }
+        .loader div ul li:last-child  { --o: 1; }
+        .loader span {
+            display: block;
+            left: 0; right: 0; top: 100%;
+            margin-top: 20px;
+            text-align: center;
+            color: var(--text);
+            font-size: 0.9rem;
+        }
+        @keyframes page-2 {
+            0%        { transform: rotateY(180deg); opacity: 0; }
+            20%       { opacity: 1; }
+            35%, 100% { opacity: 0; }
+            50%, 100% { transform: rotateY(0deg); }
+        }
+        @keyframes page-3 {
+            15%       { transform: rotateY(180deg); opacity: 0; }
+            35%       { opacity: 1; }
+            50%, 100% { opacity: 0; }
+            65%, 100% { transform: rotateY(0deg); }
+        }
+        @keyframes page-4 {
+            30%       { transform: rotateY(180deg); opacity: 0; }
+            50%       { opacity: 1; }
+            65%, 100% { opacity: 0; }
+            80%, 100% { transform: rotateY(0deg); }
+        }
+        @keyframes page-5 {
+            45%       { transform: rotateY(180deg); opacity: 0; }
+            65%       { opacity: 1; }
+            80%, 100% { opacity: 0; }
+            95%, 100% { transform: rotateY(0deg); }
+        }
+
+        /* Error State */
+        .news-error {
+            text-align: center;
+            padding: var(--space-2xl);
+            color: var(--text-light);
+        }
+        .news-error p { margin-bottom: var(--space-md); }
+
+        /* Filter Buttons */
+        .news-filters {
+            display: flex;
+            flex-wrap: wrap;
+            gap: var(--space-xs);
+            justify-content: center;
+            margin-bottom: var(--space-xl);
+        }
+        .filter-btn {
+            padding: 0.4rem 1rem;
+            border: 1.5px solid var(--border);
+            border-radius: var(--radius-full);
+            background: white;
+            font-size: 0.85rem;
+            font-weight: 500;
+            color: var(--text-light);
+            cursor: pointer;
+            transition: var(--transition);
+        }
+        .filter-btn:hover,
+        .filter-btn.active {
+            border-color: var(--primary);
+            color: var(--primary);
+            background: rgba(41, 163, 116, 0.06);
+        }
+        .filter-btn.active {
+            background: var(--primary);
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Top Bar -->
+    <div class="top-bar">
+        <div class="container">
+            <div class="top-bar-content">
+                <a href="tel:054415929780" class="top-bar-phone">📞 05441-5929780</a>
+                <a href="mailto:info@ruppert-baeder.de">✉️ info@ruppert-baeder.de</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <a href="index.html" class="logo">
+                    <img src="images/Logo.png" class="logo-img" alt="Andreas Ruppert Bäder und Heizungen">
+                </a>
+                <button class="menu-toggle" id="menuToggle" aria-label="Menü öffnen">☰</button>
+                <nav class="nav-menu" id="navMenu">
+                    <a href="index.html" class="nav-link">Startseite</a>
+                    <a href="leistungen.html" class="nav-link">Leistungen</a>
+                    <a href="branchennews.html" class="nav-link active">Branchennews</a>
+                    <a href="ueber-uns.html" class="nav-link">Über uns</a>
+                    <a href="kontakt.html" class="btn-nav">📞 Kontakt</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Page Hero -->
+    <section class="hero hero-sm hero-light">
+        <div class="container">
+            <div class="hero-content">
+                <h1>Branchennews</h1>
+                <p class="hero-subtitle">Aktuelle Entwicklungen aus der SHK-Branche – Heizung, Sanitär, Klimatechnik</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Intro -->
+    <section class="section" style="padding-bottom: 0;">
+        <div class="container text-center">
+            <p style="max-width: 680px; margin: 0 auto; color: var(--text-light); font-size: var(--font-size-md); line-height: 1.8;">
+                Wir halten Sie über die neuesten Entwicklungen in der Sanitär-, Heizungs- und Klimatechnik auf dem Laufenden. News live von führenden Branchenquellen.
+            </p>
+            <div class="news-source-badges" style="margin-top: var(--space-lg);">
+                <a href="https://www.sbz-online.de" target="_blank" rel="noopener noreferrer" class="source-badge">SBZ Online</a>
+                <a href="https://www.shk-journal.de" target="_blank" rel="noopener noreferrer" class="source-badge">SHK Journal</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- News Section -->
+    <section class="news-section section">
+        <div class="container">
+
+            <!-- Filter Buttons -->
+            <div class="news-filters" id="newsFilters" style="display: none;">
+                <button class="filter-btn active" data-filter="all">Alle</button>
+                <button class="filter-btn" data-filter="Heizung">Heizung</button>
+                <button class="filter-btn" data-filter="Sanitär">Sanitär</button>
+                <button class="filter-btn" data-filter="Förderung">Förderung</button>
+                <button class="filter-btn" data-filter="Smart Home">Smart Home</button>
+                <button class="filter-btn" data-filter="Branche">Branche</button>
+                <button class="filter-btn" data-filter="Aktuell">Aktuell</button>
+            </div>
+
+            <!-- Ladebalken -->
+            <div class="news-loader-wrap" id="newsLoader">
+                <div class="loader">
+                    <div>
+                        <ul>
+                            <li><svg fill="currentColor" viewBox="0 0 90 120"><path d="M90,0 L90,120 L11,120 C4.92486775,120 0,115.075132 0,109 L0,11 C0,4.92486775 4.92486775,0 11,0 L90,0 Z M71.5,81 L18.5,81 C17.1192881,81 16,82.1192881 16,83.5 C16,84.8254834 17.0315359,85.9100387 18.3356243,85.9946823 L18.5,86 L71.5,86 C72.8807119,86 74,84.8807119 74,83.5 C74,82.1745166 72.9684641,81.0899613 71.6643757,81.0053177 L71.5,81 Z M71.5,57 L18.5,57 C17.1192881,57 16,58.1192881 16,59.5 C16,60.8254834 17.0315359,61.9100387 18.3356243,61.9946823 L18.5,62 L71.5,62 C72.8807119,62 74,60.8807119 74,59.5 C74,58.1192881 72.8807119,57 71.5,57 Z M71.5,33 L18.5,33 C17.1192881,33 16,34.1192881 16,35.5 C16,36.8254834 17.0315359,37.9100387 18.3356243,37.9946823 L18.5,38 L71.5,38 C72.8807119,38 74,36.8807119 74,35.5 C74,34.1192881 72.8807119,33 71.5,33 Z"></path></svg></li>
+                            <li><svg fill="currentColor" viewBox="0 0 90 120"><path d="M90,0 L90,120 L11,120 C4.92486775,120 0,115.075132 0,109 L0,11 C0,4.92486775 4.92486775,0 11,0 L90,0 Z M71.5,81 L18.5,81 C17.1192881,81 16,82.1192881 16,83.5 C16,84.8254834 17.0315359,85.9100387 18.3356243,85.9946823 L18.5,86 L71.5,86 C72.8807119,86 74,84.8807119 74,83.5 C74,82.1745166 72.9684641,81.0899613 71.6643757,81.0053177 L71.5,81 Z M71.5,57 L18.5,57 C17.1192881,57 16,58.1192881 16,59.5 C16,60.8254834 17.0315359,61.9100387 18.3356243,61.9946823 L18.5,62 L71.5,62 C72.8807119,62 74,60.8807119 74,59.5 C74,58.1192881 72.8807119,57 71.5,57 Z M71.5,33 L18.5,33 C17.1192881,33 16,34.1192881 16,35.5 C16,36.8254834 17.0315359,37.9100387 18.3356243,37.9946823 L18.5,38 L71.5,38 C72.8807119,38 74,36.8807119 74,35.5 C74,34.1192881 72.8807119,33 71.5,33 Z"></path></svg></li>
+                            <li><svg fill="currentColor" viewBox="0 0 90 120"><path d="M90,0 L90,120 L11,120 C4.92486775,120 0,115.075132 0,109 L0,11 C0,4.92486775 4.92486775,0 11,0 L90,0 Z M71.5,81 L18.5,81 C17.1192881,81 16,82.1192881 16,83.5 C16,84.8254834 17.0315359,85.9100387 18.3356243,85.9946823 L18.5,86 L71.5,86 C72.8807119,86 74,84.8807119 74,83.5 C74,82.1745166 72.9684641,81.0899613 71.6643757,81.0053177 L71.5,81 Z M71.5,57 L18.5,57 C17.1192881,57 16,58.1192881 16,59.5 C16,60.8254834 17.0315359,61.9100387 18.3356243,61.9946823 L18.5,62 L71.5,62 C72.8807119,62 74,60.8807119 74,59.5 C74,58.1192881 72.8807119,57 71.5,57 Z M71.5,33 L18.5,33 C17.1192881,33 16,34.1192881 16,35.5 C16,36.8254834 17.0315359,37.9100387 18.3356243,37.9946823 L18.5,38 L71.5,38 C72.8807119,38 74,36.8807119 74,35.5 C74,34.1192881 72.8807119,33 71.5,33 Z"></path></svg></li>
+                            <li><svg fill="currentColor" viewBox="0 0 90 120"><path d="M90,0 L90,120 L11,120 C4.92486775,120 0,115.075132 0,109 L0,11 C0,4.92486775 4.92486775,0 11,0 L90,0 Z M71.5,81 L18.5,81 C17.1192881,81 16,82.1192881 16,83.5 C16,84.8254834 17.0315359,85.9100387 18.3356243,85.9946823 L18.5,86 L71.5,86 C72.8807119,86 74,84.8807119 74,83.5 C74,82.1745166 72.9684641,81.0899613 71.6643757,81.0053177 L71.5,81 Z M71.5,57 L18.5,57 C17.1192881,57 16,58.1192881 16,59.5 C16,60.8254834 17.0315359,61.9100387 18.3356243,61.9946823 L18.5,62 L71.5,62 C72.8807119,62 74,60.8807119 74,59.5 C74,58.1192881 72.8807119,57 71.5,57 Z M71.5,33 L18.5,33 C17.1192881,33 16,34.1192881 16,35.5 C16,36.8254834 17.0315359,37.9100387 18.3356243,37.9946823 L18.5,38 L71.5,38 C72.8807119,38 74,36.8807119 74,35.5 C74,34.1192881 72.8807119,33 71.5,33 Z"></path></svg></li>
+                            <li><svg fill="currentColor" viewBox="0 0 90 120"><path d="M90,0 L90,120 L11,120 C4.92486775,120 0,115.075132 0,109 L0,11 C0,4.92486775 4.92486775,0 11,0 L90,0 Z M71.5,81 L18.5,81 C17.1192881,81 16,82.1192881 16,83.5 C16,84.8254834 17.0315359,85.9100387 18.3356243,85.9946823 L18.5,86 L71.5,86 C72.8807119,86 74,84.8807119 74,83.5 C74,82.1745166 72.9684641,81.0899613 71.6643757,81.0053177 L71.5,81 Z M71.5,57 L18.5,57 C17.1192881,57 16,58.1192881 16,59.5 C16,60.8254834 17.0315359,61.9100387 18.3356243,61.9946823 L18.5,62 L71.5,62 C72.8807119,62 74,60.8807119 74,59.5 C74,58.1192881 72.8807119,57 71.5,57 Z M71.5,33 L18.5,33 C17.1192881,33 16,34.1192881 16,35.5 C16,36.8254834 17.0315359,37.9100387 18.3356243,37.9946823 L18.5,38 L71.5,38 C72.8807119,38 74,36.8807119 74,35.5 C74,34.1192881 72.8807119,33 71.5,33 Z"></path></svg></li>
+                            <li><svg fill="currentColor" viewBox="0 0 90 120"><path d="M90,0 L90,120 L11,120 C4.92486775,120 0,115.075132 0,109 L0,11 C0,4.92486775 4.92486775,0 11,0 L90,0 Z M71.5,81 L18.5,81 C17.1192881,81 16,82.1192881 16,83.5 C16,84.8254834 17.0315359,85.9100387 18.3356243,85.9946823 L18.5,86 L71.5,86 C72.8807119,86 74,84.8807119 74,83.5 C74,82.1745166 72.9684641,81.0899613 71.6643757,81.0053177 L71.5,81 Z M71.5,57 L18.5,57 C17.1192881,57 16,58.1192881 16,59.5 C16,60.8254834 17.0315359,61.9100387 18.3356243,61.9946823 L18.5,62 L71.5,62 C72.8807119,62 74,60.8807119 74,59.5 C74,58.1192881 72.8807119,57 71.5,57 Z M71.5,33 L18.5,33 C17.1192881,33 16,34.1192881 16,35.5 C16,36.8254834 17.0315359,37.9100387 18.3356243,37.9946823 L18.5,38 L71.5,38 C72.8807119,38 74,36.8807119 74,35.5 C74,34.1192881 72.8807119,33 71.5,33 Z"></path></svg></li>
+                        </ul>
+                    </div>
+                    <span>Nachrichten werden geladen …</span>
+                </div>
+            </div>
+
+            <!-- News Grid – wird per JS befüllt -->
+            <div class="news-grid" id="newsGrid" style="display:none;">
+            </div>
+
+            <div class="news-footer-note" id="newsFooterNote" style="display:none;">
+                <p>News live von <a href="https://www.sbz-online.de" target="_blank" rel="noopener noreferrer">SBZ Online</a> und <a href="https://www.shk-journal.de" target="_blank" rel="noopener noreferrer">SHK Journal</a> &nbsp;·&nbsp; Aktualisierung alle 30 Minuten</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="cta-section">
+        <div class="container">
+            <h2>Haben Sie Fragen zu aktuellen Themen?</h2>
+            <p>Unsere Experten beraten Sie gerne zu allen Entwicklungen in der Heizungs- und Sanitärtechnik.</p>
+            <div class="cta-buttons">
+                <a href="kontakt.html" class="btn btn-white btn-large">Beratung anfragen</a>
+                <a href="tel:054415929780" class="btn btn-secondary btn-large" data-phone="05441-5929780">Jetzt anrufen</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-section">
+                    <h3>Andreas Ruppert</h3>
+                    <p>Ihr zuverlässiger Partner für Bäder und Heizungen in der Region seit über 30 Jahren.</p>
+                    <p>Richthofenstr. 31<br>49356 Diepholz</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Kontakt</h3>
+                    <p><a href="tel:054415929780">📞 05441-5929780</a></p>
+                    <p><a href="tel:01775929781">📱 0177-592 97 81</a></p>
+                    <p><a href="mailto:info@ruppert-baeder.de">✉️ info@ruppert-baeder.de</a></p>
+                    <p>Mo – Fr: 7:30 – 22:00 Uhr<br>24h-Notdienst verfügbar</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Schnellzugriff</h3>
+                    <ul class="footer-links">
+                        <li><a href="index.html">Startseite</a></li>
+                        <li><a href="leistungen.html">Leistungen</a></li>
+                        <li><a href="branchennews.html">Branchennews</a></li>
+                        <li><a href="ueber-uns.html">Über uns</a></li>
+                        <li><a href="kontakt.html">Kontakt</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h3>Leistungen</h3>
+                    <ul class="footer-links">
+                        <li><a href="leistungen.html#heizung">Heizungstechnik</a></li>
+                        <li><a href="leistungen.html#bad">Badsanierung</a></li>
+                        <li><a href="leistungen.html#solar">Solarthermie</a></li>
+                        <li><a href="leistungen.html#wartung">Wartung &amp; Service</a></li>
+                        <li><a href="leistungen.html#notdienst">24h-Notdienst</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 Andreas Ruppert Bäder und Heizungen. Alle Rechte vorbehalten.</p>
+                <div class="footer-bottom-links">
+                    <a href="impressum.html">Impressum</a>
+                    <a href="datenschutz.html">Datenschutz</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/script.js"></script>
+    <script>
+    (function () {
+        // News werden aus statischem news.json geladen (generiert via GitHub Actions Cron)
+
+        const grid = document.getElementById('newsGrid');
+        const loader = document.getElementById('newsLoader');
+        const filtersEl = document.getElementById('newsFilters');
+        const footerNote = document.getElementById('newsFooterNote');
+        let allArticles = [];
+
+        function detectCategory(text) {
+            const t = (text || '').toLowerCase();
+            if (/heizung|wärme|heizkessel|wärmepumpe|fernwärme|gasheizung|ölheizung|pellet|biomasse/.test(t)) return 'Heizung';
+            if (/sanitär|bad|badezimmer|dusche|wanne|wc|toilette|waschtisch|wasserhahn|rohr|abwasser/.test(t)) return 'Sanitär';
+            if (/förderung|bafa|kfw|zuschuss|subvention|bundesförderung/.test(t)) return 'Förderung';
+            if (/smart.?home|automation|digital|steuerung|sensor/.test(t)) return 'Smart Home';
+            if (/verband|hwk|zvshk|innung|messe|politik|gesetz|norm|din/.test(t)) return 'Branche';
+            return 'Aktuell';
+        }
+
+        function formatDate(dateStr) {
+            const d = new Date((dateStr || '').replace(' ', 'T'));
+            if (isNaN(d)) return dateStr || '';
+            return d.toLocaleDateString('de-DE', { day: 'numeric', month: 'short', year: 'numeric' });
+        }
+
+        function stripHtml(html) {
+            const tmp = document.createElement('div');
+            tmp.innerHTML = html || '';
+            return (tmp.textContent || tmp.innerText || '').trim();
+        }
+
+        function cardHTML(a) {
+            return `
+            <div class="news-card" data-category="${escHtml(a.category)}">
+                <div class="news-card-header">
+                    <div class="news-card-meta">
+                        <span class="news-badge">${escHtml(a.category)}</span>
+                        <span class="news-date">📅 ${escHtml(a.dateStr)}</span>
+                    </div>
+                    <h3>${escHtml(a.title)}</h3>
+                </div>
+                <div class="news-card-body">
+                    <p class="news-excerpt">${escHtml(a.excerpt)}</p>
+                    <div class="news-card-footer">
+                        <span class="news-source">${escHtml(a.source)}</span>
+                        <a href="${escHtml(a.link)}" target="_blank" rel="noopener noreferrer" class="news-link">
+                            Mehr lesen ↗
+                        </a>
+                    </div>
+                </div>
+            </div>`;
+        }
+
+        function renderCards(articles) {
+            grid.innerHTML = articles.length
+                ? articles.map(cardHTML).join('')
+                : '<div class="news-error"><p>Keine Artikel in dieser Kategorie.</p></div>';
+        }
+
+        function escHtml(str) {
+            return String(str ?? '')
+                .replace(/&/g, '&amp;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;')
+                .replace(/"/g, '&quot;');
+        }
+
+        function initFilters() {
+            filtersEl.style.display = 'flex';
+            filtersEl.addEventListener('click', function (e) {
+                const btn = e.target.closest('.filter-btn');
+                if (!btn) return;
+                filtersEl.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                const cat = btn.dataset.filter;
+                const filtered = cat === 'all' ? allArticles : allArticles.filter(a => a.category === cat);
+                renderCards(filtered);
+            });
+        }
+
+        function showError(msg) {
+            grid.innerHTML = `<div class="news-error" style="grid-column:1/-1;">
+                <p>⚠️ ${msg}</p>
+                <p>Bitte besuchen Sie <a href="https://www.sbz-online.de" target="_blank" rel="noopener noreferrer">SBZ Online</a> oder <a href="https://www.shk-journal.de" target="_blank" rel="noopener noreferrer">SHK Journal</a> direkt.</p>
+            </div>`;
+        }
+
+        fetch('news.json')
+            .then(r => r.ok ? r.json() : Promise.reject('HTTP ' + r.status))
+            .then(data => {
+                allArticles = (data.articles || []);
+                loader.style.display = 'none';
+                grid.style.display = '';
+                if (!allArticles.length) { showError('Derzeit keine News verfügbar.'); return; }
+                renderCards(allArticles);
+                initFilters();
+                footerNote.style.display = 'block';
+            })
+            .catch(() => {
+                loader.style.display = 'none';
+                grid.style.display = '';
+                showError('News konnten nicht geladen werden.');
+            });
+    })();
+    </script>
+</body>
+</html>
