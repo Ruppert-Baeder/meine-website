@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "IFH/Intherm 2026: Sanitär-, Haus- und Ge­bäu­de­tech­nik",
+      "excerpt": "SBZ prä­sen­tiert zur IFH/Intherm 2026 an­ge­kün­dig­te Neu­hei­ten und Prä­sen­ta­ti­ons­schwer­punk­te zur In­spi­ra­ti­on Ihrer Messe­pla­nung.",
+      "link": "https://www.sbz-online.de/meldungen/14-bis-17-april-2026-nuernberg-ifh-intherm-2026-sanitaer-haus-und-gebaeudetechnik",
+      "date": 1774846807,
+      "dateStr": "30. Mär. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
       "title": "ÖkoFEN: GreenBOX denkt Hei­zung und Strom ge­meinsam",
       "excerpt": "ÖkoFEN erweitert sein Sorti­ment um ein Ener­gie­system für Strom und Wärme. Zent­rale Kom­po­nente ist die GreenBOX, die den Wärme­bedarf „mit­denkt“.",
       "link": "https://www.sbz-online.de/meldungen/shk-hersteller-oekofen-greenbox-denkt-heizung-und-strom-gemeinsam",
@@ -155,15 +164,6 @@
       "category": "Branche"
     },
     {
-      "title": "IFH/Intherm 2026: Sanitär-, Haus- und Ge­bäu­de­tech­nik",
-      "excerpt": "SBZ prä­sen­tiert zur IFH/Intherm 2026 an­ge­kün­dig­te Neu­hei­ten und Prä­sen­ta­ti­ons­schwer­punk­te zur In­spi­ra­ti­on Ihrer Messe­pla­nung.",
-      "link": "https://www.sbz-online.de/meldungen/14-bis-17-april-2026-nuernberg-ifh-intherm-2026-sanitaer-haus-und-gebaeudetechnik",
-      "date": 1774234807,
-      "dateStr": "23. Mär. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
       "title": "Roth schult In­be­trieb­nah­me von Wär­me­pum­pen",
       "excerpt": "Die Roth Werke bieten praxisorientierte Schulungen zur Inbetriebnahme von Wärmepumpensystemen an. Damit können Fachhandwerker ihr Wissen über moderne Heiztechnik erweitern.",
       "link": "https://www.sbz-online.de/meldungen/schulungen-roth-schult-inbetriebnahme-von-waermepumpen",
@@ -182,5 +182,5 @@
       "category": "Sanitär"
     }
   ],
-  "fetched": 1774851927
+  "fetched": 1774867737
 }
