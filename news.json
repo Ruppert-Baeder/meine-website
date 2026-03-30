@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "ÖkoFEN: GreenBOX denkt Hei­zung und Strom ge­meinsam",
+      "excerpt": "ÖkoFEN erweitert sein Sorti­ment um ein Ener­gie­system für Strom und Wärme. Zent­rale Kom­po­nente ist die GreenBOX, die den Wärme­bedarf „mit­denkt“.",
+      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-oekofen-greenbox-denkt-heizung-und-strom-gemeinsam",
+      "date": 1774836004,
+      "dateStr": "30. Mär. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "SHK im Rückspiegel 2025 – Florian Leupelt zieht Bilanz",
+      "excerpt": "In Folge #100 des SHK Podcasts wirft das SHK-Radio gemeinsam mit Florian Leupelt einen Blick zurück auf die vergangenen Monate im SHK-Markt.",
+      "link": "https://www.sbz-online.de/meldungen/shk-podcast-shk-im-rueckspiegel-2025-florian-leupelt-zieht-bilanz",
+      "date": 1774832405,
+      "dateStr": "30. Mär. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Kommunikation: Gut, Schlecht & Bes­ser – die Retro­spek­tive",
       "excerpt": "Wie wird man eigentlich besser? Dennis und Martin bringen im Pod­cast ein be­währ­tes Werk­zeug aus der IT-Welt ins Hand­werk: die Retro­spek­tive.",
       "link": "https://www.sbz-online.de/meldungen/sbz-podcast-kommunikation-gut-schlecht-besser-die-retrospektive",
@@ -162,25 +180,7 @@
       "dateStr": "23. Mär. 2026",
       "source": "SBZ Monteur",
       "category": "Sanitär"
-    },
-    {
-      "title": "Malaktion von perma-trade: Was­ser trifft Gleich­be­rech­ti­gung",
-      "excerpt": "Zum Weltwassertag hat perma-trade Wassertechnik mit einer Malaktion die Bedeutung von Wasser und Gleichberechtigung hervorgehoben.",
-      "link": "https://www.sbz-online.de/meldungen/tag-des-wassers-malaktion-von-perma-trade-wasser-trifft-gleichberechtigung",
-      "date": 1774148405,
-      "dateStr": "22. Mär. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Info-Flyer beleuchtet zu­ge­las­se­ne Hei­zungs­tech­ni­ken",
-      "excerpt": "Die Allianz Freie Wärme veröffentlicht einen Info-Flyer zu GEG- und GMG-konformen Heizungslösungen für Ein- und Mehrfamilienhäuser.",
-      "link": "https://www.sbz-online.de/meldungen/heizungsmodernisierung-info-flyer-beleuchtet-zugelassene-heizungstechniken",
-      "date": 1773975605,
-      "dateStr": "20. Mär. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1774825468
+  "fetched": 1774851927
 }
