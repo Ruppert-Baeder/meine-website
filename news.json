@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Praktische Hilfs­mittel für Hand­werker",
+      "excerpt": "Leitfäden, Infoblätter und Serviceangebote – nützliche Arbeitshilfen für den SHK-Alltag. Neu mit dabei: Dusch­bro­schü­re von Bette, FGK-Wegweiser 2026, Arbeiten mit Asbest.",
+      "link": "https://www.sbz-online.de/meldungen/arbeitshilfen-praktische-hilfsmittel-fuer-handwerker",
+      "date": 1774933200,
+      "dateStr": "31. Mär. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "SBZ ruft an – Folge 10: Groß­händ­ler Reisser zum neuen Web­auf­tritt",
       "excerpt": "SBZ spricht mit Patrick Preiß (Marketingleiter der Reisser AG) darüber, wie ein Internetauftritt zum echten Arbeitswerkzeug für das Handwerk wird.",
       "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-folge-10-grosshaendler-reisser-zum-neuen-webauftritt",
@@ -171,16 +180,7 @@
       "dateStr": "24. Mär. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "SHK+E Essen 2026 ver­zeich­net über 30.000 Be­su­cher",
-      "excerpt": "Die SHK+E Essen 2026 fand vom 17. bis 20. März in der Messe Essen statt. Sie zählte über 30.000 Fachbesucher und 350 Aussteller.",
-      "link": "https://www.sbz-online.de/meldungen/messen-shke-essen-2026-verzeichnet-ueber-30000-besucher",
-      "date": 1774252635,
-      "dateStr": "23. Mär. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
     }
   ],
-  "fetched": 1774936676
+  "fetched": 1774950398
 }
