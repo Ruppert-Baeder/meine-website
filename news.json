@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "„Pelletheizungen sind gelebte Frei­heits­energie“",
+      "excerpt": "Der Bundesminister a. D. Jürgen Trittin hob in seiner Fest­rede beim 25. Jubi­läum des DEPV die Unab­hängig­keit von Pellet­hei­zun­gen hervor.",
+      "link": "https://www.sbz-online.de/meldungen/energiepolitik-pelletheizungen-sind-gelebte-freiheitsenergie",
+      "date": 1774952715,
+      "dateStr": "31. Mär. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Praktische Hilfs­mittel für Hand­werker",
       "excerpt": "Leitfäden, Infoblätter und Serviceangebote – nützliche Arbeitshilfen für den SHK-Alltag. Neu mit dabei: Dusch­bro­schü­re von Bette, FGK-Wegweiser 2026, Arbeiten mit Asbest.",
       "link": "https://www.sbz-online.de/meldungen/arbeitshilfen-praktische-hilfsmittel-fuer-handwerker",
@@ -171,16 +180,7 @@
       "dateStr": "24. Mär. 2026",
       "source": "SBZ Monteur",
       "category": "Smart Home"
-    },
-    {
-      "title": "Narrative: Wie Ge­schich­ten den Er­folg im Be­trieb prä­gen",
-      "excerpt": "Anne M. Schüller zeigt in ihrem neuen Buch, wie Erzählungen unsere Zukunft definieren und wie Betriebe und Führungskräfte diese aktiv für den Erfolg gestalten können.",
-      "link": "https://www.sbz-online.de/meldungen/betriebsfuehrung-narrative-wie-geschichten-den-erfolg-im-betrieb-praegen",
-      "date": 1774321204,
-      "dateStr": "24. Mär. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1774958833
+  "fetched": 1774974958
 }
