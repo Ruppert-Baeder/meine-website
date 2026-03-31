@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "SBZ ruft an – Folge 10: Groß­händ­ler Reisser zum neuen Web­auf­tritt",
+      "excerpt": "SBZ spricht mit Patrick Preiß (Marketingleiter der Reisser AG) darüber, wie ein Internetauftritt zum echten Arbeitswerkzeug für das Handwerk wird.",
+      "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-folge-10-grosshaendler-reisser-zum-neuen-webauftritt",
+      "date": 1774918806,
+      "dateStr": "31. Mär. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "BUND warnt vor Kos­ten­fal­le durch ge­plan­tes GMG",
+      "excerpt": "Neue Berechnungen im Auftrag des BUND zeigen: Das geplante GMG führt zu deutlich höheren Heizkosten, wenn weiterhin auf Gasheizungen gesetzt wird.",
+      "link": "https://www.sbz-online.de/meldungen/gebaeudemodernisierungsgesetz-bund-warnt-vor-kostenfalle-durch-geplantes-gmg",
+      "date": 1774918805,
+      "dateStr": "31. Mär. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "IFH/Intherm 2026: Sanitär-, Haus- und Ge­bäu­de­tech­nik",
       "excerpt": "SBZ prä­sen­tiert zur IFH/Intherm 2026 an­ge­kün­dig­te Neu­hei­ten und Prä­sen­ta­ti­ons­schwer­punk­te zur In­spi­ra­ti­on Ihrer Messe­pla­nung.",
       "link": "https://www.sbz-online.de/meldungen/14-bis-17-april-2026-nuernberg-ifh-intherm-2026-sanitaer-haus-und-gebaeudetechnik",
@@ -162,25 +180,7 @@
       "dateStr": "23. Mär. 2026",
       "source": "SBZ Monteur",
       "category": "Branche"
-    },
-    {
-      "title": "Roth schult In­be­trieb­nah­me von Wär­me­pum­pen",
-      "excerpt": "Die Roth Werke bieten praxisorientierte Schulungen zur Inbetriebnahme von Wärmepumpensystemen an. Damit können Fachhandwerker ihr Wissen über moderne Heiztechnik erweitern.",
-      "link": "https://www.sbz-online.de/meldungen/schulungen-roth-schult-inbetriebnahme-von-waermepumpen",
-      "date": 1774234806,
-      "dateStr": "23. Mär. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "DVQST lädt zur 3. Sach­ver­stän­di­gen-Ta­gung ein",
-      "excerpt": "Die 3. Sachverständigen-Tagung des DVQST am 10. Juni 2026 in Kassel beleuchtet neue gesetzliche Vorgaben und technische Regelwerke in der Trinkwasserhygiene.",
-      "link": "https://www.sbz-online.de/meldungen/10-juni-2026-kassel-dvqst-laedt-zur-3-sachverstaendigen-tagung-ein",
-      "date": 1774234804,
-      "dateStr": "23. Mär. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
     }
   ],
-  "fetched": 1774914821
+  "fetched": 1774936676
 }
