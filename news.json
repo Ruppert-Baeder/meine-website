@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "IFH/Intherm 2026: Check­liste für den Messe­besuch",
+      "excerpt": "Die IFH/Intherm 2026 bietet ein umfassendes Programm. Eine Checkliste hilft dabei, die wichtigsten Inhalte, Trends und Treffpunkte gezielt zu nutzen.",
+      "link": "https://www.sbz-online.de/meldungen/14-bis-17-april-2026-messe-nuernberg-ifh-intherm-2026-checkliste-fuer-den-messebesuch",
+      "date": 1775005205,
+      "dateStr": "1. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
+      "title": "Conel präsentiert Taschen und Becher für die Bau­stelle",
+      "excerpt": "Conel erwei­tert sein Sorti­ment um Pro­dukte für den Trans­port und die Auf­be­wah­rung von Werk­zeug sowie einen Thermo­becher.",
+      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-conel-praesentiert-taschen-und-becher-fuer-die-baustelle",
+      "date": 1775005204,
+      "dateStr": "1. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "„Pelletheizungen sind gelebte Frei­heits­energie“",
       "excerpt": "Der Bundesminister a. D. Jürgen Trittin hob in seiner Fest­rede beim 25. Jubi­läum des DEPV die Unab­hängig­keit von Pellet­hei­zun­gen hervor.",
       "link": "https://www.sbz-online.de/meldungen/energiepolitik-pelletheizungen-sind-gelebte-freiheitsenergie",
@@ -162,25 +180,7 @@
       "dateStr": "24. Mär. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Reisser erneuert Tou­ren­pla­nung mit Soft­ware­lö­sung",
-      "excerpt": "Die Reisser AG ersetzt ihre Excel-Tourenplanung durch die Software Plantour von PASS, um Logistik, Kosten und Kundenservice zu optimieren.",
-      "link": "https://www.sbz-online.de/meldungen/logistik-reisser-erneuert-tourenplanung-mit-softwareloesung",
-      "date": 1774321206,
-      "dateStr": "24. Mär. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Systemair: neues Schu­lungs­pro­gramm 2026",
-      "excerpt": "Systemair stellt sein erweitertes Schulungsprogramm für 2026 vor. Es vermittelt praxisnah aktuelles Wissen zu Klima-, Lüftungs- und Kältetechnik – sowohl digital als auch vor Ort.",
-      "link": "https://www.sbz-online.de/meldungen/weiterbildung-systemair-neues-schulungsprogramm-2026",
-      "date": 1774321205,
-      "dateStr": "24. Mär. 2026",
-      "source": "SBZ Monteur",
-      "category": "Smart Home"
     }
   ],
-  "fetched": 1775001854
+  "fetched": 1775024334
 }
