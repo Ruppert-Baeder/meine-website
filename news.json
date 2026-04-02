@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Wilo: Ge­sund­heits­zen­trum für Be­leg­schaft und Re­gi­on",
+      "excerpt": "Wilo hat in Dortmund den Health Cube eröffnet. Das Gesundheitszentrum bietet medizinische und präventive Angebote für die Belegschaft und die Region.",
+      "link": "https://www.sbz-online.de/meldungen/gesundheitsvorsorge-wilo-gesundheitszentrum-fuer-belegschaft-und-region",
+      "date": 1775091605,
+      "dateStr": "2. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "PAW bringt Produktkatalog 2026 auch in ge­druck­ter Form heraus",
+      "excerpt": "PAW bietet seinen Produkt­kata­log wieder als Print-Ver­sion an. Das Unter­neh­men rea­giert damit auf die Nach­frage aus dem Fach­hand­werk.",
+      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-paw-bringt-produktkatalog-2026-auch-gedruckter-form-heraus",
+      "date": 1775091604,
+      "dateStr": "2. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "IFH/Intherm 2026: Check­liste für den Messe­besuch",
       "excerpt": "Die IFH/Intherm 2026 bietet ein umfassendes Programm. Eine Checkliste hilft dabei, die wichtigsten Inhalte, Trends und Treffpunkte gezielt zu nutzen.",
       "link": "https://www.sbz-online.de/meldungen/14-bis-17-april-2026-messe-nuernberg-ifh-intherm-2026-checkliste-fuer-den-messebesuch",
@@ -162,25 +180,7 @@
       "dateStr": "24. Mär. 2026",
       "source": "SBZ Monteur",
       "category": "Sanitär"
-    },
-    {
-      "title": "IFH/Intherm 2026: Mes­se­rund­gang für Frau­en",
-      "excerpt": "Ein exklusiver Messerundgang richtet sich an Frauen aus der SHK-Branche. Teilnehmerinnen entdecken verschiedene Hersteller und treffen Sandra Hunke.",
-      "link": "https://www.sbz-online.de/meldungen/16-april-2026-1300-1430-uhr-nuernberg-ifh-intherm-2026-messerundgang-fuer-frauen",
-      "date": 1774321207,
-      "dateStr": "24. Mär. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
-    },
-    {
-      "title": "KG Kölsche Lübüggele trauert um Oliver Cremer",
-      "excerpt": "Trauer um Oliver Cremer: Der KG Kölsche Lübüggele e. V. gedenkt seinem plötzlich verstorbenen Gründer und Präsidenten in einem Nachruf.",
-      "link": "https://www.sbz-online.de/meldungen/nachruf-kg-koelsche-luebueggele-trauert-um-oliver-cremer",
-      "date": 1774321207,
-      "dateStr": "24. Mär. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1775087476
+  "fetched": 1775109125
 }
