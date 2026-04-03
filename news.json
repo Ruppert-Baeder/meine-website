@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Neuer BTGA-Almanach zeigt Ein­spar­poten­ziale in der TGA",
+      "excerpt": "Der neue Almanach des BTGA zeigt, wie Gebäudetechnik Energie­ein­spar­poten­ziale er­schließt.",
+      "link": "https://www.sbz-online.de/meldungen/jahrbuch-neuer-btga-almanach-zeigt-einsparpotenziale-der-tga",
+      "date": 1775178006,
+      "dateStr": "3. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Küb­ler setzt auf faire Liefer­ketten",
+      "excerpt": "Mit dem Beitritt zur Fair Wear Foun­da­tion setzt der Arbeits­klei­dungs­her­steller Kübler auf externe Kont­rolle seiner Liefer­kette.",
+      "link": "https://www.sbz-online.de/meldungen/arbeitskleidung-kuebler-setzt-auf-faire-lieferketten",
+      "date": 1775178005,
+      "dateStr": "3. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Wilo: Ge­sund­heits­zen­trum für Be­leg­schaft und Re­gi­on",
       "excerpt": "Wilo hat in Dortmund den Health Cube eröffnet. Das Gesundheitszentrum bietet medizinische und präventive Angebote für die Belegschaft und die Region.",
       "link": "https://www.sbz-online.de/meldungen/gesundheitsvorsorge-wilo-gesundheitszentrum-fuer-belegschaft-und-region",
@@ -162,25 +180,7 @@
       "dateStr": "25. Mär. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Gebäudearmaturen: Trend­wen­de nur mit po­li­ti­schem Kurs­wech­sel",
-      "excerpt": "2025 verzeichnete die Gebäudearmaturenindustrie erneut Umsatzrückgänge und erwartet auch 2026 keine Erholung. Sie fordert verlässliche politische Rahmenbedingungen.",
-      "link": "https://www.sbz-online.de/meldungen/armaturenindustrie-gebaeudearmaturen-trendwende-nur-mit-politischem-kurswechsel",
-      "date": 1774407606,
-      "dateStr": "25. Mär. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Montageanleitungen fürs SHK-Fachhandwerk",
-      "excerpt": "SHK-Hersteller unterstützen Handwerker mit Video-Montageanleitungen oder live beim Kundendienst – und sie stellen Produkte vor. Eine Auswahl.",
-      "link": "https://www.sbz-online.de/markt-trends/video-montageanleitungen-fuers-shk-fachhandwerk",
-      "date": 1774324543,
-      "dateStr": "24. Mär. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
     }
   ],
-  "fetched": 1775171135
+  "fetched": 1775195530
 }
