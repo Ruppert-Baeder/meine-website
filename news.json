@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Deumess-Kongress: Wie Daten und KI das Mess­wesen ver­än­dern",
+      "excerpt": "Im Mittelpunkt des 12. Deumess Fach­kongresses ste­hen die Trans­for­ma­tion des Mess­we­sens durch KI und neue Part­ner­schaf­ten bisher getrennter Gewerke.",
+      "link": "https://www.sbz-online.de/meldungen/05-und-06-mai-2026-wuerzburg-deumess-kongress-wie-daten-und-ki-das-messwesen-veraendern",
+      "date": 1775419204,
+      "dateStr": "5. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Neuer BTGA-Almanach zeigt Ein­spar­poten­ziale in der TGA",
       "excerpt": "Der neue Almanach des BTGA zeigt, wie Gebäudetechnik Energie­ein­spar­poten­ziale er­schließt.",
       "link": "https://www.sbz-online.de/meldungen/jahrbuch-neuer-btga-almanach-zeigt-einsparpotenziale-der-tga",
@@ -171,16 +180,7 @@
       "dateStr": "25. Mär. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Gebäudetyp E: Raum­luft­qua­li­tät er­for­dert kla­re Stan­dards",
-      "excerpt": "Der geplante Gebäudetyp E soll das Bauen vereinfachen. Verbände warnen davor, dass dies nicht zulasten der Innenraumluftqualität gehen darf und fordern verlässliche Standards.",
-      "link": "https://www.sbz-online.de/meldungen/verbaende-appell-gebaeudetyp-e-raumluftqualitaet-erfordert-klare-standards",
-      "date": 1774407607,
-      "dateStr": "25. Mär. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1775423026
+  "fetched": 1775430266
 }
