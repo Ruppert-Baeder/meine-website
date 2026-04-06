@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Gemeinsame Mehr­weg-Tausch­boxen in Öster­reich",
+      "excerpt": "Die Mitglieder des österreichischen SHK-Großhandelsverbands führten im März 2026 händlerübergreifend wiederverwendbare Tauschboxen ein.",
+      "link": "https://www.sbz-online.de/meldungen/shk-grosshandel-gemeinsame-mehrweg-tauschboxen-oesterreich",
+      "date": 1775437205,
+      "dateStr": "6. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
       "title": "Deumess-Kongress: Wie Daten und KI das Mess­wesen ver­än­dern",
       "excerpt": "Im Mittelpunkt des 12. Deumess Fach­kongresses ste­hen die Trans­for­ma­tion des Mess­we­sens durch KI und neue Part­ner­schaf­ten bisher getrennter Gewerke.",
       "link": "https://www.sbz-online.de/meldungen/05-und-06-mai-2026-wuerzburg-deumess-kongress-wie-daten-und-ki-das-messwesen-veraendern",
@@ -171,16 +180,7 @@
       "dateStr": "26. Mär. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Individuelle Folierung und Karton­mo­delle für Wärme­pumpen",
-      "excerpt": "Buderus erweitert seine Services um zwei prak­ti­sche Tools: WP-Außen­ein­heiten lassen sich folie­ren. Karton­mo­delle erleich­tern die Pla­nung am Aufstell­ort.",
-      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-individuelle-folierung-und-kartonmodelle-fuer-waermepumpen",
-      "date": 1774407609,
-      "dateStr": "25. Mär. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1775430266
+  "fetched": 1775456335
 }
