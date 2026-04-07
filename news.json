@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "BVF Award 2026: jetzt Pro­jek­te ein­rei­chen",
+      "excerpt": "Der BVF ruft zur Einreichung von Projekten für den BVF Award 2026 auf. Erstmals ist auch eine Bewerbung in der Kategorie Nachhaltigkeit möglich.",
+      "link": "https://www.sbz-online.de/meldungen/branchenpreis-bvf-award-2026-jetzt-projekte-einreichen",
+      "date": 1775523606,
+      "dateStr": "7. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Gemeinsame Mehr­weg-Tausch­boxen in Öster­reich",
       "excerpt": "Die Mitglieder des österreichischen SHK-Großhandelsverbands führten im März 2026 händlerübergreifend wiederverwendbare Tauschboxen ein.",
       "link": "https://www.sbz-online.de/meldungen/shk-grosshandel-gemeinsame-mehrweg-tauschboxen-oesterreich",
@@ -171,16 +180,7 @@
       "dateStr": "26. Mär. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Holzöfen als Resilienz­fak­tor der Wärme­ver­sor­gung",
-      "excerpt": "Eine Studie zur Rolle von Holz­öfen für die Resi­lienz der Wärme­ver­sor­gung wurde am 9. März bei einem parla­men­ta­ri­schen Kamin­abend in Berlin vor­ge­stellt.",
-      "link": "https://www.sbz-online.de/meldungen/parlamentarischer-kaminabend-holzoefen-als-resilienzfaktor-der-waermeversorgung",
-      "date": 1774494004,
-      "dateStr": "26. Mär. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1775513133
+  "fetched": 1775539804
 }
