@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Nordwest: BSFZ-Siegel für For­schungs- und Ent­wick­lungs­arbeit",
+      "excerpt": "Die Nordwest Handel AG hat für ihre Produkt­daten­platt­form Data­Connect die Aner­kennung als för­der­fä­higes For­schungs­pro­jekt er­halten.",
+      "link": "https://www.sbz-online.de/meldungen/ausgezeichnet-nordwest-bsfz-siegel-fuer-forschungs-und-entwicklungsarbeit",
+      "date": 1775592006,
+      "dateStr": "7. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Duravit und Stephan Patrick Tahy be­en­den Zu­sam­men­ar­beit",
       "excerpt": "Die Duravit AG und ihr CEO Stephan Patrick Tahy haben sich in beiderseitigem Einvernehmen darauf geeinigt, ihre Zusammenarbeit zu beenden.",
       "link": "https://www.sbz-online.de/meldungen/shk-hersteller-duravit-und-stephan-patrick-tahy-beenden-zusammenarbeit",
@@ -171,16 +180,7 @@
       "dateStr": "27. Mär. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "KI optimiert Gebäude­technik: Hott­gen­roth zeigt SmartPrior",
-      "excerpt": "Beim Besuch von Wirtschafts­mi­nis­terin Mona Neubaur im Rah­men der NRW Innovation Tour prä­sen­tier­te Hottgen­roth das KI-For­schungs­pro­jekt „SmartPrior“.",
-      "link": "https://www.sbz-online.de/meldungen/waermewende-ki-optimiert-gebaeudetechnik-hottgenroth-zeigt-smartprior",
-      "date": 1774580405,
-      "dateStr": "27. Mär. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1775592023
+  "fetched": 1775603241
 }
