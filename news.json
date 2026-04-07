@@ -2,7 +2,25 @@
   "ok": true,
   "articles": [
     {
-      "title": "BVF Award 2026: jetzt Pro­jek­te ein­rei­chen",
+      "title": "Duravit und Stephan Patrick Tahy be­en­den Zu­sam­men­ar­beit",
+      "excerpt": "Die Duravit AG und ihr CEO Stephan Patrick Tahy haben gemeinsam entschieden, die Zusammenarbeit im gegenseitigen Einvernehmen zu beenden.",
+      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-duravit-und-stephan-patrick-tahy-beenden-zusammenarbeit",
+      "date": 1775543847,
+      "dateStr": "7. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "So geben deine Azubis das Be­richts­heft pünkt­lich ab",
+      "excerpt": "In dieser Folge: Warum das gute alte Berichtsheft noch lange nicht ausgedient hat – und wie du Azubis und Mitarbeiter so abhost, dass sie Aufgaben wirklich erledigen.",
+      "link": "https://www.sbz-online.de/meldungen/sbz-podcast-so-geben-deine-azubis-das-berichtsheft-puenktlich-ab",
+      "date": 1775541622,
+      "dateStr": "7. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "BVF Award 2026: jetzt Pro­jek­te ein­rei­chen!",
       "excerpt": "Der BVF ruft zur Einreichung von Projekten für den BVF Award 2026 auf. Erstmals ist auch eine Bewerbung in der Kategorie Nachhaltigkeit möglich.",
       "link": "https://www.sbz-online.de/meldungen/branchenpreis-bvf-award-2026-jetzt-projekte-einreichen",
       "date": 1775523606,
@@ -162,25 +180,7 @@
       "dateStr": "27. Mär. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Wärmepumpen: gute Ideen für Transport, Finanzierung und Versicherung",
-      "excerpt": "Transporthilfen, War­tungs­koffer, Fertig­fun­da­ment, Effi­zienz­ga­rantie – ein­falls­rei­che Pro­dukte und Ser­vi­ces rund um die Wärme­pumpe.",
-      "link": "https://www.sbz-online.de/meldungen/waermepumpenhochlauf-waermepumpen-gute-ideen-fuer-transport-finanzierung-und-versicherung",
-      "date": 1774512023,
-      "dateStr": "26. Mär. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "IFH/Intherm: 400+ Aus­stel­ler zei­gen die Zu­kunft der SHK-Branche",
-      "excerpt": "Bei der 50. IFH/Intherm prä­sen­tie­ren über 400 Aus­stel­ler Trends, Tech­no­lo­gien und Praxis­lö­sun­gen für Sani­tär, Hei­zungs- und Gebäude­technik.",
-      "link": "https://www.sbz-online.de/meldungen/14-bis-17-april-2026-nuernberg-ifh-intherm-400-aussteller-zeigen-die-zukunft-der-shk",
-      "date": 1774494005,
-      "dateStr": "26. Mär. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1775539804
+  "fetched": 1775555529
 }
