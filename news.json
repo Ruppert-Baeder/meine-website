@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "KfW-Zuschuss für Bar­rie­re­re­du­zie­rung star­tet am 8. April",
+      "excerpt": "Die KfW bietet ab dem 8. April 2026 erneut Investitionszuschüsse für Maßnahmen zur Barrierereduzierung in Wohngebäuden an.",
+      "link": "https://www.sbz-online.de/meldungen/foerderprogramm-kfw-zuschuss-fuer-barrierereduzierung-startet-am-8-april",
+      "date": 1775610007,
+      "dateStr": "8. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Förderung"
+    },
+    {
+      "title": "Airzone gründet deutsche Toch­ter­ge­sell­schaft",
+      "excerpt": "Airzone hat in Berlin die Tochtergesellschaft Airzone Deutschland gegründet, um seine Präsenz zu stärken und die regionale Betreuung zu verbessern.",
+      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-airzone-gruendet-deutsche-tochtergesellschaft",
+      "date": 1775610006,
+      "dateStr": "8. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Nordwest: BSFZ-Siegel für For­schungs- und Ent­wick­lungs­arbeit",
       "excerpt": "Die Nordwest Handel AG hat für ihre Produkt­daten­platt­form Data­Connect die Aner­kennung als för­der­fä­higes For­schungs­pro­jekt er­halten.",
       "link": "https://www.sbz-online.de/meldungen/ausgezeichnet-nordwest-bsfz-siegel-fuer-forschungs-und-entwicklungsarbeit",
@@ -162,25 +180,7 @@
       "dateStr": "30. Mär. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "SHK im Rückspiegel 2025 – Florian Leupelt zieht Bilanz",
-      "excerpt": "In Folge #100 des SHK Podcasts wirft das SHK-Radio gemeinsam mit Florian Leupelt einen Blick zurück auf die vergangenen Monate im SHK-Markt.",
-      "link": "https://www.sbz-online.de/meldungen/shk-podcast-shk-im-rueckspiegel-2025-florian-leupelt-zieht-bilanz",
-      "date": 1774832405,
-      "dateStr": "30. Mär. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Kommunikation: Gut, Schlecht & Bes­ser – die Retro­spek­tive",
-      "excerpt": "Wie wird man eigentlich besser? Dennis und Martin bringen im Pod­cast ein be­währ­tes Werk­zeug aus der IT-Welt ins Hand­werk: die Retro­spek­tive.",
-      "link": "https://www.sbz-online.de/meldungen/sbz-podcast-kommunikation-gut-schlecht-besser-die-retrospektive",
-      "date": 1774600128,
-      "dateStr": "27. Mär. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1775603241
+  "fetched": 1775628366
 }
