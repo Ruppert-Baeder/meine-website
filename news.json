@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "IFH/Intherm 2026: Sanitär-, Haus- und Ge­bäu­de­tech­nik",
+      "excerpt": "SBZ prä­sen­tiert zur IFH/Intherm 2026 an­ge­kün­dig­te Neu­hei­ten und Prä­sen­ta­ti­ons­schwer­punk­te zur In­spi­ra­ti­on Ihrer Messe­pla­nung.",
+      "link": "https://www.sbz-online.de/meldungen/14-bis-17-april-2026-nuernberg-ifh-intherm-2026-sanitaer-haus-und-gebaeudetechnik",
+      "date": 1775624407,
+      "dateStr": "8. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
       "title": "KfW-Zuschuss für Bar­rie­re­re­du­zie­rung star­tet am 8. April",
       "excerpt": "Die KfW bietet ab dem 8. April 2026 erneut Investitionszuschüsse für Maßnahmen zur Barrierereduzierung in Wohngebäuden an.",
       "link": "https://www.sbz-online.de/meldungen/foerderprogramm-kfw-zuschuss-fuer-barrierereduzierung-startet-am-8-april",
@@ -164,15 +173,6 @@
       "category": "Heizung"
     },
     {
-      "title": "IFH/Intherm 2026: Sanitär-, Haus- und Ge­bäu­de­tech­nik",
-      "excerpt": "SBZ prä­sen­tiert zur IFH/Intherm 2026 an­ge­kün­dig­te Neu­hei­ten und Prä­sen­ta­ti­ons­schwer­punk­te zur In­spi­ra­ti­on Ihrer Messe­pla­nung.",
-      "link": "https://www.sbz-online.de/meldungen/14-bis-17-april-2026-nuernberg-ifh-intherm-2026-sanitaer-haus-und-gebaeudetechnik",
-      "date": 1774846807,
-      "dateStr": "30. Mär. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
       "title": "ÖkoFEN: GreenBOX denkt Hei­zung und Strom ge­meinsam",
       "excerpt": "ÖkoFEN erweitert sein Sorti­ment um ein Ener­gie­system für Strom und Wärme. Zent­rale Kom­po­nente ist die GreenBOX, die den Wärme­bedarf „mit­denkt“.",
       "link": "https://www.sbz-online.de/meldungen/shk-hersteller-oekofen-greenbox-denkt-heizung-und-strom-gemeinsam",
@@ -182,5 +182,5 @@
       "category": "Heizung"
     }
   ],
-  "fetched": 1775660382
+  "fetched": 1775674614
 }
