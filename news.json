@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "SHK BW fordert GMG-Klar­heit und Tech­no­lo­gie­of­fen­heit",
+      "excerpt": "Der FVSHK BW kritisiert die Verzögerungen beim GMG und fordert eine Verschiebung der 65-%-EE-Pflicht sowie einen parteiübergreifenden Energiekonsens.",
+      "link": "https://www.sbz-online.de/meldungen/gebaeudemodernisierungsgesetz-shk-bw-fordert-gmg-klarheit-und-technologieoffenheit",
+      "date": 1775722028,
+      "dateStr": "9. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Duravit AG ernennt neuen CEO",
       "excerpt": "Die Duravit AG ernennt Michael Demmer mit sofortiger Wirkung zum interimistischen CEO.",
       "link": "https://www.sbz-online.de/meldungen/personalie-duravit-ag-ernennt-neuen-ceo",
@@ -171,16 +180,7 @@
       "dateStr": "31. Mär. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Praktische Hilfs­mittel für Hand­werker",
-      "excerpt": "Leitfäden, Infoblätter und Serviceangebote – nützliche Arbeitshilfen für den SHK-Alltag. Neu mit dabei: Dusch­bro­schü­re von Bette, FGK-Wegweiser 2026, Arbeiten mit Asbest.",
-      "link": "https://www.sbz-online.de/meldungen/arbeitshilfen-praktische-hilfsmittel-fuer-handwerker",
-      "date": 1774933200,
-      "dateStr": "31. Mär. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1775714764
+  "fetched": 1775731527
 }
