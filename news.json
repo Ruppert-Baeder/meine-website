@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "Duravit AG ernennt neuen CEO",
+      "excerpt": "Die Duravit AG ernennt Michael Demmer mit sofortiger Wirkung zum interimistischen CEO.",
+      "link": "https://www.sbz-online.de/meldungen/personalie-duravit-ag-ernennt-neuen-ceo",
+      "date": 1775706328,
+      "dateStr": "9. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Berliner SHK: Frei­spre­chung und Even­tus­preis-Ju­bi­lä­um",
+      "excerpt": "In Berlin erhielten 102 neue SHK-Fachkräfte ihre Gesellenbriefe. Zugleich feierte der Eventuspreis sein 20-jähriges Bestehen.",
+      "link": "https://www.sbz-online.de/meldungen/nachwuchskraefte-berliner-shk-freisprechung-und-eventuspreis-jubilaeum",
+      "date": 1775696405,
+      "dateStr": "9. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Herocon 2026 verdoppelt Pro­gramm für Hand­werks­be­triebe",
+      "excerpt": "Die Herocon findet 2026 an 2 Tagen statt. Das Weiter­bil­dungs­event für Hand­werks­be­triebe bietet 70 Pro­gramm­punkte mit Schwer­punkt KI und Digi­ta­li­sie­rung.",
+      "link": "https://www.sbz-online.de/meldungen/12-und-13-juni-2026-dortmund-herocon-2026-verdoppelt-programm-fuer-handwerksbetriebe",
+      "date": 1775696404,
+      "dateStr": "9. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "IFH/Intherm 2026: Sanitär-, Haus- und Ge­bäu­de­tech­nik",
       "excerpt": "SBZ prä­sen­tiert zur IFH/Intherm 2026 an­ge­kün­dig­te Neu­hei­ten und Prä­sen­ta­ti­ons­schwer­punk­te zur In­spi­ra­ti­on Ihrer Messe­pla­nung.",
       "link": "https://www.sbz-online.de/meldungen/14-bis-17-april-2026-nuernberg-ifh-intherm-2026-sanitaer-haus-und-gebaeudetechnik",
@@ -153,34 +180,7 @@
       "dateStr": "31. Mär. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "SBZ ruft an – Folge 10: Groß­händ­ler Reisser zum neuen Web­auf­tritt",
-      "excerpt": "SBZ spricht mit Patrick Preiß (Marketingleiter der Reisser AG) darüber, wie ein Internetauftritt zum echten Arbeitswerkzeug für das Handwerk wird.",
-      "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-folge-10-grosshaendler-reisser-zum-neuen-webauftritt",
-      "date": 1774918806,
-      "dateStr": "31. Mär. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "BUND warnt vor Kos­ten­fal­le durch ge­plan­tes GMG",
-      "excerpt": "Neue Berechnungen im Auftrag des BUND zeigen: Das geplante GMG führt zu deutlich höheren Heizkosten, wenn weiterhin auf Gasheizungen gesetzt wird.",
-      "link": "https://www.sbz-online.de/meldungen/gebaeudemodernisierungsgesetz-bund-warnt-vor-kostenfalle-durch-geplantes-gmg",
-      "date": 1774918805,
-      "dateStr": "31. Mär. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "ÖkoFEN: GreenBOX denkt Hei­zung und Strom ge­meinsam",
-      "excerpt": "ÖkoFEN erweitert sein Sorti­ment um ein Ener­gie­system für Strom und Wärme. Zent­rale Kom­po­nente ist die GreenBOX, die den Wärme­bedarf „mit­denkt“.",
-      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-oekofen-greenbox-denkt-heizung-und-strom-gemeinsam",
-      "date": 1774836004,
-      "dateStr": "30. Mär. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1775692487
+  "fetched": 1775714764
 }
