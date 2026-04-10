@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "fischer: cloudbasierte Bemes­sungs­soft­ware für Befes­ti­gungs­tech­nik",
+      "excerpt": "Der Befestigungstechnik-Her­steller fischer stellt mit der FiXperience Online Suite die nächste Gene­ration seiner Bemes­sungs­soft­ware vor.",
+      "link": "https://www.sbz-online.de/meldungen/digitale-tools-fischer-cloudbasierte-bemessungssoftware-fuer-befestigungstechnik",
+      "date": 1775806656,
+      "dateStr": "10. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Symposium: Käl­te­tech­nik prägt „Su­per­markt der Zu­kunft“",
       "excerpt": "BIV und VDKF laden zum Supermarkt-Symposium 2026 ein. Die Veranstaltung beleuchtet aktuelle Entwicklungen und Strategien für die Kältetechnik im Lebensmittel-Einzelhandel.",
       "link": "https://www.sbz-online.de/meldungen/25-juni-2026-darmstadt-symposium-kaeltetechnik-praegt-supermarkt-der-zukunft",
@@ -171,16 +180,7 @@
       "dateStr": "1. Apr. 2026",
       "source": "SBZ Monteur",
       "category": "Branche"
-    },
-    {
-      "title": "Conel präsentiert Taschen und Becher für die Bau­stelle",
-      "excerpt": "Conel erwei­tert sein Sorti­ment um Pro­dukte für den Trans­port und die Auf­be­wah­rung von Werk­zeug sowie einen Thermo­becher.",
-      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-conel-praesentiert-taschen-und-becher-fuer-die-baustelle",
-      "date": 1775005204,
-      "dateStr": "1. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1775801954
+  "fetched": 1775817336
 }
