@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Symposium: Käl­te­tech­nik prägt „Su­per­markt der Zu­kunft“",
+      "excerpt": "BIV und VDKF laden zum Supermarkt-Symposium 2026 ein. Die Veranstaltung beleuchtet aktuelle Entwicklungen und Strategien für die Kältetechnik im Lebensmittel-Einzelhandel.",
+      "link": "https://www.sbz-online.de/meldungen/25-juni-2026-darmstadt-symposium-kaeltetechnik-praegt-supermarkt-der-zukunft",
+      "date": 1775782805,
+      "dateStr": "10. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
       "title": "SHK BW fordert GMG-Klar­heit und Tech­no­lo­gie­of­fen­heit",
       "excerpt": "Der FVSHK BW kritisiert die Verzögerungen beim GMG und fordert eine Verschiebung der 65-%-EE-Pflicht sowie einen parteiübergreifenden Energiekonsens.",
       "link": "https://www.sbz-online.de/meldungen/gebaeudemodernisierungsgesetz-shk-bw-fordert-gmg-klarheit-und-technologieoffenheit",
@@ -171,16 +180,7 @@
       "dateStr": "1. Apr. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "„Pelletheizungen sind gelebte Frei­heits­energie“",
-      "excerpt": "Der Bundesminister a. D. Jürgen Trittin hob in seiner Fest­rede beim 25. Jubi­läum des DEPV die Unab­hängig­keit von Pellet­hei­zun­gen hervor.",
-      "link": "https://www.sbz-online.de/meldungen/energiepolitik-pelletheizungen-sind-gelebte-freiheitsenergie",
-      "date": 1774952715,
-      "dateStr": "31. Mär. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1775777133
+  "fetched": 1775801954
 }
