@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Neue Dusch­bro­schü­re von Bette",
+      "excerpt": "Bette stellt eine neue Duschbroschüre vor. Sie bietet Orientierung bei der Produktauswahl und dem Einbau von Duschflächen.",
+      "link": "https://www.sbz-online.de/meldungen/arbeitshilfe-neue-duschbroschuere-von-bette",
+      "date": 1776042006,
+      "dateStr": "13. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Tooltime integriert di­rek­te DATEV-Schnitt­stel­le",
+      "excerpt": "Die Handwerkersoftware Tooltime ermöglicht Handwerksbetrieben die automatisierte Übertragung ihrer vorbereitenden Buchhaltungsdaten an DATEV.",
+      "link": "https://www.sbz-online.de/meldungen/handwerkersoftware-tooltime-integriert-direkte-datev-schnittstelle",
+      "date": 1776042006,
+      "dateStr": "13. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "fischer: cloudbasierte Bemes­sungs­soft­ware für Befes­ti­gungs­tech­nik",
       "excerpt": "Der Befestigungstechnik-Her­steller fischer stellt mit der FiXperience Online Suite die nächste Gene­ration seiner Bemes­sungs­soft­ware vor.",
       "link": "https://www.sbz-online.de/meldungen/digitale-tools-fischer-cloudbasierte-bemessungssoftware-fuer-befestigungstechnik",
@@ -162,25 +180,7 @@
       "dateStr": "2. Apr. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "PAW bringt Produktkatalog 2026 auch in ge­druck­ter Form heraus",
-      "excerpt": "PAW bietet seinen Produkt­kata­log wieder als Print-Ver­sion an. Das Unter­neh­men rea­giert damit auf die Nach­frage aus dem Fach­hand­werk.",
-      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-paw-bringt-produktkatalog-2026-auch-gedruckter-form-heraus",
-      "date": 1775091604,
-      "dateStr": "2. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "IFH/Intherm 2026: Check­liste für den Messe­besuch",
-      "excerpt": "Die IFH/Intherm 2026 bietet ein umfassendes Programm. Eine Checkliste hilft dabei, die wichtigsten Inhalte, Trends und Treffpunkte gezielt zu nutzen.",
-      "link": "https://www.sbz-online.de/meldungen/14-bis-17-april-2026-messe-nuernberg-ifh-intherm-2026-checkliste-fuer-den-messebesuch",
-      "date": 1775005205,
-      "dateStr": "1. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
     }
   ],
-  "fetched": 1776038060
+  "fetched": 1776065225
 }
