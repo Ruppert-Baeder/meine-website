@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Clage und Grüne MdB for­dern Tech­no­lo­gie­of­fen­heit",
+      "excerpt": "Clage und MdB Julia Verlinden diskutierten die Rolle dezentraler elektrischer Durchlauferhitzer im geplanten GMG und betonten die Wichtigkeit technologischer Offenheit.",
+      "link": "https://www.sbz-online.de/meldungen/gebaeudemodernisierungsgesetz-clage-und-gruene-mdb-fordern-technologieoffenheit",
+      "date": 1776128406,
+      "dateStr": "14. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Aktionstage in NRW brin­gen Kun­den und SHK-Betriebe zusammen",
+      "excerpt": "Bei den vom Land NRW initiierten Aktions­tagen „Heiz­keller der Zukunft“ kön­nen sich SHK-Betriebe prä­sen­tie­ren und ihre Leis­tun­gen anbieten.",
+      "link": "https://www.sbz-online.de/meldungen/waermewende-aktionstage-nrw-bringen-kunden-und-shk-betriebe-zusammen",
+      "date": 1776128405,
+      "dateStr": "14. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
       "title": "Neue Dusch­bro­schü­re von Bette",
       "excerpt": "Bette stellt eine neue Duschbroschüre vor. Sie bietet Orientierung bei der Produktauswahl und dem Einbau von Duschflächen.",
       "link": "https://www.sbz-online.de/meldungen/arbeitshilfe-neue-duschbroschuere-von-bette",
@@ -162,25 +180,7 @@
       "dateStr": "3. Apr. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Küb­ler setzt auf faire Liefer­ketten",
-      "excerpt": "Mit dem Beitritt zur Fair Wear Foun­da­tion setzt der Arbeits­klei­dungs­her­steller Kübler auf externe Kont­rolle seiner Liefer­kette.",
-      "link": "https://www.sbz-online.de/meldungen/arbeitskleidung-kuebler-setzt-auf-faire-lieferketten",
-      "date": 1775178005,
-      "dateStr": "3. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Wilo: Ge­sund­heits­zen­trum für Be­leg­schaft und Re­gi­on",
-      "excerpt": "Wilo hat in Dortmund den Health Cube eröffnet. Das Gesundheitszentrum bietet medizinische und präventive Angebote für die Belegschaft und die Region.",
-      "link": "https://www.sbz-online.de/meldungen/gesundheitsvorsorge-wilo-gesundheitszentrum-fuer-belegschaft-und-region",
-      "date": 1775091605,
-      "dateStr": "2. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1776122984
+  "fetched": 1776147604
 }
