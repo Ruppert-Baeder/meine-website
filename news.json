@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "Dallmer: Se­mi­nar­pro­gramm Ent­wäs­se­rungs­tech­nik 2026",
+      "excerpt": "Mit den „Dallmer Sessions“ bietet der Hersteller Weiterbildungen für Installateure, Planer und Architekten als Präsenz-, Online- und Videoformate an.",
+      "link": "https://www.sbz-online.de/meldungen/weiterbildung-dallmer-seminarprogramm-entwaesserungstechnik-2026",
+      "date": 1776214806,
+      "dateStr": "15. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Label Software: Kunden buchen Hand­werker-Termine selbst online",
+      "excerpt": "Label Software erweitert seine Bran­chen­soft­ware Label­win um ein Modul zur Online-Termin­bu­chung für End­kunden.",
+      "link": "https://www.sbz-online.de/meldungen/digitale-tools-label-software-kunden-buchen-handwerker-termine-selbst-online",
+      "date": 1776214805,
+      "dateStr": "15. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Personelle Veränderungen in der SHK-Branche",
+      "excerpt": "Die ait-group hat seit dem 1. April einen neuen CEO, bei SHK Deutsch­land wurde die Posi­tion des Commercial Directors geschaffen und besetzt.",
+      "link": "https://www.sbz-online.de/meldungen/personalien-personelle-veraenderungen-der-shk-branche-24",
+      "date": 1776214805,
+      "dateStr": "15. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Clage und Grüne MdB for­dern Tech­no­lo­gie­of­fen­heit",
       "excerpt": "Clage und MdB Julia Verlinden diskutierten die Rolle dezentraler elektrischer Durchlauferhitzer im geplanten GMG und betonten die Wichtigkeit technologischer Offenheit.",
       "link": "https://www.sbz-online.de/meldungen/gebaeudemodernisierungsgesetz-clage-und-gruene-mdb-fordern-technologieoffenheit",
@@ -153,34 +180,7 @@
       "dateStr": "7. Apr. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Gemeinsame Mehr­weg-Tausch­boxen in Öster­reich",
-      "excerpt": "Die Mitglieder des österreichischen SHK-Großhandelsverbands führten im März 2026 händlerübergreifend wiederverwendbare Tauschboxen ein.",
-      "link": "https://www.sbz-online.de/meldungen/shk-grosshandel-gemeinsame-mehrweg-tauschboxen-oesterreich",
-      "date": 1775437205,
-      "dateStr": "6. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
-    },
-    {
-      "title": "Deumess-Kongress: Wie Daten und KI das Mess­wesen ver­än­dern",
-      "excerpt": "Im Mittelpunkt des 12. Deumess Fach­kongresses ste­hen die Trans­for­ma­tion des Mess­we­sens durch KI und neue Part­ner­schaf­ten bisher getrennter Gewerke.",
-      "link": "https://www.sbz-online.de/meldungen/05-und-06-mai-2026-wuerzburg-deumess-kongress-wie-daten-und-ki-das-messwesen-veraendern",
-      "date": 1775419204,
-      "dateStr": "5. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Neuer BTGA-Almanach zeigt Ein­spar­poten­ziale in der TGA",
-      "excerpt": "Der neue Almanach des BTGA zeigt, wie Gebäudetechnik Energie­ein­spar­poten­ziale er­schließt.",
-      "link": "https://www.sbz-online.de/meldungen/jahrbuch-neuer-btga-almanach-zeigt-einsparpotenziale-der-tga",
-      "date": 1775178006,
-      "dateStr": "3. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1776205943
+  "fetched": 1776233582
 }
