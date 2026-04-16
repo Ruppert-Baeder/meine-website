@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Michael Hilpert: Schein-Entlastung auf Kosten des Handwerks",
+      "excerpt": "ZVSHK-Präsident Michael Hilpert kri­ti­siert die Energie-Ent­las­tung: Die geplante Prämie verla­gert Kos­ten auf ohne­hin belas­tete Betriebe.",
+      "link": "https://www.sbz-online.de/meldungen/statement-michael-hilpert-schein-entlastung-auf-kosten-des-handwerks",
+      "date": 1776324608,
+      "dateStr": "16. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
       "title": "Pietsch Gruppe richtet sich strate­gisch neu aus",
       "excerpt": "Pietsch stellt sich neu auf: Die Unter­neh­mens­gruppe aus Ahaus agiert künf­tig unab­hängig von der HBG – bleibt aber größ­tes Mit­glied im GSH.",
       "link": "https://www.sbz-online.de/meldungen/grosshandel-pietsch-gruppe-richtet-sich-strategisch-neu-aus",
@@ -171,16 +180,7 @@
       "dateStr": "7. Apr. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "So geben deine Azubis das Be­richts­heft pünkt­lich ab",
-      "excerpt": "In dieser Folge: Warum das gute alte Berichtsheft noch lange nicht ausgedient hat – und wie du Azubis und Mitarbeiter so abholst, dass sie Aufgaben wirklich erledigen.",
-      "link": "https://www.sbz-online.de/meldungen/sbz-podcast-so-geben-deine-azubis-das-berichtsheft-puenktlich-ab",
-      "date": 1775541622,
-      "dateStr": "7. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1776323418
+  "fetched": 1776339612
 }
