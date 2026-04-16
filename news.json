@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Pietsch Gruppe richtet sich strate­gisch neu aus",
+      "excerpt": "Pietsch stellt sich neu auf: Die Unter­neh­mens­gruppe aus Ahaus agiert künf­tig unab­hängig von der HBG – bleibt aber größ­tes Mit­glied im GSH.",
+      "link": "https://www.sbz-online.de/meldungen/grosshandel-pietsch-gruppe-richtet-sich-strategisch-neu-aus",
+      "date": 1776301206,
+      "dateStr": "16. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Dallmer: Se­mi­nar­pro­gramm Ent­wäs­se­rungs­tech­nik 2026",
       "excerpt": "Mit den „Dallmer Sessions“ bietet der Hersteller Weiterbildungen für Installateure, Planer und Architekten als Präsenz-, Online- und Videoformate an.",
       "link": "https://www.sbz-online.de/meldungen/weiterbildung-dallmer-seminarprogramm-entwaesserungstechnik-2026",
@@ -171,16 +180,7 @@
       "dateStr": "7. Apr. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "BVF Award 2026: jetzt Pro­jek­te ein­rei­chen!",
-      "excerpt": "Der BVF ruft zur Einreichung von Projekten für den BVF Award 2026 auf. Erstmals ist auch eine Bewerbung in der Kategorie Nachhaltigkeit möglich.",
-      "link": "https://www.sbz-online.de/meldungen/branchenpreis-bvf-award-2026-jetzt-projekte-einreichen",
-      "date": 1775523606,
-      "dateStr": "7. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1776297995
+  "fetched": 1776323418
 }
