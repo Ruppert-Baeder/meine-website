@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "Innung Berlin wirbt in Ägypten SHK-Nach­wuchs an",
+      "excerpt": "Vertreter der Berliner SHK-Innung waren Anfang April in Kairo, um Bewerber für die duale Aus­bil­dung aus­zu­wählen.",
+      "link": "https://www.sbz-online.de/meldungen/fachkraeftepartnerschaft-innung-berlin-wirbt-aegypten-shk-nachwuchs",
+      "date": 1776387607,
+      "dateStr": "17. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
+      "title": "Kritik am GMG: „Wir verlieren Jahre“",
+      "excerpt": "Stadtwerke und Energieversorger war­nen vor einem fossi­len Lock-in durch das geplante Gebäu­de­mo­der­ni­sie­rungs­gesetz.",
+      "link": "https://www.sbz-online.de/meldungen/energiepolitik-kritik-am-gmg-wir-verlieren-jahre",
+      "date": 1776387607,
+      "dateStr": "17. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Contracting-Kongress: Energie­wende trotz finan­zieller Eng­pässe",
+      "excerpt": "Beim Contracting-Kongress in Stutt­gart zeigen u. a. aktu­elle Praxis­bei­spiele, wie Kom­mu­nen Pro­jekte trotz leerer Kassen um­setzen.",
+      "link": "https://www.sbz-online.de/meldungen/20052026-10-bis-17-uhr-stuttgart-contracting-kongress-energiewende-trotz-finanzieller",
+      "date": 1776387605,
+      "dateStr": "17. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Michael Hilpert: Schein-Entlastung auf Kosten des Handwerks",
       "excerpt": "ZVSHK-Präsident Michael Hilpert kri­ti­siert die Energie-Ent­las­tung: Die geplante Prämie verla­gert Kos­ten auf ohne­hin belas­tete Betriebe.",
       "link": "https://www.sbz-online.de/meldungen/statement-michael-hilpert-schein-entlastung-auf-kosten-des-handwerks",
@@ -153,34 +180,7 @@
       "dateStr": "8. Apr. 2026",
       "source": "SBZ Monteur",
       "category": "Förderung"
-    },
-    {
-      "title": "Airzone gründet deutsche Toch­ter­ge­sell­schaft",
-      "excerpt": "Airzone hat in Berlin die Tochtergesellschaft Airzone Deutschland gegründet, um seine Präsenz zu stärken und die regionale Betreuung zu verbessern.",
-      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-airzone-gruendet-deutsche-tochtergesellschaft",
-      "date": 1775610006,
-      "dateStr": "8. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Nordwest: BSFZ-Siegel für For­schungs- und Ent­wick­lungs­arbeit",
-      "excerpt": "Die Nordwest Handel AG hat für ihre Produkt­daten­platt­form Data­Connect die Aner­kennung als för­der­fä­higes For­schungs­pro­jekt er­halten.",
-      "link": "https://www.sbz-online.de/meldungen/ausgezeichnet-nordwest-bsfz-siegel-fuer-forschungs-und-entwicklungsarbeit",
-      "date": 1775592006,
-      "dateStr": "7. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Duravit und Stephan Patrick Tahy be­en­den Zu­sam­men­ar­beit",
-      "excerpt": "Die Duravit AG und ihr CEO Stephan Patrick Tahy haben sich in beiderseitigem Einvernehmen darauf geeinigt, ihre Zusammenarbeit zu beenden.",
-      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-duravit-und-stephan-patrick-tahy-beenden-zusammenarbeit",
-      "date": 1775543847,
-      "dateStr": "7. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1776381938
+  "fetched": 1776407030
 }
