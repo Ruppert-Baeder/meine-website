@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "IFH/Intherm 2026: Ju­bi­lä­ums­jahr ver­zeich­net Zu­wäch­se",
+      "excerpt": "Die IFH/Intherm in Nürnberg verzeichnete in ihrem 50. Jubiläumsjahr Zuwächse bei Besuchern und Ausstellern.",
+      "link": "https://www.sbz-online.de/meldungen/messen-ifh-intherm-2026-jubilaeumsjahr-verzeichnet-zuwaechse",
+      "date": 1776658691,
+      "dateStr": "20. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "RAL Güte­ge­mein­schaft mo­der­ni­siert Qua­li­täts­si­che­rung",
+      "excerpt": "Nach 20 Jahren hat die RAL Gütegemeinschaft Rohrbefestigung ihre Gütesicherung grundlegend überarbeitet. Ziel ist mehr Transparenz und Planungssicherheit.",
+      "link": "https://www.sbz-online.de/meldungen/rohrbefestigung-ral-guetegemeinschaft-modernisiert-qualitaetssicherung",
+      "date": 1776646807,
+      "dateStr": "20. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Carrier Climate Solutions Europe tritt „Made for Germany“ bei",
+      "excerpt": "Carrier Climate Solutions Europe tritt der Initiative „Made for Germany“ bei und bekundet damit sein Engagement für den Wirtschaftsstandort Deutschland.",
+      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-carrier-climate-solutions-europe-tritt-made-germany-bei",
+      "date": 1776646806,
+      "dateStr": "20. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Innung Berlin wirbt in Ägypten SHK-Nach­wuchs an",
       "excerpt": "Vertreter der Berliner SHK-Innung waren Anfang April in Kairo, um Bewerber für die duale Aus­bil­dung aus­zu­wählen.",
       "link": "https://www.sbz-online.de/meldungen/fachkraeftepartnerschaft-innung-berlin-wirbt-aegypten-shk-nachwuchs",
@@ -153,34 +180,7 @@
       "dateStr": "9. Apr. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Herocon 2026 verdoppelt Pro­gramm für Hand­werks­be­triebe",
-      "excerpt": "Die Herocon findet 2026 an 2 Tagen statt. Das Weiter­bil­dungs­event für Hand­werks­be­triebe bietet 70 Pro­gramm­punkte mit Schwer­punkt KI und Digi­ta­li­sie­rung.",
-      "link": "https://www.sbz-online.de/meldungen/12-und-13-juni-2026-dortmund-herocon-2026-verdoppelt-programm-fuer-handwerksbetriebe",
-      "date": 1775696404,
-      "dateStr": "9. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "IFH/Intherm 2026: Sanitär-, Haus- und Ge­bäu­de­tech­nik",
-      "excerpt": "SBZ prä­sen­tiert zur IFH/Intherm 2026 an­ge­kün­dig­te Neu­hei­ten und Prä­sen­ta­ti­ons­schwer­punk­te zur In­spi­ra­ti­on Ihrer Messe­pla­nung.",
-      "link": "https://www.sbz-online.de/meldungen/14-bis-17-april-2026-nuernberg-ifh-intherm-2026-sanitaer-haus-und-gebaeudetechnik",
-      "date": 1775624407,
-      "dateStr": "8. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
-      "title": "KfW-Zuschuss für Bar­rie­re­re­du­zie­rung star­tet am 8. April",
-      "excerpt": "Die KfW bietet ab dem 8. April 2026 erneut Investitionszuschüsse für Maßnahmen zur Barrierereduzierung in Wohngebäuden an.",
-      "link": "https://www.sbz-online.de/meldungen/foerderprogramm-kfw-zuschuss-fuer-barrierereduzierung-startet-am-8-april",
-      "date": 1775610007,
-      "dateStr": "8. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Förderung"
     }
   ],
-  "fetched": 1776642927
+  "fetched": 1776670104
 }
