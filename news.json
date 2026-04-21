@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Webinar für Lehr­kräf­te zur CAD-In­te­gra­ti­on im Un­ter­richt",
+      "excerpt": "Ein kostenfreies Webinar am 30. April zeigt Lehrkräften aus Handwerk und Gestaltung, wie CAD-Software effektiv im Unterricht eingesetzt werden kann.",
+      "link": "https://www.sbz-online.de/meldungen/30-april-11-uhr-online-webinar-fuer-lehrkraefte-zur-cad-integration-im-unterricht",
+      "date": 1776733207,
+      "dateStr": "21. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
+      "title": "tecalor: digitale Tools für Wär­me­pum­pen-Pro­jek­te",
+      "excerpt": "tecalor investiert in digitale Lösungen, um die Planung und Installation von Wärmepumpen für SHK-Betriebe effizienter zu gestalten.",
+      "link": "https://www.sbz-online.de/meldungen/digitalisierung-tecalor-digitale-tools-fuer-waermepumpen-projekte",
+      "date": 1776733205,
+      "dateStr": "21. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "IFH/Intherm 2026: Ju­bi­lä­ums­jahr ver­zeich­net Zu­wäch­se",
       "excerpt": "Die IFH/Intherm in Nürnberg verzeichnete in ihrem 50. Jubiläumsjahr Zuwächse bei Besuchern und Ausstellern.",
       "link": "https://www.sbz-online.de/meldungen/messen-ifh-intherm-2026-jubilaeumsjahr-verzeichnet-zuwaechse",
@@ -162,25 +180,7 @@
       "dateStr": "9. Apr. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Duravit AG ernennt neuen CEO",
-      "excerpt": "Die Duravit AG ernennt Michael Demmer mit sofortiger Wirkung zum interimistischen CEO.",
-      "link": "https://www.sbz-online.de/meldungen/personalie-duravit-ag-ernennt-neuen-ceo",
-      "date": 1775706328,
-      "dateStr": "9. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Berliner SHK: Frei­spre­chung und Even­tus­preis-Ju­bi­lä­um",
-      "excerpt": "In Berlin erhielten 102 neue SHK-Fachkräfte ihre Gesellenbriefe. Zugleich feierte der Eventuspreis sein 20-jähriges Bestehen.",
-      "link": "https://www.sbz-online.de/meldungen/nachwuchskraefte-berliner-shk-freisprechung-und-eventuspreis-jubilaeum",
-      "date": 1775696405,
-      "dateStr": "9. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1776727706
+  "fetched": 1776752625
 }
