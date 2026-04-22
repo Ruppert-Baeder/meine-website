@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "Resus Consult holt Leih­becher für SHK und TGA ins Partner­team",
+      "excerpt": "Heiko Leihbecher wird Partner bei Resus Consult. Er über­nimmt die Ver­ant­wor­tung für die Beset­zung von Posi­tio­nen in SHK und TGA.",
+      "link": "https://www.sbz-online.de/meldungen/nachwuchskraefte-resus-consult-holt-leihbecher-fuer-shk-und-tga-ins-partnerteam",
+      "date": 1776819607,
+      "dateStr": "22. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Personelle Veränderungen in der SHK-Branche",
+      "excerpt": "Interimistischer CEO bei Duravit, Führungswechsel bei Isoplus und Armstrong Fluid Technology, sowie neue Leitungsfunktion bei Condair und Schell.",
+      "link": "https://www.sbz-online.de/meldungen/personalien-personelle-veraenderungen-der-shk-branche-25",
+      "date": 1776819606,
+      "dateStr": "22. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "10-Punkte-Schulung für Fach­hand­wer­ker",
+      "excerpt": "Stiebel Eltron bietet eine kostenlose Online-Schulung an, die die 10 häufigsten Fehler bei Planung, Installation und Betrieb von Wärmepumpen beleuchtet.",
+      "link": "https://www.sbz-online.de/meldungen/waermepumpe-10-punkte-schulung-fuer-fachhandwerker",
+      "date": 1776819605,
+      "dateStr": "22. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Webinar für Lehr­kräf­te zur CAD-In­te­gra­ti­on im Un­ter­richt",
       "excerpt": "Ein kostenfreies Webinar am 30. April zeigt Lehrkräften aus Handwerk und Gestaltung, wie CAD-Software effektiv im Unterricht eingesetzt werden kann.",
       "link": "https://www.sbz-online.de/meldungen/30-april-11-uhr-online-webinar-fuer-lehrkraefte-zur-cad-integration-im-unterricht",
@@ -153,34 +180,7 @@
       "dateStr": "13. Apr. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "fischer: cloudbasierte Bemes­sungs­soft­ware für Befes­ti­gungs­tech­nik",
-      "excerpt": "Der Befestigungstechnik-Her­steller fischer stellt mit der FiXperience Online Suite die nächste Gene­ration seiner Bemes­sungs­soft­ware vor.",
-      "link": "https://www.sbz-online.de/meldungen/digitale-tools-fischer-cloudbasierte-bemessungssoftware-fuer-befestigungstechnik",
-      "date": 1775806656,
-      "dateStr": "10. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Symposium: Käl­te­tech­nik prägt „Su­per­markt der Zu­kunft“",
-      "excerpt": "BIV und VDKF laden zum Supermarkt-Symposium 2026 ein. Die Veranstaltung beleuchtet aktuelle Entwicklungen und Strategien für die Kältetechnik im Lebensmittel-Einzelhandel.",
-      "link": "https://www.sbz-online.de/meldungen/25-juni-2026-darmstadt-symposium-kaeltetechnik-praegt-supermarkt-der-zukunft",
-      "date": 1775782805,
-      "dateStr": "10. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
-    },
-    {
-      "title": "SHK BW fordert GMG-Klar­heit und Tech­no­lo­gie­of­fen­heit",
-      "excerpt": "Der FVSHK BW kritisiert die Verzögerungen beim GMG und fordert eine Verschiebung der 65-%-EE-Pflicht sowie einen parteiübergreifenden Energiekonsens.",
-      "link": "https://www.sbz-online.de/meldungen/gebaeudemodernisierungsgesetz-shk-bw-fordert-gmg-klarheit-und-technologieoffenheit",
-      "date": 1775722028,
-      "dateStr": "9. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1776810322
+  "fetched": 1776838408
 }
