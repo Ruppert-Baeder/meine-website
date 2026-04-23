@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "ZVSHK: SHK-Hand­werk ver­liert an Dy­na­mik",
+      "excerpt": "Eine aktuelle ZVSHK-Umfrage zeigt eine Eintrübung der Lage im SHK-Handwerk: Aufträge gehen zurück, Erwartungen sind pessimistisch.",
+      "link": "https://www.sbz-online.de/meldungen/shk-konjunktur-zvshk-shk-handwerk-verliert-dynamik",
+      "date": 1776906008,
+      "dateStr": "23. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
+      "title": "70 % der Kunden erwarten digi­tale Hei­zungs­services",
+      "excerpt": "Ohne digi­tale Services geht´s im SHK-Hand­werk nicht: Rund 70 % der Ver­brau­cher for­dern laut Studie App-Steue­rung und Fern­über­wa­chung der Wärme­pumpe.",
+      "link": "https://www.sbz-online.de/meldungen/marktdaten-70-der-kunden-erwarten-digitale-heizungsservices",
+      "date": 1776906006,
+      "dateStr": "23. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Neues RAL-Gü­te­zei­chen für „Climate Premium Pellets“",
+      "excerpt": "Ein neues RAL-Gütezeichen kennzeichnet Holzpellets, die besonders nachhaltig und regional produziert werden und hohe Qualitätsstandards erfüllen.",
+      "link": "https://www.sbz-online.de/meldungen/holzpellets-neues-ral-guetezeichen-fuer-climate-premium-pellets",
+      "date": 1776906006,
+      "dateStr": "23. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Resus Consult holt Leih­becher für SHK und TGA ins Partner­team",
       "excerpt": "Heiko Leihbecher wird Partner bei Resus Consult. Er über­nimmt die Ver­ant­wor­tung für die Beset­zung von Posi­tio­nen in SHK und TGA.",
       "link": "https://www.sbz-online.de/meldungen/nachwuchskraefte-resus-consult-holt-leihbecher-fuer-shk-und-tga-ins-partnerteam",
@@ -153,34 +180,7 @@
       "dateStr": "14. Apr. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Aktionstage in NRW brin­gen Kun­den und SHK-Betriebe zusammen",
-      "excerpt": "Bei den vom Land NRW initiierten Aktions­tagen „Heiz­keller der Zukunft“ kön­nen sich SHK-Betriebe prä­sen­tie­ren und ihre Leis­tun­gen anbieten.",
-      "link": "https://www.sbz-online.de/meldungen/waermewende-aktionstage-nrw-bringen-kunden-und-shk-betriebe-zusammen",
-      "date": 1776128405,
-      "dateStr": "14. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
-    },
-    {
-      "title": "Neue Dusch­bro­schü­re von Bette",
-      "excerpt": "Bette stellt eine neue Duschbroschüre vor. Sie bietet Orientierung bei der Produktauswahl und dem Einbau von Duschflächen.",
-      "link": "https://www.sbz-online.de/meldungen/arbeitshilfe-neue-duschbroschuere-von-bette",
-      "date": 1776042006,
-      "dateStr": "13. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Tooltime integriert di­rek­te DATEV-Schnitt­stel­le",
-      "excerpt": "Die Handwerkersoftware Tooltime ermöglicht Handwerksbetrieben die automatisierte Übertragung ihrer vorbereitenden Buchhaltungsdaten an DATEV.",
-      "link": "https://www.sbz-online.de/meldungen/handwerkersoftware-tooltime-integriert-direkte-datev-schnittstelle",
-      "date": 1776042006,
-      "dateStr": "13. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1776897227
+  "fetched": 1776925208
 }
