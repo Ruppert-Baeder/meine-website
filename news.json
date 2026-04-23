@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "STELP-Projekt: Sanitär­anlagen für 40 Familien",
+      "excerpt": "Eine saubere Sanitär­ver­sorgung ist in vielen Teilen der Welt noch immer keine Selbst­ver­ständ­lich­keit. STELP hilft vor Ort mit Maß­nah­men, die Leben ver­än­dern.",
+      "link": "https://www.sbz-online.de/meldungen/sanitaerversorgung-indien-stelp-projekt-sanitaeranlagen-fuer-40-familien",
+      "date": 1776942236,
+      "dateStr": "23. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
       "title": "Bosch warnt vor Koh­len­mon­oxid-Ge­fahr bei Therm 4300",
       "excerpt": "Bosch Home Comfort warnt vor einer möglichen Kohlenmonoxidvergiftung bei bestimmten Gas-Durchlauferhitzern der Produktfamilie Therm 4300.",
       "link": "https://www.sbz-online.de/meldungen/produktsicherheit-bosch-warnt-vor-kohlenmonoxid-gefahr-bei-therm-4300",
@@ -171,16 +180,7 @@
       "dateStr": "15. Apr. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Personelle Veränderungen in der SHK-Branche",
-      "excerpt": "Die ait-group hat seit dem 1. April einen neuen CEO, bei SHK Deutsch­land wurde die Posi­tion des Commercial Directors geschaffen und besetzt.",
-      "link": "https://www.sbz-online.de/meldungen/personalien-personelle-veraenderungen-der-shk-branche-24",
-      "date": 1776214805,
-      "dateStr": "15. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1776941880
+  "fetched": 1776963312
 }
