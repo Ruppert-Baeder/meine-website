@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Bosch warnt vor Koh­len­mon­oxid-Ge­fahr bei Therm 4300",
+      "excerpt": "Bosch Home Comfort warnt vor einer möglichen Kohlenmonoxidvergiftung bei bestimmten Gas-Durchlauferhitzern der Produktfamilie Therm 4300.",
+      "link": "https://www.sbz-online.de/meldungen/produktsicherheit-bosch-warnt-vor-kohlenmonoxid-gefahr-bei-therm-4300",
+      "date": 1776919525,
+      "dateStr": "23. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "ZVSHK: SHK-Hand­werk ver­liert an Dy­na­mik",
       "excerpt": "Eine aktuelle ZVSHK-Umfrage zeigt eine Eintrübung der Lage im SHK-Handwerk: Aufträge gehen zurück, Erwartungen sind pessimistisch.",
       "link": "https://www.sbz-online.de/meldungen/shk-konjunktur-zvshk-shk-handwerk-verliert-dynamik",
@@ -171,16 +180,7 @@
       "dateStr": "15. Apr. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Clage und Grüne MdB for­dern Tech­no­lo­gie­of­fen­heit",
-      "excerpt": "Clage und MdB Julia Verlinden diskutierten die Rolle dezentraler elektrischer Durchlauferhitzer im geplanten GMG und betonten die Wichtigkeit technologischer Offenheit.",
-      "link": "https://www.sbz-online.de/meldungen/gebaeudemodernisierungsgesetz-clage-und-gruene-mdb-fordern-technologieoffenheit",
-      "date": 1776128406,
-      "dateStr": "14. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1776925208
+  "fetched": 1776941880
 }
