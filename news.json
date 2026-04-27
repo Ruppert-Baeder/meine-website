@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "Mobiler Kaffee­ge­nuss für die Bau­stel­le",
+      "excerpt": "Bosch erweitert sein „18V Power for All System“ um die EasyMoka 18V-2 Inox, einen akkubetriebenen Espressokocher für mobilen Kaffeegenuss auf der Baustelle.",
+      "link": "https://www.sbz-online.de/meldungen/akkutechnologie-mobiler-kaffeegenuss-fuer-die-baustelle",
+      "date": 1777271174,
+      "dateStr": "27. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
+      "title": "Kälte-Klima-Studium zieht nach Frankenberg um",
+      "excerpt": "Der bundesweit einzige duale Studiengang für Kälte- und Klimatechnik wird ab Wintersemester 26/27 am neuen StudiumPlus-Campus in Frankenberg angeboten.",
+      "link": "https://www.sbz-online.de/meldungen/duale-ausbildung-kaelte-klima-studium-zieht-nach-frankenberg-um",
+      "date": 1777251606,
+      "dateStr": "27. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "HEA schlägt pra­xis­taug­li­che Um­set­zung der EU-An­for­de­run­gen vor",
+      "excerpt": "Die EPBD formuliert erstmals Anforderungen an die Innenraumluftqualität. Ein HEA-Kurzgutachten zeigt, wie diese für Wohngebäude praktikabel umgesetzt werden können.",
+      "link": "https://www.sbz-online.de/meldungen/innenraumluftqualitaet-hea-schlaegt-praxistaugliche-umsetzung-der-eu-anforderungen-vor",
+      "date": 1777251606,
+      "dateStr": "27. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Förderung"
+    },
+    {
       "title": "Webinarreihe zur Sa­nie­rung von Mehr­fa­mi­li­en­häu­sern",
       "excerpt": "Wolf bietet eine neue Webinarreihe an, die sich auf die energetische Sanierung von Mehrfamilienhäusern konzentriert. Auftakt ist ein Expertentalk am 29. April 2026.",
       "link": "https://www.sbz-online.de/meldungen/weiterbildung-webinarreihe-zur-sanierung-von-mehrfamilienhaeusern",
@@ -153,34 +180,7 @@
       "dateStr": "17. Apr. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Contracting-Kongress: Energie­wende trotz finan­zieller Eng­pässe",
-      "excerpt": "Beim Contracting-Kongress in Stutt­gart zeigen u. a. aktu­elle Praxis­bei­spiele, wie Kom­mu­nen Pro­jekte trotz leerer Kassen um­setzen.",
-      "link": "https://www.sbz-online.de/meldungen/20052026-10-bis-17-uhr-stuttgart-contracting-kongress-energiewende-trotz-finanzieller",
-      "date": 1776387605,
-      "dateStr": "17. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Michael Hilpert: Schein-Entlastung auf Kosten des Handwerks",
-      "excerpt": "ZVSHK-Präsident Michael Hilpert kri­ti­siert die Energie-Ent­las­tung: Die geplante Prämie verla­gert Kos­ten auf ohne­hin belas­tete Betriebe.",
-      "link": "https://www.sbz-online.de/meldungen/statement-michael-hilpert-schein-entlastung-auf-kosten-des-handwerks",
-      "date": 1776324608,
-      "dateStr": "16. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
-    },
-    {
-      "title": "Pietsch Gruppe richtet sich strate­gisch neu aus",
-      "excerpt": "Pietsch stellt sich neu auf: Die Unter­neh­mens­gruppe aus Ahaus agiert künf­tig unab­hängig von der HBG – bleibt aber größ­tes Mit­glied im GSH.",
-      "link": "https://www.sbz-online.de/meldungen/grosshandel-pietsch-gruppe-richtet-sich-strategisch-neu-aus",
-      "date": 1776301206,
-      "dateStr": "16. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1777248069
+  "fetched": 1777282278
 }
