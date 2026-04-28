@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "Kludi: Wech­sel an der Un­ter­neh­mens­spit­ze",
+      "excerpt": "Harald Hotop verlässt Kludi Ende Juni 2026. Neuer Geschäftsführer wird Markus Brixius von der RAK Ceramics Group.",
+      "link": "https://www.sbz-online.de/meldungen/personalie-kludi-wechsel-der-unternehmensspitze",
+      "date": 1777338008,
+      "dateStr": "28. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Schell: 800 Mio. Eck­ven­ti­le welt­weit in­stal­liert",
+      "excerpt": "Der Armaturenhersteller Schell hat 800 Mio. Eckventile weltweit installiert. Das Unternehmen produziert seit 1932 am Standort Olpe.",
+      "link": "https://www.sbz-online.de/meldungen/sanitaertechnik-schell-800-mio-eckventile-weltweit-installiert",
+      "date": 1777338007,
+      "dateStr": "28. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Rems führt Online-Suchsystem für Press­werk­zeu­ge ein",
+      "excerpt": "Das neue Tool „PressFinder“ von Rems soll die Suche nach passenden Presszangen für Pressfitting-Systeme vereinfachen und beschleunigen.",
+      "link": "https://www.sbz-online.de/meldungen/digitale-tools-rems-fuehrt-online-suchsystem-fuer-presswerkzeuge-ein",
+      "date": 1777338006,
+      "dateStr": "28. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Mobiler Kaffee­ge­nuss für die Bau­stel­le",
       "excerpt": "Bosch erweitert sein „18V Power for All System“ um die EasyMoka 18V-2 Inox, einen akkubetriebenen Espressokocher für mobilen Kaffeegenuss auf der Baustelle.",
       "link": "https://www.sbz-online.de/meldungen/akkutechnologie-mobiler-kaffeegenuss-fuer-die-baustelle",
@@ -153,34 +180,7 @@
       "dateStr": "20. Apr. 2026",
       "source": "SBZ Monteur",
       "category": "Sanitär"
-    },
-    {
-      "title": "Carrier Climate Solutions Europe tritt „Made for Germany“ bei",
-      "excerpt": "Carrier Climate Solutions Europe tritt der Initiative „Made for Germany“ bei und bekundet damit sein Engagement für den Wirtschaftsstandort Deutschland.",
-      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-carrier-climate-solutions-europe-tritt-made-germany-bei",
-      "date": 1776646806,
-      "dateStr": "20. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Innung Berlin wirbt in Ägypten SHK-Nach­wuchs an",
-      "excerpt": "Vertreter der Berliner SHK-Innung waren Anfang April in Kairo, um Bewerber für die duale Aus­bil­dung aus­zu­wählen.",
-      "link": "https://www.sbz-online.de/meldungen/fachkraeftepartnerschaft-innung-berlin-wirbt-aegypten-shk-nachwuchs",
-      "date": 1776387607,
-      "dateStr": "17. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
-    },
-    {
-      "title": "Kritik am GMG: „Wir verlieren Jahre“",
-      "excerpt": "Stadtwerke und Energieversorger war­nen vor einem fossi­len Lock-in durch das geplante Gebäu­de­mo­der­ni­sie­rungs­gesetz.",
-      "link": "https://www.sbz-online.de/meldungen/energiepolitik-kritik-am-gmg-wir-verlieren-jahre",
-      "date": 1776387607,
-      "dateStr": "17. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1777344774
+  "fetched": 1777356428
 }
