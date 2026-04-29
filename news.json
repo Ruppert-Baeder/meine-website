@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Pelletheizungen: zu­frie­de­ne Nut­zer, un­ter­schätz­ter Bei­trag",
+      "excerpt": "Eine Umfrage zeigt: Besitzer von Pelletheizungen sind zufrieden mit ihrer Wahl. Gleichzeitig wird der Beitrag von Holzenergie zur Wärmewende in der Öffentlichkeit unterschätzt.",
+      "link": "https://www.sbz-online.de/meldungen/waermewende-pelletheizungen-zufriedene-nutzer-unterschaetzter-beitrag",
+      "date": 1777424406,
+      "dateStr": "29. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "10 Jahre Teclit – Rockwool-System für Käl­te­däm­mung",
+      "excerpt": "Das Teclit-System von Rockwool erreicht sein 10-jähriges Bestehen. Es hat sich als Lösung für die Kältedämmung in der Haustechnik bewährt und schützt nachweislich vor Tauwasser.",
+      "link": "https://www.sbz-online.de/meldungen/kaeltedaemmung-10-jahre-teclit-rockwool-system-fuer-kaeltedaemmung",
+      "date": 1777424406,
+      "dateStr": "29. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Kludi: Wech­sel an der Un­ter­neh­mens­spit­ze",
       "excerpt": "Harald Hotop verlässt Kludi Ende Juni 2026. Neuer Geschäftsführer wird Markus Brixius von der RAK Ceramics Group.",
       "link": "https://www.sbz-online.de/meldungen/personalie-kludi-wechsel-der-unternehmensspitze",
@@ -162,25 +180,7 @@
       "dateStr": "21. Apr. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "IFH/Intherm 2026: Ju­bi­lä­ums­jahr ver­zeich­net Zu­wäch­se",
-      "excerpt": "Die IFH/Intherm in Nürnberg verzeichnete in ihrem 50. Jubiläumsjahr Zuwächse bei Besuchern und Ausstellern.",
-      "link": "https://www.sbz-online.de/meldungen/messen-ifh-intherm-2026-jubilaeumsjahr-verzeichnet-zuwaechse",
-      "date": 1776658691,
-      "dateStr": "20. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "RAL Güte­ge­mein­schaft mo­der­ni­siert Qua­li­täts­si­che­rung",
-      "excerpt": "Nach 20 Jahren hat die RAL Gütegemeinschaft Rohrbefestigung ihre Gütesicherung grundlegend überarbeitet. Ziel ist mehr Transparenz und Planungssicherheit.",
-      "link": "https://www.sbz-online.de/meldungen/rohrbefestigung-ral-guetegemeinschaft-modernisiert-qualitaetssicherung",
-      "date": 1776646807,
-      "dateStr": "20. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
     }
   ],
-  "fetched": 1777431122
+  "fetched": 1777442083
 }
