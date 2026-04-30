@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "SCHELLTRONIC E² Aufputz-Urinal-Druckspüler",
+      "excerpt": "Der neue SCHELLTRONIC E² erweitert die digitale Armaturengeneration E² von SCHELL um eine innovative Lösung für Urinalanlagen in öffentlichen und gewerblichen Sanitärräumen. Der elektronische Aufputz-Urinal-Druckspüler v",
+      "link": "https://www.sbz-online.de/sanitaer/sanitaeranlagen-schelltronic-e2-aufputz-urinal-druckspueler",
+      "date": 1777617673,
+      "dateStr": "1. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
       "title": "Personelle Veränderungen in der SHK-Branche",
       "excerpt": "Frischer Wind in den Führungsetagen: inVENTer, Emco Bad, der BDH, Villeroy & Boch und Düker setzen auf neue Köpfe und veränderte Strukturen.",
       "link": "https://www.sbz-online.de/meldungen/personalien-personelle-veraenderungen-der-shk-branche-26",
@@ -171,16 +180,7 @@
       "dateStr": "22. Apr. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "10-Punkte-Schulung für Fach­hand­wer­ker",
-      "excerpt": "Stiebel Eltron bietet eine kostenlose Online-Schulung an, die die 10 häufigsten Fehler bei Planung, Installation und Betrieb von Wärmepumpen beleuchtet.",
-      "link": "https://www.sbz-online.de/meldungen/waermepumpe-10-punkte-schulung-fuer-fachhandwerker",
-      "date": 1776819605,
-      "dateStr": "22. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1777530402
+  "fetched": 1777540245
 }
