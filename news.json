@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Personelle Veränderungen in der SHK-Branche",
+      "excerpt": "Frischer Wind in den Führungsetagen: inVENTer, Emco Bad, der BDH, Villeroy & Boch und Düker setzen auf neue Köpfe und veränderte Strukturen.",
+      "link": "https://www.sbz-online.de/meldungen/personalien-personelle-veraenderungen-der-shk-branche-26",
+      "date": 1777510806,
+      "dateStr": "30. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Walraven verkauft millionsten Yeti-Montagefuß",
+      "excerpt": "Walraven hat 1 Mio. Yeti-480-Montagefüße verkauft. Dies unterstreicht die Nachfrage nach durchdringungslosen Unterkonstruktionen für Flachdächer.",
+      "link": "https://www.sbz-online.de/meldungen/montagesysteme-walraven-verkauft-millionsten-yeti-montagefuss",
+      "date": 1777510805,
+      "dateStr": "30. Apr. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Pelletheizungen: zu­frie­de­ne Nut­zer, un­ter­schätz­ter Bei­trag",
       "excerpt": "Eine Umfrage zeigt: Besitzer von Pelletheizungen sind zufrieden mit ihrer Wahl. Gleichzeitig wird der Beitrag von Holzenergie zur Wärmewende in der Öffentlichkeit unterschätzt.",
       "link": "https://www.sbz-online.de/meldungen/waermewende-pelletheizungen-zufriedene-nutzer-unterschaetzter-beitrag",
@@ -162,25 +180,7 @@
       "dateStr": "22. Apr. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Webinar für Lehr­kräf­te zur CAD-In­te­gra­ti­on im Un­ter­richt",
-      "excerpt": "Ein kostenfreies Webinar am 30. April zeigt Lehrkräften aus Handwerk und Gestaltung, wie CAD-Software effektiv im Unterricht eingesetzt werden kann.",
-      "link": "https://www.sbz-online.de/meldungen/30-april-11-uhr-online-webinar-fuer-lehrkraefte-zur-cad-integration-im-unterricht",
-      "date": 1776733207,
-      "dateStr": "21. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
-    },
-    {
-      "title": "tecalor: digitale Tools für Wär­me­pum­pen-Pro­jek­te",
-      "excerpt": "tecalor investiert in digitale Lösungen, um die Planung und Installation von Wärmepumpen für SHK-Betriebe effizienter zu gestalten.",
-      "link": "https://www.sbz-online.de/meldungen/digitalisierung-tecalor-digitale-tools-fuer-waermepumpen-projekte",
-      "date": 1776733205,
-      "dateStr": "21. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1777507073
+  "fetched": 1777521020
 }
