@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "ClampOn Messung mit Aufschaltung zur GLT von H E R Z Messtechnik GmbH",
+      "excerpt": "Die Optimierung des Energieverbrauchs steht in Industrie und Gebäudetechnik ganz oben auf der Agenda. Doch oft scheiterte die präzise Datenerfassung bisher an einem praktischen Problem: Für den Einbau herkömmlicher Messg",
+      "link": "https://www.sbz-online.de/mess-und-regeltechnik/clampon-messung-mit-aufschaltung-zur-glt-von-h-e-r-z-messtechnik-gmbh",
+      "date": 1777888200,
+      "dateStr": "4. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Michael Hilpert: Po­li­tik auf Zu­ruf – so ver­spielt man Ver­trau­en",
       "excerpt": "Der ZVSHK kritisiert verschobene Fristen und fehlende Planungssicherheit in der Energiepolitik – zum Nachteil von Eigentümern und Handwerkern.",
       "link": "https://www.sbz-online.de/meldungen/statement-zvshk-michael-hilpert-politik-auf-zuruf-so-verspielt-man-vertrauen",
@@ -171,16 +180,7 @@
       "dateStr": "23. Apr. 2026",
       "source": "SBZ Monteur",
       "category": "Sanitär"
-    },
-    {
-      "title": "Bosch warnt vor Koh­len­mon­oxid-Ge­fahr bei Therm 4300",
-      "excerpt": "Bosch Home Comfort warnt vor einer möglichen Kohlenmonoxidvergiftung bei bestimmten Gas-Durchlauferhitzern der Produktfamilie Therm 4300.",
-      "link": "https://www.sbz-online.de/meldungen/produktsicherheit-bosch-warnt-vor-kohlenmonoxid-gefahr-bei-therm-4300",
-      "date": 1776919525,
-      "dateStr": "23. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1777895304
+  "fetched": 1777903217
 }
