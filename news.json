@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Michael Hilpert: Po­li­tik auf Zu­ruf – so ver­spielt man Ver­trau­en",
+      "excerpt": "Der ZVSHK kritisiert verschobene Fristen und fehlende Planungssicherheit in der Energiepolitik – zum Nachteil von Eigentümern und Handwerkern.",
+      "link": "https://www.sbz-online.de/meldungen/statement-zvshk-michael-hilpert-politik-auf-zuruf-so-verspielt-man-vertrauen",
+      "date": 1777876527,
+      "dateStr": "4. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Elysator AG über­nimmt deut­sche GmbH voll­stän­dig",
       "excerpt": "Die Schweizer Elysator Engineering AG hat die deutsche Elysator GmbH vollständig übernommen und bündelt damit ihre europäischen Aktivitäten.",
       "link": "https://www.sbz-online.de/meldungen/akquisitionen-elysator-ag-uebernimmt-deutsche-gmbh-vollstaendig",
@@ -171,16 +180,7 @@
       "dateStr": "23. Apr. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "ZVSHK: SHK-Hand­werk ver­liert an Dy­na­mik",
-      "excerpt": "Eine aktuelle ZVSHK-Umfrage zeigt eine Eintrübung der Lage im SHK-Handwerk: Aufträge gehen zurück, Erwartungen sind pessimistisch.",
-      "link": "https://www.sbz-online.de/meldungen/shk-konjunktur-zvshk-shk-handwerk-verliert-dynamik",
-      "date": 1776906008,
-      "dateStr": "23. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
     }
   ],
-  "fetched": 1777875223
+  "fetched": 1777886286
 }
