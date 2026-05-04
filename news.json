@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Elysator AG über­nimmt deut­sche GmbH voll­stän­dig",
+      "excerpt": "Die Schweizer Elysator Engineering AG hat die deutsche Elysator GmbH vollständig übernommen und bündelt damit ihre europäischen Aktivitäten.",
+      "link": "https://www.sbz-online.de/meldungen/akquisitionen-elysator-ag-uebernimmt-deutsche-gmbh-vollstaendig",
+      "date": 1777856406,
+      "dateStr": "4. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "DEPI-Broschüre: si­che­re Pel­let­la­ge­rung",
+      "excerpt": "Das DEPI hat die 6. Auflage seiner Broschüre zur sicheren Pelletlagerung veröffentlicht. Sie liefert praxisnahes Wissen für Planung und Bau von Lagersystemen.",
+      "link": "https://www.sbz-online.de/meldungen/arbeitshilfe-depi-broschuere-sichere-pelletlagerung",
+      "date": 1777856405,
+      "dateStr": "4. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "SCHELLTRONIC E² Aufputz-Urinal-Druckspüler",
       "excerpt": "Der neue SCHELLTRONIC E² erweitert die digitale Armaturengeneration E² von SCHELL um eine innovative Lösung für Urinalanlagen in öffentlichen und gewerblichen Sanitärräumen. Der elektronische Aufputz-Urinal-Druckspüler v",
       "link": "https://www.sbz-online.de/sanitaer/sanitaeranlagen-schelltronic-e2-aufputz-urinal-druckspueler",
@@ -162,25 +180,7 @@
       "dateStr": "23. Apr. 2026",
       "source": "SBZ Monteur",
       "category": "Branche"
-    },
-    {
-      "title": "70 % der Kunden erwarten digi­tale Hei­zungs­services",
-      "excerpt": "Ohne digi­tale Services geht´s im SHK-Hand­werk nicht: Rund 70 % der Ver­brau­cher for­dern laut Studie App-Steue­rung und Fern­über­wa­chung der Wärme­pumpe.",
-      "link": "https://www.sbz-online.de/meldungen/marktdaten-70-der-kunden-erwarten-digitale-heizungsservices",
-      "date": 1776906006,
-      "dateStr": "23. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Neues RAL-Gü­te­zei­chen für „Climate Premium Pellets“",
-      "excerpt": "Ein neues RAL-Gütezeichen kennzeichnet Holzpellets, die besonders nachhaltig und regional produziert werden und hohe Qualitätsstandards erfüllen.",
-      "link": "https://www.sbz-online.de/meldungen/holzpellets-neues-ral-guetezeichen-fuer-climate-premium-pellets",
-      "date": 1776906006,
-      "dateStr": "23. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1777863033
+  "fetched": 1777875223
 }
