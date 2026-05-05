@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "Systeme für SHK-Profis: robust, nach­hal­tig, schützend",
+      "excerpt": "Hosen mit Stretch-Zonen, nach­rüst­bare Dusch-Funk­tion, Sicher­heits­schuhe für vier Schutz­klassen, neue fugen­lose Dekore, Recy­cling-Work­wear.",
+      "link": "https://www.sbz-online.de/meldungen/abgesteckt-systeme-fuer-shk-profis-robust-nachhaltig-schuetzend",
+      "date": 1777942807,
+      "dateStr": "5. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Conel Tools aus nach­wach­sen­den Roh­stof­fen",
+      "excerpt": "Die neue Produktlinie Conel Tools green umfasst Abmantelungswerkzeuge aus 97 % nachwachsenden Rohstoffen, gefertigt in Deutschland mit Ökostrom.",
+      "link": "https://www.sbz-online.de/meldungen/werkzeuge-conel-tools-aus-nachwachsenden-rohstoffen",
+      "date": 1777942806,
+      "dateStr": "5. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Pluggit initiiert „Alt gegen Neu“-Aktion",
+      "excerpt": "Pluggit bietet SHK-Betrieben mit der Aktion neue Austauschpotenziale in der Wohnraumlüftung: 100 Euro Cashback für Endkunden beim Wechsel auf ein PluggEasy-Gerät.",
+      "link": "https://www.sbz-online.de/meldungen/wohnraumlueftung-pluggit-initiiert-alt-gegen-neu-aktion",
+      "date": 1777942805,
+      "dateStr": "5. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
       "title": "ClampOn Messung mit Aufschaltung zur GLT von H E R Z Messtechnik GmbH",
       "excerpt": "Die Optimierung des Energieverbrauchs steht in Industrie und Gebäudetechnik ganz oben auf der Agenda. Doch oft scheiterte die präzise Datenerfassung bisher an einem praktischen Problem: Für den Einbau herkömmlicher Messg",
       "link": "https://www.sbz-online.de/mess-und-regeltechnik/clampon-messung-mit-aufschaltung-zur-glt-von-h-e-r-z-messtechnik-gmbh",
@@ -153,34 +180,7 @@
       "dateStr": "27. Apr. 2026",
       "source": "SBZ Monteur",
       "category": "Förderung"
-    },
-    {
-      "title": "Webinarreihe zur Sa­nie­rung von Mehr­fa­mi­li­en­häu­sern",
-      "excerpt": "Wolf bietet eine neue Webinarreihe an, die sich auf die energetische Sanierung von Mehrfamilienhäusern konzentriert. Auftakt ist ein Expertentalk am 29. April 2026.",
-      "link": "https://www.sbz-online.de/meldungen/weiterbildung-webinarreihe-zur-sanierung-von-mehrfamilienhaeusern",
-      "date": 1776992407,
-      "dateStr": "24. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "ÖkoFEN Akademie schult Fach­kräf­te für grü­ne Heiz­tech­nik",
-      "excerpt": "Die ÖkoFEN Akademie startet ein neues Seminarprogramm. SHK-Fachkräfte erhalten praxisnahes Wissen zu Pelletheizungen und Wärmepumpen.",
-      "link": "https://www.sbz-online.de/meldungen/weiterbildung-oekofen-akademie-schult-fachkraefte-fuer-gruene-heiztechnik",
-      "date": 1776992406,
-      "dateStr": "24. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "STELP-Projekt: Sanitär­anlagen für 40 Familien",
-      "excerpt": "Eine saubere Sanitär­ver­sorgung ist in vielen Teilen der Welt noch immer keine Selbst­ver­ständ­lich­keit. STELP hilft vor Ort mit Maß­nah­men, die Leben ver­än­dern.",
-      "link": "https://www.sbz-online.de/meldungen/sanitaerversorgung-indien-stelp-projekt-sanitaeranlagen-fuer-40-familien",
-      "date": 1776942236,
-      "dateStr": "23. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
     }
   ],
-  "fetched": 1777948947
+  "fetched": 1777959813
 }
