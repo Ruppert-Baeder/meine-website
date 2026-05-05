@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "SHK+E Essen 2028: 30 % der Aus­stel­ler­flä­chen ver­ge­ben",
+      "excerpt": "Bereits vor der nächsten Ausgabe der SHK+E Essen 2028 haben Aussteller 30 % der Flächen wiedergebucht. Die Messe findet vom 21. bis 24. März 2028 in Essen statt.",
+      "link": "https://www.sbz-online.de/meldungen/21-bis-24-maerz-2028-messe-essen-shke-essen-2028-30-der-ausstellerflaechen-vergeben",
+      "date": 1777959470,
+      "dateStr": "5. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
       "title": "Systeme für SHK-Profis: robust, nach­hal­tig, schützend",
       "excerpt": "Hosen mit Stretch-Zonen, nach­rüst­bare Dusch-Funk­tion, Sicher­heits­schuhe für vier Schutz­klassen, neue fugen­lose Dekore, Recy­cling-Work­wear.",
       "link": "https://www.sbz-online.de/meldungen/abgesteckt-systeme-fuer-shk-profis-robust-nachhaltig-schuetzend",
@@ -171,16 +180,7 @@
       "dateStr": "27. Apr. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "HEA schlägt pra­xis­taug­li­che Um­set­zung der EU-An­for­de­run­gen vor",
-      "excerpt": "Die EPBD formuliert erstmals Anforderungen an die Innenraumluftqualität. Ein HEA-Kurzgutachten zeigt, wie diese für Wohngebäude praktikabel umgesetzt werden können.",
-      "link": "https://www.sbz-online.de/meldungen/innenraumluftqualitaet-hea-schlaegt-praxistaugliche-umsetzung-der-eu-anforderungen-vor",
-      "date": 1777251606,
-      "dateStr": "27. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Förderung"
     }
   ],
-  "fetched": 1777959813
+  "fetched": 1777968557
 }
