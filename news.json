@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "WorldSkills 2026: in­ter­na­tio­na­les Trai­ning in Bu­da­pest",
+      "excerpt": "Der deutsche WorldSkills-Kandidat Lars Wagner trainierte mit internationalen Kollegen in Budapest für die Berufsweltmeisterschaften 2026 in Shanghai.",
+      "link": "https://www.sbz-online.de/meldungen/berufsweltmeisterschaften-worldskills-2026-internationales-training-budapest",
+      "date": 1778029206,
+      "dateStr": "6. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Thermische En­er­gie­spei­cher sys­te­ma­tisch pla­nen",
+      "excerpt": "Die Richtlinie VDI 4657 Blatt 2 beschreibt den Planungsprozess für die Auswahl und Bemessung thermischer Speicher in Gebäudeenergiesystemen.",
+      "link": "https://www.sbz-online.de/meldungen/vdi-richtlinie-thermische-energiespeicher-systematisch-planen",
+      "date": 1778029205,
+      "dateStr": "6. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "SHK+E Essen 2028: 30 % der Aus­stel­ler­flä­chen ver­ge­ben",
       "excerpt": "Bereits vor der nächsten Ausgabe der SHK+E Essen 2028 haben Aussteller 30 % der Flächen wiedergebucht. Die Messe findet vom 21. bis 24. März 2028 in Essen statt.",
       "link": "https://www.sbz-online.de/meldungen/21-bis-24-maerz-2028-messe-essen-shke-essen-2028-30-der-ausstellerflaechen-vergeben",
@@ -162,25 +180,7 @@
       "dateStr": "28. Apr. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Mobiler Kaffee­ge­nuss für die Bau­stel­le",
-      "excerpt": "Bosch erweitert sein „18V Power for All System“ um die EasyMoka 18V-2 Inox, einen akkubetriebenen Espressokocher für mobilen Kaffeegenuss auf der Baustelle.",
-      "link": "https://www.sbz-online.de/meldungen/akkutechnologie-mobiler-kaffeegenuss-fuer-die-baustelle",
-      "date": 1777271174,
-      "dateStr": "27. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
-    },
-    {
-      "title": "Kälte-Klima-Studium zieht nach Frankenberg um",
-      "excerpt": "Der bundesweit einzige duale Studiengang für Kälte- und Klimatechnik wird ab Wintersemester 26/27 am neuen StudiumPlus-Campus in Frankenberg angeboten.",
-      "link": "https://www.sbz-online.de/meldungen/duale-ausbildung-kaelte-klima-studium-zieht-nach-frankenberg-um",
-      "date": 1777251606,
-      "dateStr": "27. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1778035734
+  "fetched": 1778047066
 }
