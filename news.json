@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Gebäudemodernisierungs­gesetz: Bran­che sieht Kurs­wech­sel",
+      "excerpt": "Der BDH begrüßt den Entwurf des GMG bzw. GModG. Er markiere einen Kurswechsel hin zu weniger Bürokratie und stärkerer Marktorientierung.",
+      "link": "https://www.sbz-online.de/meldungen/energiepolitik-gebaeudemodernisierungsgesetz-branche-sieht-kurswechsel",
+      "date": 1778047572,
+      "dateStr": "6. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
       "title": "WorldSkills 2026: in­ter­na­tio­na­les Trai­ning in Bu­da­pest",
       "excerpt": "Der deutsche WorldSkills-Kandidat Lars Wagner trainierte mit internationalen Kollegen in Budapest für die Berufsweltmeisterschaften 2026 in Shanghai.",
       "link": "https://www.sbz-online.de/meldungen/berufsweltmeisterschaften-worldskills-2026-internationales-training-budapest",
@@ -171,16 +180,7 @@
       "dateStr": "28. Apr. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Rems führt Online-Suchsystem für Press­werk­zeu­ge ein",
-      "excerpt": "Das neue Tool „PressFinder“ von Rems soll die Suche nach passenden Presszangen für Pressfitting-Systeme vereinfachen und beschleunigen.",
-      "link": "https://www.sbz-online.de/meldungen/digitale-tools-rems-fuehrt-online-suchsystem-fuer-presswerkzeuge-ein",
-      "date": 1777338006,
-      "dateStr": "28. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1778047066
+  "fetched": 1778056551
 }
