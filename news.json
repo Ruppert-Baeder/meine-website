@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Gedatec 2026: Fach­mes­se für in­te­grier­te Ge­bäu­de­tech­nik",
+      "excerpt": "Die neue Fachmesse Gedatec vereint ab 2026 die Gewerke Elektro, SHK und Dach. Sie soll Synergien schaffen und den Dialog in der Gebäudetechnik fördern.",
+      "link": "https://www.sbz-online.de/meldungen/13-bis-15-oktober-2026-messe-berlin-gedatec-2026-fachmesse-fuer-integrierte",
+      "date": 1778115606,
+      "dateStr": "7. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Armacell nimmt große PV-Anlage in Betrieb",
+      "excerpt": "Armacell hat am Standort Münster eine Photovoltaikanlage mit einer Leistung von knapp einem Megawatt in Betrieb genommen.",
+      "link": "https://www.sbz-online.de/meldungen/gewerblicher-eigenverbrauch-armacell-nimmt-grosse-pv-anlage-betrieb",
+      "date": 1778115605,
+      "dateStr": "7. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Gebäudemodernisierungs­gesetz: Bran­che sieht Kurs­wech­sel",
       "excerpt": "Der BDH begrüßt den Entwurf des GMG bzw. GModG. Er markiere einen Kurswechsel hin zu weniger Bürokratie und stärkerer Marktorientierung.",
       "link": "https://www.sbz-online.de/meldungen/energiepolitik-gebaeudemodernisierungsgesetz-branche-sieht-kurswechsel",
@@ -162,25 +180,7 @@
       "dateStr": "29. Apr. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Kludi: Wech­sel an der Un­ter­neh­mens­spit­ze",
-      "excerpt": "Harald Hotop verlässt Kludi Ende Juni 2026. Neuer Geschäftsführer wird Markus Brixius von der RAK Ceramics Group.",
-      "link": "https://www.sbz-online.de/meldungen/personalie-kludi-wechsel-der-unternehmensspitze",
-      "date": 1777338008,
-      "dateStr": "28. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Schell: 800 Mio. Eck­ven­ti­le welt­weit in­stal­liert",
-      "excerpt": "Der Armaturenhersteller Schell hat 800 Mio. Eckventile weltweit installiert. Das Unternehmen produziert seit 1932 am Standort Olpe.",
-      "link": "https://www.sbz-online.de/meldungen/sanitaertechnik-schell-800-mio-eckventile-weltweit-installiert",
-      "date": 1777338007,
-      "dateStr": "28. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1778122206
+  "fetched": 1778134253
 }
