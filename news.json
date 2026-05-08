@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "80 Jahre Burgbad: Vom Schrei­ner­be­trieb zum Bad­mö­bel­her­steller",
+      "excerpt": "1946 als Schrei­nerei im Sauer­land gegründet, gehört Burgbad heute zu den etab­lier­ten Bad­mö­bel­her­stel­lern in Europa.",
+      "link": "https://www.sbz-online.de/meldungen/jubilaeum-80-jahre-burgbad-vom-schreinerbetrieb-zum-badmoebelhersteller",
+      "date": 1778202007,
+      "dateStr": "8. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
+      "title": "SHK Innung Karlsruhe er­öff­net Kom­pe­tenz­zen­trum",
+      "excerpt": "Die SHK Innung Karlsruhe-Bruchsal hat die WERK.bank eröffnet, ein neues Schulungs- und Kompetenzzentrum für praxisnahe Weiterbildung in der SHK-Branche.",
+      "link": "https://www.sbz-online.de/meldungen/weiterbildung-shk-innung-karlsruhe-eroeffnet-kompetenzzentrum",
+      "date": 1778202006,
+      "dateStr": "8. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
       "title": "Gedatec 2026: Fach­mes­se für in­te­grier­te Ge­bäu­de­tech­nik",
       "excerpt": "Die neue Fachmesse Gedatec vereint ab 2026 die Gewerke Elektro, SHK und Dach. Sie soll Synergien schaffen und den Dialog in der Gebäudetechnik fördern.",
       "link": "https://www.sbz-online.de/meldungen/13-bis-15-oktober-2026-messe-berlin-gedatec-2026-fachmesse-fuer-integrierte",
@@ -162,25 +180,7 @@
       "dateStr": "30. Apr. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Pelletheizungen: zu­frie­de­ne Nut­zer, un­ter­schätz­ter Bei­trag",
-      "excerpt": "Eine Umfrage zeigt: Besitzer von Pelletheizungen sind zufrieden mit ihrer Wahl. Gleichzeitig wird der Beitrag von Holzenergie zur Wärmewende in der Öffentlichkeit unterschätzt.",
-      "link": "https://www.sbz-online.de/meldungen/waermewende-pelletheizungen-zufriedene-nutzer-unterschaetzter-beitrag",
-      "date": 1777424406,
-      "dateStr": "29. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "10 Jahre Teclit – Rockwool-System für Käl­te­däm­mung",
-      "excerpt": "Das Teclit-System von Rockwool erreicht sein 10-jähriges Bestehen. Es hat sich als Lösung für die Kältedämmung in der Haustechnik bewährt und schützt nachweislich vor Tauwasser.",
-      "link": "https://www.sbz-online.de/meldungen/kaeltedaemmung-10-jahre-teclit-rockwool-system-fuer-kaeltedaemmung",
-      "date": 1777424406,
-      "dateStr": "29. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1778208794
+  "fetched": 1778218207
 }
