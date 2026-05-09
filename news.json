@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Raum­klima­qualität – Anfor­de­rungen der EPBD",
+      "excerpt": "TGA-Verbände fassen in „EPBD und Raum­klima“ Erläu­te­rungen der EU-Kommission zur Raum­klimaqualität zusammen.",
+      "link": "https://www.sbz-online.de/meldungen/regelwerk-raumklimaqualitaet-anforderungen-der-epbd",
+      "date": 1778288407,
+      "dateStr": "9. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "80 Jahre Burgbad: Vom Schrei­ner­be­trieb zum Bad­mö­bel­her­steller",
       "excerpt": "1946 als Schrei­nerei im Sauer­land gegründet, gehört Burgbad heute zu den etab­lier­ten Bad­mö­bel­her­stel­lern in Europa.",
       "link": "https://www.sbz-online.de/meldungen/jubilaeum-80-jahre-burgbad-vom-schreinerbetrieb-zum-badmoebelhersteller",
@@ -171,16 +180,7 @@
       "dateStr": "30. Apr. 2026",
       "source": "SBZ Monteur",
       "category": "Sanitär"
-    },
-    {
-      "title": "Walraven verkauft millionsten Yeti-Montagefuß",
-      "excerpt": "Walraven hat 1 Mio. Yeti-480-Montagefüße verkauft. Dies unterstreicht die Nachfrage nach durchdringungslosen Unterkonstruktionen für Flachdächer.",
-      "link": "https://www.sbz-online.de/meldungen/montagesysteme-walraven-verkauft-millionsten-yeti-montagefuss",
-      "date": 1777510805,
-      "dateStr": "30. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1778295167
+  "fetched": 1778305704
 }
