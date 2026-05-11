@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "VDI-Pla­nungs­leit­fa­den für Wär­me­pum­pen",
+      "excerpt": "Die VDI 4645 E bietet eine praxisnahe Grundlage für die Planung, Errichtung und den Betrieb von Heizungsanlagen mit elektrisch betriebenen Wärmepumpen.",
+      "link": "https://www.sbz-online.de/meldungen/arbeitshilfe-vdi-planungsleitfaden-fuer-waermepumpen",
+      "date": 1778461207,
+      "dateStr": "11. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Mit Öl heizen kostet 945 Euro mehr als Wär­me­pum­pen­strom",
+      "excerpt": "Hauseigentümer in NRW zahlten 2024 deutlich mehr für Heizöl und Gas als für den Betrieb einer Wärmepumpe. Ein neuer Heizspiegel für das Bundesland deckt die Kostenunterschiede auf.",
+      "link": "https://www.sbz-online.de/meldungen/heizspiegel-nrw-mit-oel-heizen-kostet-945-euro-mehr-als-waermepumpenstrom",
+      "date": 1778461206,
+      "dateStr": "11. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Raum­klima­qualität – Anfor­de­rungen der EPBD",
       "excerpt": "TGA-Verbände fassen in „EPBD und Raum­klima“ Erläu­te­rungen der EU-Kommission zur Raum­klimaqualität zusammen.",
       "link": "https://www.sbz-online.de/meldungen/regelwerk-raumklimaqualitaet-anforderungen-der-epbd",
@@ -162,25 +180,7 @@
       "dateStr": "30. Apr. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "BDH fordert Ende der Not­lö­sun­gen im Wärme­sektor",
-      "excerpt": "Die Bundes­regierung rudert beim „Heizungs­gesetz“ zurück – und verlängert gleichzeitig die Un­si­cher­heit für Betriebe und Eigen­tümer:innen.",
-      "link": "https://www.sbz-online.de/meldungen/geg-novelle-bdh-fordert-ende-der-notloesungen-im-waermesektor",
-      "date": 1777543605,
-      "dateStr": "30. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Personelle Veränderungen in der SHK-Branche",
-      "excerpt": "Frischer Wind in den Führungsetagen: inVENTer, Emco Bad, der BDH, Villeroy & Boch und Düker setzen auf neue Köpfe und veränderte Strukturen.",
-      "link": "https://www.sbz-online.de/meldungen/personalien-personelle-veraenderungen-der-shk-branche-26",
-      "date": 1777510806,
-      "dateStr": "30. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
     }
   ],
-  "fetched": 1778457146
+  "fetched": 1778470245
 }
