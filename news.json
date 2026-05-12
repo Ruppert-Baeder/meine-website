@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "Barrierearme Bad- und Dusch­lö­sun­gen im Härtetest",
+      "excerpt": "Im firmeneigenen Prüflabor testet SFA Bad­pro­dukte der Marke Kinedo unter Extrem­be­din­gungen.",
+      "link": "https://www.sbz-online.de/meldungen/pruefstand-barrierearme-bad-und-duschloesungen-im-haertetest",
+      "date": 1778547610,
+      "dateStr": "12. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
+      "title": "VDKF: Kälte-Klima-Kon­junk­tur­um­fra­ge 2026",
+      "excerpt": "Der VDKF startet seine jährliche Kälte-Klima-Konjunkturumfrage und bittet alle Fachbetriebe um rege Teilnahme für eine belastbare Datenbasis.",
+      "link": "https://www.sbz-online.de/meldungen/vdkf-umfrage-vdkf-kaelte-klima-konjunkturumfrage-2026",
+      "date": 1778547607,
+      "dateStr": "12. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
+      "title": "fischer startet neuen Blog „Spotlights“",
+      "excerpt": "Die Unternehmensgruppe fischer erweitert mit dem Blog „Spotlights“ ihr Kommunikationsangebot für das Fachpublikum.",
+      "link": "https://www.sbz-online.de/meldungen/digitale-kommunikation-fischer-startet-neuen-blog-spotlights",
+      "date": 1778547606,
+      "dateStr": "12. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
       "title": "VDI-Pla­nungs­leit­fa­den für Wär­me­pum­pen",
       "excerpt": "Die VDI 4645 E bietet eine praxisnahe Grundlage für die Planung, Errichtung und den Betrieb von Heizungsanlagen mit elektrisch betriebenen Wärmepumpen.",
       "link": "https://www.sbz-online.de/meldungen/arbeitshilfe-vdi-planungsleitfaden-fuer-waermepumpen",
@@ -153,34 +180,7 @@
       "dateStr": "4. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "DEPI-Broschüre: si­che­re Pel­let­la­ge­rung",
-      "excerpt": "Das DEPI hat die 6. Auflage seiner Broschüre zur sicheren Pelletlagerung veröffentlicht. Sie liefert praxisnahes Wissen für Planung und Bau von Lagersystemen.",
-      "link": "https://www.sbz-online.de/meldungen/arbeitshilfe-depi-broschuere-sichere-pelletlagerung",
-      "date": 1777856405,
-      "dateStr": "4. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "SCHELLTRONIC E² Aufputz-Urinal-Druckspüler",
-      "excerpt": "Der neue SCHELLTRONIC E² erweitert die digitale Armaturengeneration E² von SCHELL um eine innovative Lösung für Urinalanlagen in öffentlichen und gewerblichen Sanitärräumen. Der elektronische Aufputz-Urinal-Druckspüler v",
-      "link": "https://www.sbz-online.de/sanitaer/sanitaeranlagen-schelltronic-e2-aufputz-urinal-druckspueler",
-      "date": 1777617673,
-      "dateStr": "1. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Daniel Föst: „Heizungs­gesetz“ – Gute Ab­sicht. Fal­scher Hebel",
-      "excerpt": "Der ZVSHK begrüßt das parla­men­ta­rische Ver­fah­ren zum „Hei­zungs­gesetz“. Haupt­ge­schäfts­füh­rer Daniel Föst warnt jedoch vor Rechts­un­sicherheit.",
-      "link": "https://www.sbz-online.de/meldungen/statement-zvshk-daniel-foest-heizungsgesetz-gute-absicht-falscher-hebel",
-      "date": 1777544507,
-      "dateStr": "30. Apr. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1778543853
+  "fetched": 1778557738
 }
