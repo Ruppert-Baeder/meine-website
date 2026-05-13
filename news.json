@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Online Schulung: Hydraulischer Ab­gleich an Wärme­pumpen",
+      "excerpt": "Der BWP veranstaltet eine Online-Schulung zum hydraulischen Ab­gleich bei Wär­me­pum­pen. 8 Fort­bil­dungs­punkte sind an­rechenbar.",
+      "link": "https://www.sbz-online.de/meldungen/11062026-930-bis-1730-uhr-online-online-schulung-hydraulischer-abgleich-waermepumpen",
+      "date": 1778647927,
+      "dateStr": "13. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Personelle Veränderungen in der SHK-Branche",
       "excerpt": "Neue Köpfe und verstärkte Füh­rungs­ebe­nen bei my-PV, Vitramo, der ÜWG, der GC-Gruppe, Taco Europe.",
       "link": "https://www.sbz-online.de/meldungen/personalien-personelle-veraenderungen-der-shk-branche-27",
@@ -171,16 +180,7 @@
       "dateStr": "5. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Branche"
-    },
-    {
-      "title": "ClampOn Messung mit Aufschaltung zur GLT von H E R Z Messtechnik GmbH",
-      "excerpt": "Die Optimierung des Energieverbrauchs steht in Industrie und Gebäudetechnik ganz oben auf der Agenda. Doch oft scheiterte die präzise Datenerfassung bisher an einem praktischen Problem: Für den Einbau herkömmlicher Messg",
-      "link": "https://www.sbz-online.de/mess-und-regeltechnik/clampon-messung-mit-aufschaltung-zur-glt-von-h-e-r-z-messtechnik-gmbh",
-      "date": 1777888200,
-      "dateStr": "4. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1778654846
+  "fetched": 1778665458
 }
