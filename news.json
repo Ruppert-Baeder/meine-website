@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Bad & Body er­öff­net Stand­ort in St. Ingbert",
+      "excerpt": "Die MHK Group eröffnet einen neuen Bad & Body-Standort im Saarland mit Fokus auf schnelle Badmodernisierungen und barrierearme Lösungen.",
+      "link": "https://www.sbz-online.de/meldungen/franchise-system-bad-body-eroeffnet-standort-st-ingbert",
+      "date": 1778634006,
+      "dateStr": "13. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
       "title": "Barrierearme Bad- und Dusch­lö­sun­gen im Härtetest",
       "excerpt": "Im firmeneigenen Prüflabor testet SFA Bad­pro­dukte der Marke Kinedo unter Extrem­be­din­gungen.",
       "link": "https://www.sbz-online.de/meldungen/pruefstand-barrierearme-bad-und-duschloesungen-im-haertetest",
@@ -171,16 +180,7 @@
       "dateStr": "4. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Elysator AG über­nimmt deut­sche GmbH voll­stän­dig",
-      "excerpt": "Die Schweizer Elysator Engineering AG hat die deutsche Elysator GmbH vollständig übernommen und bündelt damit ihre europäischen Aktivitäten.",
-      "link": "https://www.sbz-online.de/meldungen/akquisitionen-elysator-ag-uebernimmt-deutsche-gmbh-vollstaendig",
-      "date": 1777856406,
-      "dateStr": "4. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1778626855
+  "fetched": 1778642689
 }
