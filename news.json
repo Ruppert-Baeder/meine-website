@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Personelle Veränderungen in der SHK-Branche",
+      "excerpt": "Neue Köpfe und verstärkte Füh­rungs­ebe­nen bei my-PV, Vitramo, der ÜWG, der GC-Gruppe, Taco Europe.",
+      "link": "https://www.sbz-online.de/meldungen/personalien-personelle-veraenderungen-der-shk-branche-27",
+      "date": 1778641562,
+      "dateStr": "13. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Bad & Body er­öff­net Stand­ort in St. Ingbert",
       "excerpt": "Die MHK Group eröffnet einen neuen Bad & Body-Standort im Saarland mit Fokus auf schnelle Badmodernisierungen und barrierearme Lösungen.",
       "link": "https://www.sbz-online.de/meldungen/franchise-system-bad-body-eroeffnet-standort-st-ingbert",
@@ -171,16 +180,7 @@
       "dateStr": "4. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Michael Hilpert: Po­li­tik auf Zu­ruf – so ver­spielt man Ver­trau­en",
-      "excerpt": "Der ZVSHK kritisiert verschobene Fristen und fehlende Planungssicherheit in der Energiepolitik – zum Nachteil von Eigentümern und Handwerkern.",
-      "link": "https://www.sbz-online.de/meldungen/statement-zvshk-michael-hilpert-politik-auf-zuruf-so-verspielt-man-vertrauen",
-      "date": 1777876527,
-      "dateStr": "4. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1778642689
+  "fetched": 1778654846
 }
