@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "GModG: SHK-Handwerk kriti­siert feh­lende Sach­politik",
+      "excerpt": "Der Fachverband SHK Baden-Württemberg wünscht vor dem Hintergrund des am 13. Mai 2026 verabschiedeten GModG u. a. die Rückkehr zur Sachlichkeit.",
+      "link": "https://www.sbz-online.de/meldungen/gebaeudemodernisierungsgesetz-gmodg-shk-handwerk-kritisiert-fehlende-sachpolitik",
+      "date": 1778671497,
+      "dateStr": "13. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Online Schulung: Hydraulischer Ab­gleich an Wärme­pumpen",
       "excerpt": "Der BWP veranstaltet eine Online-Schulung zum hydraulischen Ab­gleich bei Wär­me­pum­pen. 8 Fort­bil­dungs­punkte sind an­rechenbar.",
       "link": "https://www.sbz-online.de/meldungen/11062026-930-bis-1730-uhr-online-online-schulung-hydraulischer-abgleich-waermepumpen",
@@ -171,16 +180,7 @@
       "dateStr": "5. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Pluggit initiiert „Alt gegen Neu“-Aktion",
-      "excerpt": "Pluggit bietet SHK-Betrieben mit der Aktion neue Austauschpotenziale in der Wohnraumlüftung: 100 Euro Cashback für Endkunden beim Wechsel auf ein PluggEasy-Gerät.",
-      "link": "https://www.sbz-online.de/meldungen/wohnraumlueftung-pluggit-initiiert-alt-gegen-neu-aktion",
-      "date": 1777942805,
-      "dateStr": "5. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
     }
   ],
-  "fetched": 1778673821
+  "fetched": 1778686945
 }
