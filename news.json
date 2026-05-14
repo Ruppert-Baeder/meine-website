@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "So schützen sich Beschäf­tigte im Bau­hand­werk vor Hitze",
+      "excerpt": "Der Textildienstleister Mewa bietet Bau­un­ter­neh­men spe­zielle Arbeits­klei­dung für hohe Tem­pe­ra­tu­ren an.",
+      "link": "https://www.sbz-online.de/meldungen/berufskleidung-so-schuetzen-sich-beschaeftigte-im-bauhandwerk-vor-hitze",
+      "date": 1778788807,
+      "dateStr": "14. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Interdomus Cheftage 2026 bei Blanke Systems",
       "excerpt": "Über 40 Teilnehmer der diesjähjrigen Interdomus Cheftage besuchten Blanke Systems in Iserlohn. Im Fokus: Produktion, Systemlösungen und Branchentrends.",
       "link": "https://www.sbz-online.de/meldungen/shk-branche-interdomus-cheftage-2026-bei-blanke-systems",
@@ -171,16 +180,7 @@
       "dateStr": "6. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "SHK+E Essen 2028: 30 % der Aus­stel­ler­flä­chen ver­ge­ben",
-      "excerpt": "Bereits vor der nächsten Ausgabe der SHK+E Essen 2028 haben Aussteller 30 % der Flächen wiedergebucht. Die Messe findet vom 21. bis 24. März 2028 in Essen statt.",
-      "link": "https://www.sbz-online.de/meldungen/21-bis-24-maerz-2028-messe-essen-shke-essen-2028-30-der-ausstellerflaechen-vergeben",
-      "date": 1777959470,
-      "dateStr": "5. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
     }
   ],
-  "fetched": 1778792953
+  "fetched": 1778799368
 }
