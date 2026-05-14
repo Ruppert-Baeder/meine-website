@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Interdomus Cheftage 2026 bei Blanke Systems",
+      "excerpt": "Über 40 Teilnehmer der diesjähjrigen Interdomus Cheftage besuchten Blanke Systems in Iserlohn. Im Fokus: Produktion, Systemlösungen und Branchentrends.",
+      "link": "https://www.sbz-online.de/meldungen/shk-branche-interdomus-cheftage-2026-bei-blanke-systems",
+      "date": 1778720407,
+      "dateStr": "14. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Gaiser baut MSR- und Käl­te­kom­pe­tenz­zen­trum auf",
+      "excerpt": "Mit der Integration der Kelvin ABT GmbH baut die Gaiser-Gruppe ein neues Kompetenzzentrum für MSR- und Kältetechnik mit Fokus auf natürliche Kältemittel auf.",
+      "link": "https://www.sbz-online.de/meldungen/akquisitionen-gaiser-baut-msr-und-kaeltekompetenzzentrum-auf",
+      "date": 1778720406,
+      "dateStr": "14. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "GModG: SHK-Handwerk kriti­siert feh­lende Sach­politik",
       "excerpt": "Der Fachverband SHK Baden-Württemberg wünscht vor dem Hintergrund des am 13. Mai 2026 verabschiedeten GModG u. a. die Rückkehr zur Sachlichkeit.",
       "link": "https://www.sbz-online.de/meldungen/gebaeudemodernisierungsgesetz-gmodg-shk-handwerk-kritisiert-fehlende-sachpolitik",
@@ -162,25 +180,7 @@
       "dateStr": "5. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Branche"
-    },
-    {
-      "title": "Systeme für SHK-Profis: robust, nach­hal­tig, schützend",
-      "excerpt": "Hosen mit Stretch-Zonen, nach­rüst­bare Dusch-Funk­tion, Sicher­heits­schuhe für vier Schutz­klassen, neue fugen­lose Dekore, Recy­cling-Work­wear.",
-      "link": "https://www.sbz-online.de/meldungen/abgesteckt-systeme-fuer-shk-profis-robust-nachhaltig-schuetzend",
-      "date": 1777942807,
-      "dateStr": "5. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Conel Tools aus nach­wach­sen­den Roh­stof­fen",
-      "excerpt": "Die neue Produktlinie Conel Tools green umfasst Abmantelungswerkzeuge aus 97 % nachwachsenden Rohstoffen, gefertigt in Deutschland mit Ökostrom.",
-      "link": "https://www.sbz-online.de/meldungen/werkzeuge-conel-tools-aus-nachwachsenden-rohstoffen",
-      "date": 1777942806,
-      "dateStr": "5. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1778716709
+  "fetched": 1778731556
 }
