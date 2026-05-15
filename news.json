@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "nrg+ integriert e3 New Energy",
+      "excerpt": "Die nrg+ Gruppe integriert die e3 New Energy GmbH und stärkt damit den Fokus auf Wärmepumpen­lösungen für Mehrfamilienhäuser.",
+      "link": "https://www.sbz-online.de/meldungen/akquisitionen-nrg-integriert-e3-new-energy",
+      "date": 1778806806,
+      "dateStr": "15. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "So schützen sich Beschäf­tigte im Bau­hand­werk vor Hitze",
       "excerpt": "Der Textildienstleister Mewa bietet Bau­un­ter­neh­men spe­zielle Arbeits­klei­dung für hohe Tem­pe­ra­tu­ren an.",
       "link": "https://www.sbz-online.de/meldungen/berufskleidung-so-schuetzen-sich-beschaeftigte-im-bauhandwerk-vor-hitze",
@@ -171,16 +180,7 @@
       "dateStr": "6. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Thermische En­er­gie­spei­cher sys­te­ma­tisch pla­nen",
-      "excerpt": "Die Richtlinie VDI 4657 Blatt 2 beschreibt den Planungsprozess für die Auswahl und Bemessung thermischer Speicher in Gebäudeenergiesystemen.",
-      "link": "https://www.sbz-online.de/meldungen/vdi-richtlinie-thermische-energiespeicher-systematisch-planen",
-      "date": 1778029205,
-      "dateStr": "6. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1778803136
+  "fetched": 1778818287
 }
