@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "Kaldewei eröffnet Brand Space in Berlin",
+      "excerpt": "2026 inszeniert Kaldewei seine Marke international – mit einem neuen Brand Space in Berlin sowie Präsenzen in Mailand und Madrid.",
+      "link": "https://www.sbz-online.de/meldungen/badgestaltung-kaldewei-eroeffnet-brand-space-berlin",
+      "date": 1779066007,
+      "dateStr": "18. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Umsatzrückgang bremst die SHK-Branche",
+      "excerpt": "Das SHK-Handwerk verzeichnete 2025 einen leichten Umsatzrückgang. Politische Unsicherheit und Fachkräftemangel bremsen die Entwicklung.",
+      "link": "https://www.sbz-online.de/meldungen/shk-konjunktur-umsatzrueckgang-bremst-die-shk-branche",
+      "date": 1779066006,
+      "dateStr": "18. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "DEPI-Broschüre: Pel­let­hei­zun­gen im Groß­be­reich",
+      "excerpt": "Das DEPI hat eine Broschüre veröffentlicht, die Planung und Betrieb von Pelletheizanlagen im großen Leistungsbereich beleuchtet und Praxisbeispiele zeigt.",
+      "link": "https://www.sbz-online.de/meldungen/planungsleitfaden-depi-broschuere-pelletheizungen-im-grossbereich",
+      "date": 1779066005,
+      "dateStr": "18. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "nrg+ integriert e3 New Energy",
       "excerpt": "Die nrg+ Gruppe integriert die e3 New Energy GmbH und stärkt damit den Fokus auf Wärmepumpen­lösungen für Mehrfamilienhäuser.",
       "link": "https://www.sbz-online.de/meldungen/akquisitionen-nrg-integriert-e3-new-energy",
@@ -153,34 +180,7 @@
       "dateStr": "7. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Armacell nimmt große PV-Anlage in Betrieb",
-      "excerpt": "Armacell hat am Standort Münster eine Photovoltaikanlage mit einer Leistung von knapp einem Megawatt in Betrieb genommen.",
-      "link": "https://www.sbz-online.de/meldungen/gewerblicher-eigenverbrauch-armacell-nimmt-grosse-pv-anlage-betrieb",
-      "date": 1778115605,
-      "dateStr": "7. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "GModG-Referentenentwurf: BDH sieht Kurs­wech­sel",
-      "excerpt": "Der BDH begrüßt den Entwurf des GMG bzw. GModG. Er markiere einen Kurswechsel hin zu weniger Bürokratie und stärkerer Marktorientierung.",
-      "link": "https://www.sbz-online.de/meldungen/energiepolitik-gmodg-referentenentwurf-bdh-sieht-kurswechsel",
-      "date": 1778047572,
-      "dateStr": "6. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
-    },
-    {
-      "title": "WorldSkills 2026: in­ter­na­tio­na­les Trai­ning in Bu­da­pest",
-      "excerpt": "Der deutsche WorldSkills-Kandidat Lars Wagner trainierte mit internationalen Kollegen in Budapest für die Berufsweltmeisterschaften 2026 in Shanghai.",
-      "link": "https://www.sbz-online.de/meldungen/berufsweltmeisterschaften-worldskills-2026-internationales-training-budapest",
-      "date": 1778029206,
-      "dateStr": "6. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1779062210
+  "fetched": 1779077094
 }
