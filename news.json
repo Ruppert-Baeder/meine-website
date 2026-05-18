@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Webinar: Ihr Telefon nervt? Lassen Sie die KI rangehen.",
+      "excerpt": "KI regelt Telefon und Orga, Sie küm­mern sich ums Geschäft. Wie das geht, zeigt das SBZ-Webinar am 10. Juni.",
+      "link": "https://events.gentner.de/de/ki-und-digitalisierung-im-shk-handwerk-hallopetra",
+      "date": 1779087012,
+      "dateStr": "18. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Kaldewei eröffnet Brand Space in Berlin",
       "excerpt": "2026 inszeniert Kaldewei seine Marke international – mit einem neuen Brand Space in Berlin sowie Präsenzen in Mailand und Madrid.",
       "link": "https://www.sbz-online.de/meldungen/badgestaltung-kaldewei-eroeffnet-brand-space-berlin",
@@ -171,16 +180,7 @@
       "dateStr": "8. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Branche"
-    },
-    {
-      "title": "Gedatec 2026: Fach­mes­se für in­te­grier­te Ge­bäu­de­tech­nik",
-      "excerpt": "Die neue Fachmesse Gedatec vereint ab 2026 die Gewerke Elektro, SHK und Dach. Sie soll Synergien schaffen und den Dialog in der Gebäudetechnik fördern.",
-      "link": "https://www.sbz-online.de/meldungen/13-bis-15-oktober-2026-messe-berlin-gedatec-2026-fachmesse-fuer-integrierte",
-      "date": 1778115606,
-      "dateStr": "7. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1779093796
+  "fetched": 1779107404
 }
