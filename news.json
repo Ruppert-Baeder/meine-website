@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "Hansgrohe feiert Ju­bi­lä­um mit Tex­til­kol­lek­ti­on",
+      "excerpt": "Zum 125-jährigen Bestehen lanciert Armaturenhersteller Hansgrohe eine limitierte Bademantel- und Badebekleidungskollektion.",
+      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-hansgrohe-feiert-jubilaeum-mit-textilkollektion",
+      "date": 1779152407,
+      "dateStr": "19. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "2026-Q1: SHK-Geschäftsklima stagniert knapp über der Null",
+      "excerpt": "Energie­preise und Konsum­zurück­hal­tung be­las­ten: Das SHK-Konjunk­tur­ba­ro­meter ver­bleibt im 1. Quar­tal 2026 auf ein­em nur nie­drigen po­si­tivem Niveau.",
+      "link": "https://www.sbz-online.de/meldungen/shk-konjunkturbarometer-2026-q1-shk-geschaeftsklima-stagniert-knapp-ueber-der-null",
+      "date": 1779152407,
+      "dateStr": "19. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Smart Home"
+    },
+    {
+      "title": "Warum Wärme­wende trotz hoher Zu­stim­mung stockt",
+      "excerpt": "Eine aktuelle co2online-Umfrage zeigt, dass die Unsi­cher­heit über poli­ti­sche Vor­ga­ben sanie­rungs­will­lige Haus­ei­gen­tümer aus­bremst.",
+      "link": "https://www.sbz-online.de/meldungen/umfrage-warum-waermewende-trotz-hoher-zustimmung-stockt",
+      "date": 1779152406,
+      "dateStr": "19. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Webinar: Ihr Telefon nervt? Lassen Sie die KI rangehen.",
       "excerpt": "KI regelt Telefon und Orga, Sie küm­mern sich ums Geschäft. Wie das geht, zeigt das SBZ-Webinar am 10. Juni.",
       "link": "https://events.gentner.de/de/ki-und-digitalisierung-im-shk-handwerk-hallopetra",
@@ -153,34 +180,7 @@
       "dateStr": "11. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Raum­klima­qualität – Anfor­de­rungen der EPBD",
-      "excerpt": "TGA-Verbände fassen in „EPBD und Raum­klima“ Erläu­te­rungen der EU-Kommission zur Raum­klimaqualität zusammen.",
-      "link": "https://www.sbz-online.de/meldungen/regelwerk-raumklimaqualitaet-anforderungen-der-epbd",
-      "date": 1778288407,
-      "dateStr": "9. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "80 Jahre Burgbad: Vom Schrei­ner­be­trieb zum Bad­mö­bel­her­steller",
-      "excerpt": "1946 als Schrei­nerei im Sauer­land gegründet, gehört Burgbad heute zu den etab­lier­ten Bad­mö­bel­her­stel­lern in Europa.",
-      "link": "https://www.sbz-online.de/meldungen/jubilaeum-80-jahre-burgbad-vom-schreinerbetrieb-zum-badmoebelhersteller",
-      "date": 1778202007,
-      "dateStr": "8. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
-      "title": "SHK Innung Karlsruhe er­öff­net Kom­pe­tenz­zen­trum",
-      "excerpt": "Die SHK Innung Karlsruhe-Bruchsal hat die WERK.bank eröffnet, ein neues Schulungs- und Kompetenzzentrum für praxisnahe Weiterbildung in der SHK-Branche.",
-      "link": "https://www.sbz-online.de/meldungen/weiterbildung-shk-innung-karlsruhe-eroeffnet-kompetenzzentrum",
-      "date": 1778202006,
-      "dateStr": "8. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
     }
   ],
-  "fetched": 1779149141
+  "fetched": 1779166827
 }
