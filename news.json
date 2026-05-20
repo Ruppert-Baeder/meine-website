@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Mittelstands-Allianz Haus­tech­nik wird Teil der Euro­bau­stoff",
+      "excerpt": "Die Einkaufs- und Marketing­ver­bund­gruppe mah schließt sich der Euro­baustoff an und stärkt die SHK im Fach­han­dels­netzwerk.",
+      "link": "https://www.sbz-online.de/meldungen/zusammenschluss-mittelstands-allianz-haustechnik-wird-teil-der-eurobaustoff",
+      "date": 1779238805,
+      "dateStr": "20. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Aschl eröffnet neuen Stand­ort in Wels",
+      "excerpt": "Aschl hat einen neuen Logistik- und Produktionsstandort in Wels in Betrieb genommen. Ziel ist die Beschleunigung der Lieferprozesse.",
+      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-aschl-eroeffnet-neuen-standort-wels",
+      "date": 1779238804,
+      "dateStr": "20. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
       "title": "Hansgrohe feiert Ju­bi­lä­um mit Tex­til­kol­lek­ti­on",
       "excerpt": "Zum 125-jährigen Bestehen lanciert Armaturenhersteller Hansgrohe eine limitierte Bademantel- und Badebekleidungskollektion.",
       "link": "https://www.sbz-online.de/meldungen/shk-hersteller-hansgrohe-feiert-jubilaeum-mit-textilkollektion",
@@ -162,25 +180,7 @@
       "dateStr": "12. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Branche"
-    },
-    {
-      "title": "VDI-Pla­nungs­leit­fa­den für Wär­me­pum­pen",
-      "excerpt": "Die VDI 4645 E bietet eine praxisnahe Grundlage für die Planung, Errichtung und den Betrieb von Heizungsanlagen mit elektrisch betriebenen Wärmepumpen.",
-      "link": "https://www.sbz-online.de/meldungen/arbeitshilfe-vdi-planungsleitfaden-fuer-waermepumpen",
-      "date": 1778461207,
-      "dateStr": "11. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Mit Öl heizen kostet 945 Euro mehr als Wär­me­pum­pen­strom",
-      "excerpt": "Hauseigentümer in NRW zahlten 2024 deutlich mehr für Heizöl und Gas als für den Betrieb einer Wärmepumpe. Ein neuer Heizspiegel für das Bundesland deckt die Kostenunterschiede auf.",
-      "link": "https://www.sbz-online.de/meldungen/heizspiegel-nrw-mit-oel-heizen-kostet-945-euro-mehr-als-waermepumpenstrom",
-      "date": 1778461206,
-      "dateStr": "11. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1779235547
+  "fetched": 1779253485
 }
