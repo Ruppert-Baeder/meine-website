@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Vielfältiger Einsatz von Wärmepumpen in Oberfranken",
+      "excerpt": "Die Pressefahrt des BWP besuchte Pro­jekte, die den Ein­satz und die Ska­lier­bar­keit von Wärme­pumpen in unter­schied­li­chen Gebäude­typen ver­deut­lichen.",
+      "link": "https://www.sbz-online.de/meldungen/pressefahrt-des-bwp-vielfaeltiger-einsatz-von-waermepumpen-oberfranken",
+      "date": 1779252755,
+      "dateStr": "20. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Mittelstands-Allianz Haus­tech­nik wird Teil der Euro­bau­stoff",
       "excerpt": "Die Einkaufs- und Marketing­ver­bund­gruppe mah schließt sich der Euro­baustoff an und stärkt die SHK im Fach­han­dels­netzwerk.",
       "link": "https://www.sbz-online.de/meldungen/zusammenschluss-mittelstands-allianz-haustechnik-wird-teil-der-eurobaustoff",
@@ -171,16 +180,7 @@
       "dateStr": "12. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Branche"
-    },
-    {
-      "title": "fischer startet neuen Blog „Spotlights“",
-      "excerpt": "Die Unternehmensgruppe fischer erweitert mit dem Blog „Spotlights“ ihr Kommunikationsangebot für das Fachpublikum.",
-      "link": "https://www.sbz-online.de/meldungen/digitale-kommunikation-fischer-startet-neuen-blog-spotlights",
-      "date": 1778547606,
-      "dateStr": "12. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
     }
   ],
-  "fetched": 1779253485
+  "fetched": 1779269577
 }
