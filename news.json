@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Neues Jahr­buch „So­la­re Wär­me 2026“ er­schie­nen",
+      "excerpt": "Das „Jahrbuch Solare Wärme 2026“ zeigt auf 116 Seiten die Rolle der Solarthermie für die Wärmewende, von Eigenheimen bis zur Industrie.",
+      "link": "https://www.sbz-online.de/meldungen/solarthermie-neues-jahrbuch-solare-waerme-2026-erschienen",
+      "date": 1779339294,
+      "dateStr": "21. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Infrarotheizung: Bau­stein für be­zahl­ba­res Bau­en und Woh­nen",
       "excerpt": "Die 4. IG Infrarot Konferenz bestätigte: Infrarotheiztechnik senkt Kosten im Neubau und Bestand und ist wirtschaftlich sowie vielseitig einsetzbar.",
       "link": "https://www.sbz-online.de/meldungen/heizsysteme-infrarotheizung-baustein-fuer-bezahlbares-bauen-und-wohnen",
@@ -171,16 +180,7 @@
       "dateStr": "13. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Personelle Veränderungen in der SHK-Branche",
-      "excerpt": "Neue Köpfe und verstärkte Füh­rungs­ebe­nen bei my-PV, Vitramo, der ÜWG, der GC-Gruppe, Taco Europe.",
-      "link": "https://www.sbz-online.de/meldungen/personalien-personelle-veraenderungen-der-shk-branche-27",
-      "date": 1778641562,
-      "dateStr": "13. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1779334777
+  "fetched": 1779349941
 }
