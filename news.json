@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "Infrarotheizung: Bau­stein für be­zahl­ba­res Bau­en und Woh­nen",
+      "excerpt": "Die 4. IG Infrarot Konferenz bestätigte: Infrarotheiztechnik senkt Kosten im Neubau und Bestand und ist wirtschaftlich sowie vielseitig einsetzbar.",
+      "link": "https://www.sbz-online.de/meldungen/heizsysteme-infrarotheizung-baustein-fuer-bezahlbares-bauen-und-wohnen",
+      "date": 1779325206,
+      "dateStr": "21. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "dena-Gebäudereport: Wär­me­pum­pen über­ho­len Gas­hei­zun­gen",
+      "excerpt": "Der dena-Gebäudereport 2026 zeigt: 2025 wurden erstmals mehr Wärmepumpen als Gasheizungen verkauft. Wärmeplanung und serielle Sanierung machen Fortschritte.",
+      "link": "https://www.sbz-online.de/meldungen/waermewende-dena-gebaeudereport-waermepumpen-ueberholen-gasheizungen",
+      "date": 1779325206,
+      "dateStr": "21. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Helios: KWL EC 70-Funk­tio­nen per Vi­deo­spiel",
+      "excerpt": "Helios Ventilatoren präsentiert sein dezentrales Wohnungslüftungsgerät KWL EC 70 mit einer neuen, interaktiven Kampagne im Videospiel-Stil.",
+      "link": "https://www.sbz-online.de/meldungen/wohnungslueftung-helios-kwl-ec-70-funktionen-videospiel",
+      "date": 1779325205,
+      "dateStr": "21. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Vielfältiger Einsatz von Wärmepumpen in Oberfranken",
       "excerpt": "Die Pressefahrt des BWP besuchte Pro­jekte, die den Ein­satz und die Ska­lier­bar­keit von Wärme­pumpen in unter­schied­li­chen Gebäude­typen ver­deut­lichen.",
       "link": "https://www.sbz-online.de/meldungen/pressefahrt-des-bwp-vielfaeltiger-einsatz-von-waermepumpen-oberfranken",
@@ -153,34 +180,7 @@
       "dateStr": "13. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Bad & Body er­öff­net Stand­ort in St. Ingbert",
-      "excerpt": "Die MHK Group eröffnet einen neuen Bad & Body-Standort im Saarland mit Fokus auf schnelle Badmodernisierungen und barrierearme Lösungen.",
-      "link": "https://www.sbz-online.de/meldungen/franchise-system-bad-body-eroeffnet-standort-st-ingbert",
-      "date": 1778634006,
-      "dateStr": "13. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Barrierearme Bad- und Dusch­lö­sun­gen im Härtetest",
-      "excerpt": "Im firmeneigenen Prüflabor testet SFA Bad­pro­dukte der Marke Kinedo unter Extrem­be­din­gungen.",
-      "link": "https://www.sbz-online.de/meldungen/pruefstand-barrierearme-bad-und-duschloesungen-im-haertetest",
-      "date": 1778547610,
-      "dateStr": "12. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
-      "title": "VDKF: Kälte-Klima-Kon­junk­tur­um­fra­ge 2026",
-      "excerpt": "Der VDKF startet seine jährliche Kälte-Klima-Konjunkturumfrage und bittet alle Fachbetriebe um rege Teilnahme für eine belastbare Datenbasis.",
-      "link": "https://www.sbz-online.de/meldungen/vdkf-umfrage-vdkf-kaelte-klima-konjunkturumfrage-2026",
-      "date": 1778547607,
-      "dateStr": "12. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
     }
   ],
-  "fetched": 1779318747
+  "fetched": 1779334777
 }
