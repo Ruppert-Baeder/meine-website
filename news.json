@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Webinar zu SHK-Messe-Neu­hei­ten und Wie­ter­bil­dun­gen",
+      "excerpt": "Ein Webinar von E-Learning Plus bietet einen kompakten Überblick über Neuheiten, Lösungen und Weiterbildungen der diesjährigen SHK-Branchenmessen.",
+      "link": "https://www.sbz-online.de/meldungen/28-mai-2026-1430-uhr-online-webinar-zu-shk-messe-neuheiten-und-wieterbildungen",
+      "date": 1779434448,
+      "dateStr": "22. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
       "title": "ZVSHK: Dauer-Unruhe hemmt Ge­bäu­de­mo­der­ni­sie­rung",
       "excerpt": "Der ZVSHK sieht im ständigen Wandel politischer Rahmenbedingungen das größte Hemmnis für die Gebäudemodernisierung. Das neue Gesetz muss Vertrauen schaffen.",
       "link": "https://www.sbz-online.de/meldungen/gmodg-zvshk-dauer-unruhe-hemmt-gebaeudemodernisierung",
@@ -171,16 +180,7 @@
       "dateStr": "15. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "So schützen sich Beschäf­tigte im Bau­hand­werk vor Hitze",
-      "excerpt": "Der Textildienstleister Mewa bietet Bau­un­ter­neh­men spe­zielle Arbeits­klei­dung für hohe Tem­pe­ra­tu­ren an.",
-      "link": "https://www.sbz-online.de/meldungen/berufskleidung-so-schuetzen-sich-beschaeftigte-im-bauhandwerk-vor-hitze",
-      "date": 1778788807,
-      "dateStr": "14. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1779438504
+  "fetched": 1779450285
 }
