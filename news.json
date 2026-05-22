@@ -2,9 +2,18 @@
   "ok": true,
   "articles": [
     {
-      "title": "Webinar zu SHK-Messe-Neu­hei­ten und Wie­ter­bil­dun­gen",
+      "title": "65-%-Regel später: SHK-Ver­band emp­fiehlt Wär­me­pum­pe",
+      "excerpt": "Der Bundestag hat die 65-%-Prozent-Regel beim Heizungstausch in Großstädten verschoben. Der FV SHK-BW begrüßt dies und empfiehlt weiter die Wärmepumpe.",
+      "link": "https://www.sbz-online.de/meldungen/energiepolitik-65-regel-spaeter-shk-verband-empfiehlt-waermepumpe",
+      "date": 1779446115,
+      "dateStr": "22. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Webinar zu SHK-Messe-Neu­hei­ten und Wei­ter­bil­dun­gen",
       "excerpt": "Ein Webinar von E-Learning Plus bietet einen kompakten Überblick über Neuheiten, Lösungen und Weiterbildungen der diesjährigen SHK-Branchenmessen.",
-      "link": "https://www.sbz-online.de/meldungen/28-mai-2026-1430-uhr-online-webinar-zu-shk-messe-neuheiten-und-wieterbildungen",
+      "link": "https://www.sbz-online.de/meldungen/28-mai-2026-1430-uhr-online-webinar-zu-shk-messe-neuheiten-und-weiterbildungen",
       "date": 1779434448,
       "dateStr": "22. Mai 2026",
       "source": "SBZ Monteur",
@@ -171,16 +180,7 @@
       "dateStr": "18. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "nrg+ integriert e3 New Energy",
-      "excerpt": "Die nrg+ Gruppe integriert die e3 New Energy GmbH und stärkt damit den Fokus auf Wärmepumpen­lösungen für Mehrfamilienhäuser.",
-      "link": "https://www.sbz-online.de/meldungen/akquisitionen-nrg-integriert-e3-new-energy",
-      "date": 1778806806,
-      "dateStr": "15. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1779450285
+  "fetched": 1779460674
 }
