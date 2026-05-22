@@ -2,6 +2,42 @@
   "ok": true,
   "articles": [
     {
+      "title": "ZVSHK: Dauer-Unruhe hemmt Ge­bäu­de­mo­der­ni­sie­rung",
+      "excerpt": "Der ZVSHK sieht im ständigen Wandel politischer Rahmenbedingungen das größte Hemmnis für die Gebäudemodernisierung. Das neue Gesetz muss Vertrauen schaffen.",
+      "link": "https://www.sbz-online.de/meldungen/gmodg-zvshk-dauer-unruhe-hemmt-gebaeudemodernisierung",
+      "date": 1779411607,
+      "dateStr": "22. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Personelle Veränderungen in der SHK-Branche",
+      "excerpt": "Neue Führungskräfte bei Duravit, Bluu Unit, Laufen und dem BTGA bestätigt oder neu berufen.",
+      "link": "https://www.sbz-online.de/meldungen/personalien-personelle-veraenderungen-der-shk-branche-28",
+      "date": 1779411606,
+      "dateStr": "22. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "BFS startet Kom­pe­tenz­tag „Treff­punkt Käl­te­blick“",
+      "excerpt": "Die Bundesfachschule Kälte-Klima-Technik veranstaltete erstmals den „Treffpunkt Kälteblick“, ein neues, jährliches Forum zu zentralen Themen der Kältetechnik.",
+      "link": "https://www.sbz-online.de/meldungen/kaeltetechnik-bfs-startet-kompetenztag-treffpunkt-kaelteblick",
+      "date": 1779411606,
+      "dateStr": "22. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Professur für nach­hal­ti­ge Wär­me­ver­sor­gung in Zittau/Görlitz",
+      "excerpt": "Prof. Dr. Clemens Schneider (Fraunhofer IEG) übernimmt eine Professur für nachhaltige Wärmeversorgung an der Hochschule Zittau/Görlitz.",
+      "link": "https://www.sbz-online.de/meldungen/energiewende-professur-fuer-nachhaltige-waermeversorgung-zittau-goerlitz",
+      "date": 1779411605,
+      "dateStr": "22. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Neues Jahr­buch „So­la­re Wär­me 2026“ er­schie­nen",
       "excerpt": "Das „Jahrbuch Solare Wärme 2026“ zeigt auf 116 Seiten die Rolle der Solarthermie für die Wärmewende, von Eigenheimen bis zur Industrie.",
       "link": "https://www.sbz-online.de/meldungen/solarthermie-neues-jahrbuch-solare-waerme-2026-erschienen",
@@ -144,43 +180,7 @@
       "dateStr": "14. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Interdomus Cheftage 2026 bei Blanke Systems",
-      "excerpt": "Über 40 Teilnehmer der diesjähjrigen Interdomus Cheftage besuchten Blanke Systems in Iserlohn. Im Fokus: Produktion, Systemlösungen und Branchentrends.",
-      "link": "https://www.sbz-online.de/meldungen/shk-branche-interdomus-cheftage-2026-bei-blanke-systems",
-      "date": 1778720407,
-      "dateStr": "14. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Gaiser baut MSR- und Käl­te­kom­pe­tenz­zen­trum auf",
-      "excerpt": "Mit der Integration der Kelvin ABT GmbH baut die Gaiser-Gruppe ein neues Kompetenzzentrum für MSR- und Kältetechnik mit Fokus auf natürliche Kältemittel auf.",
-      "link": "https://www.sbz-online.de/meldungen/akquisitionen-gaiser-baut-msr-und-kaeltekompetenzzentrum-auf",
-      "date": 1778720406,
-      "dateStr": "14. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "GModG: SHK-Handwerk kriti­siert feh­lende Sach­politik",
-      "excerpt": "Der Fachverband SHK Baden-Württemberg wünscht vor dem Hintergrund des am 13. Mai 2026 verabschiedeten GModG u. a. die Rückkehr zur Sachlichkeit.",
-      "link": "https://www.sbz-online.de/meldungen/gebaeudemodernisierungsgesetz-gmodg-shk-handwerk-kritisiert-fehlende-sachpolitik",
-      "date": 1778671497,
-      "dateStr": "13. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Online Schulung: Hydraulischer Ab­gleich an Wärme­pumpen",
-      "excerpt": "Der BWP veranstaltet eine Online-Schulung zum hydraulischen Ab­gleich bei Wär­me­pum­pen. 8 Fort­bil­dungs­punkte sind an­rechenbar.",
-      "link": "https://www.sbz-online.de/meldungen/11062026-930-bis-1730-uhr-online-online-schulung-hydraulischer-abgleich-waermepumpen",
-      "date": 1778647927,
-      "dateStr": "13. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1779408097
+  "fetched": 1779425970
 }
