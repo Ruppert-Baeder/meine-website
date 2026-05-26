@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "Webinar: Von heißer Luft zum Um­satz – Klima und Lüf­tung nutzen",
+      "excerpt": "Das SBZ-Webinar zeigt, wie SHK-Betriebe mit Klima- und Lüf­tungs­technik ein sta­biles Zusatz­geschäft auf­bauen und neue Auf­träge sichern.",
+      "link": "https://events.gentner.de/de/wie-lueftung-und-klima-zum-lohnenden-geschaeftsfeld-fuer-shk-handwerksbetriebe-werden",
+      "date": 1779757206,
+      "dateStr": "26. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
+      "title": "Schöffel Pro und Richter+­Frenzel star­ten Ko­ope­ra­ti­on",
+      "excerpt": "Schöffel Pro und Richter+Frenzel kooperieren: Arbeitskleidung der Workwear-Marke gibt es ab sofort in ausgewählten Profistores des Großhändlers.",
+      "link": "https://www.sbz-online.de/meldungen/berufskleidung-schoeffel-pro-und-richterfrenzel-starten-kooperation",
+      "date": 1779757206,
+      "dateStr": "26. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "SHK-Handwerk meldet schwä­chere Nachfrage",
+      "excerpt": "Im April 2026 trübt sich die Lage im SHK-Hand­werk leicht ein. Hei­zung verliert deut­lich. Auch Sanitär liegt unter dem Vor­monat.",
+      "link": "https://www.sbz-online.de/meldungen/marktdaten-shk-handwerk-meldet-schwaechere-nachfrage",
+      "date": 1779757205,
+      "dateStr": "26. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
       "title": "65-%-Regel später: SHK-Ver­band emp­fiehlt Wär­me­pum­pe",
       "excerpt": "Der Bundestag hat die 65-%-Prozent-Regel beim Heizungstausch in Großstädten verschoben. Der FV SHK-BW begrüßt dies und empfiehlt weiter die Wärmepumpe.",
       "link": "https://www.sbz-online.de/meldungen/energiepolitik-65-regel-spaeter-shk-verband-empfiehlt-waermepumpe",
@@ -153,34 +180,7 @@
       "dateStr": "18. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Kaldewei eröffnet Brand Space in Berlin",
-      "excerpt": "2026 inszeniert Kaldewei seine Marke international – mit einem neuen Brand Space in Berlin sowie Präsenzen in Mailand und Madrid.",
-      "link": "https://www.sbz-online.de/meldungen/badgestaltung-kaldewei-eroeffnet-brand-space-berlin",
-      "date": 1779066007,
-      "dateStr": "18. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Umsatzrückgang bremst die SHK-Branche",
-      "excerpt": "Das SHK-Handwerk verzeichnete 2025 einen leichten Umsatzrückgang. Politische Unsicherheit und Fachkräftemangel bremsen die Entwicklung.",
-      "link": "https://www.sbz-online.de/meldungen/shk-konjunktur-umsatzrueckgang-bremst-die-shk-branche",
-      "date": 1779066006,
-      "dateStr": "18. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "DEPI-Broschüre: Pel­let­hei­zun­gen im Groß­be­reich",
-      "excerpt": "Das DEPI hat eine Broschüre veröffentlicht, die Planung und Betrieb von Pelletheizanlagen im großen Leistungsbereich beleuchtet und Praxisbeispiele zeigt.",
-      "link": "https://www.sbz-online.de/meldungen/planungsleitfaden-depi-broschuere-pelletheizungen-im-grossbereich",
-      "date": 1779066005,
-      "dateStr": "18. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1779750056
+  "fetched": 1779766286
 }
