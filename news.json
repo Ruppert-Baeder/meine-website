@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "Kaltes Nah­wär­me­netz für den „Neu­en Soes­ter Nor­den“",
+      "excerpt": "Im größten Neubaugebiet der Stadt Soest versorgt eines der bundesweit größten kalten Nahwärmenetze rund 600 Wohneinheiten klimafreundlich mit Erdwärme. Möglich wird dies durch vorgefertigte Großverteiler.",
+      "link": "https://www.sbz-online.de/meldungen/energieversorgung-kaltes-nahwaermenetz-fuer-den-neuen-soester-norden",
+      "date": 1779843607,
+      "dateStr": "27. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Video zeigt ef­fi­zi­en­te Hal­len­hei­zung und -küh­lung",
+      "excerpt": "Ein neues Erklärvideo von Frenger Systemen zeigt Lösungen zur Hallenklimatisierung mit modernen Deckenstrahlheiz- und -kühlsystemen.",
+      "link": "https://www.sbz-online.de/meldungen/hallenklima-video-zeigt-effiziente-hallenheizung-und-kuehlung",
+      "date": 1779843606,
+      "dateStr": "27. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Herocon 2026: über 1000 Schü­ler er­war­tet",
+      "excerpt": "Die Herocon 2026 in Dortmund bringt erstmals über 1000 Schüler in der „Erlebniswelt Ausbildung“ mit Handwerksberufen in Kontakt.",
+      "link": "https://www.sbz-online.de/meldungen/12-und-13-juni-2026-dortmund-herocon-2026-ueber-1000-schueler-erwartet",
+      "date": 1779843605,
+      "dateStr": "27. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
       "title": "Webinar: Von heißer Luft zum Um­satz – Klima und Lüf­tung nutzen",
       "excerpt": "Das SBZ-Webinar zeigt, wie SHK-Betriebe mit Klima- und Lüf­tungs­technik ein sta­biles Zusatz­geschäft auf­bauen und neue Auf­träge sichern.",
       "link": "https://events.gentner.de/de/wie-lueftung-und-klima-zum-lohnenden-geschaeftsfeld-fuer-shk-handwerksbetriebe-werden",
@@ -153,34 +180,7 @@
       "dateStr": "19. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "2026-Q1: SHK-Geschäftsklima stagniert knapp über der Null",
-      "excerpt": "Energie­preise und Konsum­zurück­hal­tung be­las­ten: Das SHK-Konjunk­tur­ba­ro­meter ver­bleibt im 1. Quar­tal 2026 auf ein­em nur nie­drigen po­si­tivem Niveau.",
-      "link": "https://www.sbz-online.de/meldungen/shk-konjunkturbarometer-2026-q1-shk-geschaeftsklima-stagniert-knapp-ueber-der-null",
-      "date": 1779152407,
-      "dateStr": "19. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Smart Home"
-    },
-    {
-      "title": "Warum Wärme­wende trotz hoher Zu­stim­mung stockt",
-      "excerpt": "Eine aktuelle co2online-Umfrage zeigt, dass die Unsi­cher­heit über poli­ti­sche Vor­ga­ben sanie­rungs­will­lige Haus­ei­gen­tümer aus­bremst.",
-      "link": "https://www.sbz-online.de/meldungen/umfrage-warum-waermewende-trotz-hoher-zustimmung-stockt",
-      "date": 1779152406,
-      "dateStr": "19. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Webinar: Ihr Telefon nervt? Lassen Sie die KI rangehen.",
-      "excerpt": "KI regelt Telefon und Orga, Sie küm­mern sich ums Geschäft. Wie das geht, zeigt das SBZ-Webinar am 10. Juni.",
-      "link": "https://events.gentner.de/de/ki-und-digitalisierung-im-shk-handwerk-hallopetra",
-      "date": 1779087012,
-      "dateStr": "18. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1779840210
+  "fetched": 1779858862
 }
