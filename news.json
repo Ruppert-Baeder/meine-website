@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Webinar: Ihr Telefon nervt? Lassen Sie die KI rangehen.",
+      "excerpt": "KI regelt Telefon und Orga, Sie küm­mern sich ums Geschäft. Wie das geht, zeigt das SBZ-Webinar am 10. Juni.",
+      "link": "https://events.gentner.de/de/ki-und-digitalisierung-im-shk-handwerk-hallopetra",
+      "date": 1779951012,
+      "dateStr": "28. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Systeme für SHK-Profis: biobasiert, rand­los, mobil",
+      "excerpt": "Bio-Bodenablauf, Abluft-WP mit Propan, Aufsatz­schalen ohne sicht­baren Über­lauf, smarte Inspek­tions­kamera, akku­be­trie­bene Espresso­maschine.",
+      "link": "https://www.sbz-online.de/meldungen/abgesteckt-systeme-fuer-shk-profis-biobasiert-randlos-mobil",
+      "date": 1779946883,
+      "dateStr": "28. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Duschwelten er­setzt Sty­ro­por durch Kar­to­na­ge",
       "excerpt": "Seit Jahresbeginn verwendet Duschwelten für alle Produkte ausschließlich Kartonageverpackungen anstelle von Styropor.",
       "link": "https://www.sbz-online.de/meldungen/nachhaltigkeit-duschwelten-ersetzt-styropor-durch-kartonage",
@@ -162,25 +180,7 @@
       "dateStr": "21. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Vielfältiger Einsatz von Wärmepumpen in Oberfranken",
-      "excerpt": "Die Pressefahrt des BWP besuchte Pro­jekte, die den Ein­satz und die Ska­lier­bar­keit von Wärme­pumpen in unter­schied­li­chen Gebäude­typen ver­deut­lichen.",
-      "link": "https://www.sbz-online.de/meldungen/pressefahrt-des-bwp-vielfaeltiger-einsatz-von-waermepumpen-oberfranken",
-      "date": 1779252755,
-      "dateStr": "20. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Mittelstands-Allianz Haus­tech­nik wird Teil der Euro­bau­stoff",
-      "excerpt": "Die Einkaufs- und Marketing­ver­bund­gruppe mah schließt sich der Euro­baustoff an und stärkt die SHK im Fach­han­dels­netzwerk.",
-      "link": "https://www.sbz-online.de/meldungen/zusammenschluss-mittelstands-allianz-haustechnik-wird-teil-der-eurobaustoff",
-      "date": 1779238805,
-      "dateStr": "20. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1779939259
+  "fetched": 1779955047
 }
