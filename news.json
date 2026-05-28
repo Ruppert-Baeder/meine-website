@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Duschwelten er­setzt Sty­ro­por durch Kar­to­na­ge",
+      "excerpt": "Seit Jahresbeginn verwendet Duschwelten für alle Produkte ausschließlich Kartonageverpackungen anstelle von Styropor.",
+      "link": "https://www.sbz-online.de/meldungen/nachhaltigkeit-duschwelten-ersetzt-styropor-durch-kartonage",
+      "date": 1779930005,
+      "dateStr": "28. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Nordwest beendet 2025 nahe­zu auf Vor­jahres­niveau",
+      "excerpt": "Nordwest hat das Geschäfts­jahr 2025 mit einem Geschäfts­vo­lu­men von 4.654,4 Mio. Euro abgeschlossen. Zah­len und Hin­ter­gründe.",
+      "link": "https://www.sbz-online.de/meldungen/grosshandel-nordwest-beendet-2025-nahezu-auf-vorjahresniveau",
+      "date": 1779930004,
+      "dateStr": "28. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Kaltes Nah­wär­me­netz für den „Neu­en Soes­ter Nor­den“",
       "excerpt": "Im größten Neubaugebiet der Stadt Soest versorgt eines der bundesweit größten kalten Nahwärmenetze rund 600 Wohneinheiten klimafreundlich mit Erdwärme. Möglich wird dies durch vorgefertigte Großverteiler.",
       "link": "https://www.sbz-online.de/meldungen/energieversorgung-kaltes-nahwaermenetz-fuer-den-neuen-soester-norden",
@@ -162,25 +180,7 @@
       "dateStr": "20. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Aschl eröffnet neuen Stand­ort in Wels",
-      "excerpt": "Aschl hat einen neuen Logistik- und Produktionsstandort in Wels in Betrieb genommen. Ziel ist die Beschleunigung der Lieferprozesse.",
-      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-aschl-eroeffnet-neuen-standort-wels",
-      "date": 1779238804,
-      "dateStr": "20. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
-    },
-    {
-      "title": "Hansgrohe feiert Ju­bi­lä­um mit Tex­til­kol­lek­ti­on",
-      "excerpt": "Zum 125-jährigen Bestehen lanciert Armaturenhersteller Hansgrohe eine limitierte Bademantel- und Badebekleidungskollektion.",
-      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-hansgrohe-feiert-jubilaeum-mit-textilkollektion",
-      "date": 1779152407,
-      "dateStr": "19. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1779923781
+  "fetched": 1779939259
 }
