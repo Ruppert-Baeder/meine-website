@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Vitra erhält EcoVadis-Silber für Nach­hal­tig­keit",
+      "excerpt": "Vitra Bad wurde von EcoVadis für ihr Nachhaltigkeitsmanagement mit der Silbermedaille ausgezeichnet und zählt damit zu den besten 15 % weltweit.",
+      "link": "https://www.sbz-online.de/meldungen/auszeichnung-vitra-erhaelt-ecovadis-silber-fuer-nachhaltigkeit",
+      "date": 1780016407,
+      "dateStr": "29. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Kaut: Neue Handbücher für Hitachi-Systeme",
+      "excerpt": "Kaut hat zwei neue technische Hand­bü­cher für Hitachi Klima- und Wärme­pumpen­sys­teme ver­öffentlicht.",
+      "link": "https://www.sbz-online.de/meldungen/arbeitshilfe-kaut-neue-handbuecher-fuer-hitachi-systeme",
+      "date": 1780016405,
+      "dateStr": "29. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Webinar: Ihr Telefon nervt? Lassen Sie die KI rangehen.",
       "excerpt": "KI regelt Telefon und Orga, Sie küm­mern sich ums Geschäft. Wie das geht, zeigt das SBZ-Webinar am 10. Juni.",
       "link": "https://events.gentner.de/de/ki-und-digitalisierung-im-shk-handwerk-hallopetra",
@@ -162,25 +180,7 @@
       "dateStr": "21. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "dena-Gebäudereport: Wär­me­pum­pen über­ho­len Gas­hei­zun­gen",
-      "excerpt": "Der dena-Gebäudereport 2026 zeigt: 2025 wurden erstmals mehr Wärmepumpen als Gasheizungen verkauft. Wärmeplanung und serielle Sanierung machen Fortschritte.",
-      "link": "https://www.sbz-online.de/meldungen/waermewende-dena-gebaeudereport-waermepumpen-ueberholen-gasheizungen",
-      "date": 1779325206,
-      "dateStr": "21. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Helios: KWL EC 70-Funk­tio­nen per Vi­deo­spiel",
-      "excerpt": "Helios Ventilatoren präsentiert sein dezentrales Wohnungslüftungsgerät KWL EC 70 mit einer neuen, interaktiven Kampagne im Videospiel-Stil.",
-      "link": "https://www.sbz-online.de/meldungen/wohnungslueftung-helios-kwl-ec-70-funktionen-videospiel",
-      "date": 1779325205,
-      "dateStr": "21. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1780010170
+  "fetched": 1780025697
 }
