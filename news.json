@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Neue Maßstäbe in der thermischen Energiemessung",
+      "excerpt": "In der modernen Haustechnik und industriellen Wärmeversorgung steigen die Anforderungen an Messgenauigkeit und Konnektivität stetig. Mit dem Superflow-U® Typ K6 Multical® 603 rückt ein Ultraschall-Wärme- und Kältezähler ",
+      "link": "https://www.sbz-online.de/mess-und-regeltechnik/neue-massstaebe-der-thermischen-energiemessung",
+      "date": 1780031347,
+      "dateStr": "29. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Wenn die Frage nach dem Wert konkret wird: eine erste Hausnummer für SHK-Betriebe in zehn Minuten",
+      "excerpt": "Inhaber eines Heizungs- oder Sanitärbetriebs haben oft eine grobe Vorstellung davon, was ihr Betrieb am Markt wert sein könnte. Spätestens wenn die Nachfolge konkret wird, ein Mitbewerber anfragt, oder ein Gutachten für ",
+      "link": "https://www.sbz-online.de/betrieb/wenn-die-frage-nach-dem-wert-konkret-wird-eine-erste-hausnummer-fuer-shk-betriebe-zehn",
+      "date": 1780031030,
+      "dateStr": "29. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Vitra erhält EcoVadis-Silber für Nach­hal­tig­keit",
       "excerpt": "Vitra Bad wurde von EcoVadis für ihr Nachhaltigkeitsmanagement mit der Silbermedaille ausgezeichnet und zählt damit zu den besten 15 % weltweit.",
       "link": "https://www.sbz-online.de/meldungen/auszeichnung-vitra-erhaelt-ecovadis-silber-fuer-nachhaltigkeit",
@@ -162,25 +180,7 @@
       "dateStr": "22. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Neues Jahr­buch „So­la­re Wär­me 2026“ er­schie­nen",
-      "excerpt": "Das „Jahrbuch Solare Wärme 2026“ zeigt auf 116 Seiten die Rolle der Solarthermie für die Wärmewende, von Eigenheimen bis zur Industrie.",
-      "link": "https://www.sbz-online.de/meldungen/solarthermie-neues-jahrbuch-solare-waerme-2026-erschienen",
-      "date": 1779339294,
-      "dateStr": "21. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Infrarotheizung: Bau­stein für be­zahl­ba­res Bau­en und Woh­nen",
-      "excerpt": "Die 4. IG Infrarot Konferenz bestätigte: Infrarotheiztechnik senkt Kosten im Neubau und Bestand und ist wirtschaftlich sowie vielseitig einsetzbar.",
-      "link": "https://www.sbz-online.de/meldungen/heizsysteme-infrarotheizung-baustein-fuer-bezahlbares-bauen-und-wohnen",
-      "date": 1779325206,
-      "dateStr": "21. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1780025697
+  "fetched": 1780041334
 }
