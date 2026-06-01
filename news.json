@@ -2,6 +2,42 @@
   "ok": true,
   "articles": [
     {
+      "title": "Intersolar-Forum: Power-to-Heat – Strom und Wärme koppeln",
+      "excerpt": "Das Intersolar-Forum zum Thema Power-to-Heat zeigt, wie sich mit solar­elek­trischer Wärme neue Themen ent­wickeln.",
+      "link": "https://www.sbz-online.de/meldungen/23-juni-2026-1330-1500-uhr-messe-muenchen-intersolar-forum-power-heat-strom-und-waerme",
+      "date": 1780279206,
+      "dateStr": "1. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Webinar: Bürokratie? Läuft jetzt nebenbei",
+      "excerpt": "Gespräche rein, fertige Proto­kolle raus. Plaud, die smarte Büro­hilfe, übernimmt im Betrieb den Papier­kram. Das SBZ-Webinar zeigt, wie´s funktioniert.",
+      "link": "https://events.gentner.de/de/ki-und-digitalisierung-im-shk-handwerk-plaud",
+      "date": 1780275605,
+      "dateStr": "1. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "DEPI: Online-Tool zur Hei­zungs­be­ra­tung",
+      "excerpt": "Das Deutsche Pelletinstitut stellt eine kostenlose digitale Entscheidungshilfe vor. Sie bietet Hauseigentümern Orientierung bei der Wahl eines neuen Heizsystems.",
+      "link": "https://www.sbz-online.de/meldungen/heizungssysteme-depi-online-tool-zur-heizungsberatung",
+      "date": 1780275605,
+      "dateStr": "1. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Elco setzt auf regio­nale Schulungen",
+      "excerpt": "Elco erweitert bundesweit das Schu­lungs­pro­gramm in den Regio­nen und stärkt die Wärme­pum­pen Aka­demie in Hechingen als Kompe­tenz­zentrum.",
+      "link": "https://www.sbz-online.de/meldungen/weiterbildung-elco-setzt-auf-regionale-schulungen",
+      "date": 1780275604,
+      "dateStr": "1. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Neue Maßstäbe in der thermischen Energiemessung",
       "excerpt": "In der modernen Haustechnik und industriellen Wärmeversorgung steigen die Anforderungen an Messgenauigkeit und Konnektivität stetig. Mit dem Superflow-U® Typ K6 Multical® 603 rückt ein Ultraschall-Wärme- und Kältezähler ",
       "link": "https://www.sbz-online.de/mess-und-regeltechnik/neue-massstaebe-der-thermischen-energiemessung",
@@ -144,43 +180,7 @@
       "dateStr": "22. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Branche"
-    },
-    {
-      "title": "ZVSHK: Dauer-Unruhe hemmt Ge­bäu­de­mo­der­ni­sie­rung",
-      "excerpt": "Der ZVSHK sieht im ständigen Wandel politischer Rahmenbedingungen das größte Hemmnis für die Gebäudemodernisierung. Das neue Gesetz muss Vertrauen schaffen.",
-      "link": "https://www.sbz-online.de/meldungen/gmodg-zvshk-dauer-unruhe-hemmt-gebaeudemodernisierung",
-      "date": 1779411607,
-      "dateStr": "22. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Personelle Veränderungen in der SHK-Branche",
-      "excerpt": "Neue Führungskräfte bei Duravit, Bluu Unit, Laufen und dem BTGA bestätigt oder neu berufen.",
-      "link": "https://www.sbz-online.de/meldungen/personalien-personelle-veraenderungen-der-shk-branche-28",
-      "date": 1779411606,
-      "dateStr": "22. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "BFS startet Kom­pe­tenz­tag „Treff­punkt Käl­te­blick“",
-      "excerpt": "Die Bundesfachschule Kälte-Klima-Technik veranstaltete erstmals den „Treffpunkt Kälteblick“, ein neues, jährliches Forum zu zentralen Themen der Kältetechnik.",
-      "link": "https://www.sbz-online.de/meldungen/kaeltetechnik-bfs-startet-kompetenztag-treffpunkt-kaelteblick",
-      "date": 1779411606,
-      "dateStr": "22. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Professur für nach­hal­ti­ge Wär­me­ver­sor­gung in Zittau/Görlitz",
-      "excerpt": "Prof. Dr. Clemens Schneider (Fraunhofer IEG) übernimmt eine Professur für nachhaltige Wärmeversorgung an der Hochschule Zittau/Görlitz.",
-      "link": "https://www.sbz-online.de/meldungen/energiewende-professur-fuer-nachhaltige-waermeversorgung-zittau-goerlitz",
-      "date": 1779411605,
-      "dateStr": "22. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1780269077
+  "fetched": 1780286539
 }
