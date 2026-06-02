@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "Webinar: Von heißer Luft zum Um­satz – Klima und Lüf­tung nutzen",
+      "excerpt": "Das SBZ-Webinar zeigt, wie SHK-Betriebe mit Klima- und Lüf­tungs­technik ein sta­biles Zusatz­geschäft auf­bauen und neue Auf­träge sichern.",
+      "link": "https://events.gentner.de/de/wie-lueftung-und-klima-zum-lohnenden-geschaeftsfeld-fuer-shk-handwerksbetriebe-werden",
+      "date": 1780390806,
+      "dateStr": "2. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
+      "title": "5. Generation übernimmt Füh­rung bei Reisser",
+      "excerpt": "Zum 1. Juni haben Jessica Reißer und Marten Reißer als Co-CEOs die Leitung des Familien­unter­neh­mens Reisser über­nommen.",
+      "link": "https://www.sbz-online.de/meldungen/personalie-5-generation-uebernimmt-fuehrung-bei-reisser",
+      "date": 1780390210,
+      "dateStr": "2. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
+      "title": "„Holzwärme im GModG stär­ken, nicht grund­los be­schränken!“",
+      "excerpt": "Holz bleibt zentral für erneuer­bare Wärme in Deutsch­land. Der DEPV fordert Nach­bes­se­run­gen am Ent­wurf des Gebäude­mo­der­ni­sie­rungs­gesetzes.",
+      "link": "https://www.sbz-online.de/meldungen/holzenergie-holzwaerme-im-gmodg-staerken-nicht-grundlos-beschraenken",
+      "date": 1780384416,
+      "dateStr": "2. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "SBZ ruft an bei Stiebel Eltron zu 50 Jah­ren Wärme­pumpe",
       "excerpt": "In Folge 11 von „SBZ ruft an“ spricht Dennis Jäger mit Henning Schulz von Stiebel Eltron über 5 Jahr­zehnte Wär­me­pum­pen­ge­schichte in Deutschland.",
       "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-bei-stiebel-eltron-zu-50-jahren-waermepumpe",
@@ -153,34 +180,7 @@
       "dateStr": "27. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Video zeigt ef­fi­zi­en­te Hal­len­hei­zung und -küh­lung",
-      "excerpt": "Ein neues Erklärvideo von Frenger Systemen zeigt Lösungen zur Hallenklimatisierung mit modernen Deckenstrahlheiz- und -kühlsystemen.",
-      "link": "https://www.sbz-online.de/meldungen/hallenklima-video-zeigt-effiziente-hallenheizung-und-kuehlung",
-      "date": 1779843606,
-      "dateStr": "27. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Herocon 2026: über 1000 Schü­ler er­war­tet",
-      "excerpt": "Die Herocon 2026 in Dortmund bringt erstmals über 1000 Schüler in der „Erlebniswelt Ausbildung“ mit Handwerksberufen in Kontakt.",
-      "link": "https://www.sbz-online.de/meldungen/12-und-13-juni-2026-dortmund-herocon-2026-ueber-1000-schueler-erwartet",
-      "date": 1779843605,
-      "dateStr": "27. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
-    },
-    {
-      "title": "Webinar: Von heißer Luft zum Um­satz – Klima und Lüf­tung nutzen",
-      "excerpt": "Das SBZ-Webinar zeigt, wie SHK-Betriebe mit Klima- und Lüf­tungs­technik ein sta­biles Zusatz­geschäft auf­bauen und neue Auf­träge sichern.",
-      "link": "https://events.gentner.de/de/wie-lueftung-und-klima-zum-lohnenden-geschaeftsfeld-fuer-shk-handwerksbetriebe-werden",
-      "date": 1779757206,
-      "dateStr": "26. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
     }
   ],
-  "fetched": 1780389614
+  "fetched": 1780404092
 }
