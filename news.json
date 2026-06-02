@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "BVF Symposium 2026: Fokus Nie­der­tem­pe­ra­tur­sys­te­me",
+      "excerpt": "Das BVF Symposium 2026 rückt Niedertemperatursysteme und Flächenheizungen als Schlüsseltechnologie der Wärmewende in den Fokus.",
+      "link": "https://www.sbz-online.de/meldungen/04-bis-05-november-2026-bochum-bvf-symposium-2026-fokus-niedertemperatursysteme",
+      "date": 1780362005,
+      "dateStr": "2. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "E.C.A. etabliert flä­chen­de­cken­des Ver­triebs­netz",
+      "excerpt": "Seit Februar ist für E.C.A. ein deutschlandweites Kundenbetreuungsteam aktiv. Ziel ist die Stärkung der Beratungsqualität im Fachhandel.",
+      "link": "https://www.sbz-online.de/meldungen/shk-vertrieb-eca-etabliert-flaechendeckendes-vertriebsnetz",
+      "date": 1780362004,
+      "dateStr": "2. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Intersolar-Forum: Power-to-Heat – Strom und Wärme koppeln",
       "excerpt": "Das Intersolar-Forum zum Thema Power-to-Heat zeigt, wie sich mit solar­elek­trischer Wärme neue Themen ent­wickeln.",
       "link": "https://www.sbz-online.de/meldungen/23-juni-2026-1330-1500-uhr-messe-muenchen-intersolar-forum-power-heat-strom-und-waerme",
@@ -162,25 +180,7 @@
       "dateStr": "26. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Sanitär"
-    },
-    {
-      "title": "65-%-Regel später: SHK-Ver­band emp­fiehlt Wär­me­pum­pe",
-      "excerpt": "Der Bundestag hat die 65-%-Regel beim Heizungstausch in Großstädten verschoben. Der FV SHK-BW begrüßt dies und empfiehlt weiter die Wärmepumpe.",
-      "link": "https://www.sbz-online.de/meldungen/energiepolitik-65-regel-spaeter-shk-verband-empfiehlt-waermepumpe",
-      "date": 1779446115,
-      "dateStr": "22. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Webinar zu SHK-Messe-Neu­hei­ten und Wei­ter­bil­dun­gen",
-      "excerpt": "Ein Webinar von E-Learning Plus bietet einen kompakten Überblick über Neuheiten, Lösungen und Weiterbildungen der diesjährigen SHK-Branchenmessen.",
-      "link": "https://www.sbz-online.de/meldungen/28-mai-2026-1430-uhr-online-webinar-zu-shk-messe-neuheiten-und-weiterbildungen",
-      "date": 1779434448,
-      "dateStr": "22. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
     }
   ],
-  "fetched": 1780354877
+  "fetched": 1780372623
 }
