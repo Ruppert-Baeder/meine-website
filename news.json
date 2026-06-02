@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "SBZ ruft an bei Stiebel Eltron zu 50 Jah­ren Wärme­pumpe",
+      "excerpt": "In Folge 11 von „SBZ ruft an“ spricht Dennis Jäger mit Henning Schulz von Stiebel Eltron über 5 Jahr­zehnte Wär­me­pum­pen­ge­schichte in Deutschland.",
+      "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-bei-stiebel-eltron-zu-50-jahren-waermepumpe",
+      "date": 1780381972,
+      "dateStr": "2. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Industrielle Abwärme versorgt Düsseldorfer Süden",
+      "excerpt": "Henkel und die Stadtwerke Düssel­dorf haben ein wegweisendes Projekt gestartet: Indus­tri­elle Ab­wärme wird künftig in das Fern­wärme­netz ein­ge­speist.",
+      "link": "https://www.sbz-online.de/meldungen/waermewende-industrielle-abwaerme-versorgt-duesseldorfer-sueden",
+      "date": 1780379519,
+      "dateStr": "2. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "BVF Symposium 2026: Fokus Nie­der­tem­pe­ra­tur­sys­te­me",
       "excerpt": "Das BVF Symposium 2026 rückt Niedertemperatursysteme und Flächenheizungen als Schlüsseltechnologie der Wärmewende in den Fokus.",
       "link": "https://www.sbz-online.de/meldungen/04-bis-05-november-2026-bochum-bvf-symposium-2026-fokus-niedertemperatursysteme",
@@ -162,25 +180,7 @@
       "dateStr": "26. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Branche"
-    },
-    {
-      "title": "Schöffel Pro und Richter+­Frenzel star­ten Ko­ope­ra­ti­on",
-      "excerpt": "Schöffel Pro und Richter+Frenzel kooperieren: Arbeitskleidung der Workwear-Marke gibt es ab sofort in ausgewählten Profistores des Großhändlers.",
-      "link": "https://www.sbz-online.de/meldungen/berufskleidung-schoeffel-pro-und-richterfrenzel-starten-kooperation",
-      "date": 1779757206,
-      "dateStr": "26. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "SHK-Handwerk meldet schwä­chere Nachfrage",
-      "excerpt": "Im April 2026 trübt sich die Lage im SHK-Hand­werk leicht ein. Hei­zung verliert deut­lich. Auch Sanitär liegt unter dem Vor­monat.",
-      "link": "https://www.sbz-online.de/meldungen/marktdaten-shk-handwerk-meldet-schwaechere-nachfrage",
-      "date": 1779757205,
-      "dateStr": "26. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
     }
   ],
-  "fetched": 1780372623
+  "fetched": 1780389614
 }
