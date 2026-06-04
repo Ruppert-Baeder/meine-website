@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Härtere Strafen für illegalen Kältemittelhandel gefordert",
+      "excerpt": "Die Kälte- und Klimabranche fordert stren­gere Stra­fen gegen Um­welt­kri­mi­na­li­tät – vor allem beim ille­ga­len Han­del mit F-Gasen.",
+      "link": "https://www.sbz-online.de/meldungen/kaeltemittel-schwarzmarkt-haertere-strafen-fuer-illegalen-kaeltemittelhandel-gefordert",
+      "date": 1780534805,
+      "dateStr": "4. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Neue ErP 2026 ver­schärft An­for­de­run­gen ab Juli",
+      "excerpt": "Die ErP 2026 verschärft ab Juli die Anforderungen an Ventilatoren deutlich. Das betrifft neben den Herstellern auch OEMs, Anlagenbauer und Betreiber.",
+      "link": "https://www.sbz-online.de/meldungen/ventilatoren-neue-erp-2026-verschaerft-anforderungen-ab-juli",
+      "date": 1780534805,
+      "dateStr": "4. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Förderung"
+    },
+    {
       "title": "SHK Podcast: Füh­rung, Fach­kräf­te & Kul­tur",
       "excerpt": "Im Gespräch mit Kathrin Post-Isenberg, Handwerks-Expertin und Podcasterin, geht es um die zentralen Herausforderungen und Chancen der Branche.",
       "link": "https://www.sbz-online.de/meldungen/shke-radio-shk-podcast-fuehrung-fachkraefte-kultur",
@@ -162,25 +180,7 @@
       "dateStr": "28. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Systeme für SHK-Profis: biobasiert, rand­los, mobil",
-      "excerpt": "Bio-Bodenablauf, Abluft-WP mit Propan, Aufsatz­schalen ohne sicht­baren Über­lauf, smarte Inspek­tions­kamera, akku­be­trie­bene Espresso­maschine.",
-      "link": "https://www.sbz-online.de/meldungen/abgesteckt-systeme-fuer-shk-profis-biobasiert-randlos-mobil",
-      "date": 1779946883,
-      "dateStr": "28. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Duschwelten er­setzt Sty­ro­por durch Kar­to­na­ge",
-      "excerpt": "Seit Jahresbeginn verwendet Duschwelten für alle Produkte ausschließlich Kartonageverpackungen anstelle von Styropor.",
-      "link": "https://www.sbz-online.de/meldungen/nachhaltigkeit-duschwelten-ersetzt-styropor-durch-kartonage",
-      "date": 1779930005,
-      "dateStr": "28. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1780530188
+  "fetched": 1780545530
 }
