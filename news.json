@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Sita feiert 50 Jah­re Flach­dach­ent­wäs­se­rung",
+      "excerpt": "Sita Bauelemente feiert 50-jähriges Bestehen. Aus einem Ein-Mann-Betrieb wurde ein etablierter Anbieter von Flachdachentwässerungsprodukten.",
+      "link": "https://www.sbz-online.de/meldungen/jubilaeum-sita-feiert-50-jahre-flachdachentwaesserung",
+      "date": 1780880405,
+      "dateStr": "8. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
       "title": "Hero Software in­te­griert di­gi­ta­les Fi­nanz­ma­nage­ment",
       "excerpt": "Neue Funktionen für Rechnungsabgleich, Mahnwesen und Online-Zahlungen sollen das Finanzmanagement von Handwerksbetrieben vereinfachen.",
       "link": "https://www.sbz-online.de/meldungen/handwerkersoftware-hero-software-integriert-digitales-finanzmanagement",
@@ -146,6 +155,15 @@
       "category": "Heizung"
     },
     {
+      "title": "VDMA: Stimmung stabil – Geschäfts­lage bleibt heraus­fordernd",
+      "excerpt": "Die Stimmung im deutschen Sanitär­markt bleibt trotz wirt­schaft­licher Unsi­cher­hei­ten stabil. Vor allem das Reno­vie­rungs­ge­schäft treibt die Bran­che voran.",
+      "link": "https://www.sbz-online.de/meldungen/marktdaten-vdma-stimmung-stabil-geschaeftslage-bleibt-herausfordernd",
+      "date": 1780041617,
+      "dateStr": "29. Mai 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
       "title": "Neue Maßstäbe in der thermischen Energiemessung",
       "excerpt": "In der modernen Haustechnik und industriellen Wärmeversorgung steigen die Anforderungen an Messgenauigkeit und Konnektivität stetig. Mit dem Superflow-U® Typ K6 Multical® 603 rückt ein Ultraschall-Wärme- und Kältezähler ",
       "link": "https://www.sbz-online.de/mess-und-regeltechnik/neue-massstaebe-der-thermischen-energiemessung",
@@ -162,25 +180,7 @@
       "dateStr": "29. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Vitra erhält EcoVadis-Silber für Nach­hal­tig­keit",
-      "excerpt": "Vitra Bad wurde von EcoVadis für ihr Nachhaltigkeitsmanagement mit der Silbermedaille ausgezeichnet und zählt damit zu den besten 15 % weltweit.",
-      "link": "https://www.sbz-online.de/meldungen/auszeichnung-vitra-erhaelt-ecovadis-silber-fuer-nachhaltigkeit",
-      "date": 1780016407,
-      "dateStr": "29. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Kaut: Neue Handbücher für Hitachi-Systeme",
-      "excerpt": "Kaut hat zwei neue technische Hand­bü­cher für Hitachi Klima- und Wärme­pumpen­sys­teme ver­öffentlicht.",
-      "link": "https://www.sbz-online.de/meldungen/arbeitshilfe-kaut-neue-handbuecher-fuer-hitachi-systeme",
-      "date": 1780016405,
-      "dateStr": "29. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1780877225
+  "fetched": 1780897808
 }
