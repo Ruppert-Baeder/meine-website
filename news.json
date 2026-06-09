@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Dornbracht und Wahl eröff­nen neues Studio in Stuttgart",
+      "excerpt": "Dornbracht erweitert seine Prä­senz in Süd­deutsch­land: In Stutt­gart-West eröff­nete der Arma­tu­ren­her­stel­ler ein Studio beim Bad­spe­zia­lis­ten Wahl.",
+      "link": "https://www.sbz-online.de/meldungen/kooperation-dornbracht-und-wahl-eroeffnen-neues-studio-stuttgart",
+      "date": 1780966808,
+      "dateStr": "9. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
+      "title": "ISH 2027 positioniert Pools und Spas als Zukunftsfeld",
+      "excerpt": "Die ISH 2027 schafft einen Treff­punkt für Pools und Spas. In Halle 3.0 wer­den Lösun­gen prä­sen­tiert, die Ener­gie­effi­zienz und Nutzer­kom­fort fokussieren.",
+      "link": "https://www.sbz-online.de/meldungen/15-bis-19-maerz-2027-frankfurt-ish-2027-positioniert-pools-und-spas-als-zukunftsfeld",
+      "date": 1780966807,
+      "dateStr": "9. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Sita feiert 50 Jah­re Flach­dach­ent­wäs­se­rung",
       "excerpt": "Sita Bauelemente feiert 50-jähriges Bestehen. Aus einem Ein-Mann-Betrieb wurde ein etablierter Anbieter von Flachdachentwässerungsprodukten.",
       "link": "https://www.sbz-online.de/meldungen/jubilaeum-sita-feiert-50-jahre-flachdachentwaesserung",
@@ -162,25 +180,7 @@
       "dateStr": "29. Mai 2026",
       "source": "SBZ Monteur",
       "category": "Sanitär"
-    },
-    {
-      "title": "Neue Maßstäbe in der thermischen Energiemessung",
-      "excerpt": "In der modernen Haustechnik und industriellen Wärmeversorgung steigen die Anforderungen an Messgenauigkeit und Konnektivität stetig. Mit dem Superflow-U® Typ K6 Multical® 603 rückt ein Ultraschall-Wärme- und Kältezähler ",
-      "link": "https://www.sbz-online.de/mess-und-regeltechnik/neue-massstaebe-der-thermischen-energiemessung",
-      "date": 1780031347,
-      "dateStr": "29. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Wenn die Frage nach dem Wert konkret wird: eine erste Hausnummer für SHK-Betriebe in zehn Minuten",
-      "excerpt": "Inhaber eines Heizungs- oder Sanitärbetriebs haben oft eine grobe Vorstellung davon, was ihr Betrieb am Markt wert sein könnte. Spätestens wenn die Nachfolge konkret wird, ein Mitbewerber anfragt, oder ein Gutachten für ",
-      "link": "https://www.sbz-online.de/betrieb/wenn-die-frage-nach-dem-wert-konkret-wird-eine-erste-hausnummer-fuer-shk-betriebe-zehn",
-      "date": 1780031030,
-      "dateStr": "29. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1780963527
+  "fetched": 1780981517
 }
