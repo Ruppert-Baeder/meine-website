@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Systeme für SHK-Profis: budget­freund­lich, sinn­lich, werk­zeuglos",
+      "excerpt": "Wärmepumpe für Einsteiger, Bade­wanne mit sinn­li­chen Funk­tio­nen, Mess­ge­rä­te­kombi für Was­ser­ins­tal­la­tio­nen, mon­ta­ge­freund­li­cher Dusch­wan­nen­ab­lauf.",
+      "link": "https://www.sbz-online.de/meldungen/abgesteckt-systeme-fuer-shk-profis-budgetfreundlich-sinnlich-werkzeuglos",
+      "date": 1781072502,
+      "dateStr": "10. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "HERO AI – KI für effi­zien­tere Ab­läufe im Hand­werk",
       "excerpt": "HERO AI integriert KI-Funk­tio­nen wie Tele­fon­as­sis­tenz und Bau­stellen­do­ku­men­ta­tion ins Betriebs­system, um Pro­zesse im Hand­werks­be­trieb zu opti­mieren.",
       "link": "https://www.sbz-online.de/meldungen/digitale-tools-hero-ai-ki-fuer-effizientere-ablaeufe-im-handwerk",
@@ -171,16 +180,7 @@
       "dateStr": "1. Jun. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "DEPI: Online-Tool zur Hei­zungs­be­ra­tung",
-      "excerpt": "Das Deutsche Pelletinstitut stellt eine kostenlose digitale Entscheidungshilfe vor. Sie bietet Hauseigentümern Orientierung bei der Wahl eines neuen Heizsystems.",
-      "link": "https://www.sbz-online.de/meldungen/heizungssysteme-depi-online-tool-zur-heizungsberatung",
-      "date": 1780275605,
-      "dateStr": "1. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1781068669
+  "fetched": 1781085550
 }
