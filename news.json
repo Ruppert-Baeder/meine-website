@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "HERO AI – KI für effi­zien­tere Ab­läufe im Hand­werk",
+      "excerpt": "HERO AI integriert KI-Funk­tio­nen wie Tele­fon­as­sis­tenz und Bau­stellen­do­ku­men­ta­tion ins Betriebs­system, um Pro­zesse im Hand­werks­be­trieb zu opti­mieren.",
+      "link": "https://www.sbz-online.de/meldungen/digitale-tools-hero-ai-ki-fuer-effizientere-ablaeufe-im-handwerk",
+      "date": 1781053206,
+      "dateStr": "10. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
+      "title": "Villeroy & Boch fördert Hilfs­portal gegen Schul­toi­letten-Misere",
+      "excerpt": "Der Zustand von Sanitär­an­lagen in Schu­len ist ein hart­näcki­ges Prob­lem. Ein Online-Portal soll Schu­len bei der Ver­bes­se­rung ihrer Toi­let­ten unter­stützen.",
+      "link": "https://www.sbz-online.de/meldungen/toiletten-machen-schule-villeroy-boch-foerdert-hilfsportal-gegen-schultoiletten-misere",
+      "date": 1781053206,
+      "dateStr": "10. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Dornbracht und Wahl eröff­nen neues Studio in Stuttgart",
       "excerpt": "Dornbracht erweitert seine Prä­senz in Süd­deutsch­land: In Stutt­gart-West eröff­nete der Arma­tu­ren­her­stel­ler ein Studio beim Bad­spe­zia­lis­ten Wahl.",
       "link": "https://www.sbz-online.de/meldungen/kooperation-dornbracht-und-wahl-eroeffnen-neues-studio-stuttgart",
@@ -162,25 +180,7 @@
       "dateStr": "1. Jun. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Elco setzt auf regio­nale Schulungen",
-      "excerpt": "Elco erweitert bundesweit das Schu­lungs­pro­gramm in den Regio­nen und stärkt die Wärme­pum­pen Aka­demie in Hechingen als Kompe­tenz­zentrum.",
-      "link": "https://www.sbz-online.de/meldungen/weiterbildung-elco-setzt-auf-regionale-schulungen",
-      "date": 1780275604,
-      "dateStr": "1. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "VDMA: Stimmung stabil – Geschäfts­lage bleibt heraus­fordernd",
-      "excerpt": "Die Stimmung im deutschen Sanitär­markt bleibt trotz wirt­schaft­licher Unsi­cher­hei­ten stabil. Vor allem das Reno­vie­rungs­ge­schäft treibt die Bran­che voran.",
-      "link": "https://www.sbz-online.de/meldungen/marktdaten-vdma-stimmung-stabil-geschaeftslage-bleibt-herausfordernd",
-      "date": 1780041617,
-      "dateStr": "29. Mai 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
     }
   ],
-  "fetched": 1781050385
+  "fetched": 1781068669
 }
