@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "79. SHK-BW-Verbandstag: Poli­tik, GModG und Aus­bildung",
+      "excerpt": "Der 79. SHK-Verbandstag in Rust beleuchtet GModG, Landes­politik und Aus­bil­dung. Mit Fach­vor­trä­gen, Dis­kus­sio­nen und spe­ziel­len For­ma­ten für Azubis.",
+      "link": "https://www.sbz-online.de/meldungen/10-und-11-juli-2026-rust-79-shk-bw-verbandstag-politik-gmodg-und-ausbildung",
+      "date": 1781084984,
+      "dateStr": "10. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Systeme für SHK-Profis: budget­freund­lich, sinn­lich, werk­zeuglos",
       "excerpt": "Wärmepumpe für Einsteiger, Bade­wanne mit sinn­li­chen Funk­tio­nen, Mess­ge­rä­te­kombi für Was­ser­ins­tal­la­tio­nen, mon­ta­ge­freund­li­cher Dusch­wan­nen­ab­lauf.",
       "link": "https://www.sbz-online.de/meldungen/abgesteckt-systeme-fuer-shk-profis-budgetfreundlich-sinnlich-werkzeuglos",
@@ -171,16 +180,7 @@
       "dateStr": "1. Jun. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Webinar: Bürokratie? Läuft jetzt nebenbei",
-      "excerpt": "Gespräche rein, fertige Proto­kolle raus. Plaud, die smarte Büro­hilfe, übernimmt im Betrieb den Papier­kram. Das SBZ-Webinar zeigt, wie´s funktioniert.",
-      "link": "https://events.gentner.de/de/ki-und-digitalisierung-im-shk-handwerk-plaud",
-      "date": 1780275605,
-      "dateStr": "1. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1781085550
+  "fetched": 1781098779
 }
