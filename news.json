@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "SBZ ruft an bei In­no­va­ti­on Aus­bau: KI im SHK-Hand­werk",
+      "excerpt": "In einer neuen Podcast-Folge beleuchtet Innovation Ausbau ihre Rolle als Wissensvermittler und die Chancen Künstlicher Intelligenz für das SHK-Handwerk.",
+      "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-bei-innovation-ausbau-ki-im-shk-handwerk",
+      "date": 1781161206,
+      "dateStr": "11. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Alois Müller: neue Nieder­las­sung in Nord­deutschland",
       "excerpt": "Die Alois-Müller-Gruppe bezieht neuen Stand­ort im Raum Ham­burg-Lüne­burg. Fokus: Mobile Energy und nach­hal­tige Energie­tech­nik-Projekte.",
       "link": "https://www.sbz-online.de/meldungen/shk-hersteller-alois-mueller-neue-niederlassung-norddeutschland",
@@ -171,16 +180,7 @@
       "dateStr": "2. Jun. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "BVF Symposium 2026: Fokus Nie­der­tem­pe­ra­tur­sys­te­me",
-      "excerpt": "Das BVF Symposium 2026 rückt Niedertemperatursysteme und Flächenheizungen als Schlüsseltechnologie der Wärmewende in den Fokus.",
-      "link": "https://www.sbz-online.de/meldungen/04-bis-05-november-2026-bochum-bvf-symposium-2026-fokus-niedertemperatursysteme",
-      "date": 1780362005,
-      "dateStr": "2. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1781155684
+  "fetched": 1781173385
 }
