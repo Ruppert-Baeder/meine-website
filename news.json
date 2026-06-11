@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Alois Müller: neue Nieder­las­sung in Nord­deutschland",
+      "excerpt": "Die Alois-Müller-Gruppe bezieht neuen Stand­ort im Raum Ham­burg-Lüne­burg. Fokus: Mobile Energy und nach­hal­tige Energie­tech­nik-Projekte.",
+      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-alois-mueller-neue-niederlassung-norddeutschland",
+      "date": 1781139605,
+      "dateStr": "11. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "GET Nord 2026: Wie KI Gebäude und Handwerk transformiert",
+      "excerpt": "Auf der GET Nord zeigen Aus­steller, wie die Künst­liche Intelli­genz die Effi­zienz stei­gert und den Fach­kräfte­mangel ent­schärft.",
+      "link": "https://www.sbz-online.de/meldungen/19-bis-21-november-2026-hamburg-get-nord-2026-wie-ki-gebaeude-und-handwerk-transformiert",
+      "date": 1781139604,
+      "dateStr": "11. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
       "title": "79. SHK-BW-Verbandstag: Poli­tik, GModG und Aus­bildung",
       "excerpt": "Der 79. SHK-Verbandstag in Rust beleuchtet GModG, Landes­politik und Aus­bil­dung. Mit Fach­vor­trä­gen, Dis­kus­sio­nen und spe­ziel­len For­ma­ten für Azubis.",
       "link": "https://www.sbz-online.de/meldungen/10-und-11-juli-2026-rust-79-shk-bw-verbandstag-politik-gmodg-und-ausbildung",
@@ -162,25 +180,7 @@
       "dateStr": "2. Jun. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "E.C.A. etabliert flä­chen­de­cken­des Ver­triebs­netz",
-      "excerpt": "Seit Februar ist für E.C.A. ein deutschlandweites Kundenbetreuungsteam aktiv. Ziel ist die Stärkung der Beratungsqualität im Fachhandel.",
-      "link": "https://www.sbz-online.de/meldungen/shk-vertrieb-eca-etabliert-flaechendeckendes-vertriebsnetz",
-      "date": 1780362004,
-      "dateStr": "2. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Intersolar-Forum: Power-to-Heat – Strom und Wärme koppeln",
-      "excerpt": "Das Intersolar-Forum zum Thema Power-to-Heat zeigt, wie sich mit solar­elek­trischer Wärme neue Themen ent­wickeln.",
-      "link": "https://www.sbz-online.de/meldungen/23-juni-2026-1330-1500-uhr-messe-muenchen-intersolar-forum-power-heat-strom-und-waerme",
-      "date": 1780279206,
-      "dateStr": "1. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1781136877
+  "fetched": 1781155684
 }
