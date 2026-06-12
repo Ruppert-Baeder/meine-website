@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "SHK-Jahreskongress 2026: Zu­kunft, Netz­werk, Gemeinschaft",
+      "excerpt": "Der SHK-Jahreskongress fand in die­sem Jahr erst­mals direkt am SHK-Campus und damit am Haupt­sitz der SHK eG in Bruch­sal statt.",
+      "link": "https://www.sbz-online.de/meldungen/branchentreffen-shk-jahreskongress-2026-zukunft-netzwerk-gemeinschaft",
+      "date": 1781226005,
+      "dateStr": "12. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "SBZ ruft an bei In­no­va­ti­on Aus­bau: KI im SHK-Hand­werk",
       "excerpt": "In einer neuen Podcast-Folge beleuchtet Innovation Ausbau ihre Rolle als Wissensvermittler und die Chancen Künstlicher Intelligenz für das SHK-Handwerk.",
       "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-bei-innovation-ausbau-ki-im-shk-handwerk",
@@ -171,16 +180,7 @@
       "dateStr": "2. Jun. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Industrielle Abwärme versorgt Düsseldorfer Süden",
-      "excerpt": "Henkel und die Stadtwerke Düssel­dorf haben ein wegweisendes Projekt gestartet: Indus­tri­elle Ab­wärme wird künftig in das Fern­wärme­netz ein­ge­speist.",
-      "link": "https://www.sbz-online.de/meldungen/waermewende-industrielle-abwaerme-versorgt-duesseldorfer-sueden",
-      "date": 1780379519,
-      "dateStr": "2. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1781220091
+  "fetched": 1781236572
 }
