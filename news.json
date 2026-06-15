@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Online-Tool zur Be­wer­tung von Pel­let­hei­zun­gen",
+      "excerpt": "Das Deutsche Pelletinstitut bietet mit dem „Pellet-Check“ ein neues Online-Tool zur schnellen Bewertung der Eignung von Pelletheizungen an.",
+      "link": "https://www.sbz-online.de/meldungen/digitale-tools-online-tool-zur-bewertung-von-pelletheizungen",
+      "date": 1781485209,
+      "dateStr": "15. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Adey und Elysator Engineering wer­den Part­ner in Deutschland",
+      "excerpt": "Adey arbeitet ab 2026 mit der Ely­sa­tor Engineering GmbH zu­sam­men. Das Unter­neh­men über­nimmt den Ver­trieb der Adey-Produkte in Deutschland.",
+      "link": "https://www.sbz-online.de/meldungen/kooperation-adey-und-elysator-engineering-werden-partner-deutschland",
+      "date": 1781485208,
+      "dateStr": "15. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "SHK-Jahreskongress 2026: Zu­kunft, Netz­werk, Gemeinschaft",
       "excerpt": "Der SHK-Jahreskongress fand in die­sem Jahr erst­mals direkt am SHK-Campus und damit am Haupt­sitz der SHK eG in Bruch­sal statt.",
       "link": "https://www.sbz-online.de/meldungen/branchentreffen-shk-jahreskongress-2026-zukunft-netzwerk-gemeinschaft",
@@ -162,25 +180,7 @@
       "dateStr": "2. Jun. 2026",
       "source": "SBZ Monteur",
       "category": "Sanitär"
-    },
-    {
-      "title": "„Holzwärme im GModG stär­ken, nicht grund­los be­schränken!“",
-      "excerpt": "Holz bleibt zentral für erneuer­bare Wärme in Deutsch­land. Der DEPV fordert Nach­bes­se­run­gen am Ent­wurf des Gebäude­mo­der­ni­sie­rungs­gesetzes.",
-      "link": "https://www.sbz-online.de/meldungen/holzenergie-holzwaerme-im-gmodg-staerken-nicht-grundlos-beschraenken",
-      "date": 1780384416,
-      "dateStr": "2. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "SBZ ruft an bei Stiebel Eltron zu 50 Jah­ren Wärme­pumpe",
-      "excerpt": "In Folge 11 von „SBZ ruft an“ spricht Dennis Jäger mit Henning Schulz von Stiebel Eltron über 5 Jahr­zehnte Wär­me­pum­pen­ge­schichte in Deutschland.",
-      "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-bei-stiebel-eltron-zu-50-jahren-waermepumpe",
-      "date": 1780381972,
-      "dateStr": "2. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1781482104
+  "fetched": 1781504582
 }
