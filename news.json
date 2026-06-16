@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "TQ-Set: Elek­tro­ni­ker-Qua­li­fi­zie­rung ab 25 Jah­ren",
+      "excerpt": "Die E-Handwerke bieten erstmals ein Teilqualifizierungs-Set für Elektroniker FR Energie- und Gebäudetechnik ab 25 Jahren bis zum Gesellenbrief an.",
+      "link": "https://www.sbz-online.de/meldungen/weiterbildung-tq-set-elektroniker-qualifizierung-ab-25-jahren",
+      "date": 1781571608,
+      "dateStr": "16. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
+      "title": "inVENTer mit neuer On­line-Me­dia­thek",
+      "excerpt": "inVENTer hat eine Online-Mediathek veröffentlicht, die Wissen zu Wohnungslüftung, Normen und praktischen Anwendungen bündelt.",
+      "link": "https://www.sbz-online.de/meldungen/lueftungstechnik-inventer-mit-neuer-online-mediathek",
+      "date": 1781571608,
+      "dateStr": "16. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Online-Tool zur Be­wer­tung von Pel­let­hei­zun­gen",
       "excerpt": "Das Deutsche Pelletinstitut bietet mit dem „Pellet-Check“ ein neues Online-Tool zur schnellen Bewertung der Eignung von Pelletheizungen an.",
       "link": "https://www.sbz-online.de/meldungen/digitale-tools-online-tool-zur-bewertung-von-pelletheizungen",
@@ -162,25 +180,7 @@
       "dateStr": "3. Jun. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Webinar: Von heißer Luft zum Um­satz – Klima und Lüf­tung nutzen",
-      "excerpt": "Das SBZ-Webinar zeigt, wie SHK-Betriebe mit Klima- und Lüf­tungs­technik ein sta­biles Zusatz­geschäft auf­bauen und neue Auf­träge sichern.",
-      "link": "https://events.gentner.de/de/wie-lueftung-und-klima-zum-lohnenden-geschaeftsfeld-fuer-shk-handwerksbetriebe-werden",
-      "date": 1780390806,
-      "dateStr": "2. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
-    },
-    {
-      "title": "5. Generation übernimmt Füh­rung bei Reisser",
-      "excerpt": "Zum 1. Juni haben Jessica Reißer und Marten Reißer als Co-CEOs die Leitung des Familien­unter­neh­mens Reisser über­nommen.",
-      "link": "https://www.sbz-online.de/meldungen/personalie-5-generation-uebernimmt-fuehrung-bei-reisser",
-      "date": 1780390210,
-      "dateStr": "2. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
     }
   ],
-  "fetched": 1781567092
+  "fetched": 1781582717
 }
