@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Garant Gruppe: Um­satz wächst 2025 leicht",
+      "excerpt": "Die Garant Gruppe erzielte 2025 ein Umsatzwachstum von 0,4 % – getragen vom Küchengeschäft und einem Mitgliederzuwachs im SHK-Bereich.",
+      "link": "https://www.sbz-online.de/meldungen/marktdaten-garant-gruppe-umsatz-waechst-2025-leicht",
+      "date": 1781658007,
+      "dateStr": "17. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Buderus Katalog 2026: Heizlö­sun­gen für jede An­for­derung",
+      "excerpt": "Der neue Buderus Katalog 2026 bie­tet Fach­kun­den ein um­fas­sen­des Sorti­ment an Heiz­lö­sun­gen für Neu­bau­ten und Moder­ni­sie­rungen.",
+      "link": "https://www.sbz-online.de/meldungen/arbeitshilfe-buderus-katalog-2026-heizloesungen-fuer-jede-anforderung",
+      "date": 1781658006,
+      "dateStr": "17. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "TQ-Set: Elek­tro­ni­ker-Qua­li­fi­zie­rung ab 25 Jah­ren",
       "excerpt": "Die E-Handwerke bieten erstmals ein Teilqualifizierungs-Set für Elektroniker FR Energie- und Gebäudetechnik ab 25 Jahren bis zum Gesellenbrief an.",
       "link": "https://www.sbz-online.de/meldungen/weiterbildung-tq-set-elektroniker-qualifizierung-ab-25-jahren",
@@ -162,25 +180,7 @@
       "dateStr": "4. Jun. 2026",
       "source": "SBZ Monteur",
       "category": "Förderung"
-    },
-    {
-      "title": "SHK Podcast: Füh­rung, Fach­kräf­te & Kul­tur",
-      "excerpt": "Im Gespräch mit Kathrin Post-Isenberg, Handwerks-Expertin und Podcasterin, geht es um die zentralen Herausforderungen und Chancen der Branche.",
-      "link": "https://www.sbz-online.de/meldungen/shke-radio-shk-podcast-fuehrung-fachkraefte-kultur",
-      "date": 1780448405,
-      "dateStr": "3. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Förderung"
-    },
-    {
-      "title": "Dornbracht und Jung: 5 neue Ober­flä­chen",
-      "excerpt": "Dornbracht und Jung erweitern ihr Portfolio um 5 neue Oberflächen zur besseren Abstimmung von Armaturen und Schalterprogrammen der LS Serie.",
-      "link": "https://www.sbz-online.de/meldungen/designkooperation-dornbracht-und-jung-5-neue-oberflaechen",
-      "date": 1780448404,
-      "dateStr": "3. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1781655351
+  "fetched": 1781676638
 }
