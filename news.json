@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Geberit: Neue End­kun­den­kam­pa­gne soll Nach­fra­ge schaf­fen",
+      "excerpt": "Geberit startet eine Kampagne unter dem Titel „Besser. Für Sie.“, um die Nachfrage im SHK-Markt zu steigern. Das Unternehmen will damit Fachpartner stärken.",
+      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-geberit-neue-endkundenkampagne-soll-nachfrage-schaffen",
+      "date": 1781776412,
+      "dateStr": "18. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Split-Klimageräte: Stif­tung Wa­ren­test be­stä­tigt Wirt­schaft­lich­keit",
       "excerpt": "Die Stiftung Warentest hat Split-Klimageräte getestet und ihre Effizienz sowohl beim Heizen als auch beim Kühlen hervorgehoben.",
       "link": "https://www.sbz-online.de/meldungen/klimatechnik-split-klimageraete-stiftung-warentest-bestaetigt-wirtschaftlichkeit",
@@ -171,16 +180,7 @@
       "dateStr": "9. Jun. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Sita feiert 50 Jah­re Flach­dach­ent­wäs­se­rung",
-      "excerpt": "Sita Bauelemente feiert 50-jähriges Bestehen. Aus einem Ein-Mann-Betrieb wurde ein etablierter Anbieter von Flachdachentwässerungsprodukten.",
-      "link": "https://www.sbz-online.de/meldungen/jubilaeum-sita-feiert-50-jahre-flachdachentwaesserung",
-      "date": 1780880405,
-      "dateStr": "8. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
     }
   ],
-  "fetched": 1781772564
+  "fetched": 1781785551
 }
