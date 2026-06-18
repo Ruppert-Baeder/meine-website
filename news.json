@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "Split-Klimageräte: Stif­tung Wa­ren­test be­stä­tigt Wirt­schaft­lich­keit",
+      "excerpt": "Die Stiftung Warentest hat Split-Klimageräte getestet und ihre Effizienz sowohl beim Heizen als auch beim Kühlen hervorgehoben.",
+      "link": "https://www.sbz-online.de/meldungen/klimatechnik-split-klimageraete-stiftung-warentest-bestaetigt-wirtschaftlichkeit",
+      "date": 1781744407,
+      "dateStr": "18. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Personelle Veränderungen in der SHK-Branche",
+      "excerpt": "Neue Gesichter und Weichenstellungen bei den Branchengrößen FGK, Schell, Mitsubishi Electric, Pam Building, Wiedemann und Danfoss.",
+      "link": "https://www.sbz-online.de/meldungen/personalien-personelle-veraenderungen-der-shk-branche-29",
+      "date": 1781744407,
+      "dateStr": "18. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Taconova GmbH verlegt Unter­neh­mens­sitz nach Steißlingen",
+      "excerpt": "Mit dem Umzug in ein neues, moder­nes Gebäude richtet sich Taco­nova lang­fris­tig am deut­schen Stand­ort aus.",
+      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-taconova-gmbh-verlegt-unternehmenssitz-nach-steisslingen",
+      "date": 1781744405,
+      "dateStr": "18. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Garant Gruppe: Um­satz wächst 2025 leicht",
       "excerpt": "Die Garant Gruppe erzielte 2025 ein Umsatzwachstum von 0,4 % – getragen vom Küchengeschäft und einem Mitgliederzuwachs im SHK-Bereich.",
       "link": "https://www.sbz-online.de/meldungen/marktdaten-garant-gruppe-umsatz-waechst-2025-leicht",
@@ -153,34 +180,7 @@
       "dateStr": "8. Jun. 2026",
       "source": "SBZ Monteur",
       "category": "Branche"
-    },
-    {
-      "title": "Hero Software in­te­griert di­gi­ta­les Fi­nanz­ma­nage­ment",
-      "excerpt": "Neue Funktionen für Rechnungsabgleich, Mahnwesen und Online-Zahlungen sollen das Finanzmanagement von Handwerksbetrieben vereinfachen.",
-      "link": "https://www.sbz-online.de/meldungen/handwerkersoftware-hero-software-integriert-digitales-finanzmanagement",
-      "date": 1780621205,
-      "dateStr": "5. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Härtere Strafen für illegalen Kältemittelhandel gefordert",
-      "excerpt": "Die Kälte- und Klimabranche fordert stren­gere Stra­fen gegen Um­welt­kri­mi­na­li­tät – vor allem beim ille­ga­len Han­del mit F-Gasen.",
-      "link": "https://www.sbz-online.de/meldungen/kaeltemittel-schwarzmarkt-haertere-strafen-fuer-illegalen-kaeltemittelhandel-gefordert",
-      "date": 1780534805,
-      "dateStr": "4. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Neue ErP 2026 ver­schärft An­for­de­run­gen ab Juli",
-      "excerpt": "Die ErP 2026 verschärft ab Juli die Anforderungen an Ventilatoren deutlich. Das betrifft neben den Herstellern auch OEMs, Anlagenbauer und Betreiber.",
-      "link": "https://www.sbz-online.de/meldungen/ventilatoren-neue-erp-2026-verschaerft-anforderungen-ab-juli",
-      "date": 1780534805,
-      "dateStr": "4. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Förderung"
     }
   ],
-  "fetched": 1781738630
+  "fetched": 1781755004
 }
