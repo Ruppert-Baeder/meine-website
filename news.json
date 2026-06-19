@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "Conmeet: KI-Steue­rungs­sys­tem für Hand­wer­ker",
+      "excerpt": "Das neue KI-Steuerungssystem von Conmeet soll Handwerks- und Bauunternehmen dabei unterstützen, ihre Organisation effizienter zu steuern.",
+      "link": "https://www.sbz-online.de/meldungen/software-conmeet-ki-steuerungssystem-fuer-handwerker",
+      "date": 1781830807,
+      "dateStr": "19. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Wärmepumpe ersetzt Ölhei­zung in über 300 Jahre altem Gebäude",
+      "excerpt": "In einem über 300 Jahre alten Zwei­fami­lien­haus in Rorschach gelang der Um­stieg von Öl auf Wärme­pumpe trotz strengster Lärm­schutz­auflagen.",
+      "link": "https://www.sbz-online.de/meldungen/referenzprojekt-weishaupt-waermepumpe-ersetzt-oelheizung-ueber-300-jahre-altem-gebaeude",
+      "date": 1781830807,
+      "dateStr": "19. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Viega: Neue Funktionen für die digi­tale Planung",
+      "excerpt": "Viega stellt Updates für „LINEAR Solutions“ und „Viptool Engineering“ bereit. Tech­ni­sche Details zu den Neue­run­gen im Überblick.",
+      "link": "https://www.sbz-online.de/meldungen/digitale-tools-viega-neue-funktionen-fuer-die-digitale-planung",
+      "date": 1781830805,
+      "dateStr": "19. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Geberit: Neue End­kun­den­kam­pa­gne soll Nach­fra­ge schaf­fen",
       "excerpt": "Geberit startet eine Kampagne unter dem Titel „Besser. Für Sie.“, um die Nachfrage im SHK-Markt zu steigern. Das Unternehmen will damit Fachpartner stärken.",
       "link": "https://www.sbz-online.de/meldungen/shk-hersteller-geberit-neue-endkundenkampagne-soll-nachfrage-schaffen",
@@ -153,34 +180,7 @@
       "dateStr": "10. Jun. 2026",
       "source": "SBZ Monteur",
       "category": "Branche"
-    },
-    {
-      "title": "Villeroy & Boch fördert Hilfs­portal gegen Schul­toi­letten-Misere",
-      "excerpt": "Der Zustand von Sanitär­an­lagen in Schu­len ist ein hart­näcki­ges Prob­lem. Ein Online-Portal soll Schu­len bei der Ver­bes­se­rung ihrer Toi­let­ten unter­stützen.",
-      "link": "https://www.sbz-online.de/meldungen/toiletten-machen-schule-villeroy-boch-foerdert-hilfsportal-gegen-schultoiletten-misere",
-      "date": 1781053206,
-      "dateStr": "10. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Dornbracht und Wahl eröff­nen neues Studio in Stuttgart",
-      "excerpt": "Dornbracht erweitert seine Prä­senz in Süd­deutsch­land: In Stutt­gart-West eröff­nete der Arma­tu­ren­her­stel­ler ein Studio beim Bad­spe­zia­lis­ten Wahl.",
-      "link": "https://www.sbz-online.de/meldungen/kooperation-dornbracht-und-wahl-eroeffnen-neues-studio-stuttgart",
-      "date": 1780966808,
-      "dateStr": "9. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
-      "title": "ISH 2027 positioniert Pools und Spas als Zukunftsfeld",
-      "excerpt": "Die ISH 2027 schafft einen Treff­punkt für Pools und Spas. In Halle 3.0 wer­den Lösun­gen prä­sen­tiert, die Ener­gie­effi­zienz und Nutzer­kom­fort fokussieren.",
-      "link": "https://www.sbz-online.de/meldungen/15-bis-19-maerz-2027-frankfurt-ish-2027-positioniert-pools-und-spas-als-zukunftsfeld",
-      "date": 1780966807,
-      "dateStr": "9. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1781828764
+  "fetched": 1781849927
 }
