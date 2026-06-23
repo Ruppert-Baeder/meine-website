@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "GModG: BWP warnt vor Rück­schlä­gen",
+      "excerpt": "Der BWP kritisiert das GModG: Die Ausrichtung auf eine Biotreppe und mögliche Kürzungen der Heizungsförderung könnten die Wärmewende gefährden.",
+      "link": "https://www.sbz-online.de/meldungen/heizungsfoerdeung-gmodg-bwp-warnt-vor-rueckschlaegen",
+      "date": 1782176407,
+      "dateStr": "23. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Reflex wird of­fi­zi­el­ler Part­ner der Hand­ball-WM 2027",
+      "excerpt": "Reflex sichert sich die exklusive Partnerschaft für die DACH-Region bei der Handball-Weltmeisterschaft 2027.",
+      "link": "https://www.sbz-online.de/meldungen/sponsoring-reflex-wird-offizieller-partner-der-handball-wm-2027",
+      "date": 1782176406,
+      "dateStr": "23. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "SFA Kinedo: Produkte für moderne und barriere­arme Bäder",
       "excerpt": "Das SFA Kinedo Badprogramm 2026/27 bietet Walk-in-Duschwände, zu­schneid­bare Dusch­wannen und viel­sei­tige Wand­paneele.",
       "link": "https://www.sbz-online.de/meldungen/arbeitshilfe-sfa-kinedo-produkte-fuer-moderne-und-barrierearme-baeder",
@@ -162,25 +180,7 @@
       "dateStr": "12. Jun. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "SBZ ruft an bei In­no­va­ti­on Aus­bau: KI im SHK-Hand­werk",
-      "excerpt": "In einer neuen Podcast-Folge beleuchtet Innovation Ausbau ihre Rolle als Wissensvermittler und die Chancen Künstlicher Intelligenz für das SHK-Handwerk.",
-      "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-bei-innovation-ausbau-ki-im-shk-handwerk",
-      "date": 1781161206,
-      "dateStr": "11. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Alois Müller: neue Nieder­las­sung in Nord­deutschland",
-      "excerpt": "Die Alois-Müller-Gruppe bezieht neuen Stand­ort im Raum Ham­burg-Lüne­burg. Fokus: Mobile Energy und nach­hal­tige Energie­tech­nik-Projekte.",
-      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-alois-mueller-neue-niederlassung-norddeutschland",
-      "date": 1781139605,
-      "dateStr": "11. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1782173115
+  "fetched": 1782190797
 }
