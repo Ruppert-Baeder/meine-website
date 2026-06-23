@@ -2,9 +2,18 @@
   "ok": true,
   "articles": [
     {
+      "title": "Das digitale Handwerkerhaus: Vom Fundament zur KI",
+      "excerpt": "Martin Sommer zeigt im Webinar, wie SHK-Betriebe Schritt für Schritt die Basis für Digitalisierung, Automatisierung und Künstliche Intelligenz schaffen.",
+      "link": "https://events.gentner.de/de/ki-und-digitalisierung-im-shk-handwerk-plaud",
+      "date": 1782187205,
+      "dateStr": "23. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Smart Home"
+    },
+    {
       "title": "GModG: BWP warnt vor Rück­schlä­gen",
       "excerpt": "Der BWP kritisiert das GModG: Die Ausrichtung auf eine Biotreppe und mögliche Kürzungen der Heizungsförderung könnten die Wärmewende gefährden.",
-      "link": "https://www.sbz-online.de/meldungen/heizungsfoerdeung-gmodg-bwp-warnt-vor-rueckschlaegen",
+      "link": "https://www.sbz-online.de/meldungen/heizungsfoerderung-gmodg-bwp-warnt-vor-rueckschlaegen",
       "date": 1782176407,
       "dateStr": "23. Jun. 2026",
       "source": "SBZ Monteur",
@@ -171,16 +180,7 @@
       "dateStr": "15. Jun. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "SHK-Jahreskongress 2026: Zu­kunft, Netz­werk, Gemeinschaft",
-      "excerpt": "Der SHK-Jahreskongress fand in die­sem Jahr erst­mals direkt am SHK-Campus und damit am Haupt­sitz der SHK eG in Bruch­sal statt.",
-      "link": "https://www.sbz-online.de/meldungen/branchentreffen-shk-jahreskongress-2026-zukunft-netzwerk-gemeinschaft",
-      "date": 1781226005,
-      "dateStr": "12. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1782190797
+  "fetched": 1782203689
 }
