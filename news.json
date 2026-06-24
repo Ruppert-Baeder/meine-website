@@ -2,6 +2,51 @@
   "ok": true,
   "articles": [
     {
+      "title": "Systeme für SHK-Profis: frei­auf­stell­bar, be­leuch­tet, in­stal­lier­fer­tig",
+      "excerpt": "Sole/Wasser-Wärmepumpe mit R290, Fettabscheider für Gewerbeküchen, modulare Kältemaschinen und Wärmepumpen, Badewanne aus Mineralwerkstoff, Messkasten mit Zirkulationsventil.",
+      "link": "https://www.sbz-online.de/meldungen/abgesteckt-systeme-fuer-shk-profis-freiaufstellbar-beleuchtet-installierfertig",
+      "date": 1782262810,
+      "dateStr": "24. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Alois Müller über­nimmt dä­ni­schen Nie­der­tem­pe­ra­tur-Ge­schäfts­be­reich",
+      "excerpt": "Die Alois Müller Gruppe übernimmt den Niedertemperatur-Geschäftsbereich von Aalborg CSP und expandiert damit erstmals international.",
+      "link": "https://www.sbz-online.de/meldungen/akquisitionen-alois-mueller-uebernimmt-daenischen-niedertemperatur-geschaeftsbereich",
+      "date": 1782262809,
+      "dateStr": "24. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "SBZ ruft an bei der Innung SHK Berlin",
+      "excerpt": "Im Podcast erklärt Andreas Koch-Martin, wie die Innung SHK Berlin mit einer Part­ner­schaft in Ägypten dem Fach­kräf­te­mangel begegnet.",
+      "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-bei-der-innung-shk-berlin",
+      "date": 1782262808,
+      "dateStr": "24. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
+      "title": "Pelletpreise im Som­mer­tief",
+      "excerpt": "Holzpelletpreise sinken im Juni erneut auf ihr Sommertief und bieten einen deutlichen Preisvorteil gegenüber Heizöl und Erdgas.",
+      "link": "https://www.sbz-online.de/meldungen/holzpellets-pelletpreise-im-sommertief",
+      "date": 1782262808,
+      "dateStr": "24. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Hansgrohe feiert 125-jähriges Bestehen",
+      "excerpt": "Hansgrohe feiert 125. Jubiläum mit einer neuen Aus­stel­lung zur Unter­neh­mens­ge­schichte und einem gro­ßen Fes­ti­val für Mit­ar­beitende.",
+      "link": "https://www.sbz-online.de/meldungen/jubilaeum-hansgrohe-feiert-125-jaehriges-bestehen",
+      "date": 1782262807,
+      "dateStr": "24. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Das digitale Handwerkerhaus: Vom Fundament zur KI",
       "excerpt": "Martin Sommer zeigt im Webinar, wie SHK-Betriebe Schritt für Schritt die Basis für Digitalisierung, Automatisierung und Künstliche Intelligenz schaffen.",
       "link": "https://events.gentner.de/de/ki-und-digitalisierung-im-shk-handwerk-plaud",
@@ -135,52 +180,7 @@
       "dateStr": "17. Jun. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Buderus Katalog 2026: Heizlö­sun­gen für jede An­for­derung",
-      "excerpt": "Der neue Buderus Katalog 2026 bie­tet Fach­kun­den ein um­fas­sen­des Sorti­ment an Heiz­lö­sun­gen für Neu­bau­ten und Moder­ni­sie­rungen.",
-      "link": "https://www.sbz-online.de/meldungen/arbeitshilfe-buderus-katalog-2026-heizloesungen-fuer-jede-anforderung",
-      "date": 1781658006,
-      "dateStr": "17. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "TQ-Set: Elek­tro­ni­ker-Qua­li­fi­zie­rung ab 25 Jah­ren",
-      "excerpt": "Die E-Handwerke bieten erstmals ein Teilqualifizierungs-Set für Elektroniker FR Energie- und Gebäudetechnik ab 25 Jahren bis zum Gesellenbrief an.",
-      "link": "https://www.sbz-online.de/meldungen/weiterbildung-tq-set-elektroniker-qualifizierung-ab-25-jahren",
-      "date": 1781571608,
-      "dateStr": "16. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
-    },
-    {
-      "title": "inVENTer mit neuer On­line-Me­dia­thek",
-      "excerpt": "inVENTer hat eine Online-Mediathek veröffentlicht, die Wissen zu Wohnungslüftung, Normen und praktischen Anwendungen bündelt.",
-      "link": "https://www.sbz-online.de/meldungen/lueftungstechnik-inventer-mit-neuer-online-mediathek",
-      "date": 1781571608,
-      "dateStr": "16. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Online-Tool zur Be­wer­tung von Pel­let­hei­zun­gen",
-      "excerpt": "Das Deutsche Pelletinstitut bietet mit dem „Pellet-Check“ ein neues Online-Tool zur schnellen Bewertung der Eignung von Pelletheizungen an.",
-      "link": "https://www.sbz-online.de/meldungen/digitale-tools-online-tool-zur-bewertung-von-pelletheizungen",
-      "date": 1781485209,
-      "dateStr": "15. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Adey und Elysator Engineering wer­den Part­ner in Deutschland",
-      "excerpt": "Adey arbeitet ab 2026 mit der Ely­sa­tor Engineering GmbH zu­sam­men. Das Unter­neh­men über­nimmt den Ver­trieb der Adey-Produkte in Deutschland.",
-      "link": "https://www.sbz-online.de/meldungen/kooperation-adey-und-elysator-engineering-werden-partner-deutschland",
-      "date": 1781485208,
-      "dateStr": "15. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1782258982
+  "fetched": 1782273114
 }
