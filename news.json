@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Neue Geschäftsführerin beim Fach­ver­band Brandenburg",
+      "excerpt": "Seit Juni 2026 verstärkt Leona Heymann die Geschäfts­füh­rung des Fach­ver­bands SHK Land Brandenburg.",
+      "link": "https://www.sbz-online.de/meldungen/personalie-neue-geschaeftsfuehrerin-beim-fachverband-brandenburg",
+      "date": 1782286373,
+      "dateStr": "24. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Systeme für SHK-Profis: frei­auf­stell­bar, be­leuch­tet, in­stal­lier­fer­tig",
       "excerpt": "Sole/Wasser-Wärmepumpe mit R290, Fettabscheider für Gewerbeküchen, modulare Kältemaschinen und Wärmepumpen, Badewanne aus Mineralwerkstoff, Messkasten mit Zirkulationsventil.",
       "link": "https://www.sbz-online.de/meldungen/abgesteckt-systeme-fuer-shk-profis-freiaufstellbar-beleuchtet-installierfertig",
@@ -171,16 +180,7 @@
       "dateStr": "18. Jun. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Garant Gruppe: Um­satz wächst 2025 leicht",
-      "excerpt": "Die Garant Gruppe erzielte 2025 ein Umsatzwachstum von 0,4 % – getragen vom Küchengeschäft und einem Mitgliederzuwachs im SHK-Bereich.",
-      "link": "https://www.sbz-online.de/meldungen/marktdaten-garant-gruppe-umsatz-waechst-2025-leicht",
-      "date": 1781658007,
-      "dateStr": "17. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1782286810
+  "fetched": 1782298160
 }
