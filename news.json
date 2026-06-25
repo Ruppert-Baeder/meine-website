@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Felix Eger startet als jüngster Fran­chise­neh­mer von Bad & Body",
+      "excerpt": "Wer das Bad schnell und un­komp­li­ziert moder­ni­sie­ren möchte, fin­det jetzt in Moos am Boden­see Felix Egers Bad-&-Body-Showroom.",
+      "link": "https://www.sbz-online.de/meldungen/badsanierung-felix-eger-startet-als-juengster-franchisenehmer-von-bad-body",
+      "date": 1782349205,
+      "dateStr": "25. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Wilo erwirbt Mehr­heit an An­la­gen­bau­er PreFab",
+      "excerpt": "Wilo Group erwirbt Mehrheitsbeteiligung an PreFab und stärkt damit seine Position bei modularen Lösungen für Rechenzentren.",
+      "link": "https://www.sbz-online.de/meldungen/akquisitionen-wilo-erwirbt-mehrheit-anlagenbauer-prefab",
+      "date": 1782349204,
+      "dateStr": "25. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Neue Geschäftsführerin beim Fach­ver­band Brandenburg",
       "excerpt": "Seit Juni 2026 verstärkt Leona Heymann die Geschäfts­füh­rung des Fach­ver­bands SHK Land Brandenburg.",
       "link": "https://www.sbz-online.de/meldungen/personalie-neue-geschaeftsfuehrerin-beim-fachverband-brandenburg",
@@ -162,25 +180,7 @@
       "dateStr": "18. Jun. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Personelle Veränderungen in der SHK-Branche",
-      "excerpt": "Neue Gesichter und Weichenstellungen bei den Branchengrößen FGK, Schell, Mitsubishi Electric, Pam Building, Wiedemann und Danfoss.",
-      "link": "https://www.sbz-online.de/meldungen/personalien-personelle-veraenderungen-der-shk-branche-29",
-      "date": 1781744407,
-      "dateStr": "18. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Taconova GmbH verlegt Unter­neh­mens­sitz nach Steißlingen",
-      "excerpt": "Mit dem Umzug in ein neues, moder­nes Gebäude richtet sich Taco­nova lang­fris­tig am deut­schen Stand­ort aus.",
-      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-taconova-gmbh-verlegt-unternehmenssitz-nach-steisslingen",
-      "date": 1781744405,
-      "dateStr": "18. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1782346352
+  "fetched": 1782363899
 }
