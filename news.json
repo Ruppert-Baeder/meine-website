@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Reflex Group er­öff­net Groß­werk in der Slo­wa­kei",
+      "excerpt": "Mit dem neuen Produktionsstandort in Rimavská Sobota sichert die Reflex Group die Lieferfähigkeit für den weltweit wachsenden Bedarf an Warmwasser- und Pufferspeichern.",
+      "link": "https://www.sbz-online.de/meldungen/sbz-hersteller-reflex-group-eroeffnet-grosswerk-der-slowakei",
+      "date": 1782435606,
+      "dateStr": "26. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Palette CAD lädt zu „Hands On Handwerk“ ein",
+      "excerpt": "Das Online-Event von Palette CAD versammelt Experten und Handwerker, um konkrete digitale Lösungen für den Betriebsalltag zu präsentieren.",
+      "link": "https://www.sbz-online.de/meldungen/22-und-23-september-2026-online-palette-cad-laedt-zu-hands-handwerk-ein",
+      "date": 1782435606,
+      "dateStr": "26. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Smart Home"
+    },
+    {
       "title": "Felix Eger startet als jüngster Fran­chise­neh­mer von Bad & Body",
       "excerpt": "Am Bodensee hat der 22-jäh­rige Felix Eger einen Bad-&-Body-Show­room eröffnet und ist damit der bis­her jüngste Franchisenehmer bei der MHK Group.",
       "link": "https://www.sbz-online.de/meldungen/badsanierung-felix-eger-startet-als-juengster-franchisenehmer-von-bad-body",
@@ -162,25 +180,7 @@
       "dateStr": "19. Jun. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Geberit: Neue End­kun­den­kam­pa­gne soll Nach­fra­ge schaf­fen",
-      "excerpt": "Geberit startet eine Kampagne unter dem Titel „Besser. Für Sie.“, um die Nachfrage im SHK-Markt zu steigern. Das Unternehmen will damit Fachpartner stärken.",
-      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-geberit-neue-endkundenkampagne-soll-nachfrage-schaffen",
-      "date": 1781776412,
-      "dateStr": "18. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Split-Klimageräte: Stif­tung Wa­ren­test be­stä­tigt Wirt­schaft­lich­keit",
-      "excerpt": "Die Stiftung Warentest hat Split-Klimageräte getestet und ihre Effizienz sowohl beim Heizen als auch beim Kühlen hervorgehoben.",
-      "link": "https://www.sbz-online.de/meldungen/klimatechnik-split-klimageraete-stiftung-warentest-bestaetigt-wirtschaftlichkeit",
-      "date": 1781744407,
-      "dateStr": "18. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1782432515
+  "fetched": 1782450483
 }
