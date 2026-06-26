@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Biomasseheizung",
+      "excerpt": "Um in den Genuss der attraktiven BEG-Zuschüsse zu kommen, müssen Biomasseheizungen strenge Vorgaben zur Messtechnik erfüllen. Maßgeblich ist hier Punkt 3.1 der BEG-EM-Richtlinie. Der Ultraschall-Kompaktwärmezähler Superf",
+      "link": "https://www.sbz-online.de/heizung/biomasseheizung",
+      "date": 1782467756,
+      "dateStr": "26. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Reflex Group er­öff­net Groß­werk in der Slo­wa­kei",
       "excerpt": "Mit dem neuen Produktionsstandort in Rimavská Sobota sichert die Reflex Group die Lieferfähigkeit für den weltweit wachsenden Bedarf an Warmwasser- und Pufferspeichern.",
       "link": "https://www.sbz-online.de/meldungen/sbz-hersteller-reflex-group-eroeffnet-grosswerk-der-slowakei",
@@ -171,16 +180,7 @@
       "dateStr": "19. Jun. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Viega: Neue Funktionen für die digi­tale Planung",
-      "excerpt": "Viega stellt Updates für „LINEAR Solutions“ und „Viptool Engineering“ bereit. Tech­ni­sche Details zu den Neue­run­gen im Überblick.",
-      "link": "https://www.sbz-online.de/meldungen/digitale-tools-viega-neue-funktionen-fuer-die-digitale-planung",
-      "date": 1781830805,
-      "dateStr": "19. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1782450483
+  "fetched": 1782465946
 }
