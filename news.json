@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "Gebäude­be­grü­nung trotzt Ex­trem­wet­ter",
+      "excerpt": "Hitzerekorde und Unwetter setzen Städte unter Druck. Dach- und Fassadenbegrünungen können Regenwasser zurückhalten und Gebäude kühlen.",
+      "link": "https://www.sbz-online.de/meldungen/gebaeudehuelle-gebaeudebegruenung-trotzt-extremwetter",
+      "date": 1782694808,
+      "dateStr": "29. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Panasonic: Neues Distributions­zent­rum in ­Ladbergen",
+      "excerpt": "Panasonic Heating & Ventilation Air­con­di­tio­ning Europe stärkt seine Logis­tik­struk­tur in Deutsch­land mit einem neuen Dis­tri­bu­tions­zent­rum in Ladbergen.",
+      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-panasonic-neues-distributionszentrum-ladbergen",
+      "date": 1782694806,
+      "dateStr": "29. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Helios-Seminare im Juli 2026",
+      "excerpt": "Der Lüftungshersteller Helios Venti­la­to­ren bietet im Juli einige Semi­nare an, darunter des „Seeminar“ mit Schwer­punkt KWL an Bord eines Schiffes.",
+      "link": "https://www.sbz-online.de/meldungen/weiterbildung-helios-seminare-im-juli-2026",
+      "date": 1782694805,
+      "dateStr": "29. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Biomasseheizung",
       "excerpt": "Um in den Genuss der attraktiven BEG-Zuschüsse zu kommen, müssen Biomasseheizungen strenge Vorgaben zur Messtechnik erfüllen. Maßgeblich ist hier Punkt 3.1 der BEG-EM-Richtlinie. Der Ultraschall-Kompaktwärmezähler Superf",
       "link": "https://www.sbz-online.de/heizung/biomasseheizung",
@@ -153,34 +180,7 @@
       "dateStr": "22. Jun. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Wärmepumpen: gute Ideen für Transport, Finanzierung und Versicherung",
-      "excerpt": "Transporthilfen, War­tungs­koffer, Fertig­fun­da­ment, Effi­zienz­ga­rantie – ein­falls­rei­che Pro­dukte und Ser­vi­ces rund um die Wärme­pumpe.",
-      "link": "https://www.sbz-online.de/meldungen/waermepumpenhochlauf-waermepumpen-gute-ideen-fuer-transport-finanzierung-und-versicherung",
-      "date": 1781848823,
-      "dateStr": "19. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Conmeet: KI-Steue­rungs­sys­tem für Hand­wer­ker",
-      "excerpt": "Das neue KI-Steuerungssystem von Conmeet soll Handwerks- und Bauunternehmen dabei unterstützen, ihre Organisation effizienter zu steuern.",
-      "link": "https://www.sbz-online.de/meldungen/software-conmeet-ki-steuerungssystem-fuer-handwerker",
-      "date": 1781830807,
-      "dateStr": "19. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Wärmepumpe ersetzt Ölhei­zung in über 300 Jahre altem Gebäude",
-      "excerpt": "In einem über 300 Jahre alten Zwei­fami­lien­haus in Rorschach gelang der Um­stieg von Öl auf Wärme­pumpe trotz strengster Lärm­schutz­auflagen.",
-      "link": "https://www.sbz-online.de/meldungen/referenzprojekt-weishaupt-waermepumpe-ersetzt-oelheizung-ueber-300-jahre-altem-gebaeude",
-      "date": 1781830807,
-      "dateStr": "19. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1782691727
+  "fetched": 1782712182
 }
