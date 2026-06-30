@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Podcast: Warum das Elektro­hand­werk jetzt um­den­ken muss",
+      "excerpt": "Gast in Folge 107 des SHK-Radio-­Podcasts ist „Giancarlo the Teacher“ – Fachlehrer für Elektrotechnik, Pod­caster und Ex­perte für digi­tale Bildung.",
+      "link": "https://www.sbz-online.de/meldungen/shk-radio-podcast-warum-das-elektrohandwerk-jetzt-umdenken-muss",
+      "date": 1782781207,
+      "dateStr": "30. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Gebäude­be­grü­nung trotzt Ex­trem­wet­ter",
       "excerpt": "Hitzerekorde und Unwetter setzen Städte unter Druck. Dach- und Fassadenbegrünungen können Regenwasser zurückhalten und Gebäude kühlen.",
       "link": "https://www.sbz-online.de/meldungen/gebaeudehuelle-gebaeudebegruenung-trotzt-extremwetter",
@@ -128,6 +137,15 @@
       "category": "Aktuell"
     },
     {
+      "title": "IBC Solar und Bosch – gemein­sam für die Ener­gie­wende",
+      "excerpt": "IBC Solar erweitert sein Port­folio um Bosch-Klima­geräte und bietet Installations­part­nern neue Mög­lich­kei­ten für integ­rierte Ener­gie­lösungen.",
+      "link": "https://www.sbz-online.de/meldungen/kooperation-ibc-solar-und-bosch-gemeinsam-fuer-die-energiewende",
+      "date": 1782217529,
+      "dateStr": "23. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Das digitale Handwerkerhaus: Vom Fundament zur KI",
       "excerpt": "Martin Sommer zeigt im Webinar, wie SHK-Betriebe Schritt für Schritt die Basis für Digitalisierung, Automatisierung und Künstliche Intelligenz schaffen.",
       "link": "https://events.gentner.de/de/ki-und-digitalisierung-im-shk-handwerk-plaud",
@@ -162,25 +180,7 @@
       "dateStr": "22. Jun. 2026",
       "source": "SBZ Monteur",
       "category": "Sanitär"
-    },
-    {
-      "title": "Studie zeigt: Wachs­tum durch Soft­ware, KI kaum ge­nutzt",
-      "excerpt": "Eine aktuelle Studie zeigt, dass digitalisierte Handwerksbetriebe Umsatzwachstum verzeichnen und Zeit sparen. KI findet jedoch noch kaum Anwendung.",
-      "link": "https://www.sbz-online.de/meldungen/digitalisierung-studie-zeigt-wachstum-durch-software-ki-kaum-genutzt",
-      "date": 1782090007,
-      "dateStr": "22. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Smart Home"
-    },
-    {
-      "title": "Hummel in­ves­tiert 35 Mio. Euro in Werks­er­wei­te­rung",
-      "excerpt": "Die Hummel AG plant mit einer Investition von rund 35 Mio. Euro die Erweiterung ihres Werks in Denzlingen um zwei Neubauten für moderne Produktionstechnologien.",
-      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-hummel-investiert-35-mio-euro-werkserweiterung",
-      "date": 1782090006,
-      "dateStr": "22. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1782778163
+  "fetched": 1782795765
 }
