@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Klimawerkstatt Berlin: Neuer Bil­dungs­ort für Klima­handwerke",
+      "excerpt": "Die Klimawerkstatt Berlin will das lokale Hand­werk bei Fach­kräfte­ge­winnung, ener­ge­ti­scher Sanie­rung und Ein­satz von Erneuer­baren unter­stützen.",
+      "link": "https://www.sbz-online.de/meldungen/fachverband-shk-berlin-klimawerkstatt-berlin-neuer-bildungsort-fuer-klimahandwerke",
+      "date": 1782871205,
+      "dateStr": "1. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
       "title": "Podcast: Warum das Elektro­hand­werk jetzt um­den­ken muss",
       "excerpt": "Gast in Folge 107 des SHK-Radio-­Podcasts ist „Giancarlo the Teacher“ – Fachlehrer für Elektrotechnik, Pod­caster und Ex­perte für digi­tale Bildung.",
       "link": "https://www.sbz-online.de/meldungen/shk-radio-podcast-warum-das-elektrohandwerk-jetzt-umdenken-muss",
@@ -171,16 +180,7 @@
       "dateStr": "23. Jun. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Reflex wird of­fi­zi­el­ler Part­ner der Hand­ball-WM 2027",
-      "excerpt": "Reflex sichert sich die exklusive Partnerschaft für die DACH-Region bei der Handball-Weltmeisterschaft 2027.",
-      "link": "https://www.sbz-online.de/meldungen/sponsoring-reflex-wird-offizieller-partner-der-handball-wm-2027",
-      "date": 1782176406,
-      "dateStr": "23. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1782877888
+  "fetched": 1782893572
 }
