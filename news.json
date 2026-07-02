@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Hohes Potenzial für Woh­nungs­lüf­tung mit Wär­me­rück­ge­win­nung",
+      "excerpt": "Eine aktuelle dena-Analyse zeigt: Wohnungslüftungssysteme mit Wärmerückgewinnung könnten den Endenergiebedarf bis 2045 um bis zu 27 % senken.",
+      "link": "https://www.sbz-online.de/meldungen/dena-studie-hohes-potenzial-fuer-wohnungslueftung-mit-waermerueckgewinnung",
+      "date": 1782954007,
+      "dateStr": "2. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Hansgrohe ver­netzt Kun­den und Hand­werk",
+      "excerpt": "Hansgrohe erweitert den digitalen Service: Ein neuer Badplaner auf der Website soll Endkunden und Installationsbetriebe effizienter zusammenführen.",
+      "link": "https://www.sbz-online.de/meldungen/badplanung-hansgrohe-vernetzt-kunden-und-handwerk",
+      "date": 1782954006,
+      "dateStr": "2. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Klimawerkstatt Berlin: Neuer Bil­dungs­ort für Klima­handwerke",
       "excerpt": "Die Klimawerkstatt Berlin will das lokale Hand­werk bei Fach­kräfte­ge­winnung, ener­ge­ti­scher Sanie­rung und Ein­satz von Erneuer­baren unter­stützen.",
       "link": "https://www.sbz-online.de/meldungen/fachverband-shk-berlin-klimawerkstatt-berlin-neuer-bildungsort-fuer-klimahandwerke",
@@ -162,25 +180,7 @@
       "dateStr": "23. Jun. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Das digitale Handwerkerhaus: Vom Fundament zur KI",
-      "excerpt": "Martin Sommer zeigt im Webinar, wie SHK-Betriebe Schritt für Schritt die Basis für Digitalisierung, Automatisierung und Künstliche Intelligenz schaffen.",
-      "link": "https://events.gentner.de/de/ki-und-digitalisierung-im-shk-handwerk-plaud",
-      "date": 1782187205,
-      "dateStr": "23. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Smart Home"
-    },
-    {
-      "title": "GModG: BWP warnt vor Rück­schlä­gen",
-      "excerpt": "Der BWP kritisiert das GModG: Die Ausrichtung auf eine Biotreppe und mögliche Kürzungen der Heizungsförderung könnten die Wärmewende gefährden.",
-      "link": "https://www.sbz-online.de/meldungen/heizungsfoerderung-gmodg-bwp-warnt-vor-rueckschlaegen",
-      "date": 1782176407,
-      "dateStr": "23. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1782947688
+  "fetched": 1782963181
 }
