@@ -11,6 +11,15 @@
       "category": "Aktuell"
     },
     {
+      "title": "Das digitale Handwerkerhaus: Vom Fundament zur KI",
+      "excerpt": "Martin Sommer zeigt im Webinar, wie SHK-Betriebe Schritt für Schritt die Basis für Digitalisierung, Automatisierung und Künstliche Intelligenz schaffen.",
+      "link": "https://events.gentner.de/de/ki-und-digitalisierung-im-shk-handwerk-plaud",
+      "date": 1782979205,
+      "dateStr": "2. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Smart Home"
+    },
+    {
       "title": "Hohes Potenzial für Woh­nungs­lüf­tung mit Wär­me­rück­ge­win­nung",
       "excerpt": "Eine aktuelle dena-Analyse zeigt: Wohnungslüftungssysteme mit Wärmerückgewinnung könnten den Endenergiebedarf bis 2045 um bis zu 27 % senken.",
       "link": "https://www.sbz-online.de/meldungen/dena-studie-hohes-potenzial-fuer-wohnungslueftung-mit-waermerueckgewinnung",
@@ -171,16 +180,7 @@
       "dateStr": "24. Jun. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Hansgrohe feiert 125-jähriges Bestehen",
-      "excerpt": "Hansgrohe feiert 125. Jubiläum mit einer neuen Aus­stel­lung zur Unter­neh­mens­ge­schichte und einem gro­ßen Fes­ti­val für Mit­ar­beitende.",
-      "link": "https://www.sbz-online.de/meldungen/jubilaeum-hansgrohe-feiert-125-jaehriges-bestehen",
-      "date": 1782262807,
-      "dateStr": "24. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1782997040
+  "fetched": 1783005646
 }
