@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "„130 Jahre Nutzfahrzeuge“ im Mercedes-Benz Museum",
+      "excerpt": "Die Nutzfahrzeug-Sonder­aus­stel­lung im Mercedes-Benz Museum in Stuttgart zeigt Fahr­zeuge aus ver­gan­ge­nen Zei­ten sowie aktu­elle elek­tri­sche Modelle.",
+      "link": "https://www.sbz-online.de/meldungen/sonderausstellung-130-jahre-nutzfahrzeuge-im-mercedes-benz-museum",
+      "date": 1782988723,
+      "dateStr": "2. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Hohes Potenzial für Woh­nungs­lüf­tung mit Wär­me­rück­ge­win­nung",
       "excerpt": "Eine aktuelle dena-Analyse zeigt: Wohnungslüftungssysteme mit Wärmerückgewinnung könnten den Endenergiebedarf bis 2045 um bis zu 27 % senken.",
       "link": "https://www.sbz-online.de/meldungen/dena-studie-hohes-potenzial-fuer-wohnungslueftung-mit-waermerueckgewinnung",
@@ -171,16 +180,7 @@
       "dateStr": "24. Jun. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "IBC Solar und Bosch – gemein­sam für die Ener­gie­wende",
-      "excerpt": "IBC Solar erweitert sein Port­folio um Bosch-Klima­geräte und bietet Installations­part­nern neue Mög­lich­kei­ten für integ­rierte Ener­gie­lösungen.",
-      "link": "https://www.sbz-online.de/meldungen/kooperation-ibc-solar-und-bosch-gemeinsam-fuer-die-energiewende",
-      "date": 1782217529,
-      "dateStr": "23. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1782988733
+  "fetched": 1782997040
 }
