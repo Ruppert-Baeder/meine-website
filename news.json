@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Hitze in Wohnräumen: Jede zweite Wohnung über 30 °C",
+      "excerpt": "Eine Datenanalyse vernetzter Thermostate zeigt die Auswirkungen der jüngsten Hitzewelle auf Innenraumtemperaturen in Deutschland und Europa.",
+      "link": "https://www.sbz-online.de/meldungen/raumklima-hitze-wohnraeumen-jede-zweite-wohnung-ueber-30-degc",
+      "date": 1783040407,
+      "dateStr": "3. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Smart Home"
+    },
+    {
+      "title": "GET Nord 2026 gewinnt starke Part­ner für die Energiewende",
+      "excerpt": "Mit der Initiative Holzwärme, dem BWP und dem ZIV, die zent­rale Bran­chen­the­men aktiv mitgestalten, erweitert die GET Nord 2026 ihr Netzwerk.",
+      "link": "https://www.sbz-online.de/meldungen/19-bis-21-november-2026-hamburg-get-nord-2026-gewinnt-starke-partner-fuer-die",
+      "date": 1783040406,
+      "dateStr": "3. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "„130 Jahre Nutzfahrzeuge“ im Mercedes-Benz Museum",
       "excerpt": "Die Nutzfahrzeug-Sonder­aus­stel­lung im Mercedes-Benz Museum in Stuttgart zeigt Fahr­zeuge aus ver­gan­ge­nen Zei­ten sowie aktu­elle elek­tri­sche Modelle.",
       "link": "https://www.sbz-online.de/meldungen/sonderausstellung-130-jahre-nutzfahrzeuge-im-mercedes-benz-museum",
@@ -162,25 +180,7 @@
       "dateStr": "24. Jun. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "SBZ ruft an bei der Innung SHK Berlin",
-      "excerpt": "Im Podcast erklärt Andreas Koch-Martin, wie die Innung SHK Berlin mit einer Part­ner­schaft in Ägypten dem Fach­kräf­te­mangel begegnet.",
-      "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-bei-der-innung-shk-berlin",
-      "date": 1782262808,
-      "dateStr": "24. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
-    },
-    {
-      "title": "Pelletpreise im Som­mer­tief",
-      "excerpt": "Holzpelletpreise sinken im Juni erneut auf ihr Sommertief und bieten einen deutlichen Preisvorteil gegenüber Heizöl und Erdgas.",
-      "link": "https://www.sbz-online.de/meldungen/holzpellets-pelletpreise-im-sommertief",
-      "date": 1782262808,
-      "dateStr": "24. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1783047324
+  "fetched": 1783060358
 }
