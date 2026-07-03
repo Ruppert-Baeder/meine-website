@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Kaldewei: Badkultur trifft euro­päische Design­metropolen",
+      "excerpt": "Kaldewei präsentiert moderne Bad­lö­sun­gen in Europas Design­zent­ren – im Fokus ste­hen Nach­hal­tig­keit und an­spruchs­volle Ästhetik.",
+      "link": "https://www.sbz-online.de/meldungen/baddesign-kaldewei-badkultur-trifft-europaeische-designmetropolen",
+      "date": 1783073159,
+      "dateStr": "3. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Hitze in Wohnräumen: Jede zweite Wohnung über 30 °C",
       "excerpt": "Eine Datenanalyse vernetzter Thermostate zeigt die Auswirkungen der jüngsten Hitzewelle auf Innenraumtemperaturen in Deutschland und Europa.",
       "link": "https://www.sbz-online.de/meldungen/raumklima-hitze-wohnraeumen-jede-zweite-wohnung-ueber-30-degc",
@@ -171,16 +180,7 @@
       "dateStr": "24. Jun. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Alois Müller über­nimmt dä­ni­schen Nie­der­tem­pe­ra­tur-Ge­schäfts­be­reich",
-      "excerpt": "Die Alois Müller Gruppe übernimmt den Niedertemperatur-Geschäftsbereich von Aalborg CSP und expandiert damit erstmals international.",
-      "link": "https://www.sbz-online.de/meldungen/akquisitionen-alois-mueller-uebernimmt-daenischen-niedertemperatur-geschaeftsbereich",
-      "date": 1782262809,
-      "dateStr": "24. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1783072673
+  "fetched": 1783080775
 }
