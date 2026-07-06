@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "Systeme für SHK-Profis: medien­be­stän­dig, tot­raum­frei, subtil",
+      "excerpt": "Hebeanlagen für Grauwasser, Ab­luft-WP für innen, Dusch­flä­chen aus Mineral­guss, Unter­putz­was­ser­zäh­ler mit Koax-System, PVD-Ober­flä­chen in Bronze.",
+      "link": "https://www.sbz-online.de/meldungen/abgesteckt-systeme-fuer-shk-profis-medienbestaendig-totraumfrei-subtil",
+      "date": 1783299608,
+      "dateStr": "6. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Kessel: He­be­an­la­gen ohne De­cken­durch­brü­che",
+      "excerpt": "Kessel bietet zwei neue Systemlösungen für Rückstauschutz und Be-/Entlüftung von Hebeanlagen, die den Installationsaufwand reduzieren und Deckendurchbrüche vermeiden.",
+      "link": "https://www.sbz-online.de/meldungen/gebaeudeentwaesserung-kessel-hebeanlagen-ohne-deckendurchbrueche",
+      "date": 1783299608,
+      "dateStr": "6. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "SBZ ruft an bei Toto: Dusch-WCs zum Nach­rüs­ten",
+      "excerpt": "Die neue Podcast-Folge thematisiert, wie Toto die Einstiegshürde für Dusch-WCs senken will. Eine spezielle WC-Keramik ermöglicht die spätere Nachrüstung zum Washlet.",
+      "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-bei-toto-dusch-wcs-zum-nachruesten",
+      "date": 1783299607,
+      "dateStr": "6. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Kaldewei: Badkultur trifft euro­päische Design­metropolen",
       "excerpt": "Kaldewei präsentiert moderne Bad­lö­sun­gen in Europas Design­zent­ren – im Fokus ste­hen Nach­hal­tig­keit und an­spruchs­volle Ästhetik.",
       "link": "https://www.sbz-online.de/meldungen/baddesign-kaldewei-badkultur-trifft-europaeische-designmetropolen",
@@ -153,34 +180,7 @@
       "dateStr": "25. Jun. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Neue Geschäftsführerin beim Fach­ver­band Brandenburg",
-      "excerpt": "Seit Juni 2026 verstärkt Leona Heymann die Geschäfts­füh­rung des Fach­ver­bands SHK Land Brandenburg.",
-      "link": "https://www.sbz-online.de/meldungen/personalie-neue-geschaeftsfuehrerin-beim-fachverband-brandenburg",
-      "date": 1782286373,
-      "dateStr": "24. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Mall-Ratgeber für den zeit­ge­mä­ßen Um­gang mit Regen­wasser",
-      "excerpt": "Der Mall-Ratgeber Regenwasser be­leuch­tet die wich­tigs­ten aktuel­len As­pek­te des Regen­wasser­managements.",
-      "link": "https://www.sbz-online.de/meldungen/arbeitshilfe-mall-ratgeber-fuer-den-zeitgemaessen-umgang-mit-regenwasser",
-      "date": 1782285417,
-      "dateStr": "24. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Systeme für SHK-Profis: frei ­auf­stell­bar, be­leuch­tet, in­stal­lier­fer­tig",
-      "excerpt": "Sole/Wasser-Wärmepumpe mit R290, Fettabscheider für Gewerbeküchen, modulare Kältemaschinen und Wärmepumpen, Badewanne aus Mineralwerkstoff, Messkasten mit Zirkulationsventil.",
-      "link": "https://www.sbz-online.de/meldungen/abgesteckt-systeme-fuer-shk-profis-frei-aufstellbar-beleuchtet-installierfertig",
-      "date": 1782262810,
-      "dateStr": "24. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1783296280
+  "fetched": 1783314618
 }
