@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "Personelle Veränderungen in der SHK-Branche",
+      "excerpt": "Neue Gesichter und Positionen bei Tece SE und der Rosenberg-Gruppe.",
+      "link": "https://www.sbz-online.de/meldungen/personalien-personelle-veraenderungen-der-shk-branche-30",
+      "date": 1783386008,
+      "dateStr": "7. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "#connectingheat 2026: 15 % Früh­bu­cher-Ra­batt si­chern",
+      "excerpt": "Die Deutsche Wärmekonferenz #connectingheat 2026 bietet erstmals einen eigenen Fachkongress für SHK-Handwerker. Bis 27. Juli vom Early-Bird-Rabatt profitieren!",
+      "link": "https://www.sbz-online.de/meldungen/14-und-15-oktober-2026-berlin-connectingheat-2026-15-fruehbucher-rabatt-sichern",
+      "date": 1783386007,
+      "dateStr": "7. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Remko eröffnet neu­en Stand­ort in Ill­schwang",
+      "excerpt": "Remko hat in Illschwang ein Schulungs- und Servicecenter in Betrieb genommen. Der Standort in der Metropolregion Nürnberg richtet sich an Partner in Süddeutschland.",
+      "link": "https://www.sbz-online.de/meldungen/schulungszentrum-remko-eroeffnet-neuen-standort-illschwang",
+      "date": 1783386007,
+      "dateStr": "7. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Systeme für SHK-Profis: medien­be­stän­dig, tot­raum­frei, subtil",
       "excerpt": "Hebeanlagen für Grauwasser, Ab­luft-WP für innen, Dusch­flä­chen aus Mineral­guss, Unter­putz­was­ser­zäh­ler mit Koax-System, PVD-Ober­flä­chen in Bronze.",
       "link": "https://www.sbz-online.de/meldungen/abgesteckt-systeme-fuer-shk-profis-medienbestaendig-totraumfrei-subtil",
@@ -153,34 +180,7 @@
       "dateStr": "26. Jun. 2026",
       "source": "SBZ Monteur",
       "category": "Sanitär"
-    },
-    {
-      "title": "Palette CAD lädt zu „Hands On Handwerk“ ein",
-      "excerpt": "Das Online-Event von Palette CAD versammelt Experten und Handwerker, um konkrete digitale Lösungen für den Betriebsalltag zu präsentieren.",
-      "link": "https://www.sbz-online.de/meldungen/22-und-23-september-2026-online-palette-cad-laedt-zu-hands-handwerk-ein",
-      "date": 1782435606,
-      "dateStr": "26. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Smart Home"
-    },
-    {
-      "title": "Felix Eger startet als jüngster Fran­chise­neh­mer von Bad & Body",
-      "excerpt": "Am Bodensee hat der 22-jäh­rige Felix Eger einen Bad-&-Body-Show­room eröffnet und ist damit der bis­her jüngste Franchisenehmer bei der MHK Group.",
-      "link": "https://www.sbz-online.de/meldungen/badsanierung-felix-eger-startet-als-juengster-franchisenehmer-von-bad-body",
-      "date": 1782349205,
-      "dateStr": "25. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Wilo erwirbt Mehr­heit an An­la­gen­bau­er PreFab",
-      "excerpt": "Wilo Group erwirbt Mehrheitsbeteiligung an PreFab und stärkt damit seine Position bei modularen Lösungen für Rechenzentren.",
-      "link": "https://www.sbz-online.de/meldungen/akquisitionen-wilo-erwirbt-mehrheit-anlagenbauer-prefab",
-      "date": 1782349204,
-      "dateStr": "25. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1783379205
+  "fetched": 1783394401
 }
