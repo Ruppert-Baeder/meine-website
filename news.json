@@ -1,5 +1,186 @@
 {
   "ok": true,
-  "articles": [],
-  "fetched": 1783489812
+  "articles": [
+    {
+      "title": "BEG-Reform: BWP warnt vor Kür­zun­gen",
+      "excerpt": "Die geplante halbjährliche Absenkung der Heizungsförderung könnte laut BWP Investitionen in Wärmepumpen zugunsten fossiler Heizungen verschieben.",
+      "link": "https://www.sbz-online.de/meldungen/heizungsfoerderung-beg-reform-bwp-warnt-vor-kuerzungen",
+      "date": 1783487293,
+      "dateStr": "8. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Viega eröffnet neuen Pro­duk­ti­ons­stand­ort in Kirkel",
+      "excerpt": "Die Viega Group eröffnet in Kirkel eine neue Produktionsstätte für metallene Pressverbinder – mit 150 Mio. Euro Investition und 150 neuen Arbeitsplätzen.",
+      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-viega-eroeffnet-neuen-produktionsstandort-kirkel",
+      "date": 1783472406,
+      "dateStr": "8. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Legionellen im Kalt­was­ser: un­ter­schätz­tes Ri­si­ko – si­cher ge­löst",
+      "excerpt": "Kaltes Trinkwasser ist nicht mehr automatisch sicher. Das Messe-Webinar zur GET Nord zeigt, warum Temperaturen steigen, welche Risiken das birgt und wie richtig gegengesteuert wird.",
+      "link": "https://events.gentner.de/de/webinar-messewebinare-zur-get-nord-2026",
+      "date": 1783472406,
+      "dateStr": "8. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
+      "title": "KWP: Geo­ther­mie zen­tral für De­kar­bo­ni­sie­rung",
+      "excerpt": "Zum Fristende der Kommunalen Wärmeplanung zeigt sich: Zwei Drittel der Großstädte berücksichtigen Geothermie in ihren Plänen, die Hälfte plant bereits konkrete Projekte.",
+      "link": "https://www.sbz-online.de/meldungen/kommunale-waermeplanung-kwp-geothermie-zentral-fuer-dekarbonisierung",
+      "date": 1783472405,
+      "dateStr": "8. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Michael Hilpert zur Kürzung der BEG-Förderung",
+      "excerpt": "Statt Verlässlichkeit drohen mehr Un­si­cher­heit und weni­ger Ver­trauen – ZVSHK-Präsident Michael Hilpert äußert sich zur Kür­zung der BEG-Förderung.",
+      "link": "https://www.sbz-online.de/meldungen/statement-zvshk-michael-hilpert-zur-kuerzung-der-beg-foerderung",
+      "date": 1783432473,
+      "dateStr": "7. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Förderung"
+    },
+    {
+      "title": "Personelle Veränderungen in der SHK-Branche",
+      "excerpt": "Neue Gesichter und Positionen bei Tece SE und der Rosenberg-Gruppe.",
+      "link": "https://www.sbz-online.de/meldungen/personalien-personelle-veraenderungen-der-shk-branche-30",
+      "date": 1783386008,
+      "dateStr": "7. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "#connectingheat 2026: 15 % Früh­bu­cher-Ra­batt si­chern",
+      "excerpt": "Die Deutsche Wärmekonferenz #connectingheat 2026 bietet erstmals einen eigenen Fachkongress für SHK-Handwerker. Bis 27. Juli vom Early-Bird-Rabatt profitieren!",
+      "link": "https://www.sbz-online.de/meldungen/14-und-15-oktober-2026-berlin-connectingheat-2026-15-fruehbucher-rabatt-sichern",
+      "date": 1783386007,
+      "dateStr": "7. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Remko eröffnet neu­en Stand­ort in Ill­schwang",
+      "excerpt": "Remko hat in Illschwang ein Schulungs- und Servicecenter in Betrieb genommen. Der Standort in der Metropolregion Nürnberg richtet sich an Partner in Süddeutschland.",
+      "link": "https://www.sbz-online.de/meldungen/schulungszentrum-remko-eroeffnet-neuen-standort-illschwang",
+      "date": 1783386007,
+      "dateStr": "7. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Systeme für SHK-Profis: medien­be­stän­dig, tot­raum­frei, subtil",
+      "excerpt": "Hebeanlagen für Grauwasser, Ab­luft-WP für innen, Dusch­flä­chen aus Mineral­guss, Unter­putz­was­ser­zäh­ler mit Koax-System, PVD-Ober­flä­chen in Bronze.",
+      "link": "https://www.sbz-online.de/meldungen/abgesteckt-systeme-fuer-shk-profis-medienbestaendig-totraumfrei-subtil",
+      "date": 1783299608,
+      "dateStr": "6. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Kessel: He­be­an­la­gen ohne De­cken­durch­brü­che",
+      "excerpt": "Kessel bietet zwei neue Systemlösungen für Rückstauschutz und Be-/Entlüftung von Hebeanlagen, die den Installationsaufwand reduzieren und Deckendurchbrüche vermeiden.",
+      "link": "https://www.sbz-online.de/meldungen/gebaeudeentwaesserung-kessel-hebeanlagen-ohne-deckendurchbrueche",
+      "date": 1783299608,
+      "dateStr": "6. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "SBZ ruft an bei Toto: Dusch-WCs zum Nach­rüs­ten",
+      "excerpt": "Die neue Podcast-Folge thematisiert, wie Toto die Einstiegshürde für Dusch-WCs senken will. Eine spezielle WC-Keramik ermöglicht die spätere Nachrüstung zum Washlet.",
+      "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-bei-toto-dusch-wcs-zum-nachruesten",
+      "date": 1783299607,
+      "dateStr": "6. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Kaldewei: Badkultur trifft euro­päische Design­metropolen",
+      "excerpt": "Kaldewei präsentiert moderne Bad­lö­sun­gen in Europas Design­zent­ren – im Fokus ste­hen Nach­hal­tig­keit und an­spruchs­volle Ästhetik.",
+      "link": "https://www.sbz-online.de/meldungen/baddesign-kaldewei-badkultur-trifft-europaeische-designmetropolen",
+      "date": 1783073159,
+      "dateStr": "3. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Hitze in Wohnräumen: Jede zweite Wohnung über 30 °C",
+      "excerpt": "Eine Datenanalyse vernetzter Thermostate zeigt die Auswirkungen der jüngsten Hitzewelle auf Innenraumtemperaturen in Deutschland und Europa.",
+      "link": "https://www.sbz-online.de/meldungen/raumklima-hitze-wohnraeumen-jede-zweite-wohnung-ueber-30-degc",
+      "date": 1783040407,
+      "dateStr": "3. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Smart Home"
+    },
+    {
+      "title": "GET Nord 2026 gewinnt starke Part­ner für die Energiewende",
+      "excerpt": "Mit der Initiative Holzwärme, dem BWP und dem ZIV, die zent­rale Bran­chen­the­men aktiv mitgestalten, erweitert die GET Nord 2026 ihr Netzwerk.",
+      "link": "https://www.sbz-online.de/meldungen/19-bis-21-november-2026-hamburg-get-nord-2026-gewinnt-starke-partner-fuer-die",
+      "date": 1783040406,
+      "dateStr": "3. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "„130 Jahre Nutzfahrzeuge“ im Mercedes-Benz Museum",
+      "excerpt": "Die Nutzfahrzeug-Sonder­aus­stel­lung im Mercedes-Benz Museum in Stuttgart zeigt Fahr­zeuge aus ver­gan­ge­nen Zei­ten sowie aktu­elle elek­tri­sche Modelle.",
+      "link": "https://www.sbz-online.de/meldungen/sonderausstellung-130-jahre-nutzfahrzeuge-im-mercedes-benz-museum",
+      "date": 1782988723,
+      "dateStr": "2. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Das digitale Handwerkerhaus: Vom Fundament zur KI",
+      "excerpt": "Martin Sommer zeigt im Webinar, wie SHK-Betriebe Schritt für Schritt die Basis für Digitalisierung, Automatisierung und Künstliche Intelligenz schaffen.",
+      "link": "https://events.gentner.de/de/ki-und-digitalisierung-im-shk-handwerk-plaud",
+      "date": 1782979205,
+      "dateStr": "2. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Smart Home"
+    },
+    {
+      "title": "Hohes Potenzial für Woh­nungs­lüf­tung mit Wär­me­rück­ge­win­nung",
+      "excerpt": "Eine aktuelle dena-Analyse zeigt: Wohnungslüftungssysteme mit Wärmerückgewinnung könnten den Endenergiebedarf bis 2045 um bis zu 27 % senken.",
+      "link": "https://www.sbz-online.de/meldungen/dena-studie-hohes-potenzial-fuer-wohnungslueftung-mit-waermerueckgewinnung",
+      "date": 1782954007,
+      "dateStr": "2. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Hansgrohe ver­netzt Kun­den und Hand­werk",
+      "excerpt": "Hansgrohe erweitert den digitalen Service: Ein neuer Badplaner auf der Website soll Endkunden und Installationsbetriebe effizienter zusammenführen.",
+      "link": "https://www.sbz-online.de/meldungen/badplanung-hansgrohe-vernetzt-kunden-und-handwerk",
+      "date": 1782954006,
+      "dateStr": "2. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Klimawerkstatt Berlin: Neuer Bil­dungs­ort für Klima­handwerke",
+      "excerpt": "Die Klimawerkstatt Berlin will das lokale Hand­werk bei Fach­kräfte­ge­winnung, ener­ge­ti­scher Sanie­rung und Ein­satz von Erneuer­baren unter­stützen.",
+      "link": "https://www.sbz-online.de/meldungen/fachverband-shk-berlin-klimawerkstatt-berlin-neuer-bildungsort-fuer-klimahandwerke",
+      "date": 1782871205,
+      "dateStr": "1. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
+      "title": "Podcast: Warum das Elektro­hand­werk jetzt um­den­ken muss",
+      "excerpt": "Gast in Folge 107 des SHK-Radio-­Podcasts ist „Giancarlo the Teacher“ – Fachlehrer für Elektrotechnik, Pod­caster und Ex­perte für digi­tale Bildung.",
+      "link": "https://www.sbz-online.de/meldungen/shk-radio-podcast-warum-das-elektrohandwerk-jetzt-umdenken-muss",
+      "date": 1782781207,
+      "dateStr": "30. Jun. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    }
+  ],
+  "fetched": 1783499208
 }
