@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "Evolution des Ba­de­zim­mers: Vom Zweck­raum zum De­sign­ob­jekt",
+      "excerpt": "Das Badezimmer hat sich vom Zweckraum zum hochwertigen Lebensbereich gewandelt – mit neuen Anforderungen an Entwässerungstechnik und Abdichtung.",
+      "link": "https://www.sbz-online.de/meldungen/baddesign-evolution-des-badezimmers-vom-zweckraum-zum-designobjekt",
+      "date": 1783558807,
+      "dateStr": "9. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Interdomus Lehrlingscamp 2026 – praxis­nah, ver­netzt, nach vorne",
+      "excerpt": "Das Interdomus Lehrlingscamp 2026 för­derte SHK-Azubis mit praxis­na­hen Work­shops und stärkte Moti­va­tion und Fach­wissen.",
+      "link": "https://www.sbz-online.de/meldungen/nachwuchsfoerderung-interdomus-lehrlingscamp-2026-praxisnah-vernetzt-nach-vorne",
+      "date": 1783558806,
+      "dateStr": "9. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Wolf aktualisiert Service-App für Fach­part­ner",
+      "excerpt": "Die neue Version der Wolf-Service-App bietet Handwerkern tagesaktuelle Informationen zu Ersatzteilen und Preisen sowie eine optimierte Benutzerführung.",
+      "link": "https://www.sbz-online.de/meldungen/digitale-tools-wolf-aktualisiert-service-app-fuer-fachpartner",
+      "date": 1783558806,
+      "dateStr": "9. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "BEG-Reform: BWP warnt vor Kür­zun­gen",
       "excerpt": "Die geplante halbjährliche Absenkung der Heizungsförderung könnte laut BWP Investitionen in Wärmepumpen zugunsten fossiler Heizungen verschieben.",
       "link": "https://www.sbz-online.de/meldungen/heizungsfoerderung-beg-reform-bwp-warnt-vor-kuerzungen",
@@ -153,34 +180,7 @@
       "dateStr": "2. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Hansgrohe ver­netzt Kun­den und Hand­werk",
-      "excerpt": "Hansgrohe erweitert den digitalen Service: Ein neuer Badplaner auf der Website soll Endkunden und Installationsbetriebe effizienter zusammenführen.",
-      "link": "https://www.sbz-online.de/meldungen/badplanung-hansgrohe-vernetzt-kunden-und-handwerk",
-      "date": 1782954006,
-      "dateStr": "2. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Klimawerkstatt Berlin: Neuer Bil­dungs­ort für Klima­handwerke",
-      "excerpt": "Die Klimawerkstatt Berlin will das lokale Hand­werk bei Fach­kräfte­ge­winnung, ener­ge­ti­scher Sanie­rung und Ein­satz von Erneuer­baren unter­stützen.",
-      "link": "https://www.sbz-online.de/meldungen/fachverband-shk-berlin-klimawerkstatt-berlin-neuer-bildungsort-fuer-klimahandwerke",
-      "date": 1782871205,
-      "dateStr": "1. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
-    },
-    {
-      "title": "Podcast: Warum das Elektro­hand­werk jetzt um­den­ken muss",
-      "excerpt": "Gast in Folge 107 des SHK-Radio-­Podcasts ist „Giancarlo the Teacher“ – Fachlehrer für Elektrotechnik, Pod­caster und Ex­perte für digi­tale Bildung.",
-      "link": "https://www.sbz-online.de/meldungen/shk-radio-podcast-warum-das-elektrohandwerk-jetzt-umdenken-muss",
-      "date": 1782781207,
-      "dateStr": "30. Jun. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1783555695
+  "fetched": 1783572700
 }
