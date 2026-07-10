@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Ariston Group schließt Riello-Über­nah­me ab",
+      "excerpt": "Die Ariston Group hat die Akquisition der Riello Group vollzogen. Das Unternehmen will damit sein Portfolio erweitern und die Marktposition stärken.",
+      "link": "https://www.sbz-online.de/meldungen/akquisitionen-ariston-group-schliesst-riello-uebernahme-ab",
+      "date": 1783645205,
+      "dateStr": "10. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Evolution des Ba­de­zim­mers: Vom Zweck­raum zum De­sign­ob­jekt",
       "excerpt": "Das Badezimmer hat sich vom Zweckraum zum hochwertigen Lebensbereich gewandelt – mit neuen Anforderungen an Entwässerungstechnik und Abdichtung.",
       "link": "https://www.sbz-online.de/meldungen/baddesign-evolution-des-badezimmers-vom-zweckraum-zum-designobjekt",
@@ -171,16 +180,7 @@
       "dateStr": "2. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Smart Home"
-    },
-    {
-      "title": "Hohes Potenzial für Woh­nungs­lüf­tung mit Wär­me­rück­ge­win­nung",
-      "excerpt": "Eine aktuelle dena-Analyse zeigt: Wohnungslüftungssysteme mit Wärmerückgewinnung könnten den Endenergiebedarf bis 2045 um bis zu 27 % senken.",
-      "link": "https://www.sbz-online.de/meldungen/dena-studie-hohes-potenzial-fuer-wohnungslueftung-mit-waermerueckgewinnung",
-      "date": 1782954007,
-      "dateStr": "2. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1783638628
+  "fetched": 1783653348
 }
