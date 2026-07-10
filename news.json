@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Webinar: DIN EN 1717 – Trink­was­ser rich­tig schüt­zen",
+      "excerpt": "Die neue DIN EN 1717 bringt klare Anforderungen an den Trinkwasserschutz. Wer die Norm sicher beherrscht, erkennt Risiken frühzeitig und vermeidet Haftungsfallen.",
+      "link": "https://events.gentner.de/de/din-en-1717-neue-vorgaben-zum-schutz-des-trinkwassers",
+      "date": 1783667020,
+      "dateStr": "10. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
+      "title": "BDH fordert Nach­bes­se­rung bei BEG-Eck­punk­ten",
+      "excerpt": "Die BEG-Eckpunkte stoßen in der Heizungsindustrie auf geteilte Meinungen: Die langfristige Ausgestaltung wird begrüßt, doch der BDH sieht Nach­bes­se­rungs­be­darf.",
+      "link": "https://www.sbz-online.de/meldungen/heizungsfoerderung-bdh-fordert-nachbesserung-bei-beg-eckpunkten",
+      "date": 1783665279,
+      "dateStr": "10. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Ariston Group schließt Riello-Über­nah­me ab",
       "excerpt": "Die Ariston Group hat die Akquisition der Riello Group vollzogen. Das Unternehmen will damit sein Portfolio erweitern und die Marktposition stärken.",
       "link": "https://www.sbz-online.de/meldungen/akquisitionen-ariston-group-schliesst-riello-uebernahme-ab",
@@ -162,25 +180,7 @@
       "dateStr": "3. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "„130 Jahre Nutzfahrzeuge“ im Mercedes-Benz Museum",
-      "excerpt": "Die Nutzfahrzeug-Sonder­aus­stel­lung im Mercedes-Benz Museum in Stuttgart zeigt Fahr­zeuge aus ver­gan­ge­nen Zei­ten sowie aktu­elle elek­tri­sche Modelle.",
-      "link": "https://www.sbz-online.de/meldungen/sonderausstellung-130-jahre-nutzfahrzeuge-im-mercedes-benz-museum",
-      "date": 1782988723,
-      "dateStr": "2. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Das digitale Handwerkerhaus: Vom Fundament zur KI",
-      "excerpt": "Martin Sommer zeigt im Webinar, wie SHK-Betriebe Schritt für Schritt die Basis für Digitalisierung, Automatisierung und Künstliche Intelligenz schaffen.",
-      "link": "https://events.gentner.de/de/ki-und-digitalisierung-im-shk-handwerk-plaud",
-      "date": 1782979205,
-      "dateStr": "2. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Smart Home"
     }
   ],
-  "fetched": 1783668828
+  "fetched": 1783680757
 }
