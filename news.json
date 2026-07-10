@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Förderstopp: Wenn Po­li­tik die Wär­me­wen­de bremst",
+      "excerpt": "SBZ-Redakteurin Katrin Drogatz-Krämer über den BEG-Förderstopp, seine Folgen für SHK-Betriebe und was die Branche jetzt braucht.",
+      "link": "https://www.sbz-online.de/meldungen/statement-beg-foerderstopp-wenn-politik-die-waermewende-bremst",
+      "date": 1783682865,
+      "dateStr": "10. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Webinar: DIN EN 1717 – Trink­was­ser rich­tig schüt­zen",
       "excerpt": "Die neue DIN EN 1717 bringt klare Anforderungen an den Trinkwasserschutz. Wer die Norm sicher beherrscht, erkennt Risiken frühzeitig und vermeidet Haftungsfallen.",
       "link": "https://events.gentner.de/de/din-en-1717-neue-vorgaben-zum-schutz-des-trinkwassers",
@@ -171,16 +180,7 @@
       "dateStr": "3. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Smart Home"
-    },
-    {
-      "title": "GET Nord 2026 gewinnt starke Part­ner für die Energiewende",
-      "excerpt": "Mit der Initiative Holzwärme, dem BWP und dem ZIV, die zent­rale Bran­chen­the­men aktiv mitgestalten, erweitert die GET Nord 2026 ihr Netzwerk.",
-      "link": "https://www.sbz-online.de/meldungen/19-bis-21-november-2026-hamburg-get-nord-2026-gewinnt-starke-partner-fuer-die",
-      "date": 1783040406,
-      "dateStr": "3. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1783689032
+  "fetched": 1783700639
 }
