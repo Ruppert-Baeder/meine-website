@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "„Heizkeller der Zukunft“ – Aktions­tage sind gut ge­nutzt worden",
+      "excerpt": "Die Aktionstage „Heizkeller der Zu­kunft“ in NRW waren ein Erfolg. SHK-Betriebe infor­mier­ten vor Ort über Wärme­pumpen und neue Heiz­lö­sungen.",
+      "link": "https://www.sbz-online.de/meldungen/shk-nrw-heizkeller-der-zukunft-aktionstage-sind-gut-genutzt-worden",
+      "date": 1783904407,
+      "dateStr": "13. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Label Software integriert KI-Assistent",
+      "excerpt": "Label Software hat in die Soft­ware Label­win und die App Label Mobile einen sprach­ge­steuerten KI-Assis­ten­ten ein­gebunden. Was er kann.",
+      "link": "https://www.sbz-online.de/meldungen/digitale-tools-label-software-integriert-ki-assistent",
+      "date": 1783904406,
+      "dateStr": "13. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Smart Home"
+    },
+    {
       "title": "Förderstopp: Wenn Po­li­tik die Wär­me­wen­de bremst",
       "excerpt": "SBZ-Redakteurin Katrin Drogatz-Krämer über den BEG-Förderstopp, seine Folgen für SHK-Betriebe und was die Branche jetzt braucht.",
       "link": "https://www.sbz-online.de/meldungen/statement-beg-foerderstopp-wenn-politik-die-waermewende-bremst",
@@ -162,25 +180,7 @@
       "dateStr": "6. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Kaldewei: Badkultur trifft euro­päische Design­metropolen",
-      "excerpt": "Kaldewei präsentiert moderne Bad­lö­sun­gen in Europas Design­zent­ren – im Fokus ste­hen Nach­hal­tig­keit und an­spruchs­volle Ästhetik.",
-      "link": "https://www.sbz-online.de/meldungen/baddesign-kaldewei-badkultur-trifft-europaeische-designmetropolen",
-      "date": 1783073159,
-      "dateStr": "3. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Hitze in Wohnräumen: Jede zweite Wohnung über 30 °C",
-      "excerpt": "Eine Datenanalyse vernetzter Thermostate zeigt die Auswirkungen der jüngsten Hitzewelle auf Innenraumtemperaturen in Deutschland und Europa.",
-      "link": "https://www.sbz-online.de/meldungen/raumklima-hitze-wohnraeumen-jede-zweite-wohnung-ueber-30-degc",
-      "date": 1783040407,
-      "dateStr": "3. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Smart Home"
     }
   ],
-  "fetched": 1783910635
+  "fetched": 1783923457
 }
