@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "ZVEH: GModG und BEG-Än­de­rung ver­un­si­chern",
+      "excerpt": "GModG und BEG-Kürzung verunsichern Wirtschaft und Verbraucher. Der ZVEH warnt vor einer Kostenfalle.",
+      "link": "https://www.sbz-online.de/meldungen/energiepolitik-zveh-gmodg-und-beg-aenderung-verunsichern",
+      "date": 1783918503,
+      "dateStr": "13. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "„Heizkeller der Zukunft“ – Aktions­tage sind gut ge­nutzt worden",
       "excerpt": "Die Aktionstage „Heizkeller der Zu­kunft“ in NRW waren ein Erfolg. SHK-Betriebe infor­mier­ten vor Ort über Wärme­pumpen und neue Heiz­lö­sungen.",
       "link": "https://www.sbz-online.de/meldungen/shk-nrw-heizkeller-der-zukunft-aktionstage-sind-gut-genutzt-worden",
@@ -171,16 +180,7 @@
       "dateStr": "6. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "SBZ ruft an bei Toto: Dusch-WCs zum Nach­rüs­ten",
-      "excerpt": "Die neue Podcast-Folge thematisiert, wie Toto die Einstiegshürde für Dusch-WCs senken will. Eine spezielle WC-Keramik ermöglicht die spätere Nachrüstung zum Washlet.",
-      "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-bei-toto-dusch-wcs-zum-nachruesten",
-      "date": 1783299607,
-      "dateStr": "6. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1783923457
+  "fetched": 1783938300
 }
