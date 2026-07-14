@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Ärger über För­der­stopp und po­li­ti­sche Kom­mu­ni­ka­ti­on",
+      "excerpt": "Das SHK-Handwerk in Ba-Wü zeigt sich empört über die kurzfristigen Änderungen bei der Heizungsförderung und das andauernde Chaos um das neue GModG.",
+      "link": "https://www.sbz-online.de/meldungen/energiepolitik-aerger-ueber-foerderstopp-und-politische-kommunikation",
+      "date": 1784000940,
+      "dateStr": "14. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "3D-Badplanung: Schlüter-Sys­tem­lö­sun­gen in Palette CAD integriert",
       "excerpt": "Die Integration von Schlüter-Sys­tems in Palette CAD ver­bin­det 3D-Pla­nung mit realen Pro­dukt­da­ten für eine durch­gängige Pla­nungs­grund­lage.",
       "link": "https://www.sbz-online.de/meldungen/digitale-tools-3d-badplanung-schlueter-systemloesungen-palette-cad-integriert",
@@ -171,16 +180,7 @@
       "dateStr": "7. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Remko eröffnet neu­en Stand­ort in Ill­schwang",
-      "excerpt": "Remko hat in Illschwang ein Schulungs- und Servicecenter in Betrieb genommen. Der Standort in der Metropolregion Nürnberg richtet sich an Partner in Süddeutschland.",
-      "link": "https://www.sbz-online.de/meldungen/schulungszentrum-remko-eroeffnet-neuen-standort-illschwang",
-      "date": 1783386007,
-      "dateStr": "7. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1784006964
+  "fetched": 1784016191
 }
