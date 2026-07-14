@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "3D-Badplanung: Schlüter-Sys­tem­lö­sun­gen in Palette CAD integriert",
+      "excerpt": "Die Integration von Schlüter-Sys­tems in Palette CAD ver­bin­det 3D-Pla­nung mit realen Pro­dukt­da­ten für eine durch­gängige Pla­nungs­grund­lage.",
+      "link": "https://www.sbz-online.de/meldungen/digitale-tools-3d-badplanung-schlueter-systemloesungen-palette-cad-integriert",
+      "date": 1783998442,
+      "dateStr": "14. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Geothermie­kon­gress 2026: Anmeldung eröffnet",
+      "excerpt": "Der Geothermiekongress 2026 mit über 200 Vorträgen und 244 ein­ge­reich­ten Bei­trä­gen fokus­siert auf Austausch und Vernetzung.",
+      "link": "https://www.sbz-online.de/meldungen/20-bis-22-oktober-2026-potsdam-geothermiekongress-2026-anmeldung-eroeffnet",
+      "date": 1783990806,
+      "dateStr": "14. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "ZVEH: GModG und BEG-Än­de­rung ver­un­si­chern",
       "excerpt": "GModG und BEG-Kürzung verunsichern Wirtschaft und Verbraucher. Der ZVEH warnt vor einer Kostenfalle.",
       "link": "https://www.sbz-online.de/meldungen/energiepolitik-zveh-gmodg-und-beg-aenderung-verunsichern",
@@ -162,25 +180,7 @@
       "dateStr": "7. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Systeme für SHK-Profis: medien­be­stän­dig, tot­raum­frei, subtil",
-      "excerpt": "Hebeanlagen für Grauwasser, Ab­luft-WP für innen, Dusch­flä­chen aus Mineral­guss, Unter­putz­was­ser­zäh­ler mit Koax-System, PVD-Ober­flä­chen in Bronze.",
-      "link": "https://www.sbz-online.de/meldungen/abgesteckt-systeme-fuer-shk-profis-medienbestaendig-totraumfrei-subtil",
-      "date": 1783299608,
-      "dateStr": "6. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Kessel: He­be­an­la­gen ohne De­cken­durch­brü­che",
-      "excerpt": "Kessel bietet zwei neue Systemlösungen für Rückstauschutz und Be-/Entlüftung von Hebeanlagen, die den Installationsaufwand reduzieren und Deckendurchbrüche vermeiden.",
-      "link": "https://www.sbz-online.de/meldungen/gebaeudeentwaesserung-kessel-hebeanlagen-ohne-deckendurchbrueche",
-      "date": 1783299608,
-      "dateStr": "6. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1783996042
+  "fetched": 1784006964
 }
