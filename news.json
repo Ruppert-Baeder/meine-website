@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Die Maus und ihr Fernseh­team zu Gast bei Villeroy & Boch",
+      "excerpt": "Die „Sendung mit der Maus“ zeigt die Fer­ti­gung des wasser­spa­ren­den TwistFlush-WCs und die tech­ni­schen Fort­schritte am Standort Mettlach.",
+      "link": "https://www.sbz-online.de/meldungen/die-sendung-mit-der-maus-die-maus-und-ihr-fernsehteam-zu-gast-bei-villeroy-boch",
+      "date": 1784077206,
+      "dateStr": "15. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Energiewende: Wo stehen wir wirklich?",
+      "excerpt": "Klartext statt Hin und Her: Das Messe-Webinar zur GET Nord zeigt, welche Chancen Wärmepumpe, PV und Energieeffizienz im Bestand bieten. Plus starke Argumente für die Kundenberatung.",
+      "link": "https://events.gentner.de/de/webinar-messewebinare-zur-get-nord-2026",
+      "date": 1784077206,
+      "dateStr": "15. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Ärger über För­der­stopp und po­li­ti­sche Kom­mu­ni­ka­ti­on",
       "excerpt": "Das SHK-Handwerk in Ba-Wü zeigt sich empört über die kurzfristigen Änderungen bei der Heizungsförderung und das andauernde Chaos um das neue GModG.",
       "link": "https://www.sbz-online.de/meldungen/energiepolitik-aerger-ueber-foerderstopp-und-politische-kommunikation",
@@ -162,25 +180,7 @@
       "dateStr": "7. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Förderung"
-    },
-    {
-      "title": "Personelle Veränderungen in der SHK-Branche",
-      "excerpt": "Neue Gesichter und Positionen bei Tece SE und der Rosenberg-Gruppe.",
-      "link": "https://www.sbz-online.de/meldungen/personalien-personelle-veraenderungen-der-shk-branche-30",
-      "date": 1783386008,
-      "dateStr": "7. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "#connectingheat 2026: 15 % Früh­bu­cher-Ra­batt si­chern",
-      "excerpt": "Die Deutsche Wärmekonferenz #connectingheat 2026 bietet erstmals einen eigenen Fachkongress für SHK-Handwerker. Bis 27. Juli vom Early-Bird-Rabatt profitieren!",
-      "link": "https://www.sbz-online.de/meldungen/14-und-15-oktober-2026-berlin-connectingheat-2026-15-fruehbucher-rabatt-sichern",
-      "date": 1783386007,
-      "dateStr": "7. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1784073544
+  "fetched": 1784085622
 }
