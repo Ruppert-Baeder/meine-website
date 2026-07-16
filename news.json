@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Pam Building elek­tri­fi­ziert Guss­ei­sen-Pro­duk­ti­on",
+      "excerpt": "Pam Building investiert 15,5 Mio. Euro in die Elektrifizierung der Gusseisen-Produktion und senkt CO2-Emissionen im Schmelzbetrieb um bis zu 85 %.",
+      "link": "https://www.sbz-online.de/meldungen/dekarbonisierung-pam-building-elektrifiziert-gusseisen-produktion",
+      "date": 1784163607,
+      "dateStr": "16. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
+      "title": "SBZ ruft an zur Zukunft der Bad­aus­stel­lung bei TCZ",
+      "excerpt": "In dieser Folge von „SBZ ruft an“ spricht Christian Zinser von TCZ u. a. darüber, wie weni­ger Aus­stel­lung mehr Ver­kauf be­deu­ten kann.",
+      "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-zur-zukunft-der-badausstellung-bei-tcz",
+      "date": 1784163606,
+      "dateStr": "16. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Die Maus und ihr Fernseh­team zu Gast bei Villeroy & Boch",
       "excerpt": "Die „Sendung mit der Maus“ zeigt die Fer­ti­gung des wasser­spa­ren­den TwistFlush-WCs und die tech­ni­schen Fort­schritte am Standort Mettlach.",
       "link": "https://www.sbz-online.de/meldungen/die-sendung-mit-der-maus-die-maus-und-ihr-fernsehteam-zu-gast-bei-villeroy-boch",
@@ -162,25 +180,7 @@
       "dateStr": "8. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Sanitär"
-    },
-    {
-      "title": "KWP: Geo­ther­mie zen­tral für De­kar­bo­ni­sie­rung",
-      "excerpt": "Zum Fristende der Kommunalen Wärmeplanung zeigt sich: Zwei Drittel der Großstädte berücksichtigen Geothermie in ihren Plänen, die Hälfte plant bereits konkrete Projekte.",
-      "link": "https://www.sbz-online.de/meldungen/kommunale-waermeplanung-kwp-geothermie-zentral-fuer-dekarbonisierung",
-      "date": 1783472405,
-      "dateStr": "8. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Michael Hilpert zur Kürzung der BEG-Förderung",
-      "excerpt": "Statt Verlässlichkeit drohen mehr Un­si­cher­heit und weni­ger Ver­trauen – ZVSHK-Präsident Michael Hilpert äußert sich zur Kür­zung der BEG-Förderung.",
-      "link": "https://www.sbz-online.de/meldungen/statement-zvshk-michael-hilpert-zur-kuerzung-der-beg-foerderung",
-      "date": 1783432473,
-      "dateStr": "7. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Förderung"
     }
   ],
-  "fetched": 1784170552
+  "fetched": 1784180489
 }
