@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Hottgenroth: Neue App für prä­zi­se Ge­bäu­de­da­ten",
+      "excerpt": "Hottgenroth Software hat eine neue GebäudeScan-App entwickelt. Sie ermöglicht die effiziente und präzise Erfassung von Gebäudedaten direkt vor Ort.",
+      "link": "https://www.sbz-online.de/meldungen/digitale-tools-hottgenroth-neue-app-fuer-praezise-gebaeudedaten",
+      "date": 1784272694,
+      "dateStr": "17. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Smart Home"
+    },
+    {
       "title": "Seminar: Kun­den­bin­dung im Bad­ver­kauf",
       "excerpt": "Ein 2-tägiges Seminar von Dein Creativ Lab vermittelt Badplanern und -verkäufern Strategien für stärkere Kundenbeziehungen und effizientere Verkaufsgespräche.",
       "link": "https://www.sbz-online.de/meldungen/29-und-30-oktober-2026-koeln-seminar-kundenbindung-im-badverkauf",
@@ -171,16 +180,7 @@
       "dateStr": "8. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Viega eröffnet neuen Pro­duk­ti­ons­stand­ort in Kirkel",
-      "excerpt": "Die Viega Group eröffnet in Kirkel eine neue Produktionsstätte für metallene Pressverbinder – mit 150 Mio. Euro Investition und 150 neuen Arbeitsplätzen.",
-      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-viega-eroeffnet-neuen-produktionsstandort-kirkel",
-      "date": 1783472406,
-      "dateStr": "8. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1784279288
+  "fetched": 1784287242
 }
