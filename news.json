@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Seminar: Kun­den­bin­dung im Bad­ver­kauf",
+      "excerpt": "Ein 2-tägiges Seminar von Dein Creativ Lab vermittelt Badplanern und -verkäufern Strategien für stärkere Kundenbeziehungen und effizientere Verkaufsgespräche.",
+      "link": "https://www.sbz-online.de/meldungen/29-und-30-oktober-2026-koeln-seminar-kundenbindung-im-badverkauf",
+      "date": 1784250006,
+      "dateStr": "17. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
       "title": "Pam Building elek­tri­fi­ziert Guss­ei­sen-Pro­duk­ti­on",
       "excerpt": "Pam Building investiert 15,5 Mio. Euro in die Elektrifizierung der Gusseisen-Produktion und senkt CO2-Emissionen im Schmelzbetrieb um bis zu 85 %.",
       "link": "https://www.sbz-online.de/meldungen/dekarbonisierung-pam-building-elektrifiziert-gusseisen-produktion",
@@ -171,16 +180,7 @@
       "dateStr": "8. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Legionellen im Kalt­was­ser: un­ter­schätz­tes Ri­si­ko – si­cher ge­löst",
-      "excerpt": "Kaltes Trinkwasser ist nicht mehr automatisch sicher. Das Messe-Webinar zur GET Nord zeigt, warum Temperaturen steigen, welche Risiken das birgt und wie richtig gegengesteuert wird.",
-      "link": "https://events.gentner.de/de/webinar-messewebinare-zur-get-nord-2026",
-      "date": 1783472406,
-      "dateStr": "8. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
     }
   ],
-  "fetched": 1784246306
+  "fetched": 1784258944
 }
