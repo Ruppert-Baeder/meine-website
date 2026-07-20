@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Wiedemann startet 24/7-Ab­hol­la­ger in Ham­burg",
+      "excerpt": "Die Wiedemann-Gruppe führt mit „Wiedemann 24/7“ einen flexiblen Warenzugriff am Abhollager ein – rund um die Uhr, 7 Tage die Woche.",
+      "link": "https://www.sbz-online.de/meldungen/grosshandel-wiedemann-startet-24-7-abhollager-hamburg",
+      "date": 1784509206,
+      "dateStr": "20. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Viessmann und Kiwigrid ver­net­zen Wär­me­pum­pen und Spei­cher",
+      "excerpt": "Viessmann Climate Solutions und Kiwigrid integrieren Wärmepumpen und Batteriespeicher via EEBus in eine gemeinsame Plattform.",
+      "link": "https://www.sbz-online.de/meldungen/kooperation-viessmann-und-kiwigrid-vernetzen-waermepumpen-und-speicher",
+      "date": 1784509205,
+      "dateStr": "20. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Hottgenroth: Neue App für prä­zi­se Ge­bäu­de­da­ten",
       "excerpt": "Hottgenroth Software hat eine neue GebäudeScan-App entwickelt. Sie ermöglicht die effiziente und präzise Erfassung von Gebäudedaten direkt vor Ort.",
       "link": "https://www.sbz-online.de/meldungen/digitale-tools-hottgenroth-neue-app-fuer-praezise-gebaeudedaten",
@@ -162,25 +180,7 @@
       "dateStr": "9. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Wolf aktualisiert Service-App für Fach­part­ner",
-      "excerpt": "Die neue Version der Wolf-Service-App bietet Handwerkern tagesaktuelle Informationen zu Ersatzteilen und Preisen sowie eine optimierte Benutzerführung.",
-      "link": "https://www.sbz-online.de/meldungen/digitale-tools-wolf-aktualisiert-service-app-fuer-fachpartner",
-      "date": 1783558806,
-      "dateStr": "9. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "BEG-Reform: BWP warnt vor Kür­zun­gen",
-      "excerpt": "Die geplante halbjährliche Absenkung der Heizungsförderung könnte laut BWP Investitionen in Wärmepumpen zugunsten fossiler Heizungen verschieben.",
-      "link": "https://www.sbz-online.de/meldungen/heizungsfoerderung-beg-reform-bwp-warnt-vor-kuerzungen",
-      "date": 1783487293,
-      "dateStr": "8. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1784513538
+  "fetched": 1784517600
 }
