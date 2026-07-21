@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Netzdienliche HLK-Sys­te­me: Neue Rol­le im En­er­gie­sys­tem",
+      "excerpt": "Mit zunehmender Elektrifizierung und neuen gesetzlichen Vorgaben wandeln sich HLK-Systeme von reinen Verbrauchern zu aktiven Bausteinen eines stabilen Energiesystems.",
+      "link": "https://www.sbz-online.de/meldungen/klimatechnik-netzdienliche-hlk-systeme-neue-rolle-im-energiesystem",
+      "date": 1784595606,
+      "dateStr": "21. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Reaktion auf Ber­li­ner Strom­aus­fall: Leit­fä­den für den Ernst­fall",
+      "excerpt": "Nach dem Berliner Stromausfall im Januar 2026 haben ZVSHK, Innung SHK Berlin und Fraunhofer ISE 2 Leitfäden für Handwerksbetriebe erarbeitet.",
+      "link": "https://www.sbz-online.de/meldungen/krisenvorsorge-reaktion-auf-berliner-stromausfall-leitfaeden-fuer-den-ernstfall",
+      "date": 1784595605,
+      "dateStr": "21. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
       "title": "Wiedemann startet 24/7-Ab­hol­la­ger in Ham­burg",
       "excerpt": "Die Wiedemann-Gruppe führt mit „Wiedemann 24/7“ einen flexiblen Warenzugriff am Abhollager ein – rund um die Uhr, 7 Tage die Woche.",
       "link": "https://www.sbz-online.de/meldungen/grosshandel-wiedemann-startet-24-7-abhollager-hamburg",
@@ -162,25 +180,7 @@
       "dateStr": "10. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Evolution des Ba­de­zim­mers: Vom Zweck­raum zum De­sign­ob­jekt",
-      "excerpt": "Das Badezimmer hat sich vom Zweckraum zum hochwertigen Lebensbereich gewandelt – mit neuen Anforderungen an Entwässerungstechnik und Abdichtung.",
-      "link": "https://www.sbz-online.de/meldungen/baddesign-evolution-des-badezimmers-vom-zweckraum-zum-designobjekt",
-      "date": 1783558807,
-      "dateStr": "9. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Interdomus Lehrlingscamp 2026 – praxis­nah, ver­netzt, nach vorne",
-      "excerpt": "Das Interdomus Lehrlingscamp 2026 för­derte SHK-Azubis mit praxis­na­hen Work­shops und stärkte Moti­va­tion und Fach­wissen.",
-      "link": "https://www.sbz-online.de/meldungen/nachwuchsfoerderung-interdomus-lehrlingscamp-2026-praxisnah-vernetzt-nach-vorne",
-      "date": 1783558806,
-      "dateStr": "9. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1784601405
+  "fetched": 1784612977
 }
