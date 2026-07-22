@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "BVF-Round Table 2026: Kühl- und Heiz­de­cken­sys­te­me",
+      "excerpt": "Der BVF veranstaltet im Oktober 2026 einen Round Table zu Kühl- und Heizdeckensystemen mit Fokus auf Normung, Anwendungsfragen und Dekarbonisierung.",
+      "link": "https://www.sbz-online.de/meldungen/7-und-8-oktober-2026-gensingen-bvf-round-table-2026-kuehl-und-heizdeckensysteme",
+      "date": 1784682006,
+      "dateStr": "22. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Wärmeplanung & Fern­wär­me: Fluch oder Chance?",
+      "excerpt": "Wärmeplanung, GModG und Fernwärme verständlich eingeordnet – das Messe-Webinar zur GET Nord informiert praxisnah zu Anschlüssen, Übergabestationen und Förderung. Für mehr Planungssicherheit im Betrieb.",
+      "link": "https://events.gentner.de/de/webinar-messewebinare-zur-get-nord-2026",
+      "date": 1784682005,
+      "dateStr": "22. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Netzdienliche HLK-Sys­te­me: Neue Rol­le im En­er­gie­sys­tem",
       "excerpt": "Mit zunehmender Elektrifizierung und neuen gesetzlichen Vorgaben wandeln sich HLK-Systeme von reinen Verbrauchern zu aktiven Bausteinen eines stabilen Energiesystems.",
       "link": "https://www.sbz-online.de/meldungen/klimatechnik-netzdienliche-hlk-systeme-neue-rolle-im-energiesystem",
@@ -162,25 +180,7 @@
       "dateStr": "10. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Sanitär"
-    },
-    {
-      "title": "BDH fordert Nach­bes­se­rung bei BEG-Eck­punk­ten",
-      "excerpt": "Die BEG-Eckpunkte stoßen in der Heizungsindustrie auf geteilte Meinungen: Die langfristige Ausgestaltung wird begrüßt, doch der BDH sieht Nach­bes­se­rungs­be­darf.",
-      "link": "https://www.sbz-online.de/meldungen/heizungsfoerderung-bdh-fordert-nachbesserung-bei-beg-eckpunkten",
-      "date": 1783665279,
-      "dateStr": "10. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Ariston Group schließt Riello-Über­nah­me ab",
-      "excerpt": "Die Ariston Group hat die Akquisition der Riello Group vollzogen. Das Unternehmen will damit sein Portfolio erweitern und die Marktposition stärken.",
-      "link": "https://www.sbz-online.de/meldungen/akquisitionen-ariston-group-schliesst-riello-uebernahme-ab",
-      "date": 1783645205,
-      "dateStr": "10. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1784688236
+  "fetched": 1784699378
 }
