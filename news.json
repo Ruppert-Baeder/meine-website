@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "ZVSHK-Förderrechner an aktu­elle BEG-Bedin­gun­gen an­ge­passt",
+      "excerpt": "Der ZVSHK-Förderrechner zur Bun­des­för­de­rung für effi­ziente Ge­bäu­de (BEG) steht ab sofort in aktua­li­sier­ter Form zur Ver­fü­gung.",
+      "link": "https://www.sbz-online.de/meldungen/beg-em-zvshk-foerderrechner-aktuelle-beg-bedingungen-angepasst",
+      "date": 1784711847,
+      "dateStr": "22. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
       "title": "BVF-Round Table 2026: Kühl- und Heiz­de­cken­sys­te­me",
       "excerpt": "Der BVF veranstaltet im Oktober 2026 einen Round Table zu Kühl- und Heizdeckensystemen mit Fokus auf Normung, Anwendungsfragen und Dekarbonisierung.",
       "link": "https://www.sbz-online.de/meldungen/7-und-8-oktober-2026-gensingen-bvf-round-table-2026-kuehl-und-heizdeckensysteme",
@@ -171,16 +180,7 @@
       "dateStr": "10. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Webinar: DIN EN 1717 – Trink­was­ser rich­tig schüt­zen",
-      "excerpt": "Die neue DIN EN 1717 bringt klare Anforderungen an den Trinkwasserschutz. Wer die Norm sicher beherrscht, erkennt Risiken frühzeitig und vermeidet Haftungsfallen.",
-      "link": "https://events.gentner.de/de/din-en-1717-neue-vorgaben-zum-schutz-des-trinkwassers",
-      "date": 1783667020,
-      "dateStr": "10. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
     }
   ],
-  "fetched": 1784718528
+  "fetched": 1784728279
 }
