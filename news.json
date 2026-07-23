@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Brunnenwasserzähler - der unentdeckte Champion: Warum der Waterflow-U Typ Sandwich oft unterschätzt wird",
+      "excerpt": "Bei der Auswahl des passenden Wasserzählers greifen viele Betriebe automatisch zu den bekanntesten Standardvarianten auf dem Markt. HERZ&nbsp;Messtechnik GmbH bietet ein enorm breites Portfolio an innovativen Zählern, be",
+      "link": "https://www.sbz-online.de/mess-und-regeltechnik/brunnenwasserzaehler-der-unentdeckte-champion-warum-der-waterflow-u-typ",
+      "date": 1784806128,
+      "dateStr": "23. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "SBZ ruft an: Kal­ku­la­ti­on und Stun­den­ver­rech­nungs­satz",
       "excerpt": "Eine Podcast-Folge über die Grundlagen einer belastbaren Kalkulation, typische Fehler in Kleinbetrieben und die Bedeutung betriebswirtschaftlicher Kennzahlen.",
       "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-kalkulation-und-stundenverrechnungssatz",
@@ -171,16 +180,7 @@
       "dateStr": "13. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "„Heizkeller der Zukunft“ – Aktions­tage sind gut ge­nutzt worden",
-      "excerpt": "Die Aktionstage „Heizkeller der Zu­kunft“ in NRW waren ein Erfolg. SHK-Betriebe infor­mier­ten vor Ort über Wärme­pumpen und neue Heiz­lö­sungen.",
-      "link": "https://www.sbz-online.de/meldungen/shk-nrw-heizkeller-der-zukunft-aktionstage-sind-gut-genutzt-worden",
-      "date": 1783904407,
-      "dateStr": "13. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1784840600
+  "fetched": 1784847349
 }
