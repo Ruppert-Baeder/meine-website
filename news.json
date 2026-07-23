@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "SBZ ruft an: Kal­ku­la­ti­on und Stun­den­ver­rech­nungs­satz",
+      "excerpt": "Eine Podcast-Folge über die Grundlagen einer belastbaren Kalkulation, typische Fehler in Kleinbetrieben und die Bedeutung betriebswirtschaftlicher Kennzahlen.",
+      "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-kalkulation-und-stundenverrechnungssatz",
+      "date": 1784768406,
+      "dateStr": "23. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Toto: Online-Rat­ge­ber zur Dusch-WC-Be­ra­tung",
+      "excerpt": "Der neue Ratgeber des Herstellers Toto soll Endkunden umfassend über Dusch-WCs informieren und damit die Beratung im SHK-Fachbetrieb erleichtern.",
+      "link": "https://www.sbz-online.de/meldungen/arbeitshilfe-toto-online-ratgeber-zur-dusch-wc-beratung",
+      "date": 1784768405,
+      "dateStr": "23. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "ZVSHK-Förderrechner an aktu­elle BEG-Bedin­gun­gen an­ge­passt",
       "excerpt": "Der ZVSHK-Förderrechner zur Bun­des­för­de­rung für effi­ziente Ge­bäu­de (BEG) steht ab sofort in aktua­li­sier­ter Form zur Ver­fü­gung.",
       "link": "https://www.sbz-online.de/meldungen/beg-em-zvshk-foerderrechner-aktuelle-beg-bedingungen-angepasst",
@@ -162,25 +180,7 @@
       "dateStr": "13. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Label Software integriert KI-Assistent",
-      "excerpt": "Label Software hat in die Soft­ware Label­win und die App Label Mobile einen sprach­ge­steuerten KI-Assis­ten­ten ein­gebunden. Was er kann.",
-      "link": "https://www.sbz-online.de/meldungen/digitale-tools-label-software-integriert-ki-assistent",
-      "date": 1783904406,
-      "dateStr": "13. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Smart Home"
-    },
-    {
-      "title": "Förderstopp: Wenn Po­li­tik die Wär­me­wen­de bremst",
-      "excerpt": "SBZ-Redakteurin Katrin Drogatz-Krämer über den BEG-Förderstopp, seine Folgen für SHK-Betriebe und was die Branche jetzt braucht.",
-      "link": "https://www.sbz-online.de/meldungen/statement-zur-beg-foerderstopp-wenn-politik-die-waermewende-bremst",
-      "date": 1783682865,
-      "dateStr": "10. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1784774423
+  "fetched": 1784785981
 }
