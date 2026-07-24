@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Urteil: SHK-Handwerk darf Solar­an­lagen installieren",
+      "excerpt": "Das OLG Koblenz untersagt PV-Wer­bung ohne Hand­werks­rollen­eintrag. Der ZVSHK begrüßt die Klar­stel­lung und betont die Rolle meh­re­rer Gewerke.",
+      "link": "https://www.sbz-online.de/meldungen/zvshk-statement-urteil-shk-handwerk-darf-solaranlagen-installieren",
+      "date": 1784854807,
+      "dateStr": "24. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Großstädte ver­ab­schie­den sich vom Gas",
+      "excerpt": "Eine Finanztip-Auswertung zeigt: Die größ­ten deut­schen Kom­mu­nen hal­ten trotz Ände­run­gen am ”Heizungs­gesetz“ an einer Wärme­pla­nung ohne Erd­gas fest.",
+      "link": "https://www.sbz-online.de/meldungen/kommunale-waermeplanung-grossstaedte-verabschieden-sich-vom-gas",
+      "date": 1784854806,
+      "dateStr": "24. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Brunnenwasserzähler - der unentdeckte Champion: Warum der Waterflow-U Typ Sandwich oft unterschätzt wird",
       "excerpt": "Bei der Auswahl des passenden Wasserzählers greifen viele Betriebe automatisch zu den bekanntesten Standardvarianten auf dem Markt. HERZ&nbsp;Messtechnik GmbH bietet ein enorm breites Portfolio an innovativen Zählern, be",
       "link": "https://www.sbz-online.de/mess-und-regeltechnik/brunnenwasserzaehler-der-unentdeckte-champion-warum-der-waterflow-u-typ",
@@ -162,25 +180,7 @@
       "dateStr": "14. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Sanitär"
-    },
-    {
-      "title": "Geothermie­kon­gress 2026: Anmeldung eröffnet",
-      "excerpt": "Der Geothermiekongress 2026 mit über 200 Vorträgen und 244 ein­ge­reich­ten Bei­trä­gen fokus­siert auf Austausch und Vernetzung.",
-      "link": "https://www.sbz-online.de/meldungen/20-bis-22-oktober-2026-potsdam-geothermiekongress-2026-anmeldung-eroeffnet",
-      "date": 1783990806,
-      "dateStr": "14. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "ZVEH: GModG und BEG-Än­de­rung ver­un­si­chern",
-      "excerpt": "GModG und BEG-Kürzung verunsichern Wirtschaft und Verbraucher. Der ZVEH warnt vor einer Kostenfalle.",
-      "link": "https://www.sbz-online.de/meldungen/energiepolitik-zveh-gmodg-und-beg-aenderung-verunsichern",
-      "date": 1783918503,
-      "dateStr": "13. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1784851250
+  "fetched": 1784866378
 }
