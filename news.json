@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Fach­hand­werk gut ge­rüs­tet für die Wär­me­wen­de",
+      "excerpt": "Die ÜWG bekräftigte auf ihrer diesjährigen Mitgliederversammlung in Fulda ihre Position als starke Gemeinschaft für die Wärmewende.",
+      "link": "https://www.sbz-online.de/meldungen/uewg-mitgliederversammlung-fachhandwerk-gut-geruestet-fuer-die-waermewende",
+      "date": 1785114007,
+      "dateStr": "27. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "50 Jahre Wärmepumpen: Der Weg aus der Nische",
+      "excerpt": "Wärmepumpen wurden in 50 Jahren zur Schlüs­sel­tech­no­logie für nach­hal­tige Heiz- und Kühl­lö­sungen: Ent­wick­lung, Markt­ver­än­de­rungen und Per­spektiven.",
+      "link": "https://www.sbz-online.de/meldungen/jubilaeum-50-jahre-waermepumpen-der-weg-aus-der-nische",
+      "date": 1785114006,
+      "dateStr": "27. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Urteil: SHK-Handwerk darf Solar­an­lagen installieren",
       "excerpt": "Das OLG Koblenz untersagt PV-Wer­bung ohne Hand­werks­rollen­eintrag. Der ZVSHK begrüßt die Klar­stel­lung und betont die Rolle meh­re­rer Gewerke.",
       "link": "https://www.sbz-online.de/meldungen/zvshk-statement-urteil-shk-handwerk-darf-solaranlagen-installieren",
@@ -162,25 +180,7 @@
       "dateStr": "15. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Ärger über För­der­stopp und po­li­ti­sche Kom­mu­ni­ka­ti­on",
-      "excerpt": "Das SHK-Handwerk in Ba-Wü zeigt sich empört über die kurzfristigen Änderungen bei der Heizungsförderung und das andauernde Chaos um das neue GModG.",
-      "link": "https://www.sbz-online.de/meldungen/energiepolitik-aerger-ueber-foerderstopp-und-politische-kommunikation",
-      "date": 1784000940,
-      "dateStr": "14. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "3D-Badplanung: Schlüter-Sys­tem­lö­sun­gen in Palette CAD integriert",
-      "excerpt": "Die Integration von Schlüter-Sys­tems in Palette CAD ver­bin­det 3D-Pla­nung mit realen Pro­dukt­da­ten für eine durch­gängige Pla­nungs­grund­lage.",
-      "link": "https://www.sbz-online.de/meldungen/digitale-tools-3d-badplanung-schlueter-systemloesungen-palette-cad-integriert",
-      "date": 1783998442,
-      "dateStr": "14. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
     }
   ],
-  "fetched": 1785120691
+  "fetched": 1785133774
 }
