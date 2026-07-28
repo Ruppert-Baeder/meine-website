@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Nachfrage nach Split-Klima­an­lagen steigt stark an",
+      "excerpt": "Die erste Hitzewelle des Jahres hat die Nach­frage nach fest ins­tal­lier­ten Split-Klima­an­lagen in Privat­haus­halten stark an­stei­gen lassen.",
+      "link": "https://www.sbz-online.de/meldungen/hitzeschutz-nachfrage-nach-split-klimaanlagen-steigt-stark",
+      "date": 1785200406,
+      "dateStr": "28. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "SHK-Nachfolge: Aka­de­mie schließt Kom­pe­tenz­lü­cke",
+      "excerpt": "Nachfolgern im SHK-Handwerk fehlen oft unternehmerische Kompetenzen. Eine Akademie von Interdomus Haustechnik soll das ändern.",
+      "link": "https://www.sbz-online.de/meldungen/unternehmensnachfolge-shk-nachfolge-akademie-schliesst-kompetenzluecke",
+      "date": 1785200405,
+      "dateStr": "28. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Fach­hand­werk gut ge­rüs­tet für die Wär­me­wen­de",
       "excerpt": "Die ÜWG bekräftigte auf ihrer diesjährigen Mitgliederversammlung in Fulda ihre Position als starke Gemeinschaft für die Wärmewende.",
       "link": "https://www.sbz-online.de/meldungen/uewg-mitgliederversammlung-fachhandwerk-gut-geruestet-fuer-die-waermewende",
@@ -162,25 +180,7 @@
       "dateStr": "16. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Die Maus und ihr Fernseh­team zu Gast bei Villeroy & Boch",
-      "excerpt": "Die „Sendung mit der Maus“ zeigt die Fer­ti­gung des wasser­spa­ren­den TwistFlush-WCs und die tech­ni­schen Fort­schritte am Standort Mettlach.",
-      "link": "https://www.sbz-online.de/meldungen/die-sendung-mit-der-maus-die-maus-und-ihr-fernsehteam-zu-gast-bei-villeroy-boch",
-      "date": 1784077206,
-      "dateStr": "15. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Energiewende: Wo stehen wir wirklich?",
-      "excerpt": "Klartext statt Hin und Her: Das Messe-Webinar zur GET Nord zeigt, welche Chancen Wärmepumpe, PV und Energieeffizienz im Bestand bieten. Plus starke Argumente für die Kundenberatung.",
-      "link": "https://events.gentner.de/de/webinar-messewebinare-zur-get-nord-2026",
-      "date": 1784077206,
-      "dateStr": "15. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1785196884
+  "fetched": 1785211691
 }
