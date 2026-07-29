@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Personelle Veränderungen in der SHK-Branche",
+      "excerpt": "Neue Gesichter und wichtige Positionen beim RLT-Herstellerverband und der Wago Group.",
+      "link": "https://www.sbz-online.de/meldungen/personalien-personelle-veraenderungen-der-shk-branche-31",
+      "date": 1785286806,
+      "dateStr": "29. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
+      "title": "Das E-Haus kommt: SHK und Elek­tro star­ten ge­mein­sam durch",
+      "excerpt": "Wärmepumpe, Wallbox und Energiemanagement bieten neue Chancen – das Messe-Webinar zur GET Nord zeigt, worauf es bei Smart Home, Dusch-WCs und Lichttechnik im Bad ankommt.",
+      "link": "https://events.gentner.de/de/webinar-messewebinare-zur-get-nord-2026",
+      "date": 1785286805,
+      "dateStr": "29. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Nachfrage nach Split-Klima­an­lagen steigt stark an",
       "excerpt": "Die erste Hitzewelle des Jahres hat die Nach­frage nach fest ins­tal­lier­ten Split-Klima­an­lagen in Privat­haus­halten stark an­stei­gen lassen.",
       "link": "https://www.sbz-online.de/meldungen/hitzeschutz-nachfrage-nach-split-klimaanlagen-steigt-stark",
@@ -162,25 +180,7 @@
       "dateStr": "17. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Sanitär"
-    },
-    {
-      "title": "Pam Building elek­tri­fi­ziert Guss­ei­sen-Pro­duk­ti­on",
-      "excerpt": "Pam Building investiert 15,5 Mio. Euro in die Elektrifizierung der Gusseisen-Produktion und senkt CO2-Emissionen im Schmelzbetrieb um bis zu 85 %.",
-      "link": "https://www.sbz-online.de/meldungen/dekarbonisierung-pam-building-elektrifiziert-gusseisen-produktion",
-      "date": 1784163607,
-      "dateStr": "16. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
-    },
-    {
-      "title": "SBZ ruft an zur Zukunft der Bad­aus­stel­lung bei TCZ",
-      "excerpt": "In dieser Folge von „SBZ ruft an“ spricht Christian Zinser von TCZ u. a. darüber, wie weni­ger Aus­stel­lung mehr Ver­kauf be­deu­ten kann.",
-      "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-zur-zukunft-der-badausstellung-bei-tcz",
-      "date": 1784163606,
-      "dateStr": "16. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1785283256
+  "fetched": 1785298205
 }
