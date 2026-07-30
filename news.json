@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Haus- und Gebäude­technik: Reale Entwick­lung stag­niert 2026",
+      "excerpt": "Der Umsatz der Haus- und Ge­bäude­tech­nik wird 2026 no­mi­nal wachsen. Durch stei­gen­de Material-, und Energie­preise dürf­te die reale Ent­wick­lung stag­nieren.",
+      "link": "https://www.sbz-online.de/meldungen/markdaten-haus-und-gebaeudetechnik-reale-entwicklung-stagniert-2026",
+      "date": 1785399456,
+      "dateStr": "30. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Wärmewende: SHK-Handwerk fordert politische Stabilität",
+      "excerpt": "Das neue Gebäudemodernisierungsgesetz gilt seit dem 29. Juli. Der Fachverband SHK-BW sieht die größte Gefahr für die Wärmewende nicht in der Technik, sondern in der Politik.",
+      "link": "https://www.sbz-online.de/meldungen/gebaeudemodernisierungsgesetz-waermewende-shk-handwerk-fordert-politische-stabilitaet",
+      "date": 1785394142,
+      "dateStr": "30. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Asbest: Häu­figs­te To­des­ur­sa­che am Bau 2025",
       "excerpt": "291 Versicherte der BG BAU starben 2025 an den Folgen von Asbest – der häufigsten Todesursache bei Berufskrankheiten.",
       "link": "https://www.sbz-online.de/meldungen/arbeitssicherheit-asbest-haeufigste-todesursache-am-bau-2025",
@@ -162,25 +180,7 @@
       "dateStr": "20. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Viessmann und Kiwigrid ver­net­zen Wär­me­pum­pen und Spei­cher",
-      "excerpt": "Viessmann Climate Solutions und Kiwigrid integrieren Wärmepumpen und Batteriespeicher via EEBus in eine gemeinsame Plattform.",
-      "link": "https://www.sbz-online.de/meldungen/kooperation-viessmann-und-kiwigrid-vernetzen-waermepumpen-und-speicher",
-      "date": 1784509205,
-      "dateStr": "20. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Hottgenroth: Neue App für prä­zi­se Ge­bäu­de­da­ten",
-      "excerpt": "Hottgenroth Software hat eine neue GebäudeScan-App entwickelt. Sie ermöglicht die effiziente und präzise Erfassung von Gebäudedaten direkt vor Ort.",
-      "link": "https://www.sbz-online.de/meldungen/digitale-tools-hottgenroth-neue-app-fuer-praezise-gebaeudedaten",
-      "date": 1784272694,
-      "dateStr": "17. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Smart Home"
     }
   ],
-  "fetched": 1785399904
+  "fetched": 1785409638
 }
