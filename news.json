@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Asbest: Häu­figs­te To­des­ur­sa­che am Bau 2025",
+      "excerpt": "291 Versicherte der BG BAU starben 2025 an den Folgen von Asbest – der häufigsten Todesursache bei Berufskrankheiten.",
+      "link": "https://www.sbz-online.de/meldungen/arbeitssicherheit-asbest-haeufigste-todesursache-am-bau-2025",
+      "date": 1785373205,
+      "dateStr": "30. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Personelle Veränderungen in der SHK-Branche",
       "excerpt": "Neue Gesichter und wichtige Positionen beim RLT-Herstellerverband und der Wago Group.",
       "link": "https://www.sbz-online.de/meldungen/personalien-personelle-veraenderungen-der-shk-branche-31",
@@ -171,16 +180,7 @@
       "dateStr": "17. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Smart Home"
-    },
-    {
-      "title": "Seminar: Kun­den­bin­dung im Bad­ver­kauf",
-      "excerpt": "Ein 2-tägiges Seminar von Dein Creativ Lab vermittelt Badplanern und -verkäufern Strategien für stärkere Kundenbeziehungen und effizientere Verkaufsgespräche.",
-      "link": "https://www.sbz-online.de/meldungen/29-und-30-oktober-2026-koeln-seminar-kundenbindung-im-badverkauf",
-      "date": 1784250006,
-      "dateStr": "17. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
     }
   ],
-  "fetched": 1785378101
+  "fetched": 1785390022
 }
