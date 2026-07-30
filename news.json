@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Richter+Frenzel übernimmt drei Standorte der Haberzettel-Gruppe",
+      "excerpt": "Der Sanitär- und Heizungsgroßhändler Richter+Frenzel (R+F) erweitert sein Filialnetz um drei Standorte. Die Übernahme schließt Lücken im Vertriebsgebiet und stärkt die regionale Präsenz.",
+      "link": "https://www.sbz-online.de/meldungen/akquisitionen-richterfrenzel-uebernimmt-drei-standorte-der-haberzettel-gruppe",
+      "date": 1785404840,
+      "dateStr": "30. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Haus- und Gebäude­technik: Reale Entwick­lung stag­niert 2026",
       "excerpt": "Der Umsatz der Haus- und Ge­bäude­tech­nik wird 2026 no­mi­nal wachsen. Durch stei­gen­de Material-, und Energie­preise dürf­te die reale Ent­wick­lung stag­nieren.",
       "link": "https://www.sbz-online.de/meldungen/markdaten-haus-und-gebaeudetechnik-reale-entwicklung-stagniert-2026",
@@ -171,16 +180,7 @@
       "dateStr": "21. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Branche"
-    },
-    {
-      "title": "Wiedemann startet 24/7-Ab­hol­la­ger in Ham­burg",
-      "excerpt": "Die Wiedemann-Gruppe führt mit „Wiedemann 24/7“ einen flexiblen Warenzugriff am Abhollager ein – rund um die Uhr, 7 Tage die Woche.",
-      "link": "https://www.sbz-online.de/meldungen/grosshandel-wiedemann-startet-24-7-abhollager-hamburg",
-      "date": 1784509206,
-      "dateStr": "20. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1785409638
+  "fetched": 1785419911
 }
