@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "ZVSHK veröffentlicht neuen Förderrechner",
+      "excerpt": "Der ZVSHK stellt einen neuen Online-Rechner bereit, der SHK-Betrieben und Hauseigentümern die Förderermittlung beim Heizungstausch erleichtern soll.",
+      "link": "https://www.sbz-online.de/meldungen/bundesfoerderung-fuer-effiziente-gebaeude-zvshk-veroeffentlicht-neuen-foerderrechner",
+      "date": 1785482760,
+      "dateStr": "31. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Podcast: Was der Geschäftführer von Vaillant über die neuen BEG-Regeln sagt",
       "excerpt": "Gast in Folge 109 des SHK-Podcasts ist Dr. Tillmann von Schroeter: der Geschäftsführer von Vaillant Deutschland über die Wärmewende, Förderstrategien und die Zukunft der Wärmepumpe.",
       "link": "https://www.sbz-online.de/meldungen/shk-radio-podcast-was-der-geschaeftfuehrer-von-vaillant-ueber-die-neuen-beg-regeln-sagt",
@@ -171,16 +180,7 @@
       "dateStr": "22. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Branche"
-    },
-    {
-      "title": "BVF-Round Table 2026: Kühl- und Heiz­de­cken­sys­te­me",
-      "excerpt": "Der BVF veranstaltet im Oktober 2026 einen Round Table zu Kühl- und Heizdeckensystemen mit Fokus auf Normung, Anwendungsfragen und Dekarbonisierung.",
-      "link": "https://www.sbz-online.de/meldungen/7-und-8-oktober-2026-gensingen-bvf-round-table-2026-kuehl-und-heizdeckensysteme",
-      "date": 1784682006,
-      "dateStr": "22. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1785478366
+  "fetched": 1785491027
 }
