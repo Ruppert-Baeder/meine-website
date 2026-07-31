@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "KfW 455-B: In 2026 keine Antragstellung mehr möglich",
+      "excerpt": "Der Zuschuss 455-B ist ausgeschöpft. Neue Anträge sind nicht mehr möglich. Bereits eingereichte oder zugesagte Förderungen bleiben aber bestehen.",
+      "link": "https://www.sbz-online.de/meldungen/barriere-reduzierung-kfw-455-b-2026-keine-antragstellung-mehr-moeglich",
+      "date": 1785486606,
+      "dateStr": "31. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Förderung"
+    },
+    {
       "title": "ZVSHK veröffentlicht neuen Förderrechner",
       "excerpt": "Der ZVSHK stellt einen neuen Online-Rechner bereit, der SHK-Betrieben und Hauseigentümern die Förderermittlung beim Heizungstausch erleichtern soll.",
       "link": "https://www.sbz-online.de/meldungen/bundesfoerderung-fuer-effiziente-gebaeude-zvshk-veroeffentlicht-neuen-foerderrechner",
@@ -171,16 +180,7 @@
       "dateStr": "23. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "ZVSHK-Förderrechner an aktu­elle BEG-Bedin­gun­gen an­ge­passt",
-      "excerpt": "Der ZVSHK-Förderrechner zur Bun­des­för­de­rung für effi­ziente Ge­bäu­de (BEG) steht ab sofort in aktua­li­sier­ter Form zur Ver­fü­gung.",
-      "link": "https://www.sbz-online.de/meldungen/beg-em-zvshk-foerderrechner-aktuelle-beg-bedingungen-angepasst",
-      "date": 1784711847,
-      "dateStr": "22. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
     }
   ],
-  "fetched": 1785491027
+  "fetched": 1785499140
 }
