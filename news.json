@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "Podcast: Was der Geschäftführer von Vaillant über die neuen BEG-Regeln sagt",
+      "excerpt": "Gast in Folge 109 des SHK-Podcasts ist Dr. Tillmann von Schroeter: der Geschäftsführer von Vaillant Deutschland über die Wärmewende, Förderstrategien und die Zukunft der Wärmepumpe.",
+      "link": "https://www.sbz-online.de/meldungen/shk-radio-podcast-was-der-geschaeftfuehrer-von-vaillant-ueber-die-neuen-beg-regeln-sagt",
+      "date": 1785459608,
+      "dateStr": "31. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "DBT insolvent – wie es mit wibutler weitergeht",
+      "excerpt": "wibutler arbeitet mit an der Fort­füh­rung seiner Geschäfts­ak­ti­vi­tä­ten mit Fokus auf die Berei­che Fertig­haus­her­stel­ler, Modul­bauer sowie Woh­nungs­wirt­schaft.",
+      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-dbt-insolvent-wie-es-mit-wibutler-weitergeht",
+      "date": 1785459606,
+      "dateStr": "31. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Hummel erweitert Werk in Denzlingen",
+      "excerpt": "In Denzlingen ist der Spaten­stich für die Werks­er­wei­te­rung von Hummel erfolgt. Das Projekt umfasst zwei Neu­bauten und eine Rück­ge­win­nungs- und Auf­be­rei­tungs­anlage.",
+      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-hummel-erweitert-werk-denzlingen",
+      "date": 1785459605,
+      "dateStr": "31. Jul. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Richter+Frenzel übernimmt drei Standorte der Haberzettel-Gruppe",
       "excerpt": "Der Sanitär- und Heizungsgroßhändler Richter+Frenzel (R+F) erweitert sein Filialnetz um drei Standorte. Die Übernahme schließt Lücken im Vertriebsgebiet und stärkt die regionale Präsenz.",
       "link": "https://www.sbz-online.de/meldungen/akquisitionen-richterfrenzel-uebernimmt-drei-standorte-der-haberzettel-gruppe",
@@ -153,34 +180,7 @@
       "dateStr": "22. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Wärmeplanung & Fern­wär­me: Fluch oder Chance?",
-      "excerpt": "Wärmeplanung, GModG und Fernwärme verständlich eingeordnet – das Messe-Webinar zur GET Nord informiert praxisnah zu Anschlüssen, Übergabestationen und Förderung. Für mehr Planungssicherheit im Betrieb.",
-      "link": "https://events.gentner.de/de/webinar-messewebinare-zur-get-nord-2026",
-      "date": 1784682005,
-      "dateStr": "22. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Netzdienliche HLK-Sys­te­me: Neue Rol­le im En­er­gie­sys­tem",
-      "excerpt": "Mit zunehmender Elektrifizierung und neuen gesetzlichen Vorgaben wandeln sich HLK-Systeme von reinen Verbrauchern zu aktiven Bausteinen eines stabilen Energiesystems.",
-      "link": "https://www.sbz-online.de/meldungen/klimatechnik-netzdienliche-hlk-systeme-neue-rolle-im-energiesystem",
-      "date": 1784595606,
-      "dateStr": "21. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Reaktion auf Ber­li­ner Strom­aus­fall: Leit­fä­den für den Ernst­fall",
-      "excerpt": "Nach dem Berliner Stromausfall im Januar 2026 haben ZVSHK, Innung SHK Berlin und Fraunhofer ISE 2 Leitfäden für Handwerksbetriebe erarbeitet.",
-      "link": "https://www.sbz-online.de/meldungen/krisenvorsorge-reaktion-auf-berliner-stromausfall-leitfaeden-fuer-den-ernstfall",
-      "date": 1784595605,
-      "dateStr": "21. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
     }
   ],
-  "fetched": 1785465911
+  "fetched": 1785478366
 }
