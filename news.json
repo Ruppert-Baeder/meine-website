@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Fraunhofer ISE: Propan-Wärme­pum­pen für Mehr­fa­mi­lien­häuser",
+      "excerpt": "Ein Forschungsprojekt des Fraun­hofer ISE zeigt, dass Pro­pan-Wärme­pum­pen alte Gas- und Öl­hei­zun­gen in be­ste­hen­den MFH erset­zen kön­nen.",
+      "link": "https://www.sbz-online.de/meldungen/forschung-fraunhofer-ise-propan-waermepumpen-fuer-mehrfamilienhaeuser",
+      "date": 1785718806,
+      "dateStr": "3. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Streit 27.0: Neue Funk­tio­nen für Büro und Bau­stelle",
+      "excerpt": "Die Streit Hand­wer­ker­soft­ware ist in Version 27.0 verfügbar. Das Update bringt neue Apps und Funk­tionen.",
+      "link": "https://www.sbz-online.de/meldungen/handwerkersoftware-streit-270-neue-funktionen-fuer-buero-und-baustelle",
+      "date": 1785718805,
+      "dateStr": "3. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Smart Home"
+    },
+    {
       "title": "KfW 455-B: In 2026 keine Antragstellung mehr möglich",
       "excerpt": "Der Zuschuss 455-B ist ausgeschöpft. Neue Anträge sind nicht mehr möglich. Bereits eingereichte oder zugesagte Förderungen bleiben aber bestehen.",
       "link": "https://www.sbz-online.de/meldungen/barriere-reduzierung-kfw-455-b-2026-keine-antragstellung-mehr-moeglich",
@@ -162,25 +180,7 @@
       "dateStr": "23. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "SBZ ruft an: Kal­ku­la­ti­on und Stun­den­ver­rech­nungs­satz",
-      "excerpt": "Eine Podcast-Folge über die Grundlagen einer belastbaren Kalkulation, typische Fehler in Kleinbetrieben und die Bedeutung betriebswirtschaftlicher Kennzahlen.",
-      "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-kalkulation-und-stundenverrechnungssatz",
-      "date": 1784768406,
-      "dateStr": "23. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Toto: Online-Rat­ge­ber zur Dusch-WC-Be­ra­tung",
-      "excerpt": "Der neue Ratgeber des Herstellers Toto soll Endkunden umfassend über Dusch-WCs informieren und damit die Beratung im SHK-Fachbetrieb erleichtern.",
-      "link": "https://www.sbz-online.de/meldungen/arbeitshilfe-toto-online-ratgeber-zur-dusch-wc-beratung",
-      "date": 1784768405,
-      "dateStr": "23. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1785715129
+  "fetched": 1785728647
 }
