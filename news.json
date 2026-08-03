@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Pflegezentrum Pful­len­dorf: Dusch-WCs wer­den zum Stan­dard",
+      "excerpt": "Das neue Pflegezentrum „Residenz am Roten Bühl“ in Pfullendorf setzt flächendeckend auf Dusch-WCs: für mehr Autonomie, Personalentlastung und Wirtschaftlichkeit.",
+      "link": "https://www.sbz-online.de/meldungen/referenzprojekt-geberit-pflegezentrum-pfullendorf-dusch-wcs-werden-zum-standard",
+      "date": 1785740449,
+      "dateStr": "3. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Fraunhofer ISE: Propan-Wärme­pum­pen für Mehr­fa­mi­lien­häuser",
       "excerpt": "Ein Forschungsprojekt des Fraun­hofer ISE zeigt, dass Pro­pan-Wärme­pum­pen alte Gas- und Öl­hei­zun­gen in be­ste­hen­den MFH erset­zen kön­nen.",
       "link": "https://www.sbz-online.de/meldungen/forschung-fraunhofer-ise-propan-waermepumpen-fuer-mehrfamilienhaeuser",
@@ -171,16 +180,7 @@
       "dateStr": "24. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Brunnenwasserzähler - der unentdeckte Champion: Warum der Waterflow-U Typ Sandwich oft unterschätzt wird",
-      "excerpt": "Bei der Auswahl des passenden Wasserzählers greifen viele Betriebe automatisch zu den bekanntesten Standardvarianten auf dem Markt. HERZ&nbsp;Messtechnik GmbH bietet ein enorm breites Portfolio an innovativen Zählern, be",
-      "link": "https://www.sbz-online.de/mess-und-regeltechnik/brunnenwasserzaehler-der-unentdeckte-champion-warum-der-waterflow-u-typ",
-      "date": 1784806128,
-      "dateStr": "23. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1785741854
+  "fetched": 1785756075
 }
