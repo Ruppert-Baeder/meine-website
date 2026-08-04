@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "SHK-Meisterförderung: Rücken­wind für enga­gier­ten Nachwuchs",
+      "excerpt": "Ein SHK-Anlagen­me­cha­niker erhält von ZVSHK, Horst-Brunscheen-Stiftung und BfW finan­zielle Unter­stüt­zung für seine Meister­ausbildung.",
+      "link": "https://www.sbz-online.de/meldungen/fachkraefteentwicklung-shk-meisterfoerderung-rueckenwind-fuer-engagierten-nachwuchs",
+      "date": 1785805208,
+      "dateStr": "4. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Förderung"
+    },
+    {
+      "title": "KI-Telefonassistent von Tooltime entlastet Hand­werks­be­triebe",
+      "excerpt": "Tooltime erweitert seine Hand­wer­ker­soft­ware um einen KI-ba­sier­ten Telefon­as­sis­ten­ten, der Anrufe ent­ge­gen­nimmt und An­lie­gen struk­tu­riert erfasst.",
+      "link": "https://www.sbz-online.de/meldungen/digitalisierung-ki-telefonassistent-von-tooltime-entlastet-handwerksbetriebe",
+      "date": 1785805205,
+      "dateStr": "4. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Pflegezentrum Pful­len­dorf: Dusch-WCs wer­den zum Stan­dard",
       "excerpt": "Das neue Pflegezentrum „Residenz am Roten Bühl“ in Pfullendorf setzt flächendeckend auf Dusch-WCs: für mehr Autonomie, Personalentlastung und Wirtschaftlichkeit.",
       "link": "https://www.sbz-online.de/meldungen/referenzprojekt-geberit-pflegezentrum-pfullendorf-dusch-wcs-werden-zum-standard",
@@ -162,25 +180,7 @@
       "dateStr": "27. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Urteil: SHK-Handwerk darf Solar­an­lagen installieren",
-      "excerpt": "Das OLG Koblenz untersagt PV-Wer­bung ohne Hand­werks­rollen­eintrag. Der ZVSHK begrüßt die Klar­stel­lung und betont die Rolle meh­re­rer Gewerke.",
-      "link": "https://www.sbz-online.de/meldungen/zvshk-statement-urteil-shk-handwerk-darf-solaranlagen-installieren",
-      "date": 1784854807,
-      "dateStr": "24. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Großstädte ver­ab­schie­den sich vom Gas",
-      "excerpt": "Eine Finanztip-Auswertung zeigt: Die größ­ten deut­schen Kom­mu­nen hal­ten trotz Ände­run­gen am ”Heizungs­gesetz“ an einer Wärme­pla­nung ohne Erd­gas fest.",
-      "link": "https://www.sbz-online.de/meldungen/kommunale-waermeplanung-grossstaedte-verabschieden-sich-vom-gas",
-      "date": 1784854806,
-      "dateStr": "24. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1785802401
+  "fetched": 1785816774
 }
