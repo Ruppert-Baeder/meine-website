@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "Grohe feiert 70 Jahre Standort Lahr",
+      "excerpt": "In Lahr produziert Grohe Duschen und Duschsysteme. Das Werk gehört seit 70 Jahren zum Unternehmen.",
+      "link": "https://www.sbz-online.de/meldungen/jubilaeum-grohe-feiert-70-jahre-standort-lahr",
+      "date": 1785891606,
+      "dateStr": "5. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Personelle Veränderungen in der SHK-Branche",
+      "excerpt": "Neue Gesichter und wichtige Übergaben prägen die Branche: Personalwechsel bei Raab-Gruppe, BDR Thermea, Kessel, Grünbeck, Johnson Controls, Vitramo und Orben.",
+      "link": "https://www.sbz-online.de/meldungen/personalien-personelle-veraenderungen-der-shk-branche-32",
+      "date": 1785891605,
+      "dateStr": "5. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "BDR Thermea übernimmt vollständig italienische G.I. Holding",
+      "excerpt": "BDR Thermea schließt die Übernahme von 100 Prozent der Anteile an der G.I. Holding ab. Damit erweitert der Hersteller sein gewerbliches HLK-Portfolio um vier Marken und wächst auf über 6500 Beschäftigte.",
+      "link": "https://www.sbz-online.de/meldungen/akquisitionen-bdr-thermea-uebernimmt-vollstaendig-italienische-gi-holding",
+      "date": 1785891605,
+      "dateStr": "5. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "SHK-Meisterförderung: Rücken­wind für enga­gier­ten Nachwuchs",
       "excerpt": "Ein SHK-Anlagen­me­cha­niker erhält von ZVSHK, Horst-Brunscheen-Stiftung und BfW finan­zielle Unter­stüt­zung für seine Meister­ausbildung.",
       "link": "https://www.sbz-online.de/meldungen/fachkraefteentwicklung-shk-meisterfoerderung-rueckenwind-fuer-engagierten-nachwuchs",
@@ -153,34 +180,7 @@
       "dateStr": "28. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "SHK-Nachfolge: Aka­de­mie schließt Kom­pe­tenz­lü­cke",
-      "excerpt": "Nachfolgern im SHK-Handwerk fehlen oft unternehmerische Kompetenzen. Eine Akademie von Interdomus Haustechnik soll das ändern.",
-      "link": "https://www.sbz-online.de/meldungen/unternehmensnachfolge-shk-nachfolge-akademie-schliesst-kompetenzluecke",
-      "date": 1785200405,
-      "dateStr": "28. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Fach­hand­werk gut ge­rüs­tet für die Wär­me­wen­de",
-      "excerpt": "Die ÜWG bekräftigte auf ihrer diesjährigen Mitgliederversammlung in Fulda ihre Position als starke Gemeinschaft für die Wärmewende.",
-      "link": "https://www.sbz-online.de/meldungen/uewg-mitgliederversammlung-fachhandwerk-gut-geruestet-fuer-die-waermewende",
-      "date": 1785114007,
-      "dateStr": "27. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "50 Jahre Wärmepumpen: Der Weg aus der Nische",
-      "excerpt": "Wärmepumpen wurden in 50 Jahren zur Schlüs­sel­tech­no­logie für nach­hal­tige Heiz- und Kühl­lö­sungen: Ent­wick­lung, Markt­ver­än­de­rungen und Per­spektiven.",
-      "link": "https://www.sbz-online.de/meldungen/jubilaeum-50-jahre-waermepumpen-der-weg-aus-der-nische",
-      "date": 1785114006,
-      "dateStr": "27. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1785888058
+  "fetched": 1785902865
 }
