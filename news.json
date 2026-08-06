@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "„Heizkeller der Zu­kunft“ star­tet zwei­te Run­de",
+      "excerpt": "Die Veranstaltungsreihe „Heizkeller der Zukunft“ informiert Eigentümer in NRW unabhängig über klimafreundliche Heizungsoptionen – nun folgen acht weitere Aktionstage.",
+      "link": "https://www.sbz-online.de/meldungen/heizungswende-nrw-heizkeller-der-zukunft-startet-zweite-runde",
+      "date": 1785978006,
+      "dateStr": "6. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Stiebel Eltron startet internatio­nales Ski­sprung-Spon­soring",
+      "excerpt": "Stiebel Eltron weitet seine Marken­prä­senz aus und enga­giert sich zukünftig als Sponsor im inter­na­tio­na­len Ski­sprung­sport.",
+      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-stiebel-eltron-startet-internationales-skisprung-sponsoring",
+      "date": 1785978005,
+      "dateStr": "6. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Grohe feiert 70 Jahre Standort Lahr",
       "excerpt": "In Lahr produziert Grohe Duschen und Duschsysteme. Das Werk gehört seit 70 Jahren zum Unternehmen.",
       "link": "https://www.sbz-online.de/meldungen/jubilaeum-grohe-feiert-70-jahre-standort-lahr",
@@ -162,25 +180,7 @@
       "dateStr": "29. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Branche"
-    },
-    {
-      "title": "Das E-Haus kommt: SHK und Elek­tro star­ten ge­mein­sam durch",
-      "excerpt": "Wärmepumpe, Wallbox und Energiemanagement bieten neue Chancen – das Messe-Webinar zur GET Nord zeigt, worauf es bei Smart Home, Dusch-WCs und Lichttechnik im Bad ankommt.",
-      "link": "https://events.gentner.de/de/webinar-messewebinare-zur-get-nord-2026",
-      "date": 1785286805,
-      "dateStr": "29. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Nachfrage nach Split-Klima­an­lagen steigt stark an",
-      "excerpt": "Die erste Hitzewelle des Jahres hat die Nach­frage nach fest ins­tal­lier­ten Split-Klima­an­lagen in Privat­haus­halten stark an­stei­gen lassen.",
-      "link": "https://www.sbz-online.de/meldungen/hitzeschutz-nachfrage-nach-split-klimaanlagen-steigt-stark",
-      "date": 1785200406,
-      "dateStr": "28. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1785974546
+  "fetched": 1785989464
 }
