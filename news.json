@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Elements setzt auf di­gi­ta­le Bad­pla­nung mit Palette CAD",
+      "excerpt": "Elements nutzt die 3D-Softwarelösungen von Palette CAD, um den Planungsprozess von Bädern zu digitalisieren und das SHK-Handwerk zu unterstützen.",
+      "link": "https://www.sbz-online.de/meldungen/badplanung-elements-setzt-auf-digitale-badplanung-mit-palette-cad",
+      "date": 1786064406,
+      "dateStr": "7. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
       "title": "„Heizkeller der Zu­kunft“ star­tet zwei­te Run­de",
       "excerpt": "Die Veranstaltungsreihe „Heizkeller der Zukunft“ informiert Eigentümer in NRW unabhängig über klimafreundliche Heizungsoptionen – nun folgen acht weitere Aktionstage.",
       "link": "https://www.sbz-online.de/meldungen/heizungswende-nrw-heizkeller-der-zukunft-startet-zweite-runde",
@@ -171,16 +180,7 @@
       "dateStr": "30. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Personelle Veränderungen in der SHK-Branche",
-      "excerpt": "Neue Gesichter und wichtige Positionen beim RLT-Herstellerverband und der Wago Group.",
-      "link": "https://www.sbz-online.de/meldungen/personalien-personelle-veraenderungen-der-shk-branche-31",
-      "date": 1785286806,
-      "dateStr": "29. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
     }
   ],
-  "fetched": 1786071125
+  "fetched": 1786078412
 }
