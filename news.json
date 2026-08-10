@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "2026-1.Hj: Wär­me­pum­pen-Ab­satz wächst um 40 %",
+      "excerpt": "Im 1. Halbjahr 2026 wurden in Deutschland 195.000 Wärmepumpen abgesetzt, ein Anstieg von 40 % gegenüber dem Vorjahreszeitraum.",
+      "link": "https://www.sbz-online.de/meldungen/marktdaten-2026-1hj-waermepumpen-absatz-waechst-um-40",
+      "date": 1786323607,
+      "dateStr": "10. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Reisser WC-Sitz-App: per KI zum pas­sen­den Mo­dell",
+      "excerpt": "Mit KI-Bilderkennung hilft die neue Reisser-App Fachhandwerkern, den richtigen WC-Sitz schnell und fehlerfrei zu finden.",
+      "link": "https://www.sbz-online.de/meldungen/digitale-tools-reisser-wc-sitz-app-ki-zum-passenden-modell",
+      "date": 1786323606,
+      "dateStr": "10. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Smart Home"
+    },
+    {
+      "title": "Jeder dritte Azubi bricht ab: so gelingt der Start",
+      "excerpt": "Der Workshop „Startklar“ der Hand­werks­kammer Konstanz ver­mit­telt Azubis wich­ti­ges Know-how für die ers­ten Schritte im Arbeitsleben.",
+      "link": "https://www.sbz-online.de/meldungen/nachwuchskraefte-jeder-dritte-azubi-bricht-ab-so-gelingt-der-start",
+      "date": 1786323605,
+      "dateStr": "10. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Elements setzt auf di­gi­ta­le Bad­pla­nung mit Palette CAD",
       "excerpt": "Elements nutzt die 3D-Softwarelösungen von Palette CAD, um den Planungsprozess von Bädern zu digitalisieren und das SHK-Handwerk zu unterstützen.",
       "link": "https://www.sbz-online.de/meldungen/badplanung-elements-setzt-auf-digitale-badplanung-mit-palette-cad",
@@ -153,34 +180,7 @@
       "dateStr": "30. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Haus- und Gebäude­technik: Reale Entwick­lung stag­niert 2026",
-      "excerpt": "Der Umsatz der Haus- und Ge­bäude­tech­nik wird 2026 no­mi­nal wachsen. Durch stei­gen­de Material-, und Energie­preise dürf­te die reale Ent­wick­lung stag­nieren.",
-      "link": "https://www.sbz-online.de/meldungen/markdaten-haus-und-gebaeudetechnik-reale-entwicklung-stagniert-2026",
-      "date": 1785399456,
-      "dateStr": "30. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Wärmewende: SHK-Handwerk fordert politische Stabilität",
-      "excerpt": "Das neue Gebäudemodernisierungsgesetz gilt seit dem 29. Juli. Der Fachverband SHK-BW sieht die größte Gefahr für die Wärmewende nicht in der Technik, sondern in der Politik.",
-      "link": "https://www.sbz-online.de/meldungen/gebaeudemodernisierungsgesetz-waermewende-shk-handwerk-fordert-politische-stabilitaet",
-      "date": 1785394142,
-      "dateStr": "30. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Asbest: Häu­figs­te To­des­ur­sa­che am Bau 2025",
-      "excerpt": "291 Versicherte der BG BAU starben 2025 an den Folgen von Asbest – der häufigsten Todesursache bei Berufskrankheiten.",
-      "link": "https://www.sbz-online.de/meldungen/arbeitssicherheit-asbest-haeufigste-todesursache-am-bau-2025",
-      "date": 1785373205,
-      "dateStr": "30. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1786326241
+  "fetched": 1786333998
 }
