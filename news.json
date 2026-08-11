@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Kessel DeepDive 2026: Neu­hei­ten für Fach­hand­werk und Pla­nung",
+      "excerpt": "Kessel setzt seine Roadshow „DeepDive\" im Herbst 2026 fort – mit neuen Systemlösungen für Hebeanlagen und einem erweiterten Kleinhebeanlagen-Sortiment.",
+      "link": "https://www.sbz-online.de/meldungen/roadshow-kessel-deepdive-2026-neuheiten-fuer-fachhandwerk-und-planung",
+      "date": 1786410006,
+      "dateStr": "11. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Zewotherm star­tet neu­es Part­ner­por­tal",
+      "excerpt": "Zewotherm stellt seit dem 1. August 2026 ein zentrales Online-Portal für Fachhandwerker und Großhändler bereit.",
+      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-zewotherm-startet-neues-partnerportal",
+      "date": 1786410006,
+      "dateStr": "11. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
       "title": "2026-1.Hj: Wär­me­pum­pen-Ab­satz wächst um 40 %",
       "excerpt": "Im 1. Halbjahr 2026 wurden in Deutschland 195.000 Wärmepumpen abgesetzt, ein Anstieg von 40 % gegenüber dem Vorjahreszeitraum.",
       "link": "https://www.sbz-online.de/meldungen/marktdaten-2026-1hj-waermepumpen-absatz-waechst-um-40",
@@ -162,25 +180,7 @@
       "dateStr": "31. Jul. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Hummel erweitert Werk in Denzlingen",
-      "excerpt": "In Denzlingen ist der Spaten­stich für die Werks­er­wei­te­rung von Hummel erfolgt. Das Projekt umfasst zwei Neu­bauten und eine Rück­ge­win­nungs- und Auf­be­rei­tungs­anlage.",
-      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-hummel-erweitert-werk-denzlingen",
-      "date": 1785459605,
-      "dateStr": "31. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Richter+Frenzel übernimmt drei Standorte der Haberzettel-Gruppe",
-      "excerpt": "Der Sanitär- und Heizungsgroßhändler Richter+Frenzel (R+F) erweitert sein Filialnetz um drei Standorte. Die Übernahme schließt Lücken im Vertriebsgebiet und stärkt die regionale Präsenz.",
-      "link": "https://www.sbz-online.de/meldungen/akquisitionen-richterfrenzel-uebernimmt-drei-standorte-der-haberzettel-gruppe",
-      "date": 1785404840,
-      "dateStr": "30. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1786412434
+  "fetched": 1786419760
 }
