@@ -2,6 +2,42 @@
   "ok": true,
   "articles": [
     {
+      "title": "Dimplex investiert 1,6 Mio. Euro in Pro­pan-Ver­sor­gung",
+      "excerpt": "Glen Dimplex Deutschland hat in Kulmbach eine neue zentrale Propan-Versorgung (R290) in Betrieb genommen und dafür 1,6 Mio. Euro investiert.",
+      "link": "https://www.sbz-online.de/meldungen/kaeltemittel-dimplex-investiert-16-mio-euro-propan-versorgung",
+      "date": 1786496407,
+      "dateStr": "12. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
+      "title": "KfW 455-B: Fördermittel für Barrierereduzierung sind ausgeschöpft",
+      "excerpt": "Die KfW hat das Förderprogramm „Altersgerecht Umbauen – Barrierereduzierung\" für dieses Jahr geschlossen. Grund ist die enorme Nachfrage. Die bereitgestellten Bundesmittel sind vollständig aufgezehrt.",
+      "link": "https://www.sbz-online.de/meldungen/foerderung-kfw-455-b-foerdermittel-fuer-barrierereduzierung-sind-ausgeschoepft",
+      "date": 1786496406,
+      "dateStr": "12. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Systeme für SHK-Profis: UV-schüt­zend, an­schluss­fer­tig, in­ter­ak­tiv",
+      "excerpt": "Mietkleidung mit UV-Schutz, Monoblock-Klimageräte ohne Kältemittelschein, chemiefreier Kalkschutz, Unterdruck-Filteranlagen, Online-Tool für Wohnraumlüftungen.",
+      "link": "https://www.sbz-online.de/meldungen/abgesteckt-systeme-fuer-shk-profis-uv-schuetzend-anschlussfertig-interaktiv",
+      "date": 1786496406,
+      "dateStr": "12. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Cemo erneuert Ka­ta­lo­ge und in­te­griert Ak­ku-Sys­te­me",
+      "excerpt": "Cemo überarbeitet seine Katalogstruktur und nimmt Lösungen des Akku-Systems der Stihl-Plattform Allpro in sein Produktportfolio auf.",
+      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-cemo-erneuert-kataloge-und-integriert-akku-systeme",
+      "date": 1786496405,
+      "dateStr": "12. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Kessel DeepDive 2026: Neu­hei­ten für Fach­hand­werk und Pla­nung",
       "excerpt": "Kessel setzt seine Roadshow „DeepDive\" im Herbst 2026 fort – mit neuen Systemlösungen für Hebeanlagen und einem erweiterten Kleinhebeanlagen-Sortiment.",
       "link": "https://www.sbz-online.de/meldungen/roadshow-kessel-deepdive-2026-neuheiten-fuer-fachhandwerk-und-planung",
@@ -144,43 +180,7 @@
       "dateStr": "3. Aug. 2026",
       "source": "SBZ Monteur",
       "category": "Smart Home"
-    },
-    {
-      "title": "KfW 455-B: In 2026 keine Antragstellung mehr möglich",
-      "excerpt": "Der Zuschuss 455-B ist ausgeschöpft. Neue Anträge sind nicht mehr möglich. Bereits eingereichte oder zugesagte Förderungen bleiben aber bestehen.",
-      "link": "https://www.sbz-online.de/meldungen/barriere-reduzierung-kfw-455-b-2026-keine-antragstellung-mehr-moeglich",
-      "date": 1785486606,
-      "dateStr": "31. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Förderung"
-    },
-    {
-      "title": "ZVSHK veröffentlicht neuen Förderrechner",
-      "excerpt": "Der ZVSHK stellt einen neuen Online-Rechner bereit, der SHK-Betrieben und Hauseigentümern die Förderermittlung beim Heizungstausch erleichtern soll.",
-      "link": "https://www.sbz-online.de/meldungen/beg-zvshk-veroeffentlicht-neuen-foerderrechner",
-      "date": 1785482760,
-      "dateStr": "31. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Podcast: Was der Geschäftführer von Vaillant über die neuen BEG-Regeln sagt",
-      "excerpt": "Gast in Folge 109 des SHK-Podcasts ist Dr. Tillmann von Schroeter: der Geschäftsführer von Vaillant Deutschland über die Wärmewende, Förderstrategien und die Zukunft der Wärmepumpe.",
-      "link": "https://www.sbz-online.de/meldungen/shk-radio-podcast-was-der-geschaeftfuehrer-von-vaillant-ueber-die-neuen-beg-regeln-sagt",
-      "date": 1785459608,
-      "dateStr": "31. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "DBT insolvent – wie es mit wibutler weitergeht",
-      "excerpt": "wibutler arbeitet mit an der Fort­füh­rung seiner Geschäfts­ak­ti­vi­tä­ten mit Fokus auf die Berei­che Fertig­haus­her­stel­ler, Modul­bauer sowie Woh­nungs­wirt­schaft.",
-      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-dbt-insolvent-wie-es-mit-wibutler-weitergeht",
-      "date": 1785459606,
-      "dateStr": "31. Jul. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1786499539
+  "fetched": 1786507605
 }
