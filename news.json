@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "perma-talk: Vom GEG zum GModG – und jetzt?",
+      "excerpt": "SHK-Experten reden beim Online-Talk von perma-trade Klartext zur neuen Gesetzeslage.",
+      "link": "https://www.sbz-online.de/meldungen/18082026-17-uhr-online-perma-talk-vom-geg-zum-gmodg-und-jetzt",
+      "date": 1786611841,
+      "dateStr": "13. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Personelle Veränderungen in der SHK-Branche",
       "excerpt": "Ein Generationenwechsel bei der Peter Jensen GmbH sowie neue Gesichter beim FGK, bei Conti+ und bei ÖkoFEN prägen die Branche.",
       "link": "https://www.sbz-online.de/meldungen/personalien-personelle-veraenderungen-der-shk-branche-33",
@@ -171,16 +180,7 @@
       "dateStr": "4. Aug. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Pflegezentrum Pful­len­dorf: Dusch-WCs wer­den zum Stan­dard",
-      "excerpt": "Das neue Pflegezentrum „Residenz am Roten Bühl“ in Pfullendorf setzt flächendeckend auf Dusch-WCs: für mehr Autonomie, Personalentlastung und Wirtschaftlichkeit.",
-      "link": "https://www.sbz-online.de/meldungen/referenzprojekt-geberit-pflegezentrum-pfullendorf-dusch-wcs-werden-zum-standard",
-      "date": 1785740449,
-      "dateStr": "3. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1786615451
+  "fetched": 1786621463
 }
