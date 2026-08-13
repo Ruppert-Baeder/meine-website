@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Personelle Veränderungen in der SHK-Branche",
+      "excerpt": "Ein Generationenwechsel bei der Peter Jensen GmbH sowie neue Gesichter beim FGK, bei Conti+ und bei ÖkoFEN prägen die Branche.",
+      "link": "https://www.sbz-online.de/meldungen/personalien-personelle-veraenderungen-der-shk-branche-33",
+      "date": 1786582807,
+      "dateStr": "13. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Wolf-För­der­rech­ner: Ori­en­tie­rung bei der Hei­zungs­för­de­rung",
+      "excerpt": "Angesichts neuer Förderregeln und sinkender Fördersätze hat Wolf seinen Online-Rechner aktualisiert, um Endkunden eine Orientierung bei der Heizungsmodernisierung zu bieten.",
+      "link": "https://www.sbz-online.de/meldungen/digitale-tools-wolf-foerderrechner-orientierung-bei-der-heizungsfoerderung",
+      "date": 1786582806,
+      "dateStr": "13. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Dimplex investiert 1,6 Mio. Euro in Pro­pan-Ver­sor­gung",
       "excerpt": "Glen Dimplex Deutschland hat in Kulmbach eine neue zentrale Propan-Versorgung (R290) in Betrieb genommen und dafür 1,6 Mio. Euro investiert.",
       "link": "https://www.sbz-online.de/meldungen/kaeltemittel-dimplex-investiert-16-mio-euro-propan-versorgung",
@@ -162,25 +180,7 @@
       "dateStr": "3. Aug. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Fraunhofer ISE: Propan-Wärme­pum­pen für Mehr­fa­mi­lien­häuser",
-      "excerpt": "Ein Forschungsprojekt des Fraun­hofer ISE zeigt, dass Pro­pan-Wärme­pum­pen alte Gas- und Öl­hei­zun­gen in be­ste­hen­den MFH erset­zen kön­nen.",
-      "link": "https://www.sbz-online.de/meldungen/forschung-fraunhofer-ise-propan-waermepumpen-fuer-mehrfamilienhaeuser",
-      "date": 1785718806,
-      "dateStr": "3. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Streit 27.0: Neue Funk­tio­nen für Büro und Bau­stelle",
-      "excerpt": "Die Streit Hand­wer­ker­soft­ware ist in Version 27.0 verfügbar. Das Update bringt neue Apps und Funk­tionen.",
-      "link": "https://www.sbz-online.de/meldungen/handwerkersoftware-streit-270-neue-funktionen-fuer-buero-und-baustelle",
-      "date": 1785718805,
-      "dateStr": "3. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Smart Home"
     }
   ],
-  "fetched": 1786586066
+  "fetched": 1786594281
 }
