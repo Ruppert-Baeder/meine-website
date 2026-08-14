@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Geothermie für den grEEn­Campus Rüssels­heim",
+      "excerpt": "Der Stellantis grEEnCampus in Rüsselsheim wird geothermisch mit Wärme und Kälte versorgt – realisiert durch einen Flächenkollektor unter dem Parkhaus.",
+      "link": "https://www.sbz-online.de/meldungen/referenzprojekt-geothermie-fuer-den-greencampus-ruesselsheim",
+      "date": 1786669209,
+      "dateStr": "14. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Roth RIS voll­stän­dig SHI-zer­ti­fi­ziert",
+      "excerpt": "Das Rohr-Installationssystem von Roth ist nun vollständig SHI-zertifiziert. Dies vereinfacht die Nachweisführung und sichert die Förderfähigkeit nach QNG-Kriterien.",
+      "link": "https://www.sbz-online.de/meldungen/qng-ready-roth-ris-vollstaendig-shi-zertifiziert",
+      "date": 1786669207,
+      "dateStr": "14. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "perma-talk: Vom GEG zum GModG – und jetzt?",
       "excerpt": "SHK-Experten reden beim Online-Talk von perma-trade Klartext zur neuen Gesetzeslage.",
       "link": "https://www.sbz-online.de/meldungen/18082026-17-uhr-online-perma-talk-vom-geg-zum-gmodg-und-jetzt",
@@ -162,25 +180,7 @@
       "dateStr": "5. Aug. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "SHK-Meisterförderung: Rücken­wind für enga­gier­ten Nachwuchs",
-      "excerpt": "Ein SHK-Anlagen­me­cha­niker erhält von ZVSHK, Horst-Brunscheen-Stiftung und BfW finan­zielle Unter­stüt­zung für seine Meister­ausbildung.",
-      "link": "https://www.sbz-online.de/meldungen/fachkraefteentwicklung-shk-meisterfoerderung-rueckenwind-fuer-engagierten-nachwuchs",
-      "date": 1785805208,
-      "dateStr": "4. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Förderung"
-    },
-    {
-      "title": "KI-Telefonassistent von Tooltime entlastet Hand­werks­be­triebe",
-      "excerpt": "Tooltime erweitert seine Hand­wer­ker­soft­ware um einen KI-ba­sier­ten Telefon­as­sis­ten­ten, der Anrufe ent­ge­gen­nimmt und An­lie­gen struk­tu­riert erfasst.",
-      "link": "https://www.sbz-online.de/meldungen/digitalisierung-ki-telefonassistent-von-tooltime-entlastet-handwerksbetriebe",
-      "date": 1785805205,
-      "dateStr": "4. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1786672310
+  "fetched": 1786680477
 }
