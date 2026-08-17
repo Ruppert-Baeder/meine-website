@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Wolf-Wär­me­pum­pen jetzt mit Solar Manager kom­pa­ti­bel",
+      "excerpt": "Wolf-Wärmepumpen lassen sich künftig direkt in das Energiemanagementsystem von Solar Manager einbinden – für eine optimierte Nutzung von selbst erzeugtem Solarstrom im Eigenheim.",
+      "link": "https://www.sbz-online.de/meldungen/kooperation-wolf-waermepumpen-jetzt-mit-solar-manager-kompatibel",
+      "date": 1786928406,
+      "dateStr": "17. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Geothermie für den grEEn­Campus Rüssels­heim",
       "excerpt": "Der Stellantis grEEnCampus in Rüsselsheim wird geothermisch mit Wärme und Kälte versorgt – realisiert durch einen Flächenkollektor unter dem Parkhaus.",
       "link": "https://www.sbz-online.de/meldungen/referenzprojekt-geothermie-fuer-den-greencampus-ruesselsheim",
@@ -171,16 +180,7 @@
       "dateStr": "5. Aug. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "BDR Thermea übernimmt vollständig italienische G.I. Holding",
-      "excerpt": "BDR Thermea schließt die Übernahme von 100 Prozent der Anteile an der G.I. Holding ab. Damit erweitert der Hersteller sein gewerbliches HLK-Portfolio um vier Marken und wächst auf über 6500 Beschäftigte.",
-      "link": "https://www.sbz-online.de/meldungen/akquisitionen-bdr-thermea-uebernimmt-vollstaendig-italienische-gi-holding",
-      "date": 1785891605,
-      "dateStr": "5. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1786935500
+  "fetched": 1786938941
 }
