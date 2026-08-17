@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Axor führt se­lek­ti­ven Ver­trieb ab 2027 ein",
+      "excerpt": "Ab Januar 2027 vertreibt Axor seine Produkte in Deutschland, Österreich, Tschechien und der Slowakei ausschließlich über autorisierte Partner.",
+      "link": "https://www.sbz-online.de/meldungen/shk-vertrieb-axor-fuehrt-selektiven-vertrieb-ab-2027-ein",
+      "date": 1786962549,
+      "dateStr": "17. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Wagner vertritt SHK-Hand­werk in Shanghai",
+      "excerpt": "Lars Wagner, ein 22-jähriger Anlagenmechaniker aus Sachsen, vertritt das SHK-Handwerk bei der Weltmeisterschaft der Berufe 2026 in Shanghai.",
+      "link": "https://www.sbz-online.de/meldungen/worldskills-2026-wagner-vertritt-shk-handwerk-shanghai",
+      "date": 1786960752,
+      "dateStr": "17. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
       "title": "Wolf-Wär­me­pum­pen jetzt mit Solar Manager kom­pa­ti­bel",
       "excerpt": "Wolf-Wärmepumpen lassen sich künftig direkt in das Energiemanagementsystem von Solar Manager einbinden – für eine optimierte Nutzung von selbst erzeugtem Solarstrom im Eigenheim.",
       "link": "https://www.sbz-online.de/meldungen/kooperation-wolf-waermepumpen-jetzt-mit-solar-manager-kompatibel",
@@ -162,25 +180,7 @@
       "dateStr": "6. Aug. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Grohe feiert 70 Jahre Standort Lahr",
-      "excerpt": "In Lahr produziert Grohe Duschen und Duschsysteme. Das Werk gehört seit 70 Jahren zum Unternehmen.",
-      "link": "https://www.sbz-online.de/meldungen/jubilaeum-grohe-feiert-70-jahre-standort-lahr",
-      "date": 1785891606,
-      "dateStr": "5. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Personelle Veränderungen in der SHK-Branche",
-      "excerpt": "Neue Gesichter und wichtige Übergaben prägen die Branche: Personalwechsel bei Raab-Gruppe, BDR Thermea, Kessel, Grünbeck, Johnson Controls, Vitramo und Orben.",
-      "link": "https://www.sbz-online.de/meldungen/personalien-personelle-veraenderungen-der-shk-branche-32",
-      "date": 1785891605,
-      "dateStr": "5. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1786965843
+  "fetched": 1786970463
 }
