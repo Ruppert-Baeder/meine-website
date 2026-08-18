@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "„Die 2 vom Fach für alle Fälle“ zeigen neue Produkte",
+      "excerpt": "In fünf neuen Clips stellen die Experten von „Die 2 vom Fach für alle Fälle“ neue Conel-Produkte vor. Die Videos behandeln die Themen Rohrsysteme, Werkzeuge, Isolierung, Heizungsbefüllung und Regenwasser.",
+      "link": "https://www.sbz-online.de/meldungen/video-die-2-vom-fach-fuer-alle-faelle-zeigen-neue-produkte",
+      "date": 1787014806,
+      "dateStr": "18. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Axor führt se­lek­ti­ven Ver­trieb ab 2027 ein",
       "excerpt": "Ab Januar 2027 vertreibt Axor seine Produkte in Deutschland, Österreich, Tschechien und der Slowakei ausschließlich über autorisierte Partner.",
       "link": "https://www.sbz-online.de/meldungen/shk-vertrieb-axor-fuehrt-selektiven-vertrieb-ab-2027-ein",
@@ -171,16 +180,7 @@
       "dateStr": "6. Aug. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Stiebel Eltron startet internatio­nales Ski­sprung-Spon­soring",
-      "excerpt": "Stiebel Eltron weitet seine Marken­prä­senz aus und enga­giert sich zukünftig als Sponsor im inter­na­tio­na­len Ski­sprung­sport.",
-      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-stiebel-eltron-startet-internationales-skisprung-sponsoring",
-      "date": 1785978005,
-      "dateStr": "6. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1787021644
+  "fetched": 1787024552
 }
