@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "SHK-Betrieb Klein: So hilft die Geberit Pro App auf der Baustelle",
+      "excerpt": "SHK-Unternehmer Benedikt Klein be­richtet aus dem Betriebs­alltag, wie die Geberit Pro App Ab­läufe auf der Bau­stelle beschleunigt.",
+      "link": "https://www.sbz-online.de/meldungen/praxisbericht-shk-betrieb-klein-so-hilft-die-geberit-pro-app-auf-der-baustelle",
+      "date": 1787101207,
+      "dateStr": "19. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Smart Home"
+    },
+    {
+      "title": "VMDA: Gebäude fit für extreme Tempe­raturen machen",
+      "excerpt": "Die Heizungsarmaturenbranche zeigt erste Anzeichen der Erholung, während die Anforderungen an Gebäude steigen.",
+      "link": "https://www.sbz-online.de/meldungen/marktdaten-vmda-gebaeude-fit-fuer-extreme-temperaturen-machen",
+      "date": 1787101207,
+      "dateStr": "19. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "SHK: Auftragsreichweite wächst, politische Verunsicherung bleibt",
+      "excerpt": "Die Auftragsreichweite im Heizungs- und Lüftungsbereich ist in Baden-Württemberg deutlich gestiegen. Politische Unsicherheit bleibt laut einer Konjunkturumfrage das größte Hemmnis für die Wärmewende.",
+      "link": "https://www.sbz-online.de/meldungen/umfrage-shk-auftragsreichweite-waechst-politische-verunsicherung-bleibt",
+      "date": 1787101206,
+      "dateStr": "19. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "„Die 2 vom Fach für alle Fälle“ zeigen neue Produkte",
       "excerpt": "In fünf neuen Clips stellen die Experten von „Die 2 vom Fach für alle Fälle“ neue Conel-Produkte vor. Die Videos behandeln die Themen Rohrsysteme, Werkzeuge, Isolierung, Heizungsbefüllung und Regenwasser.",
       "link": "https://www.sbz-online.de/meldungen/video-die-2-vom-fach-fuer-alle-faelle-zeigen-neue-produkte",
@@ -153,34 +180,7 @@
       "dateStr": "10. Aug. 2026",
       "source": "SBZ Monteur",
       "category": "Smart Home"
-    },
-    {
-      "title": "Jeder dritte Azubi bricht ab: so gelingt der Start",
-      "excerpt": "Der Workshop „Startklar“ der Hand­werks­kammer Konstanz ver­mit­telt Azubis wich­ti­ges Know-how für die ers­ten Schritte im Arbeitsleben.",
-      "link": "https://www.sbz-online.de/meldungen/nachwuchskraefte-jeder-dritte-azubi-bricht-ab-so-gelingt-der-start",
-      "date": 1786323605,
-      "dateStr": "10. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Elements setzt auf di­gi­ta­le Bad­pla­nung mit Palette CAD",
-      "excerpt": "Elements nutzt die 3D-Softwarelösungen von Palette CAD, um den Planungsprozess von Bädern zu digitalisieren und das SHK-Handwerk zu unterstützen.",
-      "link": "https://www.sbz-online.de/meldungen/badplanung-elements-setzt-auf-digitale-badplanung-mit-palette-cad",
-      "date": 1786064406,
-      "dateStr": "7. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
-      "title": "„Heizkeller der Zu­kunft“ star­tet zwei­te Run­de",
-      "excerpt": "Die Veranstaltungsreihe „Heizkeller der Zukunft“ informiert Eigentümer in NRW unabhängig über klimafreundliche Heizungsoptionen – nun folgen acht weitere Aktionstage.",
-      "link": "https://www.sbz-online.de/meldungen/heizungswende-nrw-heizkeller-der-zukunft-startet-zweite-runde",
-      "date": 1785978006,
-      "dateStr": "6. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1787108149
+  "fetched": 1787111205
 }
