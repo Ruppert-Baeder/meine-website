@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "RDA Kom­pe­tenz­tag 2026: Pla­nung, Pra­xis und Re­vi­ta­li­sie­rung",
+      "excerpt": "Helios Ventilatoren lädt zum 6. RDA Kompetenztag ein – mit Fokus auf Druckbelüftungs- und Spüllüftungsanlagen, Ingenieurmethoden und die Modernisierung von Bestandsanlagen.",
+      "link": "https://www.sbz-online.de/meldungen/24-september-2026-frankfurt-am-main-rda-kompetenztag-2026-planung-praxis-und",
+      "date": 1787187607,
+      "dateStr": "20. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Kaldewei-Produkte im Bou­tique­hotel auf Islay",
+      "excerpt": "Badewannen und Duschflächen von Kaldewei unter­stüt­zen das Design­konzept sowie die Nach­hal­tig­keits­ziele des Ardbeg House auf der Insel Islay.",
+      "link": "https://www.sbz-online.de/meldungen/referenzprojekt-kaldewei-produkte-im-boutiquehotel-auf-islay",
+      "date": 1787187607,
+      "dateStr": "20. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Elco blickt auf 75 Jahre Service zurück",
+      "excerpt": "Elco feiert: Seit 1951 hat sich der Service weiterentwickelt. Bis Ende 2026 sollen 200 zertifizierte Kältetechniker bei Elco im Einsatz sein.",
+      "link": "https://www.sbz-online.de/meldungen/jubilaeum-elco-blickt-auf-75-jahre-service-zurueck",
+      "date": 1787187606,
+      "dateStr": "20. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "SHK-Betrieb Klein: So hilft die Geberit Pro App auf der Baustelle",
       "excerpt": "SHK-Unternehmer Benedikt Klein be­richtet aus dem Betriebs­alltag, wie die Geberit Pro App Ab­läufe auf der Bau­stelle beschleunigt.",
       "link": "https://www.sbz-online.de/meldungen/praxisbericht-shk-betrieb-klein-so-hilft-die-geberit-pro-app-auf-der-baustelle",
@@ -153,34 +180,7 @@
       "dateStr": "11. Aug. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Zewotherm star­tet neu­es Part­ner­por­tal",
-      "excerpt": "Zewotherm stellt seit dem 1. August 2026 ein zentrales Online-Portal für Fachhandwerker und Großhändler bereit.",
-      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-zewotherm-startet-neues-partnerportal",
-      "date": 1786410006,
-      "dateStr": "11. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
-    },
-    {
-      "title": "2026-1.Hj: Wär­me­pum­pen-Ab­satz wächst um 40 %",
-      "excerpt": "Im 1. Halbjahr 2026 wurden in Deutschland 195.000 Wärmepumpen abgesetzt, ein Anstieg von 40 % gegenüber dem Vorjahreszeitraum.",
-      "link": "https://www.sbz-online.de/meldungen/marktdaten-2026-1hj-waermepumpen-absatz-waechst-um-40",
-      "date": 1786323607,
-      "dateStr": "10. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Reisser WC-Sitz-App: per KI zum pas­sen­den Mo­dell",
-      "excerpt": "Mit KI-Bilderkennung hilft die neue Reisser-App Fachhandwerkern, den richtigen WC-Sitz schnell und fehlerfrei zu finden.",
-      "link": "https://www.sbz-online.de/meldungen/digitale-tools-reisser-wc-sitz-app-ki-zum-passenden-modell",
-      "date": 1786323606,
-      "dateStr": "10. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Smart Home"
     }
   ],
-  "fetched": 1787194505
+  "fetched": 1787197516
 }
