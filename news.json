@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Garant trauert um Hans-Dieter Lauten",
+      "excerpt": "Hans-Dieter Lauten, Inhaber der Garant Gruppe, ist am 13. August im Alter von 80 Jahren verstorben.",
+      "link": "https://www.sbz-online.de/meldungen/nachruf-garant-trauert-um-hans-dieter-lauten",
+      "date": 1787274007,
+      "dateStr": "21. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Hansgrohe: 125 Jahre in einer Aus­stel­lung",
+      "excerpt": "Hansgrohe eröffnet die neue Dauerausstellung „Taktgeber des Wassers. Seit 1901.“ – 125 Jahre Unternehmensgeschichte auf rund 400 m2.",
+      "link": "https://www.sbz-online.de/meldungen/unternehmensgeschichte-hansgrohe-125-jahre-einer-ausstellung",
+      "date": 1787274006,
+      "dateStr": "21. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
       "title": "RDA Kom­pe­tenz­tag 2026: Pla­nung, Pra­xis und Re­vi­ta­li­sie­rung",
       "excerpt": "Helios Ventilatoren lädt zum 6. RDA Kompetenztag ein – mit Fokus auf Druckbelüftungs- und Spüllüftungsanlagen, Ingenieurmethoden und die Modernisierung von Bestandsanlagen.",
       "link": "https://www.sbz-online.de/meldungen/24-september-2026-frankfurt-am-main-rda-kompetenztag-2026-planung-praxis-und",
@@ -162,25 +180,7 @@
       "dateStr": "12. Aug. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Cemo erneuert Ka­ta­lo­ge und in­te­griert Ak­ku-Sys­te­me",
-      "excerpt": "Cemo überarbeitet seine Katalogstruktur und nimmt Lösungen des Akku-Systems der Stihl-Plattform Allpro in sein Produktportfolio auf.",
-      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-cemo-erneuert-kataloge-und-integriert-akku-systeme",
-      "date": 1786496405,
-      "dateStr": "12. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Kessel DeepDive 2026: Neu­hei­ten für Fach­hand­werk und Pla­nung",
-      "excerpt": "Kessel setzt seine Roadshow „DeepDive\" im Herbst 2026 fort – mit neuen Systemlösungen für Hebeanlagen und einem erweiterten Kleinhebeanlagen-Sortiment.",
-      "link": "https://www.sbz-online.de/meldungen/roadshow-kessel-deepdive-2026-neuheiten-fuer-fachhandwerk-und-planung",
-      "date": 1786410006,
-      "dateStr": "11. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1787274837
+  "fetched": 1787281279
 }
