@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Daikin Cinema Tour 2026: Zukunfts­fähige Lösun­gen vor Ort erleben",
+      "excerpt": "Die Daikin Cinema Tour 2026 bringt Fach­pro­gramm und Kino­er­leb­nis für SHK- und Kälte-Klima-Betriebe in acht deut­sche Städte.",
+      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-daikin-cinema-tour-2026-zukunftsfaehige-loesungen-vor-ort-erleben",
+      "date": 1787619607,
+      "dateStr": "25. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
+      "title": "Systeme für SHK-Profis: limi­tiert, werk­zeug­los, dezentral",
+      "excerpt": "Werkzeuggürtel, Klima-Komplett­paket, TW-Fil­ter mit Impuls-Rück­spül­tech­nik, dezent­rales Lüf­tungs­ge­rät für fle­xible An­wen­dun­gen, nach­hal­tige Arbeits­hosen.",
+      "link": "https://www.sbz-online.de/meldungen/abgesteckt-systeme-fuer-shk-profis-limitiert-werkzeuglos-dezentral",
+      "date": 1787619606,
+      "dateStr": "25. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Wärmepumpe sa­niert 300 Jah­re al­tes Wohn- und Ge­schäfts­haus",
       "excerpt": "Ein über 300 Jahre altes Wohn- und Geschäftshaus wurde mit einer Hochtemperatur-Wärmepumpe energetisch saniert – ohne Austausch der bestehenden Heizkörper.",
       "link": "https://www.sbz-online.de/meldungen/referenzprojekt-waermepumpe-saniert-300-jahre-altes-wohn-und-geschaeftshaus",
@@ -162,25 +180,7 @@
       "dateStr": "13. Aug. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Personelle Veränderungen in der SHK-Branche",
-      "excerpt": "Ein Generationenwechsel bei der Peter Jensen GmbH sowie neue Gesichter beim FGK, bei Conti+ und bei ÖkoFEN prägen die Branche.",
-      "link": "https://www.sbz-online.de/meldungen/personalien-personelle-veraenderungen-der-shk-branche-33",
-      "date": 1786582807,
-      "dateStr": "13. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Wolf-För­der­rech­ner: Ori­en­tie­rung bei der Hei­zungs­för­de­rung",
-      "excerpt": "Angesichts neuer Förderregeln und sinkender Fördersätze hat Wolf seinen Online-Rechner aktualisiert, um Endkunden eine Orientierung bei der Heizungsmodernisierung zu bieten.",
-      "link": "https://www.sbz-online.de/meldungen/digitale-tools-wolf-foerderrechner-orientierung-bei-der-heizungsfoerderung",
-      "date": 1786582806,
-      "dateStr": "13. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1787626629
+  "fetched": 1787629900
 }
