@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "SBZ ruft an bei der VDS: Tag des Bades 2026",
+      "excerpt": "Jens J. Wischmann von der VDS erklärt im SBZ-Podcast, warum der Tag des Bades den SHK-Markt stärkt und Handwerksbetriebe davon profitieren.",
+      "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-bei-der-vds-tag-des-bades-2026",
+      "date": 1787724371,
+      "dateStr": "26. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
       "title": "Fachkräftemangel zieht wieder an",
       "excerpt": "Im Juli 2026 meldeten 23,2 % der deutschen Unternehmen einen Fachkräftemangel. Dieser Wert liegt über dem vom April, aber weiterhin unter dem langfristigen Durchschnitt.",
       "link": "https://www.sbz-online.de/meldungen/arbeitsmarkt-fachkraeftemangel-zieht-wieder",
@@ -171,16 +180,7 @@
       "dateStr": "17. Aug. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Geothermie für den grEEn­Campus Rüssels­heim",
-      "excerpt": "Der Stellantis grEEnCampus in Rüsselsheim wird geothermisch mit Wärme und Kälte versorgt – realisiert durch einen Flächenkollektor unter dem Parkhaus.",
-      "link": "https://www.sbz-online.de/meldungen/referenzprojekt-geothermie-fuer-den-greencampus-ruesselsheim",
-      "date": 1786669209,
-      "dateStr": "14. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1787730253
+  "fetched": 1787733676
 }
