@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Fachkräftemangel zieht wieder an",
+      "excerpt": "Im Juli 2026 meldeten 23,2 % der deutschen Unternehmen einen Fachkräftemangel. Dieser Wert liegt über dem vom April, aber weiterhin unter dem langfristigen Durchschnitt.",
+      "link": "https://www.sbz-online.de/meldungen/arbeitsmarkt-fachkraeftemangel-zieht-wieder",
+      "date": 1787706008,
+      "dateStr": "26. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
+      "title": "Women only: Praxisnahe VDI-2035-Schulung für SHK-Frauen",
+      "excerpt": "Die Expertinnen Claudia Sinder­mann und Julia Specht erläu­tern im UWS-Live­stream die VDI 2035 – ex­klu­siv für SHK-Frauen, die ihr Wis­sen ver­tie­fen möchten.",
+      "link": "https://www.sbz-online.de/meldungen/9-september-2026-1630-uhr-online-women-only-praxisnahe-vdi-2035-schulung-fuer-shk-frauen",
+      "date": 1787706007,
+      "dateStr": "26. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Daikin Cinema Tour 2026: Zukunfts­fähige Lösun­gen vor Ort erleben",
       "excerpt": "Die Daikin Cinema Tour 2026 bringt Fach­pro­gramm und Kino­er­leb­nis für SHK- und Kälte-Klima-Betriebe in acht deut­sche Städte.",
       "link": "https://www.sbz-online.de/meldungen/shk-hersteller-daikin-cinema-tour-2026-zukunftsfaehige-loesungen-vor-ort-erleben",
@@ -162,25 +180,7 @@
       "dateStr": "14. Aug. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Roth RIS voll­stän­dig SHI-zer­ti­fi­ziert",
-      "excerpt": "Das Rohr-Installationssystem von Roth ist nun vollständig SHI-zertifiziert. Dies vereinfacht die Nachweisführung und sichert die Förderfähigkeit nach QNG-Kriterien.",
-      "link": "https://www.sbz-online.de/meldungen/qng-ready-roth-ris-vollstaendig-shi-zertifiziert",
-      "date": 1786669207,
-      "dateStr": "14. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "perma-talk: Vom GEG zum GModG – und jetzt?",
-      "excerpt": "SHK-Experten reden beim Online-Talk von perma-trade Klartext zur neuen Gesetzeslage.",
-      "link": "https://www.sbz-online.de/meldungen/18082026-17-uhr-online-perma-talk-vom-geg-zum-gmodg-und-jetzt",
-      "date": 1786611841,
-      "dateStr": "13. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1787706852
+  "fetched": 1787713395
 }
