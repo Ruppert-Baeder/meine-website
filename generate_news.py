@@ -16,14 +16,6 @@ FEEDS = [
     {"url": "https://www.shk-journal.de/news/rss.xml",                    "source": "SHK Journal"},
 ]
 
-CATEGORIES = {
-    "Heizung":    r"heizung|waerme|waermepumpe|fernwaerme|kessel|brennwert|pellet|biomasse|gas|oel",
-    "Sanitaer":   r"sanitaer|bad|dusche|wanne|waschtisch|armatur|rohr|leitung|wasser|abwasser",
-    "Foerderung": r"foerderung|bafa|kfw|zuschuss|subvention|bundesfoerderung",
-    "Smart Home": r"smart.?home|digital|steuerung|automation|app|sensor|vernetzt",
-    "Branche":    r"handwerk|betrieb|markt|unternehmen|verband|innung|messe|zvshk|hwk",
-}
-
 # Unicode-Varianten fuer deutsche Umlaute im Regex
 CATEGORIES_UNICODE = {
     "Heizung":    r"heizung|w[äa]rme|w[äa]rmepumpe|fernw[äa]rme|kessel|brennwert|pellet|biomasse|gas|[öo]l",
@@ -58,8 +50,6 @@ def fetch_feed(feed: dict) -> list:
         headers={"User-Agent": "Mozilla/5.0 (compatible; RuppertNewsBot/1.0)"}
     )
     ctx = urllib.request.ssl.create_default_context()
-    ctx.check_hostname = False
-    ctx.verify_mode = urllib.request.ssl.CERT_NONE
 
     with urllib.request.urlopen(req, timeout=15, context=ctx) as r:
         root = ET.fromstring(r.read())
@@ -68,6 +58,8 @@ def fetch_feed(feed: dict) -> list:
     for item in root.findall(".//item"):
         title = (item.findtext("title") or "").strip()
         link  = (item.findtext("link")  or "").strip()
+        if not re.match(r"^https?://", link):
+            link = ""
         desc  = strip_html(item.findtext("description") or "")[:220]
         pub   = item.findtext("pubDate") or ""
 

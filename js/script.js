@@ -165,12 +165,19 @@ document.addEventListener('DOMContentLoaded', function() {
         const radio = document.getElementById(radioId);
         if (!radio) return;
         radio.addEventListener('change', function() {
+            Object.keys(tabs).forEach(id => {
+                const otherRadio = document.getElementById(id);
+                const label = otherRadio && document.querySelector(`label[for="${id}"]`);
+                if (label) label.setAttribute('aria-selected', 'false');
+            });
             Object.values(tabs).forEach(id => {
                 const panel = document.getElementById(id);
                 if (panel) panel.hidden = true;
             });
             const active = document.getElementById(panelId);
             if (active) active.hidden = false;
+            const activeLabel = document.querySelector(`label[for="${radioId}"]`);
+            if (activeLabel) activeLabel.setAttribute('aria-selected', 'true');
         });
     });
 });

@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/png" href="favicon.png">
     <link rel="shortcut icon" href="favicon.png">
+    <link rel="canonical" href="https://www.ruppert-baeder.de/branchennews.html">
+    <link rel="preload" as="font" type="font/woff2" href="fonts/inter.woff2" crossorigin>
     <meta name="description" content="Aktuelle Nachrichten aus der SHK-Branche – Heizung, Sanitär, Klimatechnik von SBZ Online und SHK Journal">
     <title>Branchennews | Andreas Ruppert Bäder und Heizungen</title>
     <!-- Open Graph -->
@@ -323,16 +325,6 @@
         const filtersEl = document.getElementById('newsFilters');
         const footerNote = document.getElementById('newsFooterNote');
         let allArticles = [];
-
-        function detectCategory(text) {
-            const t = (text || '').toLowerCase();
-            if (/heizung|wärme|heizkessel|wärmepumpe|fernwärme|gasheizung|ölheizung|pellet|biomasse/.test(t)) return 'Heizung';
-            if (/sanitär|bad|badezimmer|dusche|wanne|wc|toilette|waschtisch|wasserhahn|rohr|abwasser/.test(t)) return 'Sanitär';
-            if (/förderung|bafa|kfw|zuschuss|subvention|bundesförderung/.test(t)) return 'Förderung';
-            if (/smart.?home|automation|digital|steuerung|sensor/.test(t)) return 'Smart Home';
-            if (/verband|hwk|zvshk|innung|messe|politik|gesetz|norm|din/.test(t)) return 'Branche';
-            return 'Aktuell';
-        }
 
         function formatDate(dateStr) {
             const d = new Date((dateStr || '').replace(' ', 'T'));

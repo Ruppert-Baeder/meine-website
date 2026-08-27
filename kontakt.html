@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/png" href="favicon.png">
     <link rel="shortcut icon" href="favicon.png">
+    <link rel="canonical" href="https://www.ruppert-baeder.de/kontakt.html">
+    <link rel="preload" as="font" type="font/woff2" href="fonts/inter.woff2" crossorigin>
     <meta name="description" content="Kontaktieren Sie Andreas Ruppert Bäder und Heizungen in Diepholz. 24h-Notdienst verfügbar.">
     <title>Kontakt | Andreas Ruppert Bäder und Heizungen</title>
     <!-- Open Graph -->
@@ -75,9 +77,9 @@
 
             <!-- Cyber Switch -->
             <div class="cyber-signboard">
-                <div class="cyber-switch">
+                <div class="cyber-switch" role="tablist" aria-label="Kontaktmöglichkeit wählen">
                     <input type="radio" id="cyber-opt-1" name="cyber-mode" checked>
-                    <label for="cyber-opt-1" class="cyber-label" aria-label="Kontaktformular">
+                    <label for="cyber-opt-1" class="cyber-label" aria-label="Kontaktformular" role="tab" aria-selected="true" aria-controls="tab-formular">
                         <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                             <rect x="3" y="3" width="7" height="9"></rect>
                             <rect x="14" y="3" width="7" height="5"></rect>
@@ -88,7 +90,7 @@
                     </label>
 
                     <input type="radio" id="cyber-opt-2" name="cyber-mode">
-                    <label for="cyber-opt-2" class="cyber-label" aria-label="WhatsApp">
+                    <label for="cyber-opt-2" class="cyber-label" aria-label="WhatsApp" role="tab" aria-selected="false" aria-controls="tab-whatsapp">
                         <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                             <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
                         </svg>
@@ -96,7 +98,7 @@
                     </label>
 
                     <input type="radio" id="cyber-opt-3" name="cyber-mode">
-                    <label for="cyber-opt-3" class="cyber-label" aria-label="Telefon">
+                    <label for="cyber-opt-3" class="cyber-label" aria-label="Telefon" role="tab" aria-selected="false" aria-controls="tab-telefon">
                         <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                             <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.69 12a19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 3.64 1.18h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.68 2.81a2 2 0 0 1-.45 2.11L7.91 8.82a16 16 0 0 0 5.64 5.64l1-1.01a2 2 0 0 1 2.11-.45c.91.32 1.85.55 2.81.68A2 2 0 0 1 22 16.92z"></path>
                         </svg>
@@ -110,7 +112,7 @@
             </div>
 
             <!-- Panel 1: Formular -->
-            <div class="contact-tab-panel" id="tab-formular">
+            <div class="contact-tab-panel" id="tab-formular" role="tabpanel">
                 <div class="form-container">
                     <form id="contactForm" novalidate>
                         <input type="text" id="honeypot" name="honeypot" style="display:none" tabindex="-1" autocomplete="off">
@@ -194,7 +196,7 @@
             </div>
 
             <!-- Panel 2: WhatsApp (folgt in Kürze) -->
-            <div class="contact-tab-panel" id="tab-whatsapp" hidden>
+            <div class="contact-tab-panel" id="tab-whatsapp" role="tabpanel" hidden>
                 <div class="contact-tab-placeholder">
                     <div class="placeholder-icon">💬</div>
                     <h3>WhatsApp-Chat</h3>
@@ -204,7 +206,7 @@
             </div>
 
             <!-- Panel 3: Telefon -->
-            <div class="contact-tab-panel" id="tab-telefon" hidden>
+            <div class="contact-tab-panel" id="tab-telefon" role="tabpanel" hidden>
                 <div class="contact-tab-phone">
                     <div class="phone-primary">
                         <div class="phone-label">Hauptnummer</div>
