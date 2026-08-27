@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Geothermie und Propan-Wärme­pum­pen für neuen Ver­waltungsbau",
+      "excerpt": "Tiefe Erdsonden und Sole-Wasser-Wärme­pum­pen mit dem R290 über­neh­men Hei­zung und Küh­lung im neuen Ver­wal­tungs­ge­bäude von Bau­grund Süd.",
+      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-geothermie-und-propan-waermepumpen-fuer-neuen-verwaltungsbau",
+      "date": 1787792408,
+      "dateStr": "27. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Bürokratie und Fach­kräf­te­man­gel brem­sen das Hand­werk",
+      "excerpt": "Eine aktuelle Umfrage zeigt: Fachkräftemangel, Inflation und Bürokratie belasten das Handwerk – dennoch investiert die Branche und profitiert von der Energiewende.",
+      "link": "https://www.sbz-online.de/meldungen/umfrage-buerokratie-und-fachkraeftemangel-bremsen-das-handwerk",
+      "date": 1787792407,
+      "dateStr": "27. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
       "title": "SBZ ruft an bei der VDS: Tag des Bades 2026",
       "excerpt": "Jens J. Wischmann von der VDS erklärt im SBZ-Podcast, warum der Tag des Bades den SHK-Markt stärkt und Handwerksbetriebe davon profitieren.",
       "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-bei-der-vds-tag-des-bades-2026",
@@ -162,25 +180,7 @@
       "dateStr": "17. Aug. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Wagner vertritt SHK-Hand­werk in Shanghai",
-      "excerpt": "Lars Wagner, ein 22-jähriger Anlagenmechaniker aus Sachsen, vertritt das SHK-Handwerk bei der Weltmeisterschaft der Berufe 2026 in Shanghai.",
-      "link": "https://www.sbz-online.de/meldungen/worldskills-2026-wagner-vertritt-shk-handwerk-shanghai",
-      "date": 1786960752,
-      "dateStr": "17. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
-    },
-    {
-      "title": "Wolf-Wär­me­pum­pen jetzt mit Solar Manager kom­pa­ti­bel",
-      "excerpt": "Wolf-Wärmepumpen lassen sich künftig direkt in das Energiemanagementsystem von Solar Manager einbinden – für eine optimierte Nutzung von selbst erzeugtem Solarstrom im Eigenheim.",
-      "link": "https://www.sbz-online.de/meldungen/kooperation-wolf-waermepumpen-jetzt-mit-solar-manager-kompatibel",
-      "date": 1786928406,
-      "dateStr": "17. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1787784276
+  "fetched": 1787804201
 }
