@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "Zehnder: Webinare zu Tempe­rie­rung und Luft­reinigung in Hallen",
+      "excerpt": "Die kostenfreien Zehnder-Webi­nare behan­deln Lösun­gen für das Hei­zen, Küh­len und die Luft­rei­ni­gung in Indus­trie- und Logis­tik­hallen.",
+      "link": "https://www.sbz-online.de/meldungen/weiterbildung-zehnder-webinare-zu-temperierung-und-luftreinigung-hallen",
+      "date": 1787878808,
+      "dateStr": "28. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "DEPI: Kostenfaktor bestimmt den Heizungskauf",
+      "excerpt": "Eine Civey-Umfrage des Deutschen Pelletinstituts (DEPI) zeigt, worauf Hausbesitzer beim Heizungskauf achten. Diese Faktoren haben eine Rolle gespielt.",
+      "link": "https://www.sbz-online.de/meldungen/umfrage-depi-kostenfaktor-bestimmt-den-heizungskauf",
+      "date": 1787878807,
+      "dateStr": "28. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Geothermiekongress 2026: For­schung, Praxis und glo­bale Trends",
+      "excerpt": "Der Geothermiekongress 2026 in Potsdam bietet ein um­fang­rei­ches Pro­gramm mit Work­shops, Ex­kur­sio­nen und mehr als 300 Fach­beiträgen.",
+      "link": "https://www.sbz-online.de/meldungen/20-22102026-potsdam-geothermiekongress-2026-forschung-praxis-und-globale-trends",
+      "date": 1787878807,
+      "dateStr": "28. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Geothermie und Propan-Wärme­pum­pen für neuen Ver­waltungsbau",
       "excerpt": "Tiefe Erdsonden und Sole-Wasser-Wärme­pum­pen mit dem R290 über­neh­men Hei­zung und Küh­lung im neuen Ver­wal­tungs­ge­bäude von Bau­grund Süd.",
       "link": "https://www.sbz-online.de/meldungen/shk-hersteller-geothermie-und-propan-waermepumpen-fuer-neuen-verwaltungsbau",
@@ -153,34 +180,7 @@
       "dateStr": "19. Aug. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "SHK: Auftragsreichweite wächst, politische Verunsicherung bleibt",
-      "excerpt": "Die Auftragsreichweite im Heizungs- und Lüftungsbereich ist in Baden-Württemberg deutlich gestiegen. Politische Unsicherheit bleibt laut einer Konjunkturumfrage das größte Hemmnis für die Wärmewende.",
-      "link": "https://www.sbz-online.de/meldungen/umfrage-shk-auftragsreichweite-waechst-politische-verunsicherung-bleibt",
-      "date": 1787101206,
-      "dateStr": "19. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "„Die 2 vom Fach für alle Fälle“ zeigen neue Produkte",
-      "excerpt": "In fünf neuen Clips stellen die Experten von „Die 2 vom Fach für alle Fälle“ neue Conel-Produkte vor. Die Videos behandeln die Themen Rohrsysteme, Werkzeuge, Isolierung, Heizungsbefüllung und Regenwasser.",
-      "link": "https://www.sbz-online.de/meldungen/video-die-2-vom-fach-fuer-alle-faelle-zeigen-neue-produkte",
-      "date": 1787014806,
-      "dateStr": "18. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Axor führt se­lek­ti­ven Ver­trieb ab 2027 ein",
-      "excerpt": "Ab Januar 2027 vertreibt Axor seine Produkte in Deutschland, Österreich, Tschechien und der Slowakei ausschließlich über autorisierte Partner.",
-      "link": "https://www.sbz-online.de/meldungen/shk-vertrieb-axor-fuehrt-selektiven-vertrieb-ab-2027-ein",
-      "date": 1786962549,
-      "dateStr": "17. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1787879773
+  "fetched": 1787924935
 }
