@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "„Grün zu Grün“: Volle BEG-Förderung nur noch 2026",
+      "excerpt": "Wer 2026 eine Heizung auf Basis erneuerbarer Energien austauscht, sichert sich noch die aktuellen Förderkonditionen – ab 2027 werden diese deutlich eingeschränkt.",
+      "link": "https://www.sbz-online.de/meldungen/heizungsfoerderung-gruen-zu-gruen-volle-beg-foerderung-nur-noch-2026",
+      "date": 1788138008,
+      "dateStr": "31. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Dornbracht legt Shower­book 2026 neu auf",
+      "excerpt": "Der Armaturenhersteller Dornbracht hat sein Showerbook 2026 neu aufgelegt. Die Broschüre bietet eine umfassende Planungshilfe für Duschanwendungen in Bädern und Spas.",
+      "link": "https://www.sbz-online.de/meldungen/planungshilfe-dornbracht-legt-showerbook-2026-neu-auf",
+      "date": 1788138007,
+      "dateStr": "31. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
       "title": "Zehnder: Webinare zu Tempe­rie­rung und Luft­reinigung in Hallen",
       "excerpt": "Die kostenfreien Zehnder-Webi­nare behan­deln Lösun­gen für das Hei­zen, Küh­len und die Luft­rei­ni­gung in Indus­trie- und Logis­tik­hallen.",
       "link": "https://www.sbz-online.de/meldungen/weiterbildung-zehnder-webinare-zu-temperierung-und-luftreinigung-hallen",
@@ -162,25 +180,7 @@
       "dateStr": "20. Aug. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "SHK-Betrieb Klein: So hilft die Geberit Pro App auf der Baustelle",
-      "excerpt": "SHK-Unternehmer Benedikt Klein be­richtet aus dem Betriebs­alltag, wie die Geberit Pro App Ab­läufe auf der Bau­stelle beschleunigt.",
-      "link": "https://www.sbz-online.de/meldungen/praxisbericht-shk-betrieb-klein-so-hilft-die-geberit-pro-app-auf-der-baustelle",
-      "date": 1787101207,
-      "dateStr": "19. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Smart Home"
-    },
-    {
-      "title": "VDMA: Gebäude fit für extreme Tempe­raturen machen",
-      "excerpt": "Die Heizungsarmaturenbranche zeigt erste Anzeichen der Erholung, während die Anforderungen an Gebäude steigen.",
-      "link": "https://www.sbz-online.de/meldungen/marktdaten-vdma-gebaeude-fit-fuer-extreme-temperaturen-machen",
-      "date": 1787101207,
-      "dateStr": "19. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1788131538
+  "fetched": 1788148478
 }
