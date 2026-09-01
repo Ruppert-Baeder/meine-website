@@ -2,6 +2,51 @@
   "ok": true,
   "articles": [
     {
+      "title": "Interview: Warum wird das Fach­hand­werk jetzt an­ge­sprochen?",
+      "excerpt": "Die #CONNECTINGHEAT 2026 wendet sich erst­ma­lig mit einem Fach­kong­ress an SHK-Betriebe. Dennis Jäger befragt dazu Frederic Leers vom BDH.",
+      "link": "https://www.sbz-online.de/meldungen/waermewende-im-handwerk-interview-warum-wird-das-fachhandwerk-jetzt-angesprochen",
+      "date": 1788236752,
+      "dateStr": "1. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
+      "title": "Systemtriple im Mehrfamilienhaus",
+      "excerpt": "Drei Komponenten, ein Konzept: Wärmepumpe, Wohnungsstation und Wohnraumlüftung. Im Mehrfamilienhaus entscheidet nicht die einzelne Komponente über den Projekterfolg, sondern das Zusammenspiel des gesamten Systems.",
+      "link": "https://www.sbz-online.de/haus-und-gebaeudetechnik/systemtriple-im-mehrfamilienhaus",
+      "date": 1788228007,
+      "dateStr": "1. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Investitions­be­reit­schaft in En­er­gie­wen­de steigt deut­lich",
+      "excerpt": "Laut dem KfW-Energiewendebarometer wollen 66 % der deutschen Haushalte in den Klimaschutz investieren – ein deutlicher Anstieg gegenüber dem Vorjahr.",
+      "link": "https://www.sbz-online.de/meldungen/kfw-research-investitionsbereitschaft-energiewende-steigt-deutlich",
+      "date": 1788224408,
+      "dateStr": "1. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Rechte, Pflichten und Chan­cen für Azubis im Spät­einstieg",
+      "excerpt": "Azubis haben klare Rechte und Pflich­ten – auch beim spä­ten Ein­stieg. Ex­per­ten er­klä­ren, worauf zu ach­ten ist.",
+      "link": "https://www.sbz-online.de/meldungen/nachwuchskraefte-rechte-pflichten-und-chancen-fuer-azubis-im-spaeteinstieg",
+      "date": 1788224407,
+      "dateStr": "1. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Universal Design: Den Waschplatz ganz­heit­lich planen",
+      "excerpt": "Universal Design beginnt bei der Raum­auf­tei­lung: Am Waschplatz im barriere­freien Bad sind Bewe­gungs­flä­chen und fle­xible Lösun­gen ent­scheidend.",
+      "link": "https://www.sbz-online.de/meldungen/badplanung-universal-design-den-waschplatz-ganzheitlich-planen",
+      "date": 1788224407,
+      "dateStr": "1. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
       "title": "„Grün zu Grün“: Volle BEG-Förderung nur noch 2026",
       "excerpt": "Wer 2026 eine Heizung auf Basis erneuerbarer Energien austauscht, sichert sich noch die aktuellen Förderkonditionen – ab 2027 werden diese deutlich eingeschränkt.",
       "link": "https://www.sbz-online.de/meldungen/heizungsfoerderung-gruen-zu-gruen-volle-beg-foerderung-nur-noch-2026",
@@ -45,6 +90,15 @@
       "dateStr": "28. Aug. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
+    },
+    {
+      "title": "Splitfix: Kompakte Fettabscheider zur Freiaufstellung im Gebäude",
+      "excerpt": "Mit der Splitfix-Baureihe bietet Pentair Jung Pumpen kompakte Fettabscheider zur Freiaufstellung im Gebäude für Betriebe mit geringem bis mittlerem Fettanfall im Abwasser, etwa in Gastronomie und Lebensmittelverarbeitung",
+      "link": "https://www.sbz-online.de/abwasseraufbereitung/splitfix-kompakte-fettabscheider-zur-freiaufstellung-im-gebaeude",
+      "date": 1787811471,
+      "dateStr": "27. Aug. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
     },
     {
       "title": "Geothermie und Propan-Wärme­pum­pen für neuen Ver­waltungsbau",
@@ -126,61 +180,7 @@
       "dateStr": "24. Aug. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Suzy Aksoy wird neue Geschäftsführerin des DG Haustechnik",
-      "excerpt": "Der Deutsche Großhandels­ver­band Haus­tech­nik e.V. stellt seine Geschäfts­füh­rung zum Jah­res­wech­sel 2026/2027 neu auf.",
-      "link": "https://www.sbz-online.de/meldungen/personalie-suzy-aksoy-wird-neue-geschaeftsfuehrerin-des-dg-haustechnik",
-      "date": 1787533206,
-      "dateStr": "24. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Garant trauert um Hans-Dieter Lauten",
-      "excerpt": "Hans-Dieter Lauten, Inhaber der Garant Gruppe, ist am 13. August im Alter von 80 Jahren verstorben.",
-      "link": "https://www.sbz-online.de/meldungen/nachruf-garant-trauert-um-hans-dieter-lauten",
-      "date": 1787274007,
-      "dateStr": "21. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Hansgrohe: 125 Jahre in einer Aus­stel­lung",
-      "excerpt": "Hansgrohe eröffnet die neue Dauerausstellung „Taktgeber des Wassers. Seit 1901.“ – 125 Jahre Unternehmensgeschichte auf rund 400 m2.",
-      "link": "https://www.sbz-online.de/meldungen/unternehmensgeschichte-hansgrohe-125-jahre-einer-ausstellung",
-      "date": 1787274006,
-      "dateStr": "21. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
-      "title": "RDA Kom­pe­tenz­tag 2026: Pla­nung, Pra­xis und Re­vi­ta­li­sie­rung",
-      "excerpt": "Helios Ventilatoren lädt zum 6. RDA Kompetenztag ein – mit Fokus auf Druckbelüftungs- und Spüllüftungsanlagen, Ingenieurmethoden und die Modernisierung von Bestandsanlagen.",
-      "link": "https://www.sbz-online.de/meldungen/24-september-2026-frankfurt-am-main-rda-kompetenztag-2026-planung-praxis-und",
-      "date": 1787187607,
-      "dateStr": "20. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Kaldewei-Produkte im Bou­tique­hotel auf Islay",
-      "excerpt": "Badewannen und Duschflächen von Kaldewei unter­stüt­zen das Design­konzept sowie die Nach­hal­tig­keits­ziele des Ardbeg House auf der Insel Islay.",
-      "link": "https://www.sbz-online.de/meldungen/referenzprojekt-kaldewei-produkte-im-boutiquehotel-auf-islay",
-      "date": 1787187607,
-      "dateStr": "20. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Elco blickt auf 75 Jahre Service zurück",
-      "excerpt": "Elco feiert: Seit 1951 hat sich der Service weiterentwickelt. Bis Ende 2026 sollen 200 zertifizierte Kältetechniker bei Elco im Einsatz sein.",
-      "link": "https://www.sbz-online.de/meldungen/jubilaeum-elco-blickt-auf-75-jahre-service-zurueck",
-      "date": 1787187606,
-      "dateStr": "20. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1788226792
+  "fetched": 1788247141
 }
