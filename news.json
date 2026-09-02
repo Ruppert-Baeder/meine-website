@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "BDR Thermea einigt sich bei Re­struk­tu­rie­rung",
+      "excerpt": "BDR Thermea Deutschland und der Konzernbetriebsrat haben sich auf einen Interessenausgleich und Sozialplan geeinigt.",
+      "link": "https://www.sbz-online.de/meldungen/unternehmensfuehrung-bdr-thermea-einigt-sich-bei-restrukturierung",
+      "date": 1788310809,
+      "dateStr": "2. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
+      "title": "Personelle Veränderungen in der SHK-Branche",
+      "excerpt": "Neue Rollen und Neubesetzungen bei Ariston, Aalberts, Kermi, Hansgrohe und Wolf.",
+      "link": "https://www.sbz-online.de/meldungen/personalie-personelle-veraenderungen-der-shk-branche",
+      "date": 1788310808,
+      "dateStr": "2. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "SBZ ruft an beim neuen Geberit-Campus",
+      "excerpt": "Im SBZ-Podcast gibt Thomas Steindl, Vertriebsleiter Ausstellung und Design, Einblicke in die moderne Badgestaltung am neuen Geberit-Campus in Pfullendorf.",
+      "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-beim-neuen-geberit-campus",
+      "date": 1788310807,
+      "dateStr": "2. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
       "title": "Interview: Warum wird das Fach­hand­werk jetzt an­ge­sprochen?",
       "excerpt": "Die #CONNECTINGHEAT 2026 wendet sich erst­ma­lig mit einem Fach­kong­ress an SHK-Betriebe. Dennis Jäger befragt dazu Frederic Leers vom BDH.",
       "link": "https://www.sbz-online.de/meldungen/waermewende-im-handwerk-interview-warum-wird-das-fachhandwerk-jetzt-angesprochen",
@@ -153,34 +180,7 @@
       "dateStr": "25. Aug. 2026",
       "source": "SBZ Monteur",
       "category": "Branche"
-    },
-    {
-      "title": "Systeme für SHK-Profis: limi­tiert, werk­zeug­los, dezentral",
-      "excerpt": "Werkzeuggürtel, Klima-Komplett­paket, TW-Fil­ter mit Impuls-Rück­spül­tech­nik, dezent­rales Lüf­tungs­ge­rät für fle­xible An­wen­dun­gen, nach­hal­tige Arbeits­hosen.",
-      "link": "https://www.sbz-online.de/meldungen/abgesteckt-systeme-fuer-shk-profis-limitiert-werkzeuglos-dezentral",
-      "date": 1787619606,
-      "dateStr": "25. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Wärmepumpe sa­niert 300 Jah­re al­tes Wohn- und Ge­schäfts­haus",
-      "excerpt": "Ein über 300 Jahre altes Wohn- und Geschäftshaus wurde mit einer Hochtemperatur-Wärmepumpe energetisch saniert – ohne Austausch der bestehenden Heizkörper.",
-      "link": "https://www.sbz-online.de/meldungen/referenzprojekt-waermepumpe-saniert-300-jahre-altes-wohn-und-geschaeftshaus",
-      "date": 1787533207,
-      "dateStr": "24. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Hargassner Industry inves­tiert 5 Mio. Euro in neuen Standort",
-      "excerpt": "Hargassner Industry inves­tiert in einen neuen Stand­ort in Regau, um seine Akti­vi­tä­ten zu bün­deln und Wachs­tum zu er­mög­lichen.",
-      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-hargassner-industry-investiert-5-mio-euro-neuen-standort",
-      "date": 1787533207,
-      "dateStr": "24. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1788303743
+  "fetched": 1788318296
 }
