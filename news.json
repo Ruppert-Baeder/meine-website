@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Exklusivserie Caluna: GC und Geberit ziehen Bilanz",
+      "excerpt": "Die gemeinsam entwickelte Badserie Caluna von GC-Gruppe und Geberit ist seit 2025 auf dem Markt. Die Partner bewerten die Entwicklung seitdem als positiv.",
+      "link": "https://www.sbz-online.de/meldungen/badkonzepte-exklusivserie-caluna-gc-und-geberit-ziehen-bilanz",
+      "date": 1788397206,
+      "dateStr": "3. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
       "title": "BDR Thermea einigt sich bei Re­struk­tu­rie­rung",
       "excerpt": "BDR Thermea Deutschland und der Konzernbetriebsrat haben sich auf einen Interessenausgleich und Sozialplan geeinigt.",
       "link": "https://www.sbz-online.de/meldungen/unternehmensfuehrung-bdr-thermea-einigt-sich-bei-restrukturierung",
@@ -171,16 +180,7 @@
       "dateStr": "26. Aug. 2026",
       "source": "SBZ Monteur",
       "category": "Branche"
-    },
-    {
-      "title": "Women only: Praxisnahe VDI-2035-Schulung für SHK-Frauen",
-      "excerpt": "Die Expertinnen Claudia Sinder­mann und Julia Specht erläu­tern im UWS-Live­stream die VDI 2035 – ex­klu­siv für SHK-Frauen, die ihr Wis­sen ver­tie­fen möchten.",
-      "link": "https://www.sbz-online.de/meldungen/9-september-2026-1630-uhr-online-women-only-praxisnahe-vdi-2035-schulung-fuer-shk-frauen",
-      "date": 1787706007,
-      "dateStr": "26. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1788397430
+  "fetched": 1788418430
 }
