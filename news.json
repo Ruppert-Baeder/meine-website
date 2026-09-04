@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "Neue Wärme­pum­pe: Passende Strom­tarife finden",
+      "excerpt": "Betreiber neuer Wärmepumpen ab 2024 profi­tie­ren von ver­güns­tig­ten Netz­ent­gel­ten. Die Wahl des rich­ti­gen Rabatt-Modells und Tarifs ist ent­scheidend.",
+      "link": "https://www.sbz-online.de/meldungen/energiepreise-neue-waermepumpe-passende-stromtarife-finden",
+      "date": 1788483609,
+      "dateStr": "4. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "KfW-40: Lüf­tungs­tech­nik im en­gen Be­stand",
+      "excerpt": "Ein achtstöckiges Wohnhaus in Leverkusen wurde zum KfW-40-Standard modernisiert – mit einer maßgeschneiderten Lüftungslösung von Kermi.",
+      "link": "https://www.sbz-online.de/meldungen/referenzprojekt-kfw-40-lueftungstechnik-im-engen-bestand",
+      "date": 1788483608,
+      "dateStr": "4. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Förderung"
+    },
+    {
+      "title": "Bad & Body ex­pan­diert: Vier­ter Stand­ort in Os­na­brück er­öff­net",
+      "excerpt": "Bad & Body der MHK Group eröffnet in Osnabrück seinen vierten Showroom – mit Fokus auf Bad­mo­der­ni­sie­rung und pfle­ge­ori­en­tier­te Wohn­raum­an­pas­sun­gen.",
+      "link": "https://www.sbz-online.de/meldungen/franchisesystem-bad-body-expandiert-vierter-standort-osnabrueck-eroeffnet",
+      "date": 1788483607,
+      "dateStr": "4. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
       "title": "Exklusivserie Caluna: GC und Geberit ziehen Bilanz",
       "excerpt": "Die gemeinsam entwickelte Badserie Caluna von GC-Gruppe und Geberit ist seit 2025 auf dem Markt. Die Partner bewerten die Entwicklung seitdem als positiv.",
       "link": "https://www.sbz-online.de/meldungen/badkonzepte-exklusivserie-caluna-gc-und-geberit-ziehen-bilanz",
@@ -153,34 +180,7 @@
       "dateStr": "27. Aug. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Bürokratie und Fach­kräf­te­man­gel brem­sen das Hand­werk",
-      "excerpt": "Eine aktuelle Umfrage zeigt: Fachkräftemangel, Inflation und Bürokratie belasten das Handwerk – dennoch investiert die Branche und profitiert von der Energiewende.",
-      "link": "https://www.sbz-online.de/meldungen/umfrage-buerokratie-und-fachkraeftemangel-bremsen-das-handwerk",
-      "date": 1787792407,
-      "dateStr": "27. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
-    },
-    {
-      "title": "SBZ ruft an bei der VDS: Tag des Bades 2026",
-      "excerpt": "Jens J. Wischmann von der VDS erklärt im SBZ-Podcast, warum der Tag des Bades den SHK-Markt stärkt und Handwerksbetriebe davon profitieren.",
-      "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-bei-der-vds-tag-des-bades-2026",
-      "date": 1787724371,
-      "dateStr": "26. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Fachkräftemangel zieht wieder an",
-      "excerpt": "Im Juli 2026 meldeten 23,2 % der deutschen Unternehmen einen Fachkräftemangel. Dieser Wert liegt über dem vom April, aber weiterhin unter dem langfristigen Durchschnitt.",
-      "link": "https://www.sbz-online.de/meldungen/arbeitsmarkt-fachkraeftemangel-zieht-wieder",
-      "date": 1787706008,
-      "dateStr": "26. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
     }
   ],
-  "fetched": 1788482867
+  "fetched": 1788499945
 }
