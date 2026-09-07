@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Stiebel Eltron: Ein­blick in die Wär­me­pum­pen-Fer­ti­gung",
+      "excerpt": "Stiebel Eltron zeigt in einem neuen Video die Produktion der Luft-Wasser-Wärmepumpe WPL-A Plus an deutschen Standorten.",
+      "link": "https://www.sbz-online.de/meldungen/produktionsvideo-stiebel-eltron-einblick-die-waermepumpen-fertigung",
+      "date": 1788742807,
+      "dateStr": "7. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Rohrschellen für trans­for­mier­ba­re Kunst­in­stal­la­ti­on",
+      "excerpt": "Die Universität für angewandte Kunst Wien nutzt Walraven Rohrschellen, um aus recycelten Fahrradrahmen eine modulare, transformierbare Struktur zu schaffen.",
+      "link": "https://www.sbz-online.de/meldungen/verbindungstechnik-rohrschellen-fuer-transformierbare-kunstinstallation",
+      "date": 1788742806,
+      "dateStr": "7. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
       "title": "2026-Q2: SHK-Geschäftsklima bleibt knapp über der Null",
       "excerpt": "Das SHK-Konjunk­tur­ba­ro­meter ver­bleibt im 2. Quar­tal 2026 auf nie­dri­gem po­si­ti­vem Ni­veau. Der Produkt­be­reich Hei­zung stützt das Ge­schäfts­klima.",
       "link": "https://www.sbz-online.de/meldungen/shk-konjunkturbarometer-2026-q2-shk-geschaeftsklima-bleibt-knapp-ueber-der-null",
@@ -162,25 +180,7 @@
       "dateStr": "28. Aug. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "DEPI: Kostenfaktor bestimmt den Heizungskauf",
-      "excerpt": "Eine Civey-Umfrage des Deutschen Pelletinstituts (DEPI) zeigt, worauf Hausbesitzer beim Heizungskauf achten. Diese Faktoren haben eine Rolle gespielt.",
-      "link": "https://www.sbz-online.de/meldungen/umfrage-depi-kostenfaktor-bestimmt-den-heizungskauf",
-      "date": 1787878807,
-      "dateStr": "28. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Geothermiekongress 2026: For­schung, Praxis und glo­bale Trends",
-      "excerpt": "Der Geothermiekongress 2026 in Potsdam bietet ein um­fang­rei­ches Pro­gramm mit Work­shops, Ex­kur­sio­nen und mehr als 300 Fach­beiträgen.",
-      "link": "https://www.sbz-online.de/meldungen/20-22102026-potsdam-geothermiekongress-2026-forschung-praxis-und-globale-trends",
-      "date": 1787878807,
-      "dateStr": "28. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1788737411
+  "fetched": 1788750371
 }
