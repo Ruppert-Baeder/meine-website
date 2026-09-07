@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Die Dusche ist nur der Anfang",
+      "excerpt": "Eine neue Dusche bietet heute weit mehr als nur zusätzlichen Komfort im Badzimmer. Wer Kundenwünsche früh erkennt, kann die Dusche gezielt als persönliche Erlebniszone planen und dabei Design, Wellness und moderne Techni",
+      "link": "https://www.sbz-online.de/bad/vom-produktverkauf-zur-bedarfsberatung-die-dusche-ist-nur-der-anfang",
+      "date": 1788746407,
+      "dateStr": "7. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
       "title": "Stiebel Eltron: Ein­blick in die Wär­me­pum­pen-Fer­ti­gung",
       "excerpt": "Stiebel Eltron zeigt in einem neuen Video die Produktion der Luft-Wasser-Wärmepumpe WPL-A Plus an deutschen Standorten.",
       "link": "https://www.sbz-online.de/meldungen/produktionsvideo-stiebel-eltron-einblick-die-waermepumpen-fertigung",
@@ -171,16 +180,7 @@
       "dateStr": "31. Aug. 2026",
       "source": "SBZ Monteur",
       "category": "Sanitär"
-    },
-    {
-      "title": "Zehnder: Webinare zu Tempe­rie­rung und Luft­reinigung in Hallen",
-      "excerpt": "Die kostenfreien Zehnder-Webi­nare behan­deln Lösun­gen für das Hei­zen, Küh­len und die Luft­rei­ni­gung in Indus­trie- und Logis­tik­hallen.",
-      "link": "https://www.sbz-online.de/meldungen/weiterbildung-zehnder-webinare-zu-temperierung-und-luftreinigung-hallen",
-      "date": 1787878808,
-      "dateStr": "28. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1788750371
+  "fetched": 1788771441
 }
