@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Bad direkt 2026 präsentiert die Aussteller",
+      "excerpt": "Über 30 Hersteller und Dienst­leis­ter prä­sen­tie­ren ihre Ent­wick­lun­gen auf der dies­jäh­ri­gen SHK-Profi-Messe Bad direkt in Münster und Neumarkt.",
+      "link": "https://www.sbz-online.de/meldungen/branchentreff-bad-direkt-2026-praesentiert-die-aussteller",
+      "date": 1788829207,
+      "dateStr": "8. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
       "title": "Die Dusche ist nur der Anfang",
       "excerpt": "Eine neue Dusche bietet heute weit mehr als nur zusätzlichen Komfort im Badzimmer. Wer Kundenwünsche früh erkennt, kann die Dusche gezielt als persönliche Erlebniszone planen und dabei Design, Wellness und moderne Techni",
       "link": "https://www.sbz-online.de/bad/vom-produktverkauf-zur-bedarfsberatung-die-dusche-ist-nur-der-anfang",
@@ -171,16 +180,7 @@
       "dateStr": "31. Aug. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Dornbracht legt Shower­book 2026 neu auf",
-      "excerpt": "Der Armaturenhersteller Dornbracht hat sein Showerbook 2026 neu aufgelegt. Die Broschüre bietet eine umfassende Planungshilfe für Duschanwendungen in Bädern und Spas.",
-      "link": "https://www.sbz-online.de/meldungen/planungshilfe-dornbracht-legt-showerbook-2026-neu-auf",
-      "date": 1788138007,
-      "dateStr": "31. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
     }
   ],
-  "fetched": 1788828895
+  "fetched": 1788845872
 }
