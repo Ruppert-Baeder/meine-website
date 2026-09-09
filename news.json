@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Jedes fünfte Nutzfahrzeug fällt bei Hauptuntersuchung durch",
+      "excerpt": "Mehr als 20 Prozent der Nutzfahrzeuge bestehen die Hauptuntersuchung nicht. Schwere Lkw führen die Mängelstatistik an. Bei Elektro-Transportern streuen die Ergebnisse stark.",
+      "link": "https://www.sbz-online.de/meldungen/tuev-report-jedes-fuenfte-nutzfahrzeug-faellt-bei-hauptuntersuchung-durch",
+      "date": 1788945330,
+      "dateStr": "9. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "#CONNECTINGHEAT 2026: Fach­fo­rum für SHK-Hand­werk",
       "excerpt": "Die #CONNECTINGHEAT 2026 startet erstmals mit einem dedizierten Fachforum für SHK-Profis – mit Themen wie der neuen BEG-Förderung und der Installation von Wärmepumpen.",
       "link": "https://www.sbz-online.de/meldungen/14-15-oktober-2026-berlin-connectingheat-2026-fachforum-fuer-shk-handwerk",
@@ -171,16 +180,7 @@
       "dateStr": "1. Sep. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Rechte, Pflichten und Chan­cen für Azubis im Spät­einstieg",
-      "excerpt": "Azubis haben klare Rechte und Pflich­ten – auch beim spä­ten Ein­stieg. Ex­per­ten er­klä­ren, worauf zu ach­ten ist.",
-      "link": "https://www.sbz-online.de/meldungen/nachwuchskraefte-rechte-pflichten-und-chancen-fuer-azubis-im-spaeteinstieg",
-      "date": 1788224407,
-      "dateStr": "1. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1788943206
+  "fetched": 1788960370
 }
