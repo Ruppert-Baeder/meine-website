@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "#CONNECTINGHEAT 2026: Fach­fo­rum für SHK-Hand­werk",
+      "excerpt": "Die #CONNECTINGHEAT 2026 startet erstmals mit einem dedizierten Fachforum für SHK-Profis – mit Themen wie der neuen BEG-Förderung und der Installation von Wärmepumpen.",
+      "link": "https://www.sbz-online.de/meldungen/14-15-oktober-2026-berlin-connectingheat-2026-fachforum-fuer-shk-handwerk",
+      "date": 1788915607,
+      "dateStr": "9. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Systeme für SHK-Profis: blei­frei, far­ben­froh, ver­netzt",
+      "excerpt": "Modulare Lüftungsgeräte, Bad­möbel­serie mit 44 Farb­tönen, 90°-Winkel für Verbund­rohr­systeme, Aufklemm­sensor, Mehr­pumpen­steuerung mit Touch-Display.",
+      "link": "https://www.sbz-online.de/meldungen/abgesteckt-systeme-fuer-shk-profis-bleifrei-farbenfroh-vernetzt",
+      "date": 1788915606,
+      "dateStr": "9. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
       "title": "Bad direkt 2026 präsentiert die Aussteller",
       "excerpt": "Über 30 Hersteller und Dienst­leis­ter prä­sen­tie­ren ihre Ent­wick­lun­gen auf der dies­jäh­ri­gen SHK-Profi-Messe Bad direkt in Münster und Neumarkt.",
       "link": "https://www.sbz-online.de/meldungen/branchentreff-bad-direkt-2026-praesentiert-die-aussteller",
@@ -162,25 +180,7 @@
       "dateStr": "1. Sep. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Universal Design: Den Waschplatz ganz­heit­lich planen",
-      "excerpt": "Universal Design beginnt bei der Raum­auf­tei­lung: Am Waschplatz im barriere­freien Bad sind Bewe­gungs­flä­chen und fle­xible Lösun­gen ent­scheidend.",
-      "link": "https://www.sbz-online.de/meldungen/badplanung-universal-design-den-waschplatz-ganzheitlich-planen",
-      "date": 1788224407,
-      "dateStr": "1. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
-      "title": "„Grün zu Grün“: Volle BEG-Förderung nur noch 2026",
-      "excerpt": "Wer 2026 eine Heizung auf Basis erneuerbarer Energien austauscht, sichert sich noch die aktuellen Förderkonditionen – ab 2027 werden diese deutlich eingeschränkt.",
-      "link": "https://www.sbz-online.de/meldungen/heizungsfoerderung-gruen-zu-gruen-volle-beg-foerderung-nur-noch-2026",
-      "date": 1788138008,
-      "dateStr": "31. Aug. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1788911460
+  "fetched": 1788923867
 }
