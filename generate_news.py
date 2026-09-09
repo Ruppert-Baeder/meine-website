@@ -13,7 +13,7 @@ from xml.etree import ElementTree as ET
 
 FEEDS = [
     {"url": "https://www.sbz-online.de/rss_feed/sbz-rss-feed-meldungen", "source": "SBZ Monteur"},
-    {"url": "https://www.shk-journal.de/news/rss.xml",                    "source": "SHK Journal"},
+    {"url": "https://www.shk-journal.de/news/index/rss.feed",             "source": "SHK Journal"},
 ]
 
 # Unicode-Varianten fuer deutsche Umlaute im Regex
