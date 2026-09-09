@@ -235,55 +235,8 @@
                     <a href="https://www.shk-journal.de" target="_blank" rel="noopener noreferrer" class="source-badge">SHK Journal</a>
                 </div>
             </div>
-            <div class="news-grid">
-                <div class="news-card">
-                    <div class="news-card-header">
-                        <div class="news-card-meta">
-                            <span class="news-badge">Heizung</span>
-                            <span class="news-date">📅 20. Mär. 2026</span>
-                        </div>
-                        <h3>Neue Energiestandards für Heizungsanlagen ab 2026</h3>
-                    </div>
-                    <div class="news-card-body">
-                        <p class="news-excerpt">Die neuen EU-Richtlinien für Energieeffizienz setzen höhere Standards für moderne Heizungsanlagen. Erfahren Sie mehr über die Anforderungen und was das für Hausbesitzer bedeutet.</p>
-                        <div class="news-card-footer">
-                            <span class="news-source">SBZ Online</span>
-                            <a href="https://www.sbz-online.de" target="_blank" rel="noopener noreferrer" class="news-link">Mehr lesen ↗</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="news-card">
-                    <div class="news-card-header">
-                        <div class="news-card-meta">
-                            <span class="news-badge">Sanitär</span>
-                            <span class="news-date">📅 18. Mär. 2026</span>
-                        </div>
-                        <h3>Trinkwasserhygiene: Aktuelle Entwicklungen und Anforderungen</h3>
-                    </div>
-                    <div class="news-card-body">
-                        <p class="news-excerpt">Neue Erkenntnisse zur Legionellenprävention und was Sanitärfachbetriebe beachten müssen, um die Trinkwasserqualität langfristig zu sichern.</p>
-                        <div class="news-card-footer">
-                            <span class="news-source">SHK Journal</span>
-                            <a href="https://www.shk-journal.de" target="_blank" rel="noopener noreferrer" class="news-link">Mehr lesen ↗</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="news-card">
-                    <div class="news-card-header">
-                        <div class="news-card-meta">
-                            <span class="news-badge">Förderung</span>
-                            <span class="news-date">📅 10. Mär. 2026</span>
-                        </div>
-                        <h3>Förderprogramme 2026: Was gibt es Neues?</h3>
-                    </div>
-                    <div class="news-card-body">
-                        <p class="news-excerpt">Übersicht über aktuelle Fördermöglichkeiten für energieeffiziente Heizungs- und Sanitäranlagen – BAFA, KfW und weitere Programme im Überblick.</p>
-                        <div class="news-card-footer">
-                            <span class="news-source">SBZ Online</span>
-                            <a href="https://www.sbz-online.de" target="_blank" rel="noopener noreferrer" class="news-link">Mehr lesen ↗</a>
-                        </div>
-                    </div>
-                </div>
+            <div class="news-grid" id="homeNewsGrid">
+                <!-- wird per JS aus news.json befüllt -->
             </div>
             <div class="news-footer-note">
                 <p>News aus der SHK-Branche von <a href="https://www.sbz-online.de" target="_blank" rel="noopener noreferrer">SBZ Online</a> und <a href="https://www.shk-journal.de" target="_blank" rel="noopener noreferrer">SHK Journal</a> &nbsp;·&nbsp; <a href="branchennews.html">Alle News ansehen →</a></p>
@@ -421,5 +374,50 @@
     </footer>
 
     <script src="js/script.js"></script>
+    <script>
+    (function () {
+        // Zeigt die 3 neuesten Artikel aus news.json (gleiche Quelle wie branchennews.html)
+        const grid = document.getElementById('homeNewsGrid');
+
+        function escHtml(str) {
+            return String(str ?? '')
+                .replace(/&/g, '&amp;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;')
+                .replace(/"/g, '&quot;');
+        }
+
+        function cardHTML(a) {
+            return `
+            <div class="news-card">
+                <div class="news-card-header">
+                    <div class="news-card-meta">
+                        <span class="news-badge">${escHtml(a.category)}</span>
+                        <span class="news-date">📅 ${escHtml(a.dateStr)}</span>
+                    </div>
+                    <h3>${escHtml(a.title)}</h3>
+                </div>
+                <div class="news-card-body">
+                    <p class="news-excerpt">${escHtml(a.excerpt)}</p>
+                    <div class="news-card-footer">
+                        <span class="news-source">${escHtml(a.source)}</span>
+                        <a href="${escHtml(a.link)}" target="_blank" rel="noopener noreferrer" class="news-link">Mehr lesen ↗</a>
+                    </div>
+                </div>
+            </div>`;
+        }
+
+        fetch('news.json')
+            .then(r => r.ok ? r.json() : Promise.reject('HTTP ' + r.status))
+            .then(data => {
+                const articles = (data.articles || []).slice(0, 3);
+                if (!articles.length) return;
+                grid.innerHTML = articles.map(cardHTML).join('');
+            })
+            .catch(() => {
+                grid.innerHTML = '<div class="news-error"><p>News konnten nicht geladen werden. Besuchen Sie <a href="https://www.sbz-online.de" target="_blank" rel="noopener noreferrer">SBZ Online</a> oder <a href="https://www.shk-journal.de" target="_blank" rel="noopener noreferrer">SHK Journal</a> direkt.</p></div>';
+            });
+    })();
+    </script>
 </body>
 </html>
