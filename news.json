@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Personelle Veränderungen in der SHK-Branche",
+      "excerpt": "Neue Gesichter und Positionen bei Link3, der Agentur für Erneuerbare Energien (AEE), Kemper und Walraven.",
+      "link": "https://www.sbz-online.de/meldungen/personalien-personelle-veraenderungen-der-shk-branche-34",
+      "date": 1789002007,
+      "dateStr": "10. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Jedes fünfte Nutzfahrzeug fällt bei Hauptuntersuchung durch",
       "excerpt": "Mehr als 20 Prozent der Nutzfahrzeuge bestehen die Hauptuntersuchung nicht. Schwere Lkw führen die Mängelstatistik an. Bei Elektro-Transportern streuen die Ergebnisse stark.",
       "link": "https://www.sbz-online.de/meldungen/tuev-report-jedes-fuenfte-nutzfahrzeug-faellt-bei-hauptuntersuchung-durch",
@@ -171,16 +180,7 @@
       "dateStr": "1. Sep. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Investitions­be­reit­schaft in En­er­gie­wen­de steigt deut­lich",
-      "excerpt": "Laut dem KfW-Energiewendebarometer wollen 66 % der deutschen Haushalte in den Klimaschutz investieren – ein deutlicher Anstieg gegenüber dem Vorjahr.",
-      "link": "https://www.sbz-online.de/meldungen/kfw-research-investitionsbereitschaft-energiewende-steigt-deutlich",
-      "date": 1788224408,
-      "dateStr": "1. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1788985733
+  "fetched": 1789017688
 }
