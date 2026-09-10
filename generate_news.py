@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 """
 Fetcht SBZ + SHK-Journal RSS-Feeds und schreibt DeployNow/news.json
-Laeuft als GitHub Actions Cron-Job (stuendlich)
+Laeuft als GitHub Actions Cron-Job (taeglich)
 """
 
 import json
 import re
+import time
 import urllib.request
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
@@ -51,8 +52,20 @@ def fetch_feed(feed: dict) -> list:
     )
     ctx = urllib.request.ssl.create_default_context()
 
-    with urllib.request.urlopen(req, timeout=15, context=ctx) as r:
-        root = ET.fromstring(r.read())
+    last_error = None
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(req, timeout=15, context=ctx) as r:
+                root = ET.fromstring(r.read())
+            break
+        except urllib.error.HTTPError as e:
+            last_error = e
+            if e.code == 429 and attempt < 2:
+                time.sleep(5 * (attempt + 1))
+                continue
+            raise
+    else:
+        raise last_error
 
     articles = []
     for item in root.findall(".//item"):
