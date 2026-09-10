@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "NORDWEST: Impulsgeber, Beziehungsmagnet, Zukunftswerkstatt",
+      "excerpt": "Erfolgreiche Premiere der NORDWEST Marketing Communication Days",
+      "link": "https://www.shk-journal.de//news/nordwest-impulsgeber-beziehungsmagnet-zukunftswerkstatt.html",
+      "date": 1789029517,
+      "dateStr": "10. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "Grünbeck präsentiert mobilen Wasseraufbereitungscontainer für den Einsatz in Kibera (Nairobi)",
+      "excerpt": "YUNOMI verbindet Wasser, Kultur und Verantwortung",
+      "link": "https://www.shk-journal.de//news/gruenbeck-praesentiert-mobilen-wasseraufbereitungscontainer-fuer-den-einsatz-in-kibera-nairobi.html",
+      "date": 1789027800,
+      "dateStr": "10. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Sanitär"
+    },
+    {
+      "title": "DESTATIS: Umsatz im zulassungspflichtigen Handwerk im 2. Quartal 2026: -1,4 % zum Vorjahresquartal",
+      "excerpt": "1,9 % weniger Beschäftigte Ende Juni 2026 im Vergleich zum Vorjahreszeitpunkt",
+      "link": "https://www.shk-journal.de//news/destatis-umsatz-im-zulassungspflichtigen-handwerk-im-2-quartal-2026-14-zum-vorjahresquartal.html",
+      "date": 1789022247,
+      "dateStr": "10. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Branche"
+    },
+    {
       "title": "Personelle Veränderungen in der SHK-Branche",
       "excerpt": "Neue Gesichter und Positionen bei Link3, der Agentur für Erneuerbare Energien (AEE), Kemper und Walraven.",
       "link": "https://www.sbz-online.de/meldungen/personalien-personelle-veraenderungen-der-shk-branche-34",
@@ -162,33 +189,6 @@
       "dateStr": "9. Sep. 2026",
       "source": "SHK Journal",
       "category": "Branche"
-    },
-    {
-      "title": "7.-10. Dezember 2026: Werde Sachkundiger für Wärmepumpensysteme – 4-Tage-Schulung",
-      "excerpt": "Mit DOYMA und dem Referenten Lars Keller können Sie in 4 Tagen Sachkundiger für Wärmepumpensysteme...",
-      "link": "https://www.shk-journal.de//news/7-10-dezember-2026-werde-sachkundiger-fuer-waermepumpensysteme-4-tage-schulung.html",
-      "date": 1788982020,
-      "dateStr": "9. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "HARGASSNER sucht SERVICE-TECHNIKER in Bayern",
-      "excerpt": "KARRIERE ALS #HEIZHERO (m/w/d). Wahlweise folgende Einsatzorte in Bayern: Eichstätt / Neuburg...",
-      "link": "https://www.shk-journal.de//news/default-9491b8cd56-1.html",
-      "date": 1788981960,
-      "dateStr": "9. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Komfort mit besonderem Design – Kupa von Schröder Wannentechnik",
-      "excerpt": "Eine einladende Badewanne kann zum Mittelpunkt eines Badezimmers werden. Badewannen aus der Serie...",
-      "link": "https://www.shk-journal.de//news/komfort-mit-besonderem-design-kupa-von-schroeder-wannentechnik.html",
-      "date": 1788981900,
-      "dateStr": "9. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Sanitär"
     },
     {
       "title": "Jedes fünfte Nutzfahrzeug fällt bei Hauptuntersuchung durch",
@@ -362,5 +362,5 @@
       "category": "Heizung"
     }
   ],
-  "fetched": 1789018568
+  "fetched": 1789031883
 }
