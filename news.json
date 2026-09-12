@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "Dornbracht: Olaf Hoppe übernimmt Geschäftsführung",
+      "excerpt": "Die Dornbracht GmbH &amp; Co. KG gibt die Ernennung von Olaf Hoppe zum Geschäftsführer bekannt. Nach...",
+      "link": "https://www.shk-journal.de//news/dornbracht-olaf-hoppe-uebernimmt-geschaeftsfuehrung.html",
+      "date": 1789415100,
+      "dateStr": "14. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "VDMA Positionspapier: Förderung muss das Gebäude ganzheitlich betrachten",
+      "excerpt": "Neubau, Sanierung und Wärmeinfrastruktur gehören zusammen. Förderung muss ganzheitlich,...",
+      "link": "https://www.shk-journal.de//news/default-b930ef16c7.html",
+      "date": 1789166400,
+      "dateStr": "12. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "„Ins Machen kommen“: #CONNECTINGHEAT 2026 startet mit eigenem Fachforum für das SHK-Handwerk",
+      "excerpt": "Am 14. Oktober stehen Förderung, Wärmepumpen, Energieeffizienz und Wohnungslüftung im...",
+      "link": "https://www.shk-journal.de//news/default-70c8b49952.html",
+      "date": 1789166280,
+      "dateStr": "12. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
       "title": "Gemeinsam stark: REMKO als Top-Sponsor der HSG Blomberg Lippe",
       "excerpt": "Seit August 2026 stärkt REMKO als Top-Sponsor den HSG Blomberg Lippe. Der amtierende Deutsche...",
       "link": "https://www.shk-journal.de//news/gemeinsam-stark-remko-als-top-sponsor-der-hsg-blomberg-lippe.html",
@@ -153,33 +180,6 @@
       "dateStr": "11. Sep. 2026",
       "source": "SHK Journal",
       "category": "Branche"
-    },
-    {
-      "title": "Neue Trinkwasseranforderungen ab 2028 verstehen, das Resideo-Werk erleben und Ihren eigenen D06F Druckminderer montieren.",
-      "excerpt": "Weiterbildung am 7.10.2026 von Ihrem Großhandel organisiert!",
-      "link": "https://www.shk-journal.de//news/neue-trinkwasseranforderungen-ab-2028-verstehen-das-resideo-werk-erleben-und-ihren-eigenen-d06f-druckminderer-montieren.html",
-      "date": 1789153980,
-      "dateStr": "11. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Fröling sucht Gebietsleiter (m/w) für den Großraum Karlsruhe – Trier – Mainz (PLZ 55…, 66…, 67…)",
-      "excerpt": "Fröling ist einer der führenden europäischen Hersteller innovativer und umweltfreundlicher...",
-      "link": "https://www.shk-journal.de//news/froeling-sucht-2-1.html",
-      "date": 1789153380,
-      "dateStr": "11. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Milwaukee: Für sichere Verbindungen",
-      "excerpt": "Kompakt und kraftvoll – das Akku-Presswerkzeug M12 ONEHPT von Milwaukee",
-      "link": "https://www.shk-journal.de//news/milwaukee-fuer-sichere-verbindungen-2.html",
-      "date": 1789153260,
-      "dateStr": "11. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
     },
     {
       "title": "PV-Installation: Neu gefasste Vereinbarung stärkt Zusammenarbeit",
@@ -362,5 +362,5 @@
       "category": "Branche"
     }
   ],
-  "fetched": 1789118220
+  "fetched": 1789203421
 }
