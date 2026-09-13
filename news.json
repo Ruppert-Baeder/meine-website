@@ -11,6 +11,24 @@
       "category": "Heizung"
     },
     {
+      "title": "Die GET NORD 2026 zeigt Trends für Komfort und Gesundheit",
+      "excerpt": "Moderne Bäder für alle Generationen",
+      "link": "https://www.shk-journal.de//news/default-9346518026.html",
+      "date": 1789252920,
+      "dateStr": "13. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Aktuell"
+    },
+    {
+      "title": "SHK-Konjunkturbarometer: Branche auch im 2. Quartal im Plus",
+      "excerpt": "Installation und Industrie bewerten die Konjunktur positiv, beim Großhandel zeigt sich eine...",
+      "link": "https://www.shk-journal.de//news/default-7f496d0fb3.html",
+      "date": 1789251540,
+      "dateStr": "13. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Aktuell"
+    },
+    {
       "title": "VDMA Positionspapier: Förderung muss das Gebäude ganzheitlich betrachten",
       "excerpt": "Neubau, Sanierung und Wärmeinfrastruktur gehören zusammen. Förderung muss ganzheitlich,...",
       "link": "https://www.shk-journal.de//news/default-b930ef16c7.html",
@@ -162,24 +180,6 @@
       "dateStr": "11. Sep. 2026",
       "source": "SHK Journal",
       "category": "Heizung"
-    },
-    {
-      "title": "Kermi Raumklima: Ausgezeichnete Qualität: KEYMARK",
-      "excerpt": "Die Trinkwasserwärmepumpe x-change aqua eco in den Leistungsgrößen L und XL ist mit dem europaweit...",
-      "link": "https://www.shk-journal.de//news/ausgezeichnete-qualitaet-keymark.html",
-      "date": 1789154100,
-      "dateStr": "11. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "interdomus Haustechnik Cheftage setzen Impulse für die Zukunft des SHK-Handwerks",
-      "excerpt": "Unternehmerentwicklung, Mitarbeiterbindung und starke Netzwerke prägen die Cheftage 2026",
-      "link": "https://www.shk-journal.de//news/interdomus-haustechnik-cheftage-setzen-impulse-fuer-die-zukunft-des-shk-handwerks.html",
-      "date": 1789154040,
-      "dateStr": "11. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Branche"
     },
     {
       "title": "PV-Installation: Neu gefasste Vereinbarung stärkt Zusammenarbeit",
@@ -362,5 +362,5 @@
       "category": "Branche"
     }
   ],
-  "fetched": 1789203421
+  "fetched": 1789293243
 }
