@@ -2,183 +2,39 @@
   "ok": true,
   "articles": [
     {
-      "title": "Dornbracht: Olaf Hoppe übernimmt Geschäftsführung",
-      "excerpt": "Die Dornbracht GmbH &amp; Co. KG gibt die Ernennung von Olaf Hoppe zum Geschäftsführer bekannt. Nach...",
-      "link": "https://www.shk-journal.de//news/dornbracht-olaf-hoppe-uebernimmt-geschaeftsfuehrung.html",
-      "date": 1789415100,
+      "title": "Kaldewei und DAE be­leuch­ten Zir­ku­la­ri­tät im Bad",
+      "excerpt": "Acht Masterprojekte zur Kreislaufkultur im Bad: Kaldewei und die Design Academy Eindhoven präsentieren die Ausstellung „Behind Closed Doors“ im Kaldewei Brand Space Berlin.",
+      "link": "https://www.sbz-online.de/meldungen/baddesign-kaldewei-und-dae-beleuchten-zirkularitaet-im-bad",
+      "date": 1789366030,
       "dateStr": "14. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Die GET NORD 2026 zeigt Trends für Komfort und Gesundheit",
-      "excerpt": "Moderne Bäder für alle Generationen",
-      "link": "https://www.shk-journal.de//news/default-9346518026.html",
-      "date": 1789252920,
-      "dateStr": "13. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "SHK-Konjunkturbarometer: Branche auch im 2. Quartal im Plus",
-      "excerpt": "Installation und Industrie bewerten die Konjunktur positiv, beim Großhandel zeigt sich eine...",
-      "link": "https://www.shk-journal.de//news/default-7f496d0fb3.html",
-      "date": 1789251540,
-      "dateStr": "13. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "VDMA Positionspapier: Förderung muss das Gebäude ganzheitlich betrachten",
-      "excerpt": "Neubau, Sanierung und Wärmeinfrastruktur gehören zusammen. Förderung muss ganzheitlich,...",
-      "link": "https://www.shk-journal.de//news/default-b930ef16c7.html",
-      "date": 1789166400,
-      "dateStr": "12. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "„Ins Machen kommen“: #CONNECTINGHEAT 2026 startet mit eigenem Fachforum für das SHK-Handwerk",
-      "excerpt": "Am 14. Oktober stehen Förderung, Wärmepumpen, Energieeffizienz und Wohnungslüftung im...",
-      "link": "https://www.shk-journal.de//news/default-70c8b49952.html",
-      "date": 1789166280,
-      "dateStr": "12. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Gemeinsam stark: REMKO als Top-Sponsor der HSG Blomberg Lippe",
-      "excerpt": "Seit August 2026 stärkt REMKO als Top-Sponsor den HSG Blomberg Lippe. Der amtierende Deutsche...",
-      "link": "https://www.shk-journal.de//news/gemeinsam-stark-remko-als-top-sponsor-der-hsg-blomberg-lippe.html",
-      "date": 1789155000,
-      "dateStr": "11. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Hargassner ist Deutschlands Nr. 1 bei Biomasse-Heiztechnik",
-      "excerpt": "Spitzenplatz in der FOCUS-MONEY-Studie „Deutschlands Beste – Rund ums Haus 2026. Hargassner...",
-      "link": "https://www.shk-journal.de//news/default-d698b63f70.html",
-      "date": 1789154940,
-      "dateStr": "11. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "ACO TouchControl: die neue Generation der Fettabscheidersteuerung",
-      "excerpt": "Der Betrieb von Fettabscheidern erfordert eine effiziente Entsorgung und Reinigung sowie eine...",
-      "link": "https://www.shk-journal.de//news/default-58a8b99605.html",
-      "date": 1789154880,
-      "dateStr": "11. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "autarc startet Kl-gestützte Verteilerkastenanalyse für PV, Wärmepumpe und Wallbox",
-      "excerpt": "Die Berliner Software-Plattform autarc erweitert ihr Angebot um eine KI-gestützte...",
-      "link": "https://www.shk-journal.de//news/autarc-startet-kl-gestuetzte-verteilerkastenanalyse-fuer-pv-waermepumpe-und-wallbox.html",
-      "date": 1789154820,
-      "dateStr": "11. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "HSK präsentiert: Die neue Duschkabinenserie Vinya",
-      "excerpt": "Elegante Leichtigkeit dank raffinierter Klebescharniere",
-      "link": "https://www.shk-journal.de//news/default-40da77f43c.html",
-      "date": 1789154760,
-      "dateStr": "11. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "WDV Molliné: Kombi-Eckventilzähler – ohne Eingriff ins Rohrleitungssystem",
-      "excerpt": "Die Waschtisch- und Zapfhahnzähler sind das dauerhafte und wirtschaftliche Lösungsangebot zum...",
-      "link": "https://www.shk-journal.de//news/default-8fbd606469.html",
-      "date": 1789154700,
-      "dateStr": "11. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "So geht maximale Flexibilität für den unterirdischen Wärmepumpenanschluss",
-      "excerpt": "Die DOYMAfix® Connect HP Flex bietet Ihnen neue Möglichkeiten und mehr Flexibilität für den...",
-      "link": "https://www.shk-journal.de//news/so-geht-maximale-flexibilitaet-fuer-den-unterirdischen-waermepumpenanschluss.html",
-      "date": 1789154640,
-      "dateStr": "11. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Uneingeschränktes Badevergnügen dank leichtem Einstieg – Badewannen mit Tür von Schröder Wannentechnik",
-      "excerpt": "Mit zunehmendem Alter oder bei eingeschränkter Beweglichkeit kann der Einstieg in eine herkömmliche...",
-      "link": "https://www.shk-journal.de//news/uneingeschraenktes-badevergnuegen-dank-leichtem-einstieg-badewannen-mit-tuer-von-schroeder-wannentechnik.html",
-      "date": 1789154580,
-      "dateStr": "11. Sep. 2026",
-      "source": "SHK Journal",
+      "source": "SBZ Monteur",
       "category": "Sanitär"
     },
     {
-      "title": "Mehr Aufträge trotz ausgelasteter Montagekapazitäten: Wie Vorfertigung zusätzliche Spielräume schaffen kann",
-      "excerpt": "Vorgefertigte Komponenten reduzieren den Arbeitsaufwand auf der Baustelle. Dadurch kann das...",
-      "link": "https://www.shk-journal.de//news/default-5340911100-1.html",
-      "date": 1789154520,
-      "dateStr": "11. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
+      "title": "SYSTEMBAD STATT STÜCKWERK - LAUFEN PRO X VEREINFACHT BERATUNG UND MONTAGE",
+      "excerpt": "Im SHK-Alltag entscheidet sich die Qualität einer Badserie nicht nur am Produkt, sondern auch daran, ob Beratung, Planung und Installation reibungslos verlaufen. Genau hier setzt LAUFEN PRO X an: als durchgängige Badkoll",
+      "link": "https://www.sbz-online.de/badserien-laufen/systembad-statt-stueckwerk-laufen-pro-x-vereinfacht-beratung-und-montage",
+      "date": 1789351204,
+      "dateStr": "14. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
     },
     {
-      "title": "Artweger: NEU - ARTFLOOR – verstärkte Acryl-Duschwannen für einfachste Montage",
-      "excerpt": "Anstelle von herkömmlichen Duschwannen besteht das neue Artweger Duschwannen-Sortiment aus...",
-      "link": "https://www.shk-journal.de//news/default-e862d267c6.html",
-      "date": 1789154460,
-      "dateStr": "11. Sep. 2026",
-      "source": "SHK Journal",
+      "title": "TGA-In­stal­la­ti­ons­wän­de op­ti­mie­ren Brand- und Schall­schutz",
+      "excerpt": "Vorgefertigte TGA-Installationstrennwände optimierten bei der Sanierung und Aufstockung eines Studierendenwohnheims in Passau Brand- und Schallschutz sowie Sanitärinstallation.",
+      "link": "https://www.sbz-online.de/meldungen/referenzprojekt-tga-installationswaende-optimieren-brand-und-schallschutz",
+      "date": 1789347607,
+      "dateStr": "14. Sep. 2026",
+      "source": "SBZ Monteur",
       "category": "Sanitär"
     },
     {
-      "title": "GEO: Duschlösungen mit Faltwand aus der Serie maw flex",
-      "excerpt": "Die Duschkabinen Serie maw flex liefert beste Qualität made in Germany und eine große...",
-      "link": "https://www.shk-journal.de//news/geo-duschloesungen-mit-faltwand-aus-der-serie-maw-flex-8-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1.html",
-      "date": 1789154400,
-      "dateStr": "11. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "RADAWAY: Besondere Walk-in Lösungen von Radaway - Wenn die Rundung zum Design wird",
-      "excerpt": "Walk-in Duschabtrennungen gehören seit Jahren zu den beliebtesten Lösungen im modernen Bad.",
-      "link": "https://www.shk-journal.de//news/default-5dd774107a.html",
-      "date": 1789154340,
-      "dateStr": "11. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Sanitär"
-    },
-    {
-      "title": "KALDEWEI: Sicherer Stand und fester Halt im Bad",
-      "excerpt": "Rutschhemmende Emaille-Oberflächen von Kaldewei",
-      "link": "https://www.shk-journal.de//news/kaldewei-sicherer-stand-und-fester-halt-im-bad.html",
-      "date": 1789154280,
-      "dateStr": "11. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Pentair Jung Pumpen optimiert bewährte U5-Schmutzwasserpumpe",
-      "excerpt": "Verbesserte Details für mehr Praxisnutzen",
-      "link": "https://www.shk-journal.de//news/pentair-jung-pumpen-optimiert-bewaehrte-u5-schmutzwasserpumpe.html",
-      "date": 1789154220,
-      "dateStr": "11. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Sanitär"
-    },
-    {
-      "title": "ÖkoFEN: Jetzt Wärmepumpen-Experte oder Pellet-Profi werden",
-      "excerpt": "Sichern Sie sich die restlichen freien Plätze der ÖkoFEN Schulungen in der Deutschlandzentrale...",
-      "link": "https://www.shk-journal.de//news/oekofen-jetzt-waermepumpen-experte-oder-pellet-profi-werden.html",
-      "date": 1789154160,
-      "dateStr": "11. Sep. 2026",
-      "source": "SHK Journal",
+      "title": "VDI 4646: Groß­wär­me­pum­pen in In­dus­trie und Quar­tie­ren",
+      "excerpt": "Im Mai 2026 erschien die VDI 4646 zur Anwendung von Großwärmepumpen – ein Leitfaden für Planer von Anlagen ab 100 KW in Gewerbe, Industrie und Wärmeversorgung.",
+      "link": "https://www.sbz-online.de/meldungen/leitfaden-vdi-4646-grosswaermepumpen-industrie-und-quartieren",
+      "date": 1789347607,
+      "dateStr": "14. Sep. 2026",
+      "source": "SBZ Monteur",
       "category": "Heizung"
     },
     {
@@ -324,43 +180,7 @@
       "dateStr": "3. Sep. 2026",
       "source": "SBZ Monteur",
       "category": "Sanitär"
-    },
-    {
-      "title": "BDR Thermea einigt sich bei Re­struk­tu­rie­rung",
-      "excerpt": "BDR Thermea Deutschland und der Konzernbetriebsrat haben sich auf einen Interessenausgleich und Sozialplan geeinigt.",
-      "link": "https://www.sbz-online.de/meldungen/unternehmensfuehrung-bdr-thermea-einigt-sich-bei-restrukturierung",
-      "date": 1788310809,
-      "dateStr": "2. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
-    },
-    {
-      "title": "Personelle Veränderungen in der SHK-Branche",
-      "excerpt": "Neue Rollen und Neubesetzungen bei Ariston, Aalberts, Kermi, Hansgrohe und Wolf.",
-      "link": "https://www.sbz-online.de/meldungen/personalie-personelle-veraenderungen-der-shk-branche",
-      "date": 1788310808,
-      "dateStr": "2. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "SBZ ruft an beim neuen Geberit-Campus",
-      "excerpt": "Im SBZ-Podcast gibt Thomas Steindl, Vertriebsleiter Ausstellung und Design, Einblicke in die moderne Badgestaltung am neuen Geberit-Campus in Pfullendorf.",
-      "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-beim-neuen-geberit-campus",
-      "date": 1788310807,
-      "dateStr": "2. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Interview: Warum wird das Fach­hand­werk jetzt an­ge­sprochen?",
-      "excerpt": "Die #CONNECTINGHEAT 2026 wendet sich erst­ma­lig mit einem Fach­kong­ress an SHK-Betriebe. Dennis Jäger befragt dazu Frederic Leers vom BDH.",
-      "link": "https://www.sbz-online.de/meldungen/waermewende-im-handwerk-interview-warum-wird-das-fachhandwerk-jetzt-angesprochen",
-      "date": 1788236752,
-      "dateStr": "1. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
     }
   ],
-  "fetched": 1789293243
+  "fetched": 1789380827
 }
