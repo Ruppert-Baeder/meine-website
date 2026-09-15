@@ -2,6 +2,213 @@
   "ok": true,
   "articles": [
     {
+      "title": "aquatherm: Trinkwasserhygiene - Worauf es in Gebäudeinstallationen ankommt",
+      "excerpt": "Trinkwasserhygiene ist ein zentrales Thema in der Gebäudeinstallation.",
+      "link": "https://www.shk-journal.de//news/trinkwasserhygiene-worauf-es-in-gebaeudeinstallationen-ankommt.html",
+      "date": 1789456620,
+      "dateStr": "15. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Zahlt die KfW die Heizungsförderung erst ab Januar 2027 aus?",
+      "excerpt": "Seit dem 21. Juli 2026 gelten neue Regeln für die Heizungsförderung. Fließt Geld erst ab Januar 2027? Die KfW bezieht Stellung.",
+      "link": "https://www.sbz-online.de/meldungen/statement-zur-heizungsfoerderung-zahlt-die-kfw-die-heizungsfoerderung-erst-ab-januar-2027",
+      "date": 1789434008,
+      "dateStr": "15. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Kostenlose 3D-Bad­pla­nung zum „Tag des Bades“",
+      "excerpt": "Zum „Tag des Bades“ des VDS am 19. September 2026 bietet Villeroy & Boch eine kostenfreie Video-Badplanung mit fotorealistischem 3D-Rendering an.",
+      "link": "https://www.sbz-online.de/meldungen/video-beratung-kostenlose-3d-badplanung-zum-tag-des-bades",
+      "date": 1789434007,
+      "dateStr": "15. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Systemair glie­dert Deutsch­land-Ver­trieb aus",
+      "excerpt": "Systemair gliedert den deutschen Vertrieb in die neu gegründete Systemair Deutschland GmbH aus; die bisherige Systemair GmbH fokussiert sich auf Produktion, Entwicklung und Export.",
+      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-systemair-gliedert-deutschland-vertrieb-aus",
+      "date": 1789434007,
+      "dateStr": "15. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Die Zukunft der Heiztechnik zeigt Caleffi zur GET Nord",
+      "excerpt": "Vom 19. bis 21. November stellt die GET Nord erneut die Vielfalt der Elektro-, Sanitär-, Heizungs-...",
+      "link": "https://www.shk-journal.de//news/default-12c61dd799.html",
+      "date": 1789426740,
+      "dateStr": "15. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "DRAG'EAU – die nachhaltige Kalkschutzarmatur zur Behandlung von Sanitärinstallationen",
+      "excerpt": "Warum sollte eine Kalkschutzarmatur an Ihren Installationen installiert werden ?",
+      "link": "https://www.shk-journal.de//news/drageau-die-nachhaltige-kalkschutzarmatur-zur-behandlung-von-sanitaerinstallationen-1.html",
+      "date": 1789426740,
+      "dateStr": "15. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "Wissen aus erster Hand – der neue Pluggit Blog",
+      "excerpt": "Fachwissen, Trends und Praxistipps an einem Ort.",
+      "link": "https://www.shk-journal.de//news/default-b9f1d20c12.html",
+      "date": 1789426740,
+      "dateStr": "15. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Resus: Fachlich top, menschlich daneben: Was eine Fehlbesetzung in der SHK-Branche wirklich kostet",
+      "excerpt": "Die teuerste Personalentscheidung ist selten die, bei der jemand fachlich versagt. Es ist die, bei...",
+      "link": "https://www.shk-journal.de//news/resus-fachlich-top-menschlich-daneben-was-eine-fehlbesetzung-in-der-shk-branche-wirklich-kostet-1.html",
+      "date": 1789426740,
+      "dateStr": "15. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Panasonic auf der Chillventa 2026: R32 VRF-Technik, kompakte CO2-Kälte und neue Wärmepumpen",
+      "excerpt": "Auf der Chillventa 2026 präsentiert Panasonic Heating &amp; Cooling Solutions in Halle 7A am Stand...",
+      "link": "https://www.shk-journal.de//news/default-000d75e068.html",
+      "date": 1789426680,
+      "dateStr": "15. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "Buderus: Wärmepumpe mit Persönlichkeit",
+      "excerpt": "Individuell gestaltet – leichter geplant: Buderus erweitert mit einer kundenspezifischen Folierung...",
+      "link": "https://www.shk-journal.de//news/buderus-waermepumpe-mit-persoenlichkeit-1.html",
+      "date": 1789426500,
+      "dateStr": "15. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "BRÖTJE: Stark als Solistin und im Duett",
+      "excerpt": "Die neue Wärmepumpe BLW Eco.2 bespielt Neubau und Bestand",
+      "link": "https://www.shk-journal.de//news/broetje-stark-als-solistin-und-im-duett-3-1.html",
+      "date": 1789426140,
+      "dateStr": "15. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "JUDO HEIFI PURE Set 150 / 300",
+      "excerpt": "Ab sofort in zwei Varianten erhältlich: Das Allround-System für Heiz- und Kühlkreisläufe",
+      "link": "https://www.shk-journal.de//news/judo-heifi-pure-set-150-300.html",
+      "date": 1789426140,
+      "dateStr": "15. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Dimplex: Hydrauliktower HPK 300HC – maximale Flexibilität für Sanierung und Neubau",
+      "excerpt": "Vormontiertes Modul von Dimplex reduziert den Montageaufwand und lässt sich unkompliziert erweitern",
+      "link": "https://www.shk-journal.de//news/dimplex-hydrauliktower-hpk-300hc-maximale-flexibilitaet-fuer-sanierung-und-neubau-3.html",
+      "date": 1789426080,
+      "dateStr": "15. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Aktuell"
+    },
+    {
+      "title": "swisspor sucht IT-Applikations-Allrounder (m/w/d) Standort herotec GmbH Flächenheizung - Ahlen",
+      "excerpt": "Gemeinsam die digitale Zukunft gestalten.",
+      "link": "https://www.shk-journal.de//news/it-applikations-allrounder-mwd-1.html",
+      "date": 1789425960,
+      "dateStr": "15. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "Bodenebene Duschfläche Geberit CleanFloor30",
+      "excerpt": "Montage mit System: Duschbereiche schnell und sicher installieren",
+      "link": "https://www.shk-journal.de//news/bodenebene-duschflaeche-geberit-cleanfloor30.html",
+      "date": 1789425900,
+      "dateStr": "15. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Raab Academy - Webinar: §19 Ableitbedingungen – technische Lösungen",
+      "excerpt": "Am 24. September 2026 um 08:30 Uhr ca. 7 Std.",
+      "link": "https://www.shk-journal.de//news/default-42e442cb1c.html",
+      "date": 1789425480,
+      "dateStr": "15. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Aktuell"
+    },
+    {
+      "title": "WW PERSONAL sucht Gebietsverkaufsleiter (m/w/d) – Energieeffiziente Warmwassertechnik  Ausführungsort: Region: Augsburg – Ingolstadt – Ulm  Referenz-Nr.: 1391  Mobiles Arbeiten: Ja",
+      "excerpt": "Unser Auftraggeber ist ein modernes, wachsendes Industrieunternehmen aus der Gebäudetechnik und...",
+      "link": "https://www.shk-journal.de//news/default-5a2271bea9-5.html",
+      "date": 1789423620,
+      "dateStr": "15. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "KESSEL: Innovationen erleben – Wissen teilen – Netzwerke stärken",
+      "excerpt": "01. Oktober 2026 – Stuttgart (KESSEL KundenForum) DeepDive 2026: KESSEL-Produktneuheiten zum...",
+      "link": "https://www.shk-journal.de//news/kessel-innovationen-erleben-wissen-teilen-netzwerke-staerken-1.html",
+      "date": 1789423500,
+      "dateStr": "15. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "Dornbracht: Olaf Hoppe übernimmt Geschäftsführung",
+      "excerpt": "Die Dornbracht GmbH &amp; Co. KG gibt die Ernennung von Olaf Hoppe zum Geschäftsführer bekannt. Nach...",
+      "link": "https://www.shk-journal.de//news/dornbracht-olaf-hoppe-uebernimmt-geschaeftsfuehrung.html",
+      "date": 1789415100,
+      "dateStr": "14. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "SANHA: Ortsfeste Löschanlagen – Sicherheit, auf die es ankommt!",
+      "excerpt": "Brände kosten jedes Jahr Menschenleben und verursachen immense Sachschäden. Umso wichtiger sind...",
+      "link": "https://www.shk-journal.de//news/sanha-ortsfeste-loeschanlagen-sicherheit-auf-die-es-ankommt.html",
+      "date": 1789372239,
+      "dateStr": "14. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Hoval - Video: Luft-/Wasser-Wärmepumpen für das Tierheim Nürnberg",
+      "excerpt": "Die bestehende Heizungsanlage des Tierheims Nürnberg mit ihren drei Ölkesseln hatte das Ende ihrer...",
+      "link": "https://www.shk-journal.de//news/hoval-video-luft-wasser-waermepumpen-fuer-das-tierheim-nuernberg.html",
+      "date": 1789371646,
+      "dateStr": "14. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "Video - SYR: Füllcombi",
+      "excerpt": "Die FüllCombi BA verhindert Rückdrücken, Rückfließen und Rücksaugen von Heizungswasser in das...",
+      "link": "https://www.shk-journal.de//news/syr-video.html",
+      "date": 1789371179,
+      "dateStr": "14. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "Pentair Jung Pumpen: ThermoLoop - Frostsicherer Rückstauschutz für draußen",
+      "excerpt": "Mit dem neuen ThermoLoop erweitert Jung Pumpen sein Portfolio um eine beheizbare, frostsichere...",
+      "link": "https://www.shk-journal.de//news/pentair-jung-pumpen-thermoloop-frostsicherer-rueckstauschutz-fuer-draussen.html",
+      "date": 1789370584,
+      "dateStr": "14. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
       "title": "Kaldewei und DAE be­leuch­ten Zir­ku­la­ri­tät im Bad",
       "excerpt": "Acht Masterprojekte zur Kreislaufkultur im Bad: Kaldewei und die Design Academy Eindhoven präsentieren die Ausstellung „Behind Closed Doors“ im Kaldewei Brand Space Berlin.",
       "link": "https://www.sbz-online.de/meldungen/baddesign-kaldewei-und-dae-beleuchten-zirkularitaet-im-bad",
@@ -153,34 +360,7 @@
       "dateStr": "4. Sep. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "KfW-40: Lüf­tungs­tech­nik im en­gen Be­stand",
-      "excerpt": "Ein achtstöckiges Wohnhaus in Leverkusen wurde zum KfW-40-Standard modernisiert – mit einer maßgeschneiderten Lüftungslösung von Kermi.",
-      "link": "https://www.sbz-online.de/meldungen/referenzprojekt-kfw-40-lueftungstechnik-im-engen-bestand",
-      "date": 1788483608,
-      "dateStr": "4. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Förderung"
-    },
-    {
-      "title": "Bad & Body ex­pan­diert: Vier­ter Stand­ort in Os­na­brück er­öff­net",
-      "excerpt": "Bad & Body der MHK Group eröffnet in Osnabrück seinen vierten Showroom – mit Fokus auf Bad­mo­der­ni­sie­rung und pfle­ge­ori­en­tier­te Wohn­raum­an­pas­sun­gen.",
-      "link": "https://www.sbz-online.de/meldungen/franchisesystem-bad-body-expandiert-vierter-standort-osnabrueck-eroeffnet",
-      "date": 1788483607,
-      "dateStr": "4. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Exklusivserie Caluna: GC und Geberit ziehen Bilanz",
-      "excerpt": "Die gemeinsam entwickelte Badserie Caluna von GC-Gruppe und Geberit ist seit 2025 auf dem Markt. Die Partner bewerten die Entwicklung seitdem als positiv.",
-      "link": "https://www.sbz-online.de/meldungen/badkonzepte-exklusivserie-caluna-gc-und-geberit-ziehen-bilanz",
-      "date": 1788397206,
-      "dateStr": "3. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
     }
   ],
-  "fetched": 1789380827
+  "fetched": 1789465387
 }
