@@ -2,13 +2,40 @@
   "ok": true,
   "articles": [
     {
-      "title": "aquatherm: Trinkwasserhygiene - Worauf es in Gebäudeinstallationen ankommt",
-      "excerpt": "Trinkwasserhygiene ist ein zentrales Thema in der Gebäudeinstallation.",
-      "link": "https://www.shk-journal.de//news/trinkwasserhygiene-worauf-es-in-gebaeudeinstallationen-ankommt.html",
-      "date": 1789456620,
-      "dateStr": "15. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Sanitär"
+      "title": "Splitfix: Kompakte Fettabscheider zur Freiaufstellung im Gebäude",
+      "excerpt": "Mit der Splitfix-Baureihe bietet Pentair Jung Pumpen kompakte Fettabscheider zur Freiaufstellung im Gebäude für Betriebe mit geringem bis mittlerem Fettanfall im Abwasser, etwa in Gastronomie und Lebensmittelverarbeitung",
+      "link": "https://www.sbz-online.de/abwasseraufbereitung/splitfix-kompakte-fettabscheider-zur-freiaufstellung-im-gebaeude",
+      "date": 1789537978,
+      "dateStr": "16. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Systemtriple im Mehrfamilienhaus",
+      "excerpt": "Drei Komponenten, ein Konzept: Wärmepumpe, Wohnungsstation und Wohnraumlüftung. Im Mehrfamilienhaus entscheidet nicht die einzelne Komponente über den Projekterfolg, sondern das Zusammenspiel des gesamten Systems.",
+      "link": "https://www.sbz-online.de/haus-und-gebaeudetechnik/systemtriple-im-mehrfamilienhaus",
+      "date": 1789537924,
+      "dateStr": "16. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "RIFA 2026: Zwei Tage, die die SHK-Branche zusammenbringen",
+      "excerpt": "Am 8. und 9. Oktober 2026 wird die NürnbergMesse zum Treffpunkt der SHK-Branche. Unter dem Motto „Fortschritt. Gemeinsam. Meistern!“ bringt die RIFA Hersteller, Fachhandwerk, Planer, Partner und Entscheider zusammen – fü",
+      "link": "https://www.sbz-online.de/messe/rifa-2026-zwei-tage-die-die-shk-branche-zusammenbringen",
+      "date": 1789537876,
+      "dateStr": "16. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
+      "title": "Gedatec vernetzt Frauen in der Gebäudetechnik",
+      "excerpt": "Am 14. Oktober rückt die Gedatec-Fachmesse Frauen in der Gebäudetechnik in den Fokus. In Berlin ist ein Netzwerktreffen geplant. Das Programm umfasst Austausch und Rundgänge.",
+      "link": "https://www.sbz-online.de/meldungen/messe-gedatec-vernetzt-frauen-der-gebaeudetechnik",
+      "date": 1789520406,
+      "dateStr": "16. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Smart Home"
     },
     {
       "title": "Zahlt die KfW die Heizungsförderung erst ab Januar 2027 aus?",
@@ -36,177 +63,6 @@
       "dateStr": "15. Sep. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Die Zukunft der Heiztechnik zeigt Caleffi zur GET Nord",
-      "excerpt": "Vom 19. bis 21. November stellt die GET Nord erneut die Vielfalt der Elektro-, Sanitär-, Heizungs-...",
-      "link": "https://www.shk-journal.de//news/default-12c61dd799.html",
-      "date": 1789426740,
-      "dateStr": "15. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "DRAG'EAU – die nachhaltige Kalkschutzarmatur zur Behandlung von Sanitärinstallationen",
-      "excerpt": "Warum sollte eine Kalkschutzarmatur an Ihren Installationen installiert werden ?",
-      "link": "https://www.shk-journal.de//news/drageau-die-nachhaltige-kalkschutzarmatur-zur-behandlung-von-sanitaerinstallationen-1.html",
-      "date": 1789426740,
-      "dateStr": "15. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Wissen aus erster Hand – der neue Pluggit Blog",
-      "excerpt": "Fachwissen, Trends und Praxistipps an einem Ort.",
-      "link": "https://www.shk-journal.de//news/default-b9f1d20c12.html",
-      "date": 1789426740,
-      "dateStr": "15. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Resus: Fachlich top, menschlich daneben: Was eine Fehlbesetzung in der SHK-Branche wirklich kostet",
-      "excerpt": "Die teuerste Personalentscheidung ist selten die, bei der jemand fachlich versagt. Es ist die, bei...",
-      "link": "https://www.shk-journal.de//news/resus-fachlich-top-menschlich-daneben-was-eine-fehlbesetzung-in-der-shk-branche-wirklich-kostet-1.html",
-      "date": 1789426740,
-      "dateStr": "15. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Panasonic auf der Chillventa 2026: R32 VRF-Technik, kompakte CO2-Kälte und neue Wärmepumpen",
-      "excerpt": "Auf der Chillventa 2026 präsentiert Panasonic Heating &amp; Cooling Solutions in Halle 7A am Stand...",
-      "link": "https://www.shk-journal.de//news/default-000d75e068.html",
-      "date": 1789426680,
-      "dateStr": "15. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Buderus: Wärmepumpe mit Persönlichkeit",
-      "excerpt": "Individuell gestaltet – leichter geplant: Buderus erweitert mit einer kundenspezifischen Folierung...",
-      "link": "https://www.shk-journal.de//news/buderus-waermepumpe-mit-persoenlichkeit-1.html",
-      "date": 1789426500,
-      "dateStr": "15. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "BRÖTJE: Stark als Solistin und im Duett",
-      "excerpt": "Die neue Wärmepumpe BLW Eco.2 bespielt Neubau und Bestand",
-      "link": "https://www.shk-journal.de//news/broetje-stark-als-solistin-und-im-duett-3-1.html",
-      "date": 1789426140,
-      "dateStr": "15. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "JUDO HEIFI PURE Set 150 / 300",
-      "excerpt": "Ab sofort in zwei Varianten erhältlich: Das Allround-System für Heiz- und Kühlkreisläufe",
-      "link": "https://www.shk-journal.de//news/judo-heifi-pure-set-150-300.html",
-      "date": 1789426140,
-      "dateStr": "15. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Dimplex: Hydrauliktower HPK 300HC – maximale Flexibilität für Sanierung und Neubau",
-      "excerpt": "Vormontiertes Modul von Dimplex reduziert den Montageaufwand und lässt sich unkompliziert erweitern",
-      "link": "https://www.shk-journal.de//news/dimplex-hydrauliktower-hpk-300hc-maximale-flexibilitaet-fuer-sanierung-und-neubau-3.html",
-      "date": 1789426080,
-      "dateStr": "15. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "swisspor sucht IT-Applikations-Allrounder (m/w/d) Standort herotec GmbH Flächenheizung - Ahlen",
-      "excerpt": "Gemeinsam die digitale Zukunft gestalten.",
-      "link": "https://www.shk-journal.de//news/it-applikations-allrounder-mwd-1.html",
-      "date": 1789425960,
-      "dateStr": "15. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Bodenebene Duschfläche Geberit CleanFloor30",
-      "excerpt": "Montage mit System: Duschbereiche schnell und sicher installieren",
-      "link": "https://www.shk-journal.de//news/bodenebene-duschflaeche-geberit-cleanfloor30.html",
-      "date": 1789425900,
-      "dateStr": "15. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Raab Academy - Webinar: §19 Ableitbedingungen – technische Lösungen",
-      "excerpt": "Am 24. September 2026 um 08:30 Uhr ca. 7 Std.",
-      "link": "https://www.shk-journal.de//news/default-42e442cb1c.html",
-      "date": 1789425480,
-      "dateStr": "15. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "WW PERSONAL sucht Gebietsverkaufsleiter (m/w/d) – Energieeffiziente Warmwassertechnik  Ausführungsort: Region: Augsburg – Ingolstadt – Ulm  Referenz-Nr.: 1391  Mobiles Arbeiten: Ja",
-      "excerpt": "Unser Auftraggeber ist ein modernes, wachsendes Industrieunternehmen aus der Gebäudetechnik und...",
-      "link": "https://www.shk-journal.de//news/default-5a2271bea9-5.html",
-      "date": 1789423620,
-      "dateStr": "15. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "KESSEL: Innovationen erleben – Wissen teilen – Netzwerke stärken",
-      "excerpt": "01. Oktober 2026 – Stuttgart (KESSEL KundenForum) DeepDive 2026: KESSEL-Produktneuheiten zum...",
-      "link": "https://www.shk-journal.de//news/kessel-innovationen-erleben-wissen-teilen-netzwerke-staerken-1.html",
-      "date": 1789423500,
-      "dateStr": "15. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Dornbracht: Olaf Hoppe übernimmt Geschäftsführung",
-      "excerpt": "Die Dornbracht GmbH &amp; Co. KG gibt die Ernennung von Olaf Hoppe zum Geschäftsführer bekannt. Nach...",
-      "link": "https://www.shk-journal.de//news/dornbracht-olaf-hoppe-uebernimmt-geschaeftsfuehrung.html",
-      "date": 1789415100,
-      "dateStr": "14. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "SANHA: Ortsfeste Löschanlagen – Sicherheit, auf die es ankommt!",
-      "excerpt": "Brände kosten jedes Jahr Menschenleben und verursachen immense Sachschäden. Umso wichtiger sind...",
-      "link": "https://www.shk-journal.de//news/sanha-ortsfeste-loeschanlagen-sicherheit-auf-die-es-ankommt.html",
-      "date": 1789372239,
-      "dateStr": "14. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Hoval - Video: Luft-/Wasser-Wärmepumpen für das Tierheim Nürnberg",
-      "excerpt": "Die bestehende Heizungsanlage des Tierheims Nürnberg mit ihren drei Ölkesseln hatte das Ende ihrer...",
-      "link": "https://www.shk-journal.de//news/hoval-video-luft-wasser-waermepumpen-fuer-das-tierheim-nuernberg.html",
-      "date": 1789371646,
-      "dateStr": "14. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Video - SYR: Füllcombi",
-      "excerpt": "Die FüllCombi BA verhindert Rückdrücken, Rückfließen und Rücksaugen von Heizungswasser in das...",
-      "link": "https://www.shk-journal.de//news/syr-video.html",
-      "date": 1789371179,
-      "dateStr": "14. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Pentair Jung Pumpen: ThermoLoop - Frostsicherer Rückstauschutz für draußen",
-      "excerpt": "Mit dem neuen ThermoLoop erweitert Jung Pumpen sein Portfolio um eine beheizbare, frostsichere...",
-      "link": "https://www.shk-journal.de//news/pentair-jung-pumpen-thermoloop-frostsicherer-rueckstauschutz-fuer-draussen.html",
-      "date": 1789370584,
-      "dateStr": "14. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
     },
     {
       "title": "Kaldewei und DAE be­leuch­ten Zir­ku­la­ri­tät im Bad",
@@ -324,43 +180,7 @@
       "dateStr": "7. Sep. 2026",
       "source": "SBZ Monteur",
       "category": "Sanitär"
-    },
-    {
-      "title": "Stiebel Eltron: Ein­blick in die Wär­me­pum­pen-Fer­ti­gung",
-      "excerpt": "Stiebel Eltron zeigt in einem neuen Video die Produktion der Luft-Wasser-Wärmepumpe WPL-A Plus an deutschen Standorten.",
-      "link": "https://www.sbz-online.de/meldungen/produktionsvideo-stiebel-eltron-einblick-die-waermepumpen-fertigung",
-      "date": 1788742807,
-      "dateStr": "7. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Rohrschellen für trans­for­mier­ba­re Kunst­in­stal­la­ti­on",
-      "excerpt": "Die Universität für angewandte Kunst Wien nutzt Walraven Rohrschellen, um aus recycelten Fahrradrahmen eine modulare, transformierbare Struktur zu schaffen.",
-      "link": "https://www.sbz-online.de/meldungen/verbindungstechnik-rohrschellen-fuer-transformierbare-kunstinstallation",
-      "date": 1788742806,
-      "dateStr": "7. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
-      "title": "2026-Q2: SHK-Geschäftsklima bleibt knapp über der Null",
-      "excerpt": "Das SHK-Konjunk­tur­ba­ro­meter ver­bleibt im 2. Quar­tal 2026 auf nie­dri­gem po­si­ti­vem Ni­veau. Der Produkt­be­reich Hei­zung stützt das Ge­schäfts­klima.",
-      "link": "https://www.sbz-online.de/meldungen/shk-konjunkturbarometer-2026-q2-shk-geschaeftsklima-bleibt-knapp-ueber-der-null",
-      "date": 1788497859,
-      "dateStr": "4. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Smart Home"
-    },
-    {
-      "title": "Neue Wärme­pum­pe: Passende Strom­tarife finden",
-      "excerpt": "Betreiber neuer Wärmepumpen ab 2024 profi­tie­ren von ver­güns­tig­ten Netz­ent­gel­ten. Die Wahl des rich­ti­gen Rabatt-Modells und Tarifs ist ent­scheidend.",
-      "link": "https://www.sbz-online.de/meldungen/energiepreise-neue-waermepumpe-passende-stromtarife-finden",
-      "date": 1788483609,
-      "dateStr": "4. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1789465387
+  "fetched": 1789551417
 }
