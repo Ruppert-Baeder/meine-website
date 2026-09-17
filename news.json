@@ -2,6 +2,222 @@
   "ok": true,
   "articles": [
     {
+      "title": "KESSEL - Webinar: EasyClean ground Multi - Drei Funktionen. Ein System. Maximale Effizienz im Erdverbau.",
+      "excerpt": "11.11.2026 | 15:00 - 16:00 Uhr | Der neue EasyClean ground Multi",
+      "link": "https://www.shk-journal.de//news/kessel-webinar-easyclean-ground-multi-drei-funktionen-ein-system-maximale-effizienz-im-erdverbau.html",
+      "date": 1789631760,
+      "dateStr": "17. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "DESTATIS: Auftragsbestand im Verarbeitenden Gewerbe im Juli 2026",
+      "excerpt": "+1,5 % zum Vormonat",
+      "link": "https://www.shk-journal.de//news/destatis-auftragsbestand-im-verarbeitenden-gewerbe-im-juli-2026.html",
+      "date": 1789626387,
+      "dateStr": "17. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Chillventa 2026: SANHA zeigt Rohrleitungssysteme für Kälte, Kühlung und Wärmepumpen",
+      "excerpt": "Auf der Chillventa 2026 präsentiert SANHA in Halle 6, Stand 6-406 Rohrleitungssysteme für moderne...",
+      "link": "https://www.shk-journal.de//news/chillventa-2026-sanha-zeigt-rohrleitungssysteme-fuer-kaelte-kuehlung-und-waermepumpen.html",
+      "date": 1789624308,
+      "dateStr": "17. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "EWS M&amp;A-Beratung: Wo bei einem Unternehmensverkauf bares Geld verloren geht",
+      "excerpt": "Bei einem Unternehmensverkauf geht nicht nur bei der Verhandlung Geld verloren. Oft entsteht der...",
+      "link": "https://www.shk-journal.de//news/wo-bei-einem-unternehmensverkauf-bares-geld-verloren-geht.html",
+      "date": 1789623902,
+      "dateStr": "17. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Branche"
+    },
+    {
+      "title": "KTF unter Druck: Hand­werk warnt vor Um­schich­tung in den Bun­des­haus­halt",
+      "excerpt": "2,7 Mrd. Euro sollen 2027 aus dem Klima- und Transformationsfonds abgezogen werden. Die Taskforce Gebäudetechnik warnt vor einem Vertrauensverlust – ein Kommentar von SBZ-Chefredakteur Dennis Jäger.",
+      "link": "https://www.sbz-online.de/meldungen/kommentar-klimafonds-ktf-unter-druck-handwerk-warnt-vor-umschichtung-den-bundeshaushalt",
+      "date": 1789622655,
+      "dateStr": "17. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "September 2026: Holzpellet­preis steigt auf 454,21 Euro pro Tonne",
+      "excerpt": "Der Preis für Holz­pellets ist im September 2026 gegen­über dem Vor­mo­nat um 6,2 % auf 454,21 Euro/t ge­stiegen und liegt da­mit ak­tu­ell 12,5 % über dem 12-Monats­durch­schnitt von 403,63 Euro/t.",
+      "link": "https://www.sbz-online.de/meldungen/energietraeger-september-2026-holzpelletpreis-steigt-auf-45421-euro-pro-tonne",
+      "date": 1789616479,
+      "dateStr": "17. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "50 Jahre Sanipa: Bad­mö­bel „Made in Germany“",
+      "excerpt": "Seit 50 Jahren fertigt Sanipa in Treuchtlingen Badmöbel für mehrere Marken – mit Fokus auf Qualität, individuelle Lösungen und Zuverlässigkeit.",
+      "link": "https://www.sbz-online.de/meldungen/jubilaeum-50-jahre-sanipa-badmoebel-made-germany",
+      "date": 1789606807,
+      "dateStr": "17. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Geberit schult Fachkräfte und Nachwuchs für SHK",
+      "excerpt": "Vier Schulungszentren, Webseminare und E-Learnings vermitteln Wissen für die Baustelle. Geberit verknüpft dabei Normen, Produkte und praktische Demonstrationen.",
+      "link": "https://www.sbz-online.de/meldungen/schulungszentren-geberit-schult-fachkraefte-und-nachwuchs-fuer-shk",
+      "date": 1789606807,
+      "dateStr": "17. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "GROHE: Tag des Bades am 19. September - Mit Fachberatung zum „guten Bad“",
+      "excerpt": "Wie sieht ein Bad aus, das Individualität ausdrückt, zum eigenen Alltag passt und auch in 10 oder...",
+      "link": "https://www.shk-journal.de//news/tag-des-bades-am-19-september-mit-fachberatung-zum-guten-bad.html",
+      "date": 1789599540,
+      "dateStr": "17. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Sanitär"
+    },
+    {
+      "title": "autarc startet Kl-gestützte Verteilerkastenanalyse für PV, Wärmepumpe und Wallbox",
+      "excerpt": "Die Berliner Software-Plattform autarc erweitert ihr Angebot um eine KI-gestützte...",
+      "link": "https://www.shk-journal.de//news/autarc-startet-kl-gestuetzte-verteilerkastenanalyse-fuer-pv-waermepumpe-und-wallbox-1.html",
+      "date": 1789599540,
+      "dateStr": "17. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "DEPI: Pellets im September deutlich günstiger als Öl und Gas",
+      "excerpt": "Angespannter Holzmarkt: Pelletpreis steigt weiter",
+      "link": "https://www.shk-journal.de//news/default-cacee1d3a2.html",
+      "date": 1789599420,
+      "dateStr": "17. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "KESSEL wird Partner von FamilienUnternehmerTUM",
+      "excerpt": "Entwässerungsspezialist baut Austausch mit Start-ups, Wissenschaft und Technologieexperten aus",
+      "link": "https://www.shk-journal.de//news/kessel-wird-partner-von-familienunternehmertum.html",
+      "date": 1789599240,
+      "dateStr": "17. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "NORDWEST Haustechnik: Nach der Sommerpause direkt durchstarten!",
+      "excerpt": "Mit dem neuen Highlights-Heft 3/2026 profitiert ihr von attraktiven Aktionspreisen auf über 100...",
+      "link": "https://www.shk-journal.de//news/nordwest-haustechnik-nach-der-sommerpause-direkt-durchstarten.html",
+      "date": 1789599180,
+      "dateStr": "17. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Aktuell"
+    },
+    {
+      "title": "TECE: Vertiefen Sie Ihr Wissen mit der TECE Academy",
+      "excerpt": "Auf unserer Webseite finden Sie eine Vielzahl relevanter Veranstaltungen!",
+      "link": "https://www.shk-journal.de//news/tece-vertiefen-sie-ihr-wissen-mit-der-tece-academy.html",
+      "date": 1789599000,
+      "dateStr": "17. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Aktuell"
+    },
+    {
+      "title": "WW PERSONAL sucht Regionalmanager (m/w/d) SHK-Fachhandwerk  Ausführungsort: Baden - Württemberg - Süd  Referenz-Nr.: 1422  Mobiles Arbeiten: Ja",
+      "excerpt": "Unser Auftraggeber ist einer der führenden Verbünde für das SHK-Fachhandwerk in Deutschland. Rund...",
+      "link": "https://www.shk-journal.de//news/ww-personal-sucht-regionalmanager-mwd-shk-fachhandwerk-ausfuehrungsort-baden-wuerttemberg-sued-referenz-nr-1422-mobiles-arbeiten-ja-3.html",
+      "date": 1789598760,
+      "dateStr": "17. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Meltem: Nachhaltiges Wohnprojekt in Schallstadt",
+      "excerpt": "Komfortlüftung unterstützt Wärmekonzept in Plusenergie-Klimahäusern",
+      "link": "https://www.shk-journal.de//news/meltem-nachhaltiges-wohnprojekt-in-schallstadt-1.html",
+      "date": 1789598520,
+      "dateStr": "17. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "Save the Date: 15. Forum Wohnungslüftung – digital &amp; kostenfrei",
+      "excerpt": "Am 24. November 2026 ist es wieder so weit: HEA und Umweltbundesamt laden zum 15. Forum...",
+      "link": "https://www.shk-journal.de//news/save-the-date-15-forum-wohnungslueftung-digital-kostenfrei.html",
+      "date": 1789597800,
+      "dateStr": "17. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Smart Home"
+    },
+    {
+      "title": "Richter+Frenzel RIFA 2026 | Fortschritt passiert nicht allein. Er entsteht hier.",
+      "excerpt": "Am 8. und 9. Oktober 2026 wird die Messe Nürnberg wieder zum Treffpunkt der SHK-Branche. Und Sie...",
+      "link": "https://www.shk-journal.de//news/richter-frenzel-rifa-2026-fortschritt-passiert-nicht-allein-er-entsteht-hier.html",
+      "date": 1789597620,
+      "dateStr": "17. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Branche"
+    },
+    {
+      "title": "ifo: Zuversicht im Wohnungsbau wächst",
+      "excerpt": "Die Stimmung im Wohnungsbau hat sich im August deutlich verbessert.",
+      "link": "https://www.shk-journal.de//news/ifo-zuversicht-im-wohnungsbau-waechst.html",
+      "date": 1789587300,
+      "dateStr": "16. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Aktuell"
+    },
+    {
+      "title": "DESTATIS: Sanitär-, Heizungs- und Klimatechnik: Zahl der neuen Auszubildenden binnen zehn Jahren um 30,5 % gestiegen",
+      "excerpt": "Frauenanteil bei neuen Auszubildenden in Berufen der Sanitär-, Heizungs- und Klimatechnik bei 2,4 %",
+      "link": "https://www.shk-journal.de//news/destatis-sanitaer-heizungs-und-klimatechnik-zahl-der-neuen-auszubildenden-binnen-zehn-jahren-um-305-gestiegen.html",
+      "date": 1789587120,
+      "dateStr": "16. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "RESUS sucht Sales Director (m/w/d) VERTRIEBSLEITUNG SHK-MEISTERBETRIEBE | PERSPEKTIVE GESCHÄFTSFÜHRUNG",
+      "excerpt": "Unser Mandant ist ein wachsender Verbund inhabergeführter SHK-Meisterbetriebe mit einem...",
+      "link": "https://www.shk-journal.de//news/resus-sucht-sales-director-mwd-vertriebsleitung-shk-meisterbetriebe-perspektive-geschaeftsfuehrung-1.html",
+      "date": 1789587000,
+      "dateStr": "16. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Sanitär"
+    },
+    {
+      "title": "REMKO: Eine lippische Erfolgsstory",
+      "excerpt": "Vom Heizgeräte-Pionier zum Systemanbieter",
+      "link": "https://www.shk-journal.de//news/remko-eine-lippische-erfolgsstory.html",
+      "date": 1789586940,
+      "dateStr": "16. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "Gleich zwei Auszeichnungen für digitale Anwendung von Stiebel Eltron",
+      "excerpt": "Servicewelt-App gewinnt iF Design Award und Red Dot Design Award",
+      "link": "https://www.shk-journal.de//news/gleich-zwei-auszeichnungen-fuer-digitale-anwendung-von-stiebel-eltron.html",
+      "date": 1789586880,
+      "dateStr": "16. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Smart Home"
+    },
+    {
+      "title": "CLAGE: Neues Erklärvideo zur dezentralen Warmwasserversorgung",
+      "excerpt": "Die dezentrale Warmwasserversorgung gewinnt sowohl im Neubau als auch bei der Sanierung an...",
+      "link": "https://www.shk-journal.de//news/default-70a7796d1c-1.html",
+      "date": 1789586760,
+      "dateStr": "16. Sep. 2026",
+      "source": "SHK Journal",
+      "category": "Sanitär"
+    },
+    {
       "title": "Splitfix: Kompakte Fettabscheider zur Freiaufstellung im Gebäude",
       "excerpt": "Mit der Splitfix-Baureihe bietet Pentair Jung Pumpen kompakte Fettabscheider zur Freiaufstellung im Gebäude für Betriebe mit geringem bis mittlerem Fettanfall im Abwasser, etwa in Gastronomie und Lebensmittelverarbeitung",
       "link": "https://www.sbz-online.de/abwasseraufbereitung/splitfix-kompakte-fettabscheider-zur-freiaufstellung-im-gebaeude",
@@ -144,43 +360,7 @@
       "dateStr": "9. Sep. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "#CONNECTINGHEAT 2026: Fach­fo­rum für SHK-Hand­werk",
-      "excerpt": "Die #CONNECTINGHEAT 2026 startet erstmals mit einem dedizierten Fachforum für SHK-Profis – mit Themen wie der neuen BEG-Förderung und der Installation von Wärmepumpen.",
-      "link": "https://www.sbz-online.de/meldungen/14-15-oktober-2026-berlin-connectingheat-2026-fachforum-fuer-shk-handwerk",
-      "date": 1788915607,
-      "dateStr": "9. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Systeme für SHK-Profis: blei­frei, far­ben­froh, ver­netzt",
-      "excerpt": "Modulare Lüftungsgeräte, Bad­möbel­serie mit 44 Farb­tönen, 90°-Winkel für Verbund­rohr­systeme, Aufklemm­sensor, Mehr­pumpen­steuerung mit Touch-Display.",
-      "link": "https://www.sbz-online.de/meldungen/abgesteckt-systeme-fuer-shk-profis-bleifrei-farbenfroh-vernetzt",
-      "date": 1788915606,
-      "dateStr": "9. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Bad direkt 2026 präsentiert die Aussteller",
-      "excerpt": "Über 30 Hersteller und Dienst­leis­ter prä­sen­tie­ren ihre Ent­wick­lun­gen auf der dies­jäh­ri­gen SHK-Profi-Messe Bad direkt in Münster und Neumarkt.",
-      "link": "https://www.sbz-online.de/meldungen/branchentreff-bad-direkt-2026-praesentiert-die-aussteller",
-      "date": 1788829207,
-      "dateStr": "8. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Die Dusche ist nur der Anfang",
-      "excerpt": "Eine neue Dusche bietet heute weit mehr als nur zusätzlichen Komfort im Badzimmer. Wer Kundenwünsche früh erkennt, kann die Dusche gezielt als persönliche Erlebniszone planen und dabei Design, Wellness und moderne Techni",
-      "link": "https://www.sbz-online.de/bad/vom-produktverkauf-zur-bedarfsberatung-die-dusche-ist-nur-der-anfang",
-      "date": 1788746407,
-      "dateStr": "7. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
     }
   ],
-  "fetched": 1789551417
+  "fetched": 1789638305
 }
