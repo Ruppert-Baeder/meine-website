@@ -2,6 +2,51 @@
   "ok": true,
   "articles": [
     {
+      "title": "Die Reflex Group übernimmt ExGas Technology",
+      "excerpt": "Die Ahlener Reflex Group kauft die ExGas Technology GmbH und ergänzt damit ihr Servitec-Portfolio. Der Zukauf öffnet Anwendungsfelder außerhalb von Heizungs-, Lüftungs- und Klimatechnik (HLK) und gewerblichen Heizsysteme",
+      "link": "https://www.sbz-online.de/meldungen/aquisitionen-die-reflex-group-uebernimmt-exgas-technology",
+      "date": 1790125209,
+      "dateStr": "23. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Wie SHK-Betriebe beim Wärmepumpen-Einbau Zeit gewinnen",
+      "excerpt": "Das dreijährige Projekt Wespe hat unter Koordination des ZVSHK die Abläufe beim Einbau von Wärmepumpen untersucht. Betriebe können ab sofort einen Selbstcheck und eine Wissensplattform nutzen.",
+      "link": "https://www.sbz-online.de/meldungen/forschungsprojekt-wespe-wie-shk-betriebe-beim-waermepumpen-einbau-zeit-gewinnen",
+      "date": 1790125208,
+      "dateStr": "23. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Azubi-Zahlen stei­gen um 30,5 % – Frau­en­an­teil bleibt nied­rig",
+      "excerpt": "Die SHK-Branche verzeichnet einen Azubi-Zuwachs von 30,5 % in zehn Jahren – doch der Frauenanteil bleibt gering und die Altersstruktur eine Herausforderung.",
+      "link": "https://www.sbz-online.de/meldungen/shk-branche-azubi-zahlen-steigen-um-305-frauenanteil-bleibt-niedrig",
+      "date": 1790125207,
+      "dateStr": "23. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Förderung"
+    },
+    {
+      "title": "Geberit in­sze­niert Bad­lö­sun­gen mit Urban Dance",
+      "excerpt": "Geberit macht seine Endkundenkampagne „Besser. Für Sie.“ mit einer Pop-up Experience und Live-Urban-Dance-Performances in Hamburg direkt erlebbar.",
+      "link": "https://www.sbz-online.de/meldungen/25-26-september-2026-hamburg-geberit-inszeniert-badloesungen-mit-urban-dance",
+      "date": 1790125207,
+      "dateStr": "23. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Systeme für SHK-Profis: uni­ver­sell, küh­lend, an­passbar",
+      "excerpt": "Übergangsstück für Kunst­stoff­rohre, Ver­sor­gungs­sta­tion, Arbeits­be­klei­dung, Befes­ti­gungs­sys­tem für Dusch­ab­tren­nung, Dusch­ther­mos­tat mit Ablage.",
+      "link": "https://www.sbz-online.de/meldungen/abgesteckt-systeme-fuer-shk-profis-universell-kuehlend-anpassbar",
+      "date": 1790125206,
+      "dateStr": "23. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
       "title": "Gedatec 2026: Neue Fach­mes­se bün­delt Ge­wer­ke der Ge­bäu­de­tech­nik",
       "excerpt": "Nach dem Aus der Bautec startet die Messe Berlin 2026 mit der Gedatec ein neues, gewerkeübergreifendes Format für SHK, Elektro und Dachhandwerk.",
       "link": "https://www.sbz-online.de/meldungen/13-bis-15-oktober-2026-messe-berlin-gedatec-2026-neue-fachmesse-buendelt-gewerke-der",
@@ -27,141 +72,6 @@
       "dateStr": "22. Sep. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "AFRISO Herbstaktion: Zeit sparen im Mess- &amp; Installationsalltag, z.B. mit der neuen digitalen Profi-Monteurhilfe EUROFOLD für Wärmepumpen.",
-      "excerpt": "Die beste Idee ist nichts wert ohne echten Praxisbezug. Das wissen Fachhandwerker aus eigener...",
-      "link": "https://www.shk-journal.de//news/default-3f7d9aacad.html",
-      "date": 1790031540,
-      "dateStr": "22. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Raab-Gruppe: Rußsammler für Biomasseanlagen bis DN 300",
-      "excerpt": "Selbst bei ordnungsgemäßem Betrieb und trockenem Brennstoff können Rußflocken mit dem Abgas nach...",
-      "link": "https://www.shk-journal.de//news/russsammler-fuer-biomasseanlagen-bis-dn-300.html",
-      "date": 1790031480,
-      "dateStr": "22. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Panasonic auf der Chillventa 2026: R32 VRF-Technik, kompakte CO2-Kälte und neue Wärmepumpen",
-      "excerpt": "Auf der Chillventa 2026 präsentiert Panasonic Heating &amp; Cooling Solutions in Halle 7A am Stand...",
-      "link": "https://www.shk-journal.de//news/default-000d75e068-1.html",
-      "date": 1790031480,
-      "dateStr": "22. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "SCHELL: Farbvielfalt für die digitale Armaturengeneration CELIS E²",
-      "excerpt": "CELIS E² erweitert die Farbwelt um Brushed Graphite, Brushed Silver und Brushed Gold",
-      "link": "https://www.shk-journal.de//news/default-d3fe748a96.html",
-      "date": 1790031420,
-      "dateStr": "22. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Video - SYR: Wasserenthärtungsanlage IT 4000",
-      "excerpt": "Die Wasserenthärtungsanlage IT 4000 dient zum Schutz der Wasserleitungen und Warmwasserbereiter vor...",
-      "link": "https://www.shk-journal.de//news/default-b1c5e5dde7.html",
-      "date": 1790031420,
-      "dateStr": "22. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Sanitär"
-    },
-    {
-      "title": "WW PERSONAL sucht Technischer Vertriebsmitarbeiter (m/w/d) Gebäudetechnik  Ausführungsort: Region Hamburg, Bremen, Schleswig-Holstein  Referenz-Nr.: 1407  Mobiles Arbeiten: Ja",
-      "excerpt": "Unser Auftraggeber ist ein Premium-Hersteller im Bereich der Wasseraufbereitung mit langjähriger...",
-      "link": "https://www.shk-journal.de//news/ww-personal-sucht-technischer-vertriebsmitarbeiter-mwd-gebaeudetechnik-ausfuehrungsort-region-hamburg-bremen-schleswig-holstein-referenz-nr-1407-mobiles-arbeiten-ja-3.html",
-      "date": 1790031360,
-      "dateStr": "22. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Buderus: Wärme aus der Box",
-      "excerpt": "Die anschlussfertige Energie-System-Box realisiert platzsparende, skalierbare Wärmepumpenlösungen...",
-      "link": "https://www.shk-journal.de//news/buderus-waerme-aus-der-box-1.html",
-      "date": 1790031120,
-      "dateStr": "22. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "DALLMER: Architects’ Sessions in Bonn - Bestandssanierung im Fokus",
-      "excerpt": "Am 15.10.2026 um 14:30 - 20:30 Uhr in Bonn",
-      "link": "https://www.shk-journal.de//news/default-e75dcae1fc.html",
-      "date": 1790031000,
-      "dateStr": "22. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Hansgrohe bringt Palladium zurück in den Kreislauf",
-      "excerpt": "Innovatives Rückgewinnungsverfahren in der Kunststoffgalvanik überzeugt bei Nachhaltigkeitspreisen",
-      "link": "https://www.shk-journal.de//news/default-0fc4eb0c13.html",
-      "date": 1790031000,
-      "dateStr": "22. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Branche"
-    },
-    {
-      "title": "EWS Personalberatung: Aus der Praxis - Technische Geschäftsführung erfolgreich nachbesetzt",
-      "excerpt": "Wenn ein Geschäftsführer und Mitgesellschafter ausscheidet, entsteht nicht nur eine freie Position...",
-      "link": "https://www.shk-journal.de//news/ewald-w-schneider-aus-der-praxis-technische-geschaeftsfuehrung-erfolgreich-nachbesetzt-1.html",
-      "date": 1790031000,
-      "dateStr": "22. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "BRÖTJE: Gaskessel raus, Wärmepumpen rein – Nachrüstung leicht gemacht",
-      "excerpt": "Der Austausch alter Heizsysteme durch Wärmepumpen gehört für viele Fachbetriebe inzwischen zum...",
-      "link": "https://www.shk-journal.de//news/default-45a56218a2.html",
-      "date": 1790030640,
-      "dateStr": "22. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Bewährte TECEprofil Module clever weitergedacht",
-      "excerpt": "Mehr Flexibilität auf der Baustelle und weniger Aufwand bei der Installation: Mit neuen TECEprofil...",
-      "link": "https://www.shk-journal.de//news/bewaehrte-teceprofil-module-clever-weitergedacht.html",
-      "date": 1790030640,
-      "dateStr": "22. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "ATEC - Webinar: Schallwände / Schallschutz bei Großwärmepumpen",
-      "excerpt": "Am 29. September 2026, um 15:00 - 16:00 Uhr und am 1. Dezember 2026, um 15:00 - 16:00 Uhr",
-      "link": "https://www.shk-journal.de//news/atec-webinar-schallwaende-schallschutz-bei-grosswaermepumpen-2.html",
-      "date": 1790030400,
-      "dateStr": "22. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "PentairJUNG PUMPEN: Online-Seminar Einbau Schmutzwasserpumpen / WCfix / Gebäude- und Grundstücksentwässerung",
-      "excerpt": "Am 05.10.2026 um 16:30 bis 17:30, Online",
-      "link": "https://www.shk-journal.de//news/default-64f3782f38.html",
-      "date": 1790029800,
-      "dateStr": "22. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Sanitär"
-    },
-    {
-      "title": "swisspor sucht Key-Account Manager Dachsysteme &amp; Objektgeschäft (m/w/d) Region Nordrhein-Westfalen oder Großraum Berlin",
-      "excerpt": "Gemeinsam stark auf dem Dach.",
-      "link": "https://www.shk-journal.de//news/swisspor-sucht-key-account-manager-dachsysteme-objektgeschaeft-mwd-region-nordrhein-westfalen-oder-grossraum-berlin-4.html",
-      "date": 1790028720,
-      "dateStr": "22. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
     },
     {
       "title": "Vaillant Group besetzt Geschäftsführung neu",
@@ -198,51 +108,6 @@
       "dateStr": "21. Sep. 2026",
       "source": "SBZ Monteur",
       "category": "Sanitär"
-    },
-    {
-      "title": "Wechsel in der Geschäftsführung der Vaillant Group",
-      "excerpt": "Der Aufsichtsrat der Vaillant GmbH hat Dr.-Ing. Armin Frommer mit Wirkung zum 1. Oktober 2026 zum...",
-      "link": "https://www.shk-journal.de//news/default-b4dd48c683.html",
-      "date": 1789945140,
-      "dateStr": "21. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Wachstum durch Weitblick: Zehn Jahre Austria Email GmbH",
-      "excerpt": "Mit Lösungskompetenz, Engagement und praxisorientierter Präzision zur Marktführerschaft",
-      "link": "https://www.shk-journal.de//news/default-c4f4c863f2.html",
-      "date": 1789945140,
-      "dateStr": "21. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Branche"
-    },
-    {
-      "title": "Internationaler Geberit Design Contest 2026: Das Hotelbad als private Bühne",
-      "excerpt": "Wie sich hochwertige Sanitärlösungen in ein stimmiges Gesamtbild integrieren",
-      "link": "https://www.shk-journal.de//news/internationaler-geberit-design-contest-2026-das-hotelbad-als-private-buehne.html",
-      "date": 1789945140,
-      "dateStr": "21. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Sanitär"
-    },
-    {
-      "title": "PLUGGIT: Kooperation für schnellere serielle Sanierung",
-      "excerpt": "Dezentrale Wohnraumlüftung direkt im Rollladenkasten",
-      "link": "https://www.shk-journal.de//news/kooperation-fuer-schnellere-serielle-sanierung.html",
-      "date": 1789945080,
-      "dateStr": "21. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "KESSEL stellt neue Hebeanlage für Wohnungsbau, Sanierung und kleinere Gewerbeobjekte vor.",
-      "excerpt": "Aqualift L – kompakt, wirtschaftlich, zuverlässig",
-      "link": "https://www.shk-journal.de//news/kessel-stellt-neue-hebeanlage-fuer-wohnungsbau-sanierung-und-kleinere-gewerbeobjekte-vor.html",
-      "date": 1789944840,
-      "dateStr": "21. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
     },
     {
       "title": "Energieeffizienz-Expertenliste bekommt die neue Kategorie Fachkräfte Heizung",
@@ -315,52 +180,7 @@
       "dateStr": "17. Sep. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "Splitfix: Kompakte Fettabscheider zur Freiaufstellung im Gebäude",
-      "excerpt": "Mit der Splitfix-Baureihe bietet Pentair Jung Pumpen kompakte Fettabscheider zur Freiaufstellung im Gebäude für Betriebe mit geringem bis mittlerem Fettanfall im Abwasser, etwa in Gastronomie und Lebensmittelverarbeitung",
-      "link": "https://www.sbz-online.de/abwasseraufbereitung/splitfix-kompakte-fettabscheider-zur-freiaufstellung-im-gebaeude",
-      "date": 1789537978,
-      "dateStr": "16. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Systemtriple im Mehrfamilienhaus",
-      "excerpt": "Drei Komponenten, ein Konzept: Wärmepumpe, Wohnungsstation und Wohnraumlüftung. Im Mehrfamilienhaus entscheidet nicht die einzelne Komponente über den Projekterfolg, sondern das Zusammenspiel des gesamten Systems.",
-      "link": "https://www.sbz-online.de/haus-und-gebaeudetechnik/systemtriple-im-mehrfamilienhaus",
-      "date": 1789537924,
-      "dateStr": "16. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "RIFA 2026: Zwei Tage, die die SHK-Branche zusammenbringen",
-      "excerpt": "Am 8. und 9. Oktober 2026 wird die NürnbergMesse zum Treffpunkt der SHK-Branche. Unter dem Motto „Fortschritt. Gemeinsam. Meistern!“ bringt die RIFA Hersteller, Fachhandwerk, Planer, Partner und Entscheider zusammen – fü",
-      "link": "https://www.sbz-online.de/messe/rifa-2026-zwei-tage-die-die-shk-branche-zusammenbringen",
-      "date": 1789537876,
-      "dateStr": "16. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
-    },
-    {
-      "title": "Gedatec vernetzt Frauen in der Gebäudetechnik",
-      "excerpt": "Am 14. Oktober rückt die Gedatec-Fachmesse Frauen in der Gebäudetechnik in den Fokus. In Berlin ist ein Netzwerktreffen geplant. Das Programm umfasst Austausch und Rundgänge.",
-      "link": "https://www.sbz-online.de/meldungen/messe-gedatec-vernetzt-frauen-der-gebaeudetechnik",
-      "date": 1789520406,
-      "dateStr": "16. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Smart Home"
-    },
-    {
-      "title": "Zahlt die KfW die Heizungsförderung erst ab Januar 2027 aus?",
-      "excerpt": "Seit dem 21. Juli 2026 gelten neue Regeln für die Heizungsförderung. Fließt Geld erst ab Januar 2027? Die KfW bezieht Stellung.",
-      "link": "https://www.sbz-online.de/meldungen/statement-zur-heizungsfoerderung-zahlt-die-kfw-die-heizungsfoerderung-erst-ab-januar-2027",
-      "date": 1789434008,
-      "dateStr": "15. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1790069644
+  "fetched": 1790156385
 }
