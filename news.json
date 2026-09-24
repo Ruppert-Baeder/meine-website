@@ -2,8 +2,44 @@
   "ok": true,
   "articles": [
     {
+      "title": "Dornbracht schult SHK-Handwerker in rund 30 Workshops pro Jahr",
+      "excerpt": "Der Armaturenhersteller Dornbracht baut den Austausch mit Installateurbetrieben über Präsenz- und Online-Formate aus. Jährlich finden in Deutschland etwa 30 Workshops statt. Im Schnitt nehmen 300 Mitarbeitende aus Handwe",
+      "link": "https://www.sbz-online.de/meldungen/praxiswissen-dornbracht-schult-shk-handwerker-rund-30-workshops-pro-jahr",
+      "date": 1790211608,
+      "dateStr": "24. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Gedatec 2026: VdZ prä­sen­tiert Start­ups",
+      "excerpt": "Auf der Gedatec 2026 präsentiert die VdZ in einer eigenen Startup-Area 18 junge Unternehmen mit Lösungen von KI bis Wärmetechnologie.",
+      "link": "https://www.sbz-online.de/meldungen/13-bis-15-oktober-2026-messe-berlin-gedatec-2026-vdz-praesentiert-startups",
+      "date": 1790211607,
+      "dateStr": "24. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Grünbeck stellt Wasseraufbereitungscontainer für Yunomi vor",
+      "excerpt": "Das Projekt Yunomi verbindet Wasser, Kultur und Verantwortung: Ein ein speziell entwickelter Aufbereitungscontainer von Grünbeck bereitet Trinkwasser in Kibera, Nairobi auf.",
+      "link": "https://www.sbz-online.de/meldungen/projekt-gruenbeck-stellt-wasseraufbereitungscontainer-fuer-yunomi-vor",
+      "date": 1790211606,
+      "dateStr": "24. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Geberit-We­bi­na­re zu zen­tra­len SHK-The­men",
+      "excerpt": "Die Seminar-Reihe deckt sechs zentrale Aspekte der Sanitärtechnik ab und bietet Einblicke in aktuelle Regelwerke sowie deren praktische Anwendung.",
+      "link": "https://www.sbz-online.de/meldungen/herbst-2026-geberit-webinare-zu-zentralen-shk-themen",
+      "date": 1790211606,
+      "dateStr": "24. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
       "title": "Die Reflex Group übernimmt ExGas Technology",
-      "excerpt": "Die Ahlener Reflex Group kauft die ExGas Technology GmbH und ergänzt damit ihr Servitec-Portfolio. Der Zukauf öffnet Anwendungsfelder außerhalb von Heizungs-, Lüftungs- und Klimatechnik (HLK) und gewerblichen Heizsysteme",
+      "excerpt": "Die Ahlener Reflex Group kauft die ExGas Technology GmbH. Die Entgasungstechnologie von ExGas soll das bestehende Servitec-Portfolio ergänzen.",
       "link": "https://www.sbz-online.de/meldungen/aquisitionen-die-reflex-group-uebernimmt-exgas-technology",
       "date": 1790125209,
       "dateStr": "23. Sep. 2026",
@@ -144,43 +180,7 @@
       "dateStr": "18. Sep. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "KTF unter Druck: Hand­werk warnt vor Um­schich­tung in den Bun­des­haus­halt",
-      "excerpt": "2,7 Mrd. Euro sollen 2027 aus dem Klima- und Transformationsfonds abgezogen werden. Die Taskforce Gebäudetechnik warnt vor einem Vertrauensverlust – ein Kommentar von SBZ-Chefredakteur Dennis Jäger.",
-      "link": "https://www.sbz-online.de/meldungen/kommentar-klimafonds-ktf-unter-druck-handwerk-warnt-vor-umschichtung-den-bundeshaushalt",
-      "date": 1789622655,
-      "dateStr": "17. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "September 2026: Holzpellet­preis steigt auf 454,21 Euro pro Tonne",
-      "excerpt": "Der Preis für Holz­pellets ist im September 2026 gegen­über dem Vor­mo­nat um 6,2 % auf 454,21 Euro/t ge­stiegen und liegt da­mit ak­tu­ell 12,5 % über dem 12-Monats­durch­schnitt von 403,63 Euro/t.",
-      "link": "https://www.sbz-online.de/meldungen/energietraeger-september-2026-holzpelletpreis-steigt-auf-45421-euro-pro-tonne",
-      "date": 1789616479,
-      "dateStr": "17. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "50 Jahre Sanipa: Bad­mö­bel „Made in Germany“",
-      "excerpt": "Seit 50 Jahren fertigt Sanipa in Treuchtlingen Badmöbel für mehrere Marken – mit Fokus auf Qualität, individuelle Lösungen und Zuverlässigkeit.",
-      "link": "https://www.sbz-online.de/meldungen/jubilaeum-50-jahre-sanipa-badmoebel-made-germany",
-      "date": 1789606807,
-      "dateStr": "17. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Geberit schult Fachkräfte und Nachwuchs für SHK",
-      "excerpt": "Vier Schulungszentren, Webseminare und E-Learnings vermitteln Wissen für die Baustelle. Geberit verknüpft dabei Normen, Produkte und praktische Demonstrationen.",
-      "link": "https://www.sbz-online.de/meldungen/schulungszentren-geberit-schult-fachkraefte-und-nachwuchs-fuer-shk",
-      "date": 1789606807,
-      "dateStr": "17. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1790156385
+  "fetched": 1790242736
 }
