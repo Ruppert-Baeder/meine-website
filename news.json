@@ -2,13 +2,31 @@
   "ok": true,
   "articles": [
     {
-      "title": "ifo: Firmen streichen etwas weniger Jobs (September 2026)",
-      "excerpt": "Das ifo Beschäftigungsbarometer stieg leicht auf 95,1 Punkte, nach 94,8 Punkten im August. „Der...",
-      "link": "https://www.shk-journal.de//news/ifo-firmen-streichen-etwas-weniger-jobs-september-2026.html",
-      "date": 1790588991,
+      "title": "SHK NRW macht Innungs­be­triebe online sichtbar",
+      "excerpt": "Eine neue Fachbetriebssuche und eine lan­des­weite Kam­pagne des SHK NRW sollen Ver­brau­cher in NRW künf­tig direkt zu Innungs­fach­be­trie­ben führen.",
+      "link": "https://www.sbz-online.de/meldungen/verbraucherkampagne-shk-nrw-macht-innungsbetriebe-online-sichtbar",
+      "date": 1790643607,
+      "dateStr": "29. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Wie die Pelletbranche ihre Poten­ziale gemein­sam heben will",
+      "excerpt": "Die Pelletbranche steht vor Heraus­for­de­rungen. Exper­ten for­dern gemein­sames Han­deln und bessere Kom­mu­ni­ka­tion, um Poten­ziale effektiv zu nutzen.",
+      "link": "https://www.sbz-online.de/meldungen/holzenergie-wie-die-pelletbranche-ihre-potenziale-gemeinsam-heben-will",
+      "date": 1790643606,
+      "dateStr": "29. Sep. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "KfW-Programm 455-B: Ver­bände fordern Neustart",
+      "excerpt": "Eine Verbändeallianz fordert den schnellen Neustart des KfW-Pro­gramms 455-B für barrie­re­redu­zie­rende Um­bau­ten und ver­läss­liche Bundesmittel.",
+      "link": "https://www.sbz-online.de/meldungen/foerderprogramme-kfw-programm-455-b-verbaende-fordern-neustart",
+      "date": 1790587916,
       "dateStr": "28. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
+      "source": "SBZ Monteur",
+      "category": "Förderung"
     },
     {
       "title": "SBZ ruft an bei Richter+Frenzel zu RIFA und FOR",
@@ -44,177 +62,6 @@
       "date": 1790557206,
       "dateStr": "28. Sep. 2026",
       "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "DEPI: Branchentag Pellets - Herausforderungen von innen und außen",
-      "excerpt": "Pelletbranche will Pontenziale gemeinsam heben",
-      "link": "https://www.shk-journal.de//news/depi-branchentag-pellets-herausforderungen-von-innen-und-aussen.html",
-      "date": 1790549940,
-      "dateStr": "28. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "EWS M&amp;A-Beratung: Wo bei einem Unternehmensverkauf bares Geld verloren geht",
-      "excerpt": "Bei einem Unternehmensverkauf geht nicht nur bei der Verhandlung Geld verloren. Oft entsteht der...",
-      "link": "https://www.shk-journal.de//news/wo-bei-einem-unternehmensverkauf-bares-geld-verloren-geht-1.html",
-      "date": 1790549940,
-      "dateStr": "28. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Branche"
-    },
-    {
-      "title": "Neue Heizungspumpen-Generation Alpha Go von Grundfos",
-      "excerpt": "Der Namenszusatz der neuen Modelle Alpha1 GO und Alpha2 GO ist Programm: Die Smartphone-App...",
-      "link": "https://www.shk-journal.de//news/default-da3e9fbc3c.html",
-      "date": 1790549820,
-      "dateStr": "28. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Neue Key Colour „Salvia“ bei Bette: Der Salbei-Farbton für harmonische Badgestaltung",
-      "excerpt": "Der Spezialist für Badelemente aus glasiertem Titan-Stahl, Bette, erweitert seine Farbpalette um...",
-      "link": "https://www.shk-journal.de//news/default-4b9635543a.html",
-      "date": 1790549820,
-      "dateStr": "28. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "aquatherm verbindet Weltkindertag und World Cleaning Day",
-      "excerpt": "Die aquatherm GmbH, mittelständisches Familienunternehmen und Spezialist für...",
-      "link": "https://www.shk-journal.de//news/aquatherm-verbindet-weltkindertag-und-world-cleaning-day.html",
-      "date": 1790549760,
-      "dateStr": "28. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Branche"
-    },
-    {
-      "title": "Airflow erweitert die SoundEar® 4-Reihe für Lärmmonitoring",
-      "excerpt": "Robuste Lärmüberwachung mit integriertem Dosimeter für Gehörschutz am Arbeitsplatz",
-      "link": "https://www.shk-journal.de//news/airflow-erweitert-die-soundearr-4-reihe-fuer-laermmonitoring.html",
-      "date": 1790549640,
-      "dateStr": "28. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "ATEC - Webinar: Großwärmepumpen im Kontext Mehrfamilienhaus und Gewerbe",
-      "excerpt": "Am 6. Oktober 2026 um 15:00 - 15:40 Uhr und am 15. Dezember 2026 um 15:00 - 15:40 Uhr",
-      "link": "https://www.shk-journal.de//news/atec-webinar-grosswaermepumpen-im-kontext-mehrfamilienhaus-und-gewerbe-1.html",
-      "date": 1790549520,
-      "dateStr": "28. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "BRÖTJE: Aus der Praxis entwickelt - Zubehör für die Wärmepumpenaufstellung",
-      "excerpt": "Stabilisieren, schützen und verschönern leicht gemacht: Für die Luft-Wasser-Wärmepumpe BLW Mono.1...",
-      "link": "https://www.shk-journal.de//news/broetje-aus-der-praxis-entwickelt-zubehoer-fuer-die-waermepumpenaufstellung-1-1.html",
-      "date": 1790549340,
-      "dateStr": "28. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Meltem: Frische Luft im Handumdrehen",
-      "excerpt": "Regelmäßiger Filterwechsel für hohe Luftqualität",
-      "link": "https://www.shk-journal.de//news/meltem-frische-luft-im-handumdrehen.html",
-      "date": 1790549220,
-      "dateStr": "28. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Video - SYR: Die NeoSoft 5000 Connect Doppelenthärtungsanlage",
-      "excerpt": "Die NeoSoft 5000 Connect begründet eine neue Generation von SYR Enthärtungsanlagen mit modernster...",
-      "link": "https://www.shk-journal.de//news/video-syr.html",
-      "date": 1790549160,
-      "dateStr": "28. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "IMI präsentiert Neuheiten auf der GET NORD in Hamburg",
-      "excerpt": "Effiziente Systemlösungen für moderne Gebäudetechnik",
-      "link": "https://www.shk-journal.de//news/imi-praesentiert-neuheiten-auf-der-get-nord-in-hamburg-1.html",
-      "date": 1790548980,
-      "dateStr": "28. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Hoval Integrate als ganzheitliches System für eine einfache Integration",
-      "excerpt": "Offene Schnittstellen für smarte Energie- und IoT Lösungen",
-      "link": "https://www.shk-journal.de//news/default-a128cb153a.html",
-      "date": 1790548980,
-      "dateStr": "28. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "ELEKTRO+ und WÄRME+ auf gedatec und GET NORD: Gemeinsames Forum zukunftssichere Gebäudetechnik",
-      "excerpt": "Elektroinstallation und Wärmetechnik im Zusammenspiel – auf zwei Fachmessen im Herbst 2026",
-      "link": "https://www.shk-journal.de//news/elektro-und-waerme-auf-gedatec-und-get-nord-gemeinsames-forum-zukunftssichere-gebaeudetechnik.html",
-      "date": 1790461020,
-      "dateStr": "27. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Vernetzen, steuern, integrieren: GET NORD 2026 im Zeichen moderner Gebäude- und Energietechnik",
-      "excerpt": "Vernetzte Gebäude, intelligente Energiesysteme und das wachsende Zusammenspiel von...",
-      "link": "https://www.shk-journal.de//news/vernetzen-steuern-integrieren-get-nord-2026-im-zeichen-moderner-gebaeude-und-energietechnik.html",
-      "date": 1790460540,
-      "dateStr": "27. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Smart Home"
-    },
-    {
-      "title": "Gewerkeübergreifend planen: Gebäudetechnik intelligent vernetzen",
-      "excerpt": "Moderne Gebäude vereinen immer mehr technische Systeme, digitale Funktionen und Datenströme. Wärme-...",
-      "link": "https://www.shk-journal.de//news/gewerkeuebergreifend-planen-gebaeudetechnik-intelligent-vernetzen.html",
-      "date": 1790376540,
-      "dateStr": "26. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Tag des Bades 2026: Hunderte Badausstellungen, starke Medienresonanz – und ein neuer digitaler Hub für die Branche",
-      "excerpt": "Der Tag des Bades 2026 war erneut ein voller Erfolg: Hunderte Badausstellungen von Fachhandwerk und...",
-      "link": "https://www.shk-journal.de//news/default-5214c623b9.html",
-      "date": 1790374260,
-      "dateStr": "26. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "DESTATIS: Auftragseingang im Bauhauptgewerbe im Juli 2026",
-      "excerpt": "-9,2 % zum Vormonat",
-      "link": "https://www.shk-journal.de//news/destatis-auftragseingang-im-bauhauptgewerbe-im-juli-2026.html",
-      "date": 1790364660,
-      "dateStr": "25. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Der Bundespräsident zu Gast bei RESOL 🤝",
-      "excerpt": "Am 23. September wurde der RESOL – Elektronische Regelungen GmbH eine besondere Ehre zuteil:...",
-      "link": "https://www.shk-journal.de//news/hoher-besuch-bei-resol.html",
-      "date": 1790364600,
-      "dateStr": "25. Sep. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Heimspiel mit System – MEFA auf der Wirtschaftsmesse Künzelsau",
-      "excerpt": "Drei Tage voller interessanter Gespräche, praxisnaher Einblicke in moderne Befestigungstechnik und...",
-      "link": "https://www.shk-journal.de//news/default-c7ce445268.html",
-      "date": 1790364540,
-      "dateStr": "25. Sep. 2026",
-      "source": "SHK Journal",
       "category": "Heizung"
     },
     {
@@ -333,34 +180,7 @@
       "dateStr": "21. Sep. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Wärmepumpen und Bat­te­rie­spei­cher trei­ben Ge­bäu­de­wen­de an",
-      "excerpt": "Der aktuelle dena-Gebäudereport zeigt: Wärmepumpen und Batteriespeicher legen zu, Gebäudesolar und Bestandssanierung hinken hinterher.",
-      "link": "https://www.sbz-online.de/meldungen/dena-gebaeudereport-waermepumpen-und-batteriespeicher-treiben-gebaeudewende",
-      "date": 1789952409,
-      "dateStr": "21. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "U-Power über­nimmt Kübler Workwear",
-      "excerpt": "U-Power übernimmt die Paul H. Kübler Bekleidungswerk GmbH & Co. KG und baut damit seine Präsenz im deutschen PSA-Markt aus.",
-      "link": "https://www.sbz-online.de/meldungen/akquisitionen-u-power-uebernimmt-kuebler-workwear",
-      "date": 1789952408,
-      "dateStr": "21. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
-    },
-    {
-      "title": "Geberit Design Contest 2026: Hotelbad als private Bühne",
-      "excerpt": "Der internationale Geberit Design Contest 2026 präsentiert innovative Hotelbadkonzepte. Bis 31. Oktober 2026 kann online über den Sieger abgestimmt werden.",
-      "link": "https://www.sbz-online.de/meldungen/badgestaltung-geberit-design-contest-2026-hotelbad-als-private-buehne",
-      "date": 1789952407,
-      "dateStr": "21. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
     }
   ],
-  "fetched": 1790594467
+  "fetched": 1790679596
 }
