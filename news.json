@@ -2,6 +2,42 @@
   "ok": true,
   "articles": [
     {
+      "title": "Gedatec 2026: VdZ prä­sen­tiert Start­ups",
+      "excerpt": "Auf der Gedatec 2026 präsentiert die VdZ in einer eigenen Startup-Area 18 junge Unternehmen mit Lösungen von KI bis Wärmetechnologie.",
+      "link": "https://www.sbz-online.de/meldungen/13-bis-15-oktober-2026-messe-berlin-gedatec-2026-vdz-praesentiert-startups",
+      "date": 1791352087,
+      "dateStr": "7. Okt. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Interview: Warum wird das Fach­hand­werk jetzt an­ge­sprochen?",
+      "excerpt": "Die #CONNECTINGHEAT 2026 wendet sich erst­ma­lig mit einem Fach­kong­ress an SHK-Betriebe. Dennis Jäger befragt dazu Frederic Leers vom BDH.",
+      "link": "https://www.sbz-online.de/meldungen/waermewende-im-handwerk-interview-warum-wird-das-fachhandwerk-jetzt-angesprochen",
+      "date": 1791347152,
+      "dateStr": "7. Okt. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
+      "title": "Garant vertieft das Thema KI bei Herbsttagung",
+      "excerpt": "Die Herbsttagung des Garant-Netzwerks setzte den Schwerpunkt auf Künstliche Intelligenz. Ein Workshop zeigte Anwendungen für den Fachhandel.",
+      "link": "https://www.sbz-online.de/meldungen/veranstaltung-garant-vertieft-das-thema-ki-bei-herbsttagung",
+      "date": 1791334808,
+      "dateStr": "7. Okt. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "#CONNECTINGHEAT 2026: Fach­fo­rum für SHK-Hand­werk",
+      "excerpt": "Die #CONNECTINGHEAT 2026 startet erstmals mit einem dedizierten Fachforum für SHK-Profis – mit Themen wie der neuen BEG-Förderung und der Installation von Wärmepumpen.",
+      "link": "https://www.sbz-online.de/meldungen/14-15-oktober-2026-berlin-connectingheat-2026-fachforum-fuer-shk-handwerk",
+      "date": 1791334807,
+      "dateStr": "7. Okt. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Systeme für SHK-Profis: bleifrei, rei­ni­gungs­freund­lich, drehbar",
       "excerpt": "Spülkasten im WC integriert, Teles­kop-Adapter, Betä­ti­gungs­platten in gebürs­te­tem Nickel, dreh­bare Möbel, zu­schneid­bare Duschflächen.",
       "link": "https://www.sbz-online.de/meldungen/abgesteckt-systeme-fuer-shk-profis-bleifrei-reinigungsfreundlich-drehbar",
@@ -9,6 +45,15 @@
       "dateStr": "6. Okt. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
+    },
+    {
+      "title": "Gedatec vernetzt Frauen in der Gebäudetechnik",
+      "excerpt": "Am 14. Oktober rückt die Gedatec-Fachmesse Frauen in der Gebäudetechnik in den Fokus. In Berlin ist ein Netzwerktreffen geplant. Das Programm umfasst Austausch und Rundgänge.",
+      "link": "https://www.sbz-online.de/meldungen/messe-gedatec-vernetzt-frauen-der-gebaeudetechnik",
+      "date": 1791248406,
+      "dateStr": "6. Okt. 2026",
+      "source": "SBZ Monteur",
+      "category": "Smart Home"
     },
     {
       "title": "Kermi startet Partnerprogramm „K1 Kermunity“",
@@ -54,6 +99,15 @@
       "dateStr": "2. Okt. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
+    },
+    {
+      "title": "Gedatec 2026: Neue Fach­mes­se bün­delt Ge­wer­ke der Ge­bäu­de­tech­nik",
+      "excerpt": "Nach dem Aus der Bautec startet die Messe Berlin 2026 mit der Gedatec ein neues, gewerkeübergreifendes Format für SHK, Elektro und Dachhandwerk.",
+      "link": "https://www.sbz-online.de/meldungen/13-bis-15-oktober-2026-messe-berlin-gedatec-2026-neue-fachmesse-buendelt-gewerke-der",
+      "date": 1790902807,
+      "dateStr": "2. Okt. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
     },
     {
       "title": "Grohe: Neues Water Experience Center in Düs­sel­dorf er­öff­net",
@@ -126,61 +180,7 @@
       "dateStr": "28. Sep. 2026",
       "source": "SBZ Monteur",
       "category": "Förderung"
-    },
-    {
-      "title": "SBZ ruft an bei Richter+Frenzel zu RIFA und FOR",
-      "excerpt": "Im Podcast „SBZ ruft an“ spricht Robert Oberberger von R+F über die RIFA in Nürnberg, den Wert per­sön­li­cher Begeg­nungen und die Bad­marke FOR.",
-      "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-bei-richterfrenzel-zu-rifa-und",
-      "date": 1790557207,
-      "dateStr": "28. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Personelle Veränderungen in der SHK-Branche",
-      "excerpt": "Neue Gesichter, Positionen und Verantwortlichkeiten bei Grünbeck, Dornbracht, dem VDMA Armaturen und Taconova.",
-      "link": "https://www.sbz-online.de/meldungen/personalien-personelle-veraenderungen-der-shk-branche-35",
-      "date": 1790557206,
-      "dateStr": "28. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Tag des Bades 2026 wirbt für das individuelle Bad vom SHK-Profi",
-      "excerpt": "Hunderte Badausstellungen von Fachhandwerk und Großhandel haben am 19. September bundesweit ihre Türen geöffnet. Neu dabei: die Verbraucherplattform GutesBad.de mit rund 140 registrierten Ausstellungen.",
-      "link": "https://www.sbz-online.de/meldungen/aktionstag-tag-des-bades-2026-wirbt-fuer-das-individuelle-bad-vom-shk-profi",
-      "date": 1790557206,
-      "dateStr": "28. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Vernetzte Gebäude- und Energietechnik rückt in den Mittelpunkt",
-      "excerpt": "Vom 19. bis 21. November 2026 zeigt die Hamburger Fachmesse, wie Wärmepumpen, PV, Speicher und Ladeinfrastruktur digital zusammenwachsen.",
-      "link": "https://www.sbz-online.de/meldungen/get-nord-2026-vernetzte-gebaeude-und-energietechnik-rueckt-den-mittelpunkt",
-      "date": 1790557206,
-      "dateStr": "28. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Dornbracht schult SHK-Handwerker in rund 30 Workshops pro Jahr",
-      "excerpt": "Der Armaturenhersteller Dornbracht baut den Austausch mit Installateurbetrieben über Präsenz- und Online-Formate aus. Jährlich finden in Deutschland etwa 30 Workshops statt. Im Schnitt nehmen 300 Mitarbeitende aus Handwe",
-      "link": "https://www.sbz-online.de/meldungen/praxiswissen-dornbracht-schult-shk-handwerker-rund-30-workshops-pro-jahr",
-      "date": 1790211608,
-      "dateStr": "24. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Gedatec 2026: VdZ prä­sen­tiert Start­ups",
-      "excerpt": "Auf der Gedatec 2026 präsentiert die VdZ in einer eigenen Startup-Area 18 junge Unternehmen mit Lösungen von KI bis Wärmetechnologie.",
-      "link": "https://www.sbz-online.de/meldungen/13-bis-15-oktober-2026-messe-berlin-gedatec-2026-vdz-praesentiert-startups",
-      "date": 1790211607,
-      "dateStr": "24. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1791286647
+  "fetched": 1791372417
 }
