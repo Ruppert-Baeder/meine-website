@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "SBZ ruft an bei Richter+Frenzel zu RIFA und FOR",
+      "excerpt": "Im Podcast „SBZ ruft an“ spricht Robert Oberberger von R+F über die RIFA in Nürnberg, den Wert per­sön­li­cher Begeg­nungen und die Bad­marke FOR.",
+      "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-bei-richterfrenzel-zu-rifa-und",
+      "date": 1791421207,
+      "dateStr": "8. Okt. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Schütz Energy Systems bietet Inhouse-WHG-Seminare an",
+      "excerpt": "Neue Inhouse-WHG-Seminare für Lagerbehälter: Der Grundkurs vermittelt die Grundlagen für betrieblich Verantwortliche in Fachbetrieben für Heizölverbraucheranlagen nach AwSV.",
+      "link": "https://www.sbz-online.de/meldungen/erstqualifizierung-nach-awsv-schuetz-energy-systems-bietet-inhouse-whg-seminare",
+      "date": 1791421206,
+      "dateStr": "8. Okt. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Gedatec 2026: VdZ prä­sen­tiert Start­ups",
       "excerpt": "Auf der Gedatec 2026 präsentiert die VdZ in einer eigenen Startup-Area 18 junge Unternehmen mit Lösungen von KI bis Wärmetechnologie.",
       "link": "https://www.sbz-online.de/meldungen/13-bis-15-oktober-2026-messe-berlin-gedatec-2026-vdz-praesentiert-startups",
@@ -162,25 +180,7 @@
       "dateStr": "29. Sep. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Wie die Pelletbranche ihre Poten­ziale gemein­sam heben will",
-      "excerpt": "Die Pelletbranche steht vor Heraus­for­de­rungen. Exper­ten for­dern gemein­sames Han­deln und bessere Kom­mu­ni­ka­tion, um Poten­ziale effektiv zu nutzen.",
-      "link": "https://www.sbz-online.de/meldungen/holzenergie-wie-die-pelletbranche-ihre-potenziale-gemeinsam-heben-will",
-      "date": 1790643606,
-      "dateStr": "29. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "KfW-Programm 455-B: Ver­bände fordern Neustart",
-      "excerpt": "Eine Verbändeallianz fordert den schnellen Neustart des KfW-Pro­gramms 455-B für barrie­re­redu­zie­rende Um­bau­ten und ver­läss­liche Bundesmittel.",
-      "link": "https://www.sbz-online.de/meldungen/foerderprogramme-kfw-programm-455-b-verbaende-fordern-neustart",
-      "date": 1790587916,
-      "dateStr": "28. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Förderung"
     }
   ],
-  "fetched": 1791372417
+  "fetched": 1791459753
 }
