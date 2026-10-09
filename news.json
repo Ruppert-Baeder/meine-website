@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "Pauschales PFAS-Verbot gefährdet Energiewende",
+      "excerpt": "Verbände der Kälte, Klima- und Wär­me­pum­pen­bran­che war­nen vor den Fol­gen eines pau­scha­len PFAS-Ver­bots und for­dern eine diffe­ren­zierte Regulierung.",
+      "link": "https://www.sbz-online.de/meldungen/verbaende-pauschales-pfas-verbot-gefaehrdet-energiewende",
+      "date": 1791521655,
+      "dateStr": "9. Okt. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Remko feiert 50 Jahre mit Familienfest",
+      "excerpt": "Zum 50-jährigen Jubiläum lud Remko Mitarbeitende und Angehörige ein. Der Familientag fand auf dem Werksgelände in Lage statt.",
+      "link": "https://www.sbz-online.de/meldungen/jubilaeum-remko-feiert-50-jahre-mit-familienfest",
+      "date": 1791507608,
+      "dateStr": "9. Okt. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Das kann die neue Akku-Radialpresse Mini-Press",
+      "excerpt": "Die Mini-Press von Rems verbindet universelle Einsatzmöglichkeiten mit besonders kompakter Bauform, geringem Gewicht und moderner 12-V-Akku-Technologie.",
+      "link": "https://www.sbz-online.de/meldungen/rems-das-kann-die-neue-akku-radialpresse-mini-press",
+      "date": 1791507607,
+      "dateStr": "9. Okt. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "SBZ ruft an bei Richter+Frenzel zu RIFA und FOR",
       "excerpt": "Im Podcast „SBZ ruft an“ spricht Robert Oberberger von R+F über die RIFA in Nürnberg, den Wert per­sön­li­cher Begeg­nungen und die Bad­marke FOR.",
       "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-bei-richterfrenzel-zu-rifa-und",
@@ -153,34 +180,7 @@
       "dateStr": "30. Sep. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Pietsch Gruppe: Vierte Gene­ra­tion über­nimmt ab Januar 2027",
-      "excerpt": "Bei der Pietsch Gruppe aus Ahaus steht ein Gene­ra­tions­wech­sel an: Fritz Felix Pietsch rückt zum 1. Januar 2027 in die Gruppen­ge­schäfts­füh­rung auf.",
-      "link": "https://www.sbz-online.de/meldungen/unternehmensnachfolge-pietsch-gruppe-vierte-generation-uebernimmt-ab-januar-2027",
-      "date": 1790730007,
-      "dateStr": "30. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "IHM 2027: Neues Forum für Zu­kunfts­themen und Fach­kräfte",
-      "excerpt": "Die  IHM erweitert 2027 ihr Angebot. Im Fokus: Digi­ta­li­sie­rung, KI, Fach­kräf­te­si­che­rung und Unter­neh­mens­nach­folge.",
-      "link": "https://www.sbz-online.de/meldungen/10-bis-14-maerz-2027-messe-muenchen-ihm-2027-neues-forum-fuer-zukunftsthemen-und",
-      "date": 1790730006,
-      "dateStr": "30. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "SHK NRW macht Innungs­be­triebe online sichtbar",
-      "excerpt": "Eine neue Fachbetriebssuche und eine lan­des­weite Kam­pagne des SHK NRW sollen Ver­brau­cher in NRW künf­tig direkt zu Innungs­fach­be­trie­ben führen.",
-      "link": "https://www.sbz-online.de/meldungen/verbraucherkampagne-shk-nrw-macht-innungsbetriebe-online-sichtbar",
-      "date": 1790643607,
-      "dateStr": "29. Sep. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1791459753
+  "fetched": 1791545743
 }
