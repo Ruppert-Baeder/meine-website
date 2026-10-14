@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Diese Wärmepumpen­marken sind bei Wohn­eigen­tü­mern präsent",
+      "excerpt": "Eine aktuelle Studie von Sirius Campus zeigt, welche Wärme­pum­pen­her­steller die höchste Mar­ken­be­kannt­heit bei Wohn­eigen­tü­mern haben.",
+      "link": "https://www.sbz-online.de/meldungen/marktuntersuchung-diese-waermepumpenmarken-sind-bei-wohneigentuemern-praesent",
+      "date": 1791939607,
+      "dateStr": "14. Okt. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "RIFA 2026: SHK-Branche setzt auf Fort­schritt",
       "excerpt": "Die RIFA 2026 zog am 8. und 9. Oktober rund 9000 Besucher nach Nürnberg und brachte unter dem Motto „Fortschritt. Gemeinsam. Meistern!“ mehr als 200 Hersteller zusammen.",
       "link": "https://www.sbz-online.de/meldungen/messen-rifa-2026-shk-branche-setzt-auf-fortschritt",
@@ -171,16 +180,7 @@
       "dateStr": "2. Okt. 2026",
       "source": "SBZ Monteur",
       "category": "Branche"
-    },
-    {
-      "title": "Grünbeck AG: Vorstand erwei­tert, Stoll neuer CEO",
-      "excerpt": "Die Grünbeck AG erweitert ihren Vor­stand zum 1.  Januar 2027 um zwei Mitglieder. Dr. Günter Stoll wird zum Vor­stands­vor­sit­zen­den ernannt.",
-      "link": "https://www.sbz-online.de/meldungen/personalie-gruenbeck-ag-vorstand-erweitert-stoll-neuer-ceo",
-      "date": 1790902807,
-      "dateStr": "2. Okt. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1791894171
+  "fetched": 1791971497
 }
