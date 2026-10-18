@@ -2,6 +2,186 @@
   "ok": true,
   "articles": [
     {
+      "title": "Die Chillventa 2026 überzeugte auf ganzer Linie",
+      "excerpt": "Die Chillventa schließt mit deutlich mehr Ausstellern und Besuchern und bestätigt damit einmal mehr...",
+      "link": "https://www.shk-journal.de//news/default-bb14726d30.html",
+      "date": 1792277460,
+      "dateStr": "18. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Aktuell"
+    },
+    {
+      "title": "RIFA 2026 zieht rund 9.000 Besucher nach Nürnberg",
+      "excerpt": "Richter+Frenzel zieht positive Bilanz der zweitägigen Fachmesse",
+      "link": "https://www.shk-journal.de//news/default-77f1610cb5.html",
+      "date": 1792276080,
+      "dateStr": "18. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Branche"
+    },
+    {
+      "title": "Gelungene Premiere: gedatec startet erfolgreich mit neuem Messekonzept",
+      "excerpt": "Neue Fachmesse für vernetzte Gebäudetechnik bringt Elektro-, SHK- und Dachdeckergewerke in Berlin...",
+      "link": "https://www.shk-journal.de//news/gelungene-premiere-gedatec-startet-erfolgreich-mit-neuem-messekonzept.html",
+      "date": 1792190760,
+      "dateStr": "17. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "Heizungsbranche fordert verlässliche Investitionsbedingungen für eine nachhaltige Wärmeversorgung",
+      "excerpt": "#CONNECTINGHEAT 2026: Heizungsindustrie und Fachhandwerk drängen auf langfristige Förderung,...",
+      "link": "https://www.shk-journal.de//news/default-c3d146f114.html",
+      "date": 1792188420,
+      "dateStr": "17. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "DESTATIS: Baugenehmigungen für Wohnungen im August 2026",
+      "excerpt": "+6,8 % zum Vorjahresmonat",
+      "link": "https://www.shk-journal.de//news/destatis-baugenehmigungen-fuer-wohnungen-im-august-2026.html",
+      "date": 1792179180,
+      "dateStr": "16. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Aktuell"
+    },
+    {
+      "title": "ifo: Stimmung im Wohnungsbau weniger zuversichtlich",
+      "excerpt": "Die Stimmung im Wohnungsbau war im September pessimistischer als im August.",
+      "link": "https://www.shk-journal.de//news/ifo-stimmung-im-wohnungsbau-weniger-zuversichtlich.html",
+      "date": 1792179120,
+      "dateStr": "16. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Artweger ONE – die Eine für Alles",
+      "excerpt": "Premium-Duschenserie mit 360° TWIN-Scharnier",
+      "link": "https://www.shk-journal.de//news/default-4579a83adf.html",
+      "date": 1792179000,
+      "dateStr": "16. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Sanitär"
+    },
+    {
+      "title": "RADAWAY: Spieglein, Spieglein an der… Duschkabine?",
+      "excerpt": "Gerade in kleinen Badezimmern ist Kreativität gefragt, um alle Wünsche auf begrenztem Raum...",
+      "link": "https://www.shk-journal.de//news/spieglein-spieglein-an-der-duschkabine-1.html",
+      "date": 1792178940,
+      "dateStr": "16. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Kunstwerke in der Dusche: HSK macht’s möglich!",
+      "excerpt": "Neue spektakuläre Designs für RenoDeco Wandverkleidungen",
+      "link": "https://www.shk-journal.de//news/kunstwerke-in-der-dusche-hsk-machts-moeglich-5.html",
+      "date": 1792178880,
+      "dateStr": "16. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Sanitär"
+    },
+    {
+      "title": "glassdouche: Kleines Bad, geniales Bad",
+      "excerpt": "So machen Sie Ihr kleines Bad größer, schöner und heller.",
+      "link": "https://www.shk-journal.de//news/glassdouche-kleines-bad-geniales-bad-4.html",
+      "date": 1792178820,
+      "dateStr": "16. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Eco-HK 130-230",
+      "excerpt": "HARGASSNER Hackgutheizung: Dieser Kessel bringt professionelle Wärmeleistung für den großen...",
+      "link": "https://www.shk-journal.de//news/eco-hk-130-230-1.html",
+      "date": 1792178760,
+      "dateStr": "16. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "repaBAD: GEWONNEN!",
+      "excerpt": "Waschtischplatte NALU sichert sich Iconic Award 2026",
+      "link": "https://www.shk-journal.de//news/repabad-gewonnen.html",
+      "date": 1792178700,
+      "dateStr": "16. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Heizspiegel für Deutschland: Preise steigen 2026",
+      "excerpt": "Das Heizen in Deutschland hat sich nach einer kurzen Phase der Entspannung wieder spürbar...",
+      "link": "https://www.shk-journal.de//news/default-1d71bb6e00.html",
+      "date": 1792178640,
+      "dateStr": "16. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Aktuell"
+    },
+    {
+      "title": "DOYMA: Wärmepumpen-Know-how mit Qualifikation",
+      "excerpt": "4-Tage-Schulung Sachkundiger für Wärmepumpensysteme – Kategorie PE vom 07.12.2026 – 10.12.2026",
+      "link": "https://www.shk-journal.de//news/doyma-waermepumpen-know-how-mit-qualifikation.html",
+      "date": 1792178580,
+      "dateStr": "16. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "GWK Kuhlmann präsentiert: Die ES-Box – Passgenaue Dämmung für Flanscharmaturen",
+      "excerpt": "In der modernen SHK-Branche sind effiziente und passgenaue Dämmungslösungen unerlässlich. Mit der...",
+      "link": "https://www.shk-journal.de//news/gwk-kuhlmann-praesentiert-die-es-box-passgenaue-daemmung-fuer-flanscharmaturen-2.html",
+      "date": 1792178460,
+      "dateStr": "16. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Sanitär"
+    },
+    {
+      "title": "GEO: Die Schiebetür ANS66 aus der Serie maw flex für breite Nischeneinbausituationen",
+      "excerpt": "Die Duschkabinen Serie maw flex von GEO liefert beste Qualität made in Germany und eine große...",
+      "link": "https://www.shk-journal.de//news/geo-die-schiebetuer-ans66-aus-der-serie-maw-flex-fuer-breite-nischeneinbausituationen-7-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1.html",
+      "date": 1792178460,
+      "dateStr": "16. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Aktuell"
+    },
+    {
+      "title": "ACO Haustechnik: Veranstaltungsreihe - Starkregen im Dialog",
+      "excerpt": "Lernen Sie aktuelle Anforderungen, rechtliche Rahmenbedingungen und praxisnahe Lösungsansätze...",
+      "link": "https://www.shk-journal.de//news/default-114b7b3272-2.html",
+      "date": 1792178400,
+      "dateStr": "16. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Förderung"
+    },
+    {
+      "title": "Schröder Wannentechnik: Maßgeschneiderte Wannenschürzen von Schröder Wannentechnik: Fugenlose Optik und maximale Flexibilität in der Badplanung",
+      "excerpt": "Bei der Planung moderner Badezimmer sind durchgängige Linien, hochwertige Oberflächen und...",
+      "link": "https://www.shk-journal.de//news/massgeschneiderte-wannenschuerzen-von-schroeder-wannentechnik-fugenlose-optik-und-maximale-flexibilitaet-in-der-badplanung.html",
+      "date": 1792178340,
+      "dateStr": "16. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Die RIFA2026 war ein großer Erfolg",
+      "excerpt": "Es gab viele interessante Gespräche und jede Menge neue Kontakte, die uns helfen werden die...",
+      "link": "https://www.shk-journal.de//news/default-b3bd7ed764.html",
+      "date": 1792177320,
+      "dateStr": "16. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "Personalplanung 2027 im SHK-Vertrieb beginnt jetzt",
+      "excerpt": "Neue Verkaufsgebiete erschließen, den Fachgroßhandel betreuen und das SHK-Handwerk kompetent...",
+      "link": "https://www.shk-journal.de//news/personalplanung-2027-im-shk-vertrieb-beginnt-jetzt.html",
+      "date": 1792177140,
+      "dateStr": "16. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Branche"
+    },
+    {
       "title": "Heizungsbranche drängt auf verlässliche Investitionsbedingungen",
       "excerpt": "Heizungsindustrie und Fachhandwerk verlangen eine langfristige Förderung, weniger Bürokratie und fairen Wettbewerb. Anlass ist die #CONNECTINGHEAT 2026 gewesen.",
       "link": "https://www.sbz-online.de/meldungen/waermemarkt-heizungsbranche-draengt-auf-verlaessliche-investitionsbedingungen",
@@ -182,5 +362,5 @@
       "category": "Branche"
     }
   ],
-  "fetched": 1792227410
+  "fetched": 1792314910
 }
