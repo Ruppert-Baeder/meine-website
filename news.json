@@ -2,6 +2,177 @@
   "ok": true,
   "articles": [
     {
+      "title": "Raab-Gruppe: NET Abgaswärmetauscher in der Praxis",
+      "excerpt": "ALPU Oberflächentechnik nutzt Abwärme aus Trocknungs- und Beschichtungsprozess",
+      "link": "https://www.shk-journal.de//news/default-9dd485f6d7-1.html",
+      "date": 1792450500,
+      "dateStr": "20. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "BetteAlva - der neue Waschtisch für vielseitige Badwelten",
+      "excerpt": "Filigrane Kante, starke Wirkung",
+      "link": "https://www.shk-journal.de//news/bettealva-der-neue-waschtisch-fuer-vielseitige-badwelten-1.html",
+      "date": 1792397545,
+      "dateStr": "19. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Sanitär"
+    },
+    {
+      "title": "BRÖTJE: Best Practice bei Platznot - Heizungssanierung unter Dach",
+      "excerpt": "In einer ehemaligen Feldscheune von 1907 im Landkreis Uelzen modernisiert ein Ehepaar seine...",
+      "link": "https://www.shk-journal.de//news/broetje-best-practice-bei-platznot-heizungssanierung-unter-dach-1-1.html",
+      "date": 1792393920,
+      "dateStr": "19. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "Diese Themen bringt interdomus Haustechnik zur BAD DIREKT Neumarkt mit",
+      "excerpt": "Von SHK.MARKET bis proBAD Wannentür: Lösungen für die Praxis",
+      "link": "https://www.shk-journal.de//news/default-9a86d9f1df.html",
+      "date": 1792393680,
+      "dateStr": "19. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Laszlo &amp; Kollegen Personalberatung sucht einen Verkaufsleiter (m/w/d) Süddeutschland",
+      "excerpt": "Aktuell suchen wir für unseren Mandanten, ein führendes Unternehmen in der Entwicklung, Herstellung...",
+      "link": "https://www.shk-journal.de//news/default-3994937ab2-1.html",
+      "date": 1792392308,
+      "dateStr": "19. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "DESTATIS: Auftragsbestand im Verarbeitenden Gewerbe im August 2026",
+      "excerpt": "+0,5 % zum Vormonat",
+      "link": "https://www.shk-journal.de//news/destatis-auftragsbestand-im-verarbeitenden-gewerbe-im-august-2026.html",
+      "date": 1792390414,
+      "dateStr": "19. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Die smarte Lösung für jeden Installateur – mit BOACRAFT auf der sicheren Seite",
+      "excerpt": "Egal ob Gas, Wasser oder die Anbindung von Luft/Wasser-Wärmepumpen – BOACRAFT liefert Ihnen die perfekte Lösung.Mit BOAGAS, AQA+ und TERRA+ stehen Ihnen drei durchdachte Systeme zur Verfügung, die eines gemeinsam haben:M",
+      "link": "https://www.sbz-online.de/waermepumpe/die-smarte-loesung-fuer-jeden-installateur-mit-boacraft-auf-der-sicheren-seite",
+      "date": 1792385498,
+      "dateStr": "19. Okt. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Bad direkt: neue Chancen für das SHK-Handwerk",
+      "excerpt": "Die Bad direkt in Münster zeigte: Teilsanierung, Individualisierung und Digitalisierung eröffnen dem SHK-Handwerk neue Geschäftschancen.",
+      "link": "https://www.sbz-online.de/meldungen/messe-muenster-bad-direkt-neue-chancen-fuer-das-shk-handwerk",
+      "date": 1792371608,
+      "dateStr": "19. Okt. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
+      "title": "VDI 4190 bündelt bisherige Regelwerke",
+      "excerpt": "Der Entwurf VDI 4190 Blatt 1 E fasst die technischen Grundlagen thermischer Solaranlagen zusammen. Er vereint mehrere frühere Richtlinien.",
+      "link": "https://www.sbz-online.de/meldungen/solarthermie-vdi-4190-buendelt-bisherige-regelwerke",
+      "date": 1792371608,
+      "dateStr": "19. Okt. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "GET NORD 2026: TECE beschließt das Messejahr in Hamburg",
+      "excerpt": "TECE setzt den Schlusspunkt unter sein Messejahr in Deutschland: Vom 19. bis 21. November 2026 ist...",
+      "link": "https://www.shk-journal.de//news/default-d216a0a504.html",
+      "date": 1792364340,
+      "dateStr": "19. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Branche"
+    },
+    {
+      "title": "GF auf der ISH 2027: Lösungen für eine einfache Installation",
+      "excerpt": "Georg Fischer (GF) nimmt an der Internationalen Sanitär- und Heizungsmesse (ISH) 2027 in Frankfurt...",
+      "link": "https://www.shk-journal.de//news/default-830331e64e.html",
+      "date": 1792364160,
+      "dateStr": "19. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "Noch mehr Tempo für die Wärmewende im Gebäudebestand: EnerCube und Panasonic fixieren strategische Partnerschaft",
+      "excerpt": "Neue Modellreihe der Wärmepumpen-Heizzentralen eröffnet zusätzliche Einsatzmöglichkeiten in großen...",
+      "link": "https://www.shk-journal.de//news/noch-mehr-tempo-fuer-die-waermewende-im-gebaeudebestand-enercube-und-panasonic-fixieren-strategische-partnerschaft.html",
+      "date": 1792364100,
+      "dateStr": "19. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "NORDWEST: FachWerk stellt Weichen für weiteres Wachstum",
+      "excerpt": "Systempartner diskutieren bei der Jahrestagung neue Geschäftspotenziale und die strategische...",
+      "link": "https://www.shk-journal.de//news/default-80ceaf4ff7.html",
+      "date": 1792364040,
+      "dateStr": "19. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Aktuell"
+    },
+    {
+      "title": "DEPI: Hoher Preisvorteil zu Fossilen bleibt",
+      "excerpt": "Pelletpreis im Oktober steigt weniger stark",
+      "link": "https://www.shk-journal.de//news/default-4e580091b6.html",
+      "date": 1792364040,
+      "dateStr": "19. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "Das Bad als Wohlfühloase",
+      "excerpt": "Fünf Gestaltungstipps, mit denen Sie aus Ihrem Bad eine Wohlfühloase machen - nicht nur im Winter,...",
+      "link": "https://www.shk-journal.de//news/default-30499a5d59.html",
+      "date": 1792363860,
+      "dateStr": "19. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Sichtbar beeindruckend, spürbar komfortabel: GROHE launcht neue Euphoria Duschsysteme",
+      "excerpt": "Dezentes Design: Schlanke, weniger als 14 Millimeter starke Kopfbrause in runder oder rechteckiger...",
+      "link": "https://www.shk-journal.de//news/default-4bb9793354.html",
+      "date": 1792363800,
+      "dateStr": "19. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Buderus: Intelligent eingebunden",
+      "excerpt": "Mit dem neuen Buderus Gateway KNX 20 lassen sich moderne Wärmepumpen nahtlos mit der...",
+      "link": "https://www.shk-journal.de//news/buderus-intelligent-eingebunden.html",
+      "date": 1792363680,
+      "dateStr": "19. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "Hannover Finanz Opportunities übernimmt Mehrheitsbeteiligung am Premium-Badausstatter KEUCO",
+      "excerpt": "HFO begleitet KEUCO als langfristig orientierter Eigenkapitalpartner und bringt Erfahrung aus...",
+      "link": "https://www.shk-journal.de//news/hannover-finanz-opportunities-uebernimmt-mehrheitsbeteiligung-am-premium-badausstatter-keuco.html",
+      "date": 1792362180,
+      "dateStr": "19. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Fachverband SHK NRW wählt Führungsteam",
+      "excerpt": "Ulrich Grommes als Landesinnungsmeister wiedergewählt – Susan Meurer wird Hauptgeschäftsführerin –...",
+      "link": "https://www.shk-journal.de//news/default-6f2f3b4e7c.html",
+      "date": 1792361880,
+      "dateStr": "19. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Branche"
+    },
+    {
       "title": "Die Chillventa 2026 überzeugte auf ganzer Linie",
       "excerpt": "Die Chillventa schließt mit deutlich mehr Ausstellern und Besuchern und bestätigt damit einmal mehr...",
       "link": "https://www.shk-journal.de//news/default-bb14726d30.html",
@@ -36,150 +207,6 @@
       "dateStr": "17. Okt. 2026",
       "source": "SHK Journal",
       "category": "Heizung"
-    },
-    {
-      "title": "DESTATIS: Baugenehmigungen für Wohnungen im August 2026",
-      "excerpt": "+6,8 % zum Vorjahresmonat",
-      "link": "https://www.shk-journal.de//news/destatis-baugenehmigungen-fuer-wohnungen-im-august-2026.html",
-      "date": 1792179180,
-      "dateStr": "16. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "ifo: Stimmung im Wohnungsbau weniger zuversichtlich",
-      "excerpt": "Die Stimmung im Wohnungsbau war im September pessimistischer als im August.",
-      "link": "https://www.shk-journal.de//news/ifo-stimmung-im-wohnungsbau-weniger-zuversichtlich.html",
-      "date": 1792179120,
-      "dateStr": "16. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Artweger ONE – die Eine für Alles",
-      "excerpt": "Premium-Duschenserie mit 360° TWIN-Scharnier",
-      "link": "https://www.shk-journal.de//news/default-4579a83adf.html",
-      "date": 1792179000,
-      "dateStr": "16. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Sanitär"
-    },
-    {
-      "title": "RADAWAY: Spieglein, Spieglein an der… Duschkabine?",
-      "excerpt": "Gerade in kleinen Badezimmern ist Kreativität gefragt, um alle Wünsche auf begrenztem Raum...",
-      "link": "https://www.shk-journal.de//news/spieglein-spieglein-an-der-duschkabine-1.html",
-      "date": 1792178940,
-      "dateStr": "16. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Kunstwerke in der Dusche: HSK macht’s möglich!",
-      "excerpt": "Neue spektakuläre Designs für RenoDeco Wandverkleidungen",
-      "link": "https://www.shk-journal.de//news/kunstwerke-in-der-dusche-hsk-machts-moeglich-5.html",
-      "date": 1792178880,
-      "dateStr": "16. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Sanitär"
-    },
-    {
-      "title": "glassdouche: Kleines Bad, geniales Bad",
-      "excerpt": "So machen Sie Ihr kleines Bad größer, schöner und heller.",
-      "link": "https://www.shk-journal.de//news/glassdouche-kleines-bad-geniales-bad-4.html",
-      "date": 1792178820,
-      "dateStr": "16. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Eco-HK 130-230",
-      "excerpt": "HARGASSNER Hackgutheizung: Dieser Kessel bringt professionelle Wärmeleistung für den großen...",
-      "link": "https://www.shk-journal.de//news/eco-hk-130-230-1.html",
-      "date": 1792178760,
-      "dateStr": "16. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "repaBAD: GEWONNEN!",
-      "excerpt": "Waschtischplatte NALU sichert sich Iconic Award 2026",
-      "link": "https://www.shk-journal.de//news/repabad-gewonnen.html",
-      "date": 1792178700,
-      "dateStr": "16. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Heizspiegel für Deutschland: Preise steigen 2026",
-      "excerpt": "Das Heizen in Deutschland hat sich nach einer kurzen Phase der Entspannung wieder spürbar...",
-      "link": "https://www.shk-journal.de//news/default-1d71bb6e00.html",
-      "date": 1792178640,
-      "dateStr": "16. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "DOYMA: Wärmepumpen-Know-how mit Qualifikation",
-      "excerpt": "4-Tage-Schulung Sachkundiger für Wärmepumpensysteme – Kategorie PE vom 07.12.2026 – 10.12.2026",
-      "link": "https://www.shk-journal.de//news/doyma-waermepumpen-know-how-mit-qualifikation.html",
-      "date": 1792178580,
-      "dateStr": "16. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "GWK Kuhlmann präsentiert: Die ES-Box – Passgenaue Dämmung für Flanscharmaturen",
-      "excerpt": "In der modernen SHK-Branche sind effiziente und passgenaue Dämmungslösungen unerlässlich. Mit der...",
-      "link": "https://www.shk-journal.de//news/gwk-kuhlmann-praesentiert-die-es-box-passgenaue-daemmung-fuer-flanscharmaturen-2.html",
-      "date": 1792178460,
-      "dateStr": "16. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Sanitär"
-    },
-    {
-      "title": "GEO: Die Schiebetür ANS66 aus der Serie maw flex für breite Nischeneinbausituationen",
-      "excerpt": "Die Duschkabinen Serie maw flex von GEO liefert beste Qualität made in Germany und eine große...",
-      "link": "https://www.shk-journal.de//news/geo-die-schiebetuer-ans66-aus-der-serie-maw-flex-fuer-breite-nischeneinbausituationen-7-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1.html",
-      "date": 1792178460,
-      "dateStr": "16. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "ACO Haustechnik: Veranstaltungsreihe - Starkregen im Dialog",
-      "excerpt": "Lernen Sie aktuelle Anforderungen, rechtliche Rahmenbedingungen und praxisnahe Lösungsansätze...",
-      "link": "https://www.shk-journal.de//news/default-114b7b3272-2.html",
-      "date": 1792178400,
-      "dateStr": "16. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Förderung"
-    },
-    {
-      "title": "Schröder Wannentechnik: Maßgeschneiderte Wannenschürzen von Schröder Wannentechnik: Fugenlose Optik und maximale Flexibilität in der Badplanung",
-      "excerpt": "Bei der Planung moderner Badezimmer sind durchgängige Linien, hochwertige Oberflächen und...",
-      "link": "https://www.shk-journal.de//news/massgeschneiderte-wannenschuerzen-von-schroeder-wannentechnik-fugenlose-optik-und-maximale-flexibilitaet-in-der-badplanung.html",
-      "date": 1792178340,
-      "dateStr": "16. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Die RIFA2026 war ein großer Erfolg",
-      "excerpt": "Es gab viele interessante Gespräche und jede Menge neue Kontakte, die uns helfen werden die...",
-      "link": "https://www.shk-journal.de//news/default-b3bd7ed764.html",
-      "date": 1792177320,
-      "dateStr": "16. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Personalplanung 2027 im SHK-Vertrieb beginnt jetzt",
-      "excerpt": "Neue Verkaufsgebiete erschließen, den Fachgroßhandel betreuen und das SHK-Handwerk kompetent...",
-      "link": "https://www.shk-journal.de//news/personalplanung-2027-im-shk-vertrieb-beginnt-jetzt.html",
-      "date": 1792177140,
-      "dateStr": "16. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Branche"
     },
     {
       "title": "Heizungsbranche drängt auf verlässliche Investitionsbedingungen",
@@ -333,34 +360,7 @@
       "dateStr": "8. Okt. 2026",
       "source": "SBZ Monteur",
       "category": "Sanitär"
-    },
-    {
-      "title": "Schütz Energy Systems bietet Inhouse-WHG-Seminare an",
-      "excerpt": "Neue Inhouse-WHG-Seminare für Lagerbehälter: Der Grundkurs vermittelt die Grundlagen für betrieblich Verantwortliche in Fachbetrieben für Heizölverbraucheranlagen nach AwSV.",
-      "link": "https://www.sbz-online.de/meldungen/erstqualifizierung-nach-awsv-schuetz-energy-systems-bietet-inhouse-whg-seminare",
-      "date": 1791421206,
-      "dateStr": "8. Okt. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Gedatec 2026: VdZ prä­sen­tiert Start­ups",
-      "excerpt": "Auf der Gedatec 2026 präsentiert die VdZ in einer eigenen Startup-Area 18 junge Unternehmen mit Lösungen von KI bis Wärmetechnologie.",
-      "link": "https://www.sbz-online.de/meldungen/13-bis-15-oktober-2026-messe-berlin-gedatec-2026-vdz-praesentiert-startups",
-      "date": 1791352087,
-      "dateStr": "7. Okt. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Interview: Warum wird das Fach­hand­werk jetzt an­ge­sprochen?",
-      "excerpt": "Die #CONNECTINGHEAT 2026 wendet sich erst­ma­lig mit einem Fach­kong­ress an SHK-Betriebe. Dennis Jäger befragt dazu Frederic Leers vom BDH.",
-      "link": "https://www.sbz-online.de/meldungen/waermewende-im-handwerk-interview-warum-wird-das-fachhandwerk-jetzt-angesprochen",
-      "date": 1791347152,
-      "dateStr": "7. Okt. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
     }
   ],
-  "fetched": 1792314910
+  "fetched": 1792405510
 }
