@@ -2,58 +2,31 @@
   "ok": true,
   "articles": [
     {
-      "title": "Raab-Gruppe: NET Abgaswärmetauscher in der Praxis",
-      "excerpt": "ALPU Oberflächentechnik nutzt Abwärme aus Trocknungs- und Beschichtungsprozess",
-      "link": "https://www.shk-journal.de//news/default-9dd485f6d7-1.html",
-      "date": 1792450500,
+      "title": "Smarte Software für das Handwerk – Hottgenroth auf der GET NORD 2026",
+      "excerpt": "Vom 19. bis 21. November 2026 präsentiert die Hottgenroth Gruppe auf der GET NORD in Hamburg smarte Softwarelösungen für das Handwerk. Im Mittelpunkt stehen innovative Funktionen für die Photovoltaik-Planung und die ener",
+      "link": "https://www.sbz-online.de/software/smarte-software-fuer-das-handwerk-hottgenroth-auf-der-get-nord-2026",
+      "date": 1792472975,
       "dateStr": "20. Okt. 2026",
-      "source": "SHK Journal",
+      "source": "SBZ Monteur",
       "category": "Heizung"
     },
     {
-      "title": "BetteAlva - der neue Waschtisch für vielseitige Badwelten",
-      "excerpt": "Filigrane Kante, starke Wirkung",
-      "link": "https://www.shk-journal.de//news/bettealva-der-neue-waschtisch-fuer-vielseitige-badwelten-1.html",
-      "date": 1792397545,
-      "dateStr": "19. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Sanitär"
-    },
-    {
-      "title": "BRÖTJE: Best Practice bei Platznot - Heizungssanierung unter Dach",
-      "excerpt": "In einer ehemaligen Feldscheune von 1907 im Landkreis Uelzen modernisiert ein Ehepaar seine...",
-      "link": "https://www.shk-journal.de//news/broetje-best-practice-bei-platznot-heizungssanierung-unter-dach-1-1.html",
-      "date": 1792393920,
-      "dateStr": "19. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Diese Themen bringt interdomus Haustechnik zur BAD DIREKT Neumarkt mit",
-      "excerpt": "Von SHK.MARKET bis proBAD Wannentür: Lösungen für die Praxis",
-      "link": "https://www.shk-journal.de//news/default-9a86d9f1df.html",
-      "date": 1792393680,
-      "dateStr": "19. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Laszlo &amp; Kollegen Personalberatung sucht einen Verkaufsleiter (m/w/d) Süddeutschland",
-      "excerpt": "Aktuell suchen wir für unseren Mandanten, ein führendes Unternehmen in der Entwicklung, Herstellung...",
-      "link": "https://www.shk-journal.de//news/default-3994937ab2-1.html",
-      "date": 1792392308,
-      "dateStr": "19. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "DESTATIS: Auftragsbestand im Verarbeitenden Gewerbe im August 2026",
-      "excerpt": "+0,5 % zum Vormonat",
-      "link": "https://www.shk-journal.de//news/destatis-auftragsbestand-im-verarbeitenden-gewerbe-im-august-2026.html",
-      "date": 1792390414,
-      "dateStr": "19. Okt. 2026",
-      "source": "SHK Journal",
+      "title": "„Starkregen im Dialog“: Nach­hal­ti­ge Lö­sun­gen für den Ge­bäu­de­schutz",
+      "excerpt": "ACO Haustechnik lädt im November zur Veranstaltungsreihe „Starkregen im Dialog“ ein – mit praxisnahen Lösungen für nachhaltiges Starkregenmanagement und rechtssichere Planung.",
+      "link": "https://www.sbz-online.de/meldungen/veranstaltungsreihe-starkregen-im-dialog-nachhaltige-loesungen-fuer-den-gebaeudeschutz",
+      "date": 1792458007,
+      "dateStr": "20. Okt. 2026",
+      "source": "SBZ Monteur",
       "category": "Aktuell"
+    },
+    {
+      "title": "Personelle Veränderungen in der SHK-Branche",
+      "excerpt": "Führungspositionen neu besetzt: Bei Düker, LINK3, Memodo und der Landesinnung Kälte-Klima-Technik gibt es wichtige personelle Veränderungen.",
+      "link": "https://www.sbz-online.de/meldungen/personalien-personelle-veraenderungen-der-shk-branche-36",
+      "date": 1792458007,
+      "dateStr": "20. Okt. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
     },
     {
       "title": "Die smarte Lösung für jeden Installateur – mit BOACRAFT auf der sicheren Seite",
@@ -80,132 +53,6 @@
       "date": 1792371608,
       "dateStr": "19. Okt. 2026",
       "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "GET NORD 2026: TECE beschließt das Messejahr in Hamburg",
-      "excerpt": "TECE setzt den Schlusspunkt unter sein Messejahr in Deutschland: Vom 19. bis 21. November 2026 ist...",
-      "link": "https://www.shk-journal.de//news/default-d216a0a504.html",
-      "date": 1792364340,
-      "dateStr": "19. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Branche"
-    },
-    {
-      "title": "GF auf der ISH 2027: Lösungen für eine einfache Installation",
-      "excerpt": "Georg Fischer (GF) nimmt an der Internationalen Sanitär- und Heizungsmesse (ISH) 2027 in Frankfurt...",
-      "link": "https://www.shk-journal.de//news/default-830331e64e.html",
-      "date": 1792364160,
-      "dateStr": "19. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Noch mehr Tempo für die Wärmewende im Gebäudebestand: EnerCube und Panasonic fixieren strategische Partnerschaft",
-      "excerpt": "Neue Modellreihe der Wärmepumpen-Heizzentralen eröffnet zusätzliche Einsatzmöglichkeiten in großen...",
-      "link": "https://www.shk-journal.de//news/noch-mehr-tempo-fuer-die-waermewende-im-gebaeudebestand-enercube-und-panasonic-fixieren-strategische-partnerschaft.html",
-      "date": 1792364100,
-      "dateStr": "19. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "NORDWEST: FachWerk stellt Weichen für weiteres Wachstum",
-      "excerpt": "Systempartner diskutieren bei der Jahrestagung neue Geschäftspotenziale und die strategische...",
-      "link": "https://www.shk-journal.de//news/default-80ceaf4ff7.html",
-      "date": 1792364040,
-      "dateStr": "19. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "DEPI: Hoher Preisvorteil zu Fossilen bleibt",
-      "excerpt": "Pelletpreis im Oktober steigt weniger stark",
-      "link": "https://www.shk-journal.de//news/default-4e580091b6.html",
-      "date": 1792364040,
-      "dateStr": "19. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Das Bad als Wohlfühloase",
-      "excerpt": "Fünf Gestaltungstipps, mit denen Sie aus Ihrem Bad eine Wohlfühloase machen - nicht nur im Winter,...",
-      "link": "https://www.shk-journal.de//news/default-30499a5d59.html",
-      "date": 1792363860,
-      "dateStr": "19. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Sichtbar beeindruckend, spürbar komfortabel: GROHE launcht neue Euphoria Duschsysteme",
-      "excerpt": "Dezentes Design: Schlanke, weniger als 14 Millimeter starke Kopfbrause in runder oder rechteckiger...",
-      "link": "https://www.shk-journal.de//news/default-4bb9793354.html",
-      "date": 1792363800,
-      "dateStr": "19. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Buderus: Intelligent eingebunden",
-      "excerpt": "Mit dem neuen Buderus Gateway KNX 20 lassen sich moderne Wärmepumpen nahtlos mit der...",
-      "link": "https://www.shk-journal.de//news/buderus-intelligent-eingebunden.html",
-      "date": 1792363680,
-      "dateStr": "19. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Hannover Finanz Opportunities übernimmt Mehrheitsbeteiligung am Premium-Badausstatter KEUCO",
-      "excerpt": "HFO begleitet KEUCO als langfristig orientierter Eigenkapitalpartner und bringt Erfahrung aus...",
-      "link": "https://www.shk-journal.de//news/hannover-finanz-opportunities-uebernimmt-mehrheitsbeteiligung-am-premium-badausstatter-keuco.html",
-      "date": 1792362180,
-      "dateStr": "19. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Fachverband SHK NRW wählt Führungsteam",
-      "excerpt": "Ulrich Grommes als Landesinnungsmeister wiedergewählt – Susan Meurer wird Hauptgeschäftsführerin –...",
-      "link": "https://www.shk-journal.de//news/default-6f2f3b4e7c.html",
-      "date": 1792361880,
-      "dateStr": "19. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Branche"
-    },
-    {
-      "title": "Die Chillventa 2026 überzeugte auf ganzer Linie",
-      "excerpt": "Die Chillventa schließt mit deutlich mehr Ausstellern und Besuchern und bestätigt damit einmal mehr...",
-      "link": "https://www.shk-journal.de//news/default-bb14726d30.html",
-      "date": 1792277460,
-      "dateStr": "18. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "RIFA 2026 zieht rund 9.000 Besucher nach Nürnberg",
-      "excerpt": "Richter+Frenzel zieht positive Bilanz der zweitägigen Fachmesse",
-      "link": "https://www.shk-journal.de//news/default-77f1610cb5.html",
-      "date": 1792276080,
-      "dateStr": "18. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Branche"
-    },
-    {
-      "title": "Gelungene Premiere: gedatec startet erfolgreich mit neuem Messekonzept",
-      "excerpt": "Neue Fachmesse für vernetzte Gebäudetechnik bringt Elektro-, SHK- und Dachdeckergewerke in Berlin...",
-      "link": "https://www.shk-journal.de//news/gelungene-premiere-gedatec-startet-erfolgreich-mit-neuem-messekonzept.html",
-      "date": 1792190760,
-      "dateStr": "17. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Heizungsbranche fordert verlässliche Investitionsbedingungen für eine nachhaltige Wärmeversorgung",
-      "excerpt": "#CONNECTINGHEAT 2026: Heizungsindustrie und Fachhandwerk drängen auf langfristige Förderung,...",
-      "link": "https://www.shk-journal.de//news/default-c3d146f114.html",
-      "date": 1792188420,
-      "dateStr": "17. Okt. 2026",
-      "source": "SHK Journal",
       "category": "Heizung"
     },
     {
@@ -333,34 +180,7 @@
       "dateStr": "9. Okt. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Remko feiert 50 Jahre mit Familienfest",
-      "excerpt": "Zum 50-jährigen Jubiläum lud Remko Mitarbeitende und Angehörige ein. Der Familientag fand auf dem Werksgelände in Lage statt.",
-      "link": "https://www.sbz-online.de/meldungen/jubilaeum-remko-feiert-50-jahre-mit-familienfest",
-      "date": 1791507608,
-      "dateStr": "9. Okt. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Das kann die neue Akku-Radialpresse Mini-Press",
-      "excerpt": "Die Mini-Press von Rems verbindet universelle Einsatzmöglichkeiten mit besonders kompakter Bauform, geringem Gewicht und moderner 12-V-Akku-Technologie.",
-      "link": "https://www.sbz-online.de/meldungen/rems-das-kann-die-neue-akku-radialpresse-mini-press",
-      "date": 1791507607,
-      "dateStr": "9. Okt. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "SBZ ruft an bei Richter+Frenzel zu RIFA und FOR",
-      "excerpt": "Im Podcast „SBZ ruft an“ spricht Robert Oberberger von R+F über die RIFA in Nürnberg, den Wert per­sön­li­cher Begeg­nungen und die Bad­marke FOR.",
-      "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-bei-richterfrenzel-zu-rifa-und",
-      "date": 1791421207,
-      "dateStr": "8. Okt. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
     }
   ],
-  "fetched": 1792405510
+  "fetched": 1792489471
 }
