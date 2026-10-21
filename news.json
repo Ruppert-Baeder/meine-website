@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "GET Nord 2026: Pfle­ge­bad und Di­gi­ta­ler Pro­dukt­pass",
+      "excerpt": "Auf der GET Nord 2026 präsentieren ZVSHK und ZVEH digitale Ansätze des Forschungsprogramms Construct-X: das Pflegebad und der Digitale Produktpass.",
+      "link": "https://www.sbz-online.de/meldungen/19-bis-21-november-2026-messe-hamburg-get-nord-2026-pflegebad-und-digitaler-produktpass",
+      "date": 1792544407,
+      "dateStr": "21. Okt. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
       "title": "Smarte Software für das Handwerk – Hottgenroth auf der GET NORD 2026",
       "excerpt": "Vom 19. bis 21. November 2026 präsentiert die Hottgenroth Gruppe auf der GET NORD in Hamburg smarte Softwarelösungen für das Handwerk. Im Mittelpunkt stehen innovative Funktionen für die Photovoltaik-Planung und die ener",
       "link": "https://www.sbz-online.de/software/smarte-software-fuer-das-handwerk-hottgenroth-auf-der-get-nord-2026",
@@ -171,16 +180,7 @@
       "dateStr": "12. Okt. 2026",
       "source": "SBZ Monteur",
       "category": "Branche"
-    },
-    {
-      "title": "Pauschales PFAS-Verbot gefährdet Energiewende",
-      "excerpt": "Verbände der Kälte, Klima- und Wär­me­pum­pen­bran­che war­nen vor den Fol­gen eines pau­scha­len PFAS-Ver­bots und for­dern eine diffe­ren­zierte Regulierung.",
-      "link": "https://www.sbz-online.de/meldungen/verbaende-pauschales-pfas-verbot-gefaehrdet-energiewende",
-      "date": 1791521655,
-      "dateStr": "9. Okt. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1792489471
+  "fetched": 1792575947
 }
