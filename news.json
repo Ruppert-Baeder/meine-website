@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Systeme für SHK-Profis: langlebig, redundant, druckstabil",
+      "excerpt": "Fett­ab­scheider zur Frei­auf­stel­lung, Doppelpumpen-Hebeanlage aus Edel­stahl, Siche­rungs­schelle für PP-Rohre, Klein­hebe­an­lagen mit WiFi-Schnittstelle.",
+      "link": "https://www.sbz-online.de/meldungen/abgesteckt-systeme-fuer-shk-profis-langlebig-redundant-druckstabil",
+      "date": 1792630808,
+      "dateStr": "22. Okt. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Moderne Badausstattung im Ein­klang mit Tradition",
+      "excerpt": "Im Fokus der Sanierung eines 400 Jahre alten Tor­hauses steht das Haupt­bad, das mit Duravit-Pro­dukten auf die Bedürf­nisse der Bewoh­nerin abge­stimmt wurde.",
+      "link": "https://www.sbz-online.de/meldungen/referenzprojekt-duravit-moderne-badausstattung-im-einklang-mit-tradition",
+      "date": 1792630807,
+      "dateStr": "22. Okt. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
       "title": "GET Nord 2026: Pfle­ge­bad und Di­gi­ta­ler Pro­dukt­pass",
       "excerpt": "Auf der GET Nord 2026 präsentieren ZVSHK und ZVEH digitale Ansätze des Forschungsprogramms Construct-X: das Pflegebad und der Digitale Produktpass.",
       "link": "https://www.sbz-online.de/meldungen/19-bis-21-november-2026-messe-hamburg-get-nord-2026-pflegebad-und-digitaler-produktpass",
@@ -162,25 +180,7 @@
       "dateStr": "13. Okt. 2026",
       "source": "SBZ Monteur",
       "category": "Branche"
-    },
-    {
-      "title": "Allgemein anerkannte Regeln der Technik erhalten",
-      "excerpt": "Verbände warnen vor der Streichung der a.a.R.d.T. in Hessen. Büro­kratie­ab­bau darf nicht zu Las­ten von Sicher­heit, Qua­li­tät und Rechts­sicher­heit gehen.",
-      "link": "https://www.sbz-online.de/meldungen/verbaendeappell-allgemein-anerkannte-regeln-der-technik-erhalten",
-      "date": 1791766807,
-      "dateStr": "12. Okt. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Neue Gesichter im FGK-Vorstand",
-      "excerpt": "Der Fachverband Gebäude-Klima hat in seiner Mit­glie­der­ver­samm­lung zwei neue Vor­stands­mit­glie­der gewählt.",
-      "link": "https://www.sbz-online.de/meldungen/personalie-neue-gesichter-im-fgk-vorstand",
-      "date": 1791766806,
-      "dateStr": "12. Okt. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
     }
   ],
-  "fetched": 1792575947
+  "fetched": 1792662332
 }
