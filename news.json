@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Winterzeit beginnt: Auch an die Zeitschaltuhr der Heizung denken",
+      "excerpt": "In der Nacht auf den 25. Oktober werden die Uhren zurückgestellt – dies kann die Heizungsanlage aus...",
+      "link": "https://www.shk-journal.de//news/default-cdc4ea0cf6.html",
+      "date": 1792795740,
+      "dateStr": "24. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "Wo Zukunft auf Praxis trifft: Das Rahmenprogramm der GET NORD 2026",
+      "excerpt": "Photovoltaik, Speicher, Wärmepumpe und Ladeinfrastruktur als intelligentes Energiesystem,...",
+      "link": "https://www.shk-journal.de//news/wo-zukunft-auf-praxis-trifft-das-rahmenprogramm-der-get-nord-2026.html",
+      "date": 1792794480,
+      "dateStr": "24. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
       "title": "DESTATIS: Auftragseingang im Bauhauptgewerbe im August 2026",
       "excerpt": "+23,0 % zum Vormonat",
       "link": "https://www.shk-journal.de//news/destatis-auftragseingang-im-bauhauptgewerbe-im-august-2026.html",
@@ -162,24 +180,6 @@
       "dateStr": "23. Okt. 2026",
       "source": "SHK Journal",
       "category": "Aktuell"
-    },
-    {
-      "title": "REMKO: Porsche Destination Heilbronn setzt auf erneuerbare Energien",
-      "excerpt": "Wärmepumpen als Einzelgerät-Kaskade",
-      "link": "https://www.shk-journal.de//news/default-b96fd1d3e3.html",
-      "date": 1792781940,
-      "dateStr": "23. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Geberit macht Kampagne „Besser. Für Sie.“ im Pop-up-Format erlebbar",
-      "excerpt": "Markeninszenierung verbindet Live-Performance, Badlösungen und Endkundenansprache",
-      "link": "https://www.shk-journal.de//news/default-fc36872eb8.html",
-      "date": 1792781820,
-      "dateStr": "23. Okt. 2026",
-      "source": "SHK Journal",
-      "category": "Sanitär"
     },
     {
       "title": "Neuer Geschäftsführer bei BDR Thermea Deutschland",
@@ -362,5 +362,5 @@
       "category": "Heizung"
     }
   ],
-  "fetched": 1792748469
+  "fetched": 1792833241
 }
