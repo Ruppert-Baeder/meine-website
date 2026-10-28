@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "SBZ ruft an – bei Kaldewei zum Brand Space Berlin",
+      "excerpt": "Was bringt ein Markenerlebnis dem SHK-Handwerk? Im neuen Podcast „SBZ ruft an“ sprechen wir mit Laura Heitmann von Kaldewei über den Brand Space in Berlin.",
+      "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-bei-kaldewei-zum-brand-space-berlin",
+      "date": 1793156408,
+      "dateStr": "28. Okt. 2026",
+      "source": "SBZ Monteur",
+      "category": "Branche"
+    },
+    {
+      "title": "DIN 18534 – FAQ zur novellierten Abdichtungsnorm",
+      "excerpt": "Mit der erweiterten DIN 18534 müssen alle ein­ge­bau­ten Ab­läufe norm­gerecht ab­ge­dichtet werden. Erläu­te­run­gen von Stefan Sauerland, Dallmer, im Beitrag.",
+      "link": "https://www.sbz-online.de/meldungen/bauwerksabdichtung-din-18534-faq-zur-novellierten-abdichtungsnorm",
+      "date": 1793156407,
+      "dateStr": "28. Okt. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Geberit bewirbt Badlösungen mit Pop-up-Events",
       "excerpt": "Geberit macht seine Endkunden­kam­pagne „Besser. Für Sie.“ im Herbst 2026 durch Pop-up-Events im öffentlichen Raum erlebbar.",
       "link": "https://www.sbz-online.de/meldungen/kampagne-geberit-bewirbt-badloesungen-mit-pop-events",
@@ -162,25 +180,7 @@
       "dateStr": "16. Okt. 2026",
       "source": "SBZ Monteur",
       "category": "Branche"
-    },
-    {
-      "title": "Badkomfort für Generationen: ZVSHK eröffnet Wettbewerb",
-      "excerpt": "Zum 8. Mal zeichnet der Zentralverband Sanitär Heizung Klima (ZVSHK) neuartige Badprodukte aus. Bewerbungen sind bis zum 18. Dezember 2026 möglich.",
-      "link": "https://www.sbz-online.de/meldungen/badprodukte-badkomfort-fuer-generationen-zvshk-eroeffnet-wettbewerb",
-      "date": 1792132699,
-      "dateStr": "16. Okt. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Investor übernimmt Mehrheit an Keuco",
-      "excerpt": "Hannover Finanz Opportunities übernimmt die Mehrheit an Keuco. Das Ziel ist, das Produktportfolio zu stärken und das Unternehmen in einem herausfordernden Markt wettbewerbsfähig zu halten.",
-      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-investor-uebernimmt-mehrheit-keuco",
-      "date": 1792131965,
-      "dateStr": "16. Okt. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1793095714
+  "fetched": 1793184893
 }
