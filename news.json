@@ -2,6 +2,186 @@
   "ok": true,
   "articles": [
     {
+      "title": "Energiesparmesse 2027 ordnet Haustechnik, Energie und Mobilität neu",
+      "excerpt": "Neues Hallenkonzept stärkt die gewerkeübergreifende Vernetzung",
+      "link": "https://www.shk-journal.de//news/energiesparmesse-2027-ordnet-haustechnik-energie-und-mobilitaet-neu.html",
+      "date": 1793489400,
+      "dateStr": "1. Nov. 2026",
+      "source": "SHK Journal",
+      "category": "Branche"
+    },
+    {
+      "title": "VDMA Sanitärtechnik und -design startet Kampagne „Innovationen der Sanitärindustrie“",
+      "excerpt": "VDMA-Kampagne baut inhaltlichen Spannungsbogen bis zur ISH 2027 auf\n•\tInnovationsfelder Wasser,...",
+      "link": "https://www.shk-journal.de//news/default-47bbabb2ac.html",
+      "date": 1793488260,
+      "dateStr": "1. Nov. 2026",
+      "source": "SHK Journal",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Von KI bis Wärmespeicherung: 20 Startups zeigen Innovationen auf der GET NORD",
+      "excerpt": "KI, digitale Betriebsprozesse und neue Energielösungen: Die VdZ bringt vom 19. bis 21. November...",
+      "link": "https://www.shk-journal.de//news/default-385e666fa0.html",
+      "date": 1793402700,
+      "dateStr": "31. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "Energy@GET NORD 2026: Das Gebäude wird zum aktiven Energiesystem",
+      "excerpt": "Wie Gebäude künftig Energie erzeugen, speichern und intelligent nutzen, zeigt die Themenfläche...",
+      "link": "https://www.shk-journal.de//news/default-c7b3163692.html",
+      "date": 1793401680,
+      "dateStr": "31. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Neue Haltegriffarmatur von HEWI für den Duschbereich",
+      "excerpt": "Mit dem innovativen Einhebel-Brausemischer zur Sturzprävention vereint HEWI Duscharmatur und...",
+      "link": "https://www.shk-journal.de//news/default-3dee058982.html",
+      "date": 1793392200,
+      "dateStr": "30. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Artweger bietet Klebesystem für Duschkabinen-Montage",
+      "excerpt": "Mehr Flexibilität und Komfort bei der Duschenmontage",
+      "link": "https://www.shk-journal.de//news/artweger-bietet-klebesystem-fuer-duschkabinen-montage.html",
+      "date": 1793392140,
+      "dateStr": "30. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Sanitär"
+    },
+    {
+      "title": "perma-trade nimmt Fahrt auf für den SHK-Nachwuchs",
+      "excerpt": "Am 13. November findet im Fahrerlager des Hockenheimrings die JUNGHEIZER &amp; FRIENDS Messe statt....",
+      "link": "https://www.shk-journal.de//news/perma-trade-nimmt-fahrt-auf-fuer-den-shk-nachwuchs.html",
+      "date": 1793392080,
+      "dateStr": "30. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Branche"
+    },
+    {
+      "title": "Elegant und vielfältig: HSK Favorit Schiebetür Duschkabinen",
+      "excerpt": "Stilvolle Klarheit im zeitlosen Design",
+      "link": "https://www.shk-journal.de//news/default-5b9154613d.html",
+      "date": 1793392020,
+      "dateStr": "30. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "Get Nord: Hargassner Neuheiten live erleben",
+      "excerpt": "Hargassner zeigt auf der Get Nord in Hamburg aktuelle Lösungen für effizientes Heizen mit...",
+      "link": "https://www.shk-journal.de//news/get-nord-hargassner-neuheiten-live-erleben.html",
+      "date": 1793391960,
+      "dateStr": "30. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "repaBAD: SAVE THE DATE – GET NORD 2026",
+      "excerpt": "Vom 19. bis 21. November 2026 wird Hamburg erneut zum zentralen Treffpunkt für Austausch, Trends...",
+      "link": "https://www.shk-journal.de//news/repabad-save-the-date-get-nord-2026.html",
+      "date": 1793391900,
+      "dateStr": "30. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Politische Vertreter besuchen WOLF – Wärmepumpenfertigung und umfangreiche Investitionen im Fokus",
+      "excerpt": "Vertreterinnen und Vertreter aus Bundes-, Landes- und Kommunalpolitik besuchten am 26. Oktober 2026...",
+      "link": "https://www.shk-journal.de//news/politische-vertreter-besuchen-wolf-waermepumpenfertigung-und-umfangreiche-investitionen-im-fokus.html",
+      "date": 1793391840,
+      "dateStr": "30. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "Sichere Abdichtung für Flachdächer, Balkone und Bauwerke",
+      "excerpt": "Mit dem Bikucoat-Speed 1K bringt swisspor Deutschland einen einkomponentigen, hochelastischen und...",
+      "link": "https://www.shk-journal.de//news/sichere-abdichtung-fuer-flachdaecher-balkone-und-bauwerke-1.html",
+      "date": 1793391780,
+      "dateStr": "30. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Aktuell"
+    },
+    {
+      "title": "autarc überarbeitet FörderHilfe: automatische JAZ-Berechnung, BAFA-Abgleich und neue Pauschalpreise",
+      "excerpt": "Der Relaunch verbindet Planungsdaten mit dem Förderprozess und führt Fördercheck, Antrag und...",
+      "link": "https://www.shk-journal.de//news/default-7eca2b092c.html",
+      "date": 1793391720,
+      "dateStr": "30. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Förderung"
+    },
+    {
+      "title": "ENERGIE BRINGER: DREI STARKE LÖSUNGEN FÜR IHREN BEDARF",
+      "excerpt": "Mobile Wärme &amp; Kälte. Vermietung und Verkauf - europaweit.",
+      "link": "https://www.shk-journal.de//news/energie-bringer-drei-starke-loesungen-fuer-ihren-bedarf.html",
+      "date": 1793391660,
+      "dateStr": "30. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "Komplettduschen von Schröder Wannentechnik - einfach modernisieren",
+      "excerpt": "Die Herbst-/Winter-Saison bietet eine gute Gelegenheit, die Dusche zu modernisieren oder...",
+      "link": "https://www.shk-journal.de//news/komplettduschen-von-schroeder-wannentechnik-einfach-modernisieren.html",
+      "date": 1793391600,
+      "dateStr": "30. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Sanitär"
+    },
+    {
+      "title": "JUDO sucht Gebiets- / Regionalverkaufsleiter (m/w/d) Region Ost mit Sitz des Verkaufsbüros in Markkleeberg bei Leipzig",
+      "excerpt": "Bei JUDO trifft Innovation auf Tradition. Seit 90 Jahren sind wir Vorreiter auf dem Gebiet der...",
+      "link": "https://www.shk-journal.de//news/judo-sucht-gebiets-regionalverkaufsleiter-mwd-region-ost-mit-sitz-des-verkaufsbueros-in-markkleeberg-bei-leipzig-1.html",
+      "date": 1793391600,
+      "dateStr": "30. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Aktuell"
+    },
+    {
+      "title": "DOYMA auf der GET NORD 2026",
+      "excerpt": "Entdecken Sie aktuelle Produktentwicklungen bei Dichtungs- und Brandschutzsystemen, Wissenswertes...",
+      "link": "https://www.shk-journal.de//news/doyma-uaf-der-get-nord-2026.html",
+      "date": 1793391120,
+      "dateStr": "30. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Rohrrino: Welches Rohr?",
+      "excerpt": "„Doppelrohr oder Einfachrohr?",
+      "link": "https://www.shk-journal.de//news/rohrrino-welches-rohr.html",
+      "date": 1793391000,
+      "dateStr": "30. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Sanitär"
+    },
+    {
+      "title": "GEO: maw bietet Duschlösungen, die aus jeder Badsituation das Maximum an Duscherlebnis rausholen",
+      "excerpt": "Individuelle Duschlösungen der Fachhandelsmarke maw von GEO bieten alles, um Ihren räumlichen...",
+      "link": "https://www.shk-journal.de//news/geo-maw-bietet-duschloesungen-die-aus-jeder-badsituation-das-maximum-an-duscherlebnis-rausholen-7-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1.html",
+      "date": 1793390700,
+      "dateStr": "30. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "Routinearbeit automatisieren – auch ohne Schnittstelle",
+      "excerpt": "Viele Betriebe würden gerne mehr automatisieren.",
+      "link": "https://www.shk-journal.de//news/routinearbeit-automatisieren-auch-ohne-schnittstelle.html",
+      "date": 1793390340,
+      "dateStr": "30. Okt. 2026",
+      "source": "SHK Journal",
+      "category": "Branche"
+    },
+    {
       "title": "SHK-Handwerk: Nachwuchsförderung am Hockenheimring",
       "excerpt": "Die Jungheizer & Friends Messe im Fahrerlager des Hockenheimrings will  junge Menschen für das SHK-Handwerk begeistern.",
       "link": "https://www.sbz-online.de/meldungen/13-november-2026-hockenheimring-shk-handwerk-nachwuchsfoerderung-am-hockenheimring",
@@ -182,5 +362,5 @@
       "category": "Branche"
     }
   ],
-  "fetched": 1793443233
+  "fetched": 1793532962
 }
