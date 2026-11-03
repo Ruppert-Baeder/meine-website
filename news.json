@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "2026-Q3: SHK-Geschäftsklima verbessert sich deutlich",
+      "excerpt": "Das SHK-Konjunk­tur­ba­ro­meter ist im 3. Quar­tal 2026 auf positiv um­ge­schl­agen. Der Groß­han­del liegt erst­mals seit 13 Quar­ta­len wieder im Plus.",
+      "link": "https://www.sbz-online.de/meldungen/shk-konjunkturbarometer-2026-q3-shk-geschaeftsklima-verbessert-sich-deutlich",
+      "date": 1793686693,
+      "dateStr": "3. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Aquarea Service+ für Wärme­pum­pen jetzt auch in Deutschland",
+      "excerpt": "Mit dem neuen Service­paket bietet Pana­sonic cloud­ba­sierte Fern­war­tung und um­fas­sende Betreu­ung für Aquarea Luft/Wasser-Wärmepumpen.",
+      "link": "https://www.sbz-online.de/meldungen/panasonic-aquarea-service-fuer-waermepumpen-jetzt-auch-deutschland",
+      "date": 1793674806,
+      "dateStr": "3. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Novopress präsentiert Novopres32 – Event mit Olaf Schubert",
+      "excerpt": "Novopress lädt zu einem Abend ein, bei dem die Novopres32 – eine Neuheit für die Pressung von Kupferrohren in der Kältetechnik – erstmals vorgestellt wird. Mit dabei: Kabarettist Olaf Schubert.",
+      "link": "https://www.sbz-online.de/meldungen/19-november-2026-grossraum-dresden-novopress-praesentiert-novopres32-event-mit-olaf",
+      "date": 1793622699,
+      "dateStr": "2. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Heizungsanlagen messen statt schätzen",
       "excerpt": "Temperaturüberwachung ohne Eingriff in die Regelung. Hydraulischer Abgleich, Heizkurve, Effizienz der Wärmepumpe: Viele Entscheidungen an Heizungsanlagen beruhen auf Momentaufnahmen und Erfahrungswerten. Die HELIOSYS Tem",
       "link": "https://www.sbz-online.de/heizung/heliosys-temperaturueberwachung-tm2-heizungsanlagen-messen-statt-schaetzen",
@@ -153,34 +180,7 @@
       "dateStr": "26. Okt. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Neuer Geschäftsführer bei BDR Thermea Deutschland",
-      "excerpt": "Stephan Kreutzer übernimmt ab dem 1. November 2026 die Geschäfts­führung des Deutsch­land­geschäfts von BDR Thermea.",
-      "link": "https://www.sbz-online.de/meldungen/personalie-neuer-geschaeftsfuehrer-bei-bdr-thermea-deutschland",
-      "date": 1792717208,
-      "dateStr": "23. Okt. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Geberit zeigt Badlösungen für den Alltag",
-      "excerpt": "Mit „Besser. Für Sie.“ startet Geberit eine Endkundenkampagne für WC, Waschplatz und Dusche. Im Mittelpunkt stehen Anwendungen für den Alltag im Bad.",
-      "link": "https://www.sbz-online.de/meldungen/badgestaltung-geberit-zeigt-badloesungen-fuer-den-alltag",
-      "date": 1792717207,
-      "dateStr": "23. Okt. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Systeme für SHK-Profis: langlebig, redundant, druckstabil",
-      "excerpt": "Fett­ab­scheider zur Frei­auf­stel­lung, Doppelpumpen-Hebeanlage aus Edel­stahl, Siche­rungs­schelle für PP-Rohre, Klein­hebe­an­lagen mit WiFi-Schnittstelle.",
-      "link": "https://www.sbz-online.de/meldungen/abgesteckt-systeme-fuer-shk-profis-langlebig-redundant-druckstabil",
-      "date": 1792630808,
-      "dateStr": "22. Okt. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
     }
   ],
-  "fetched": 1793624336
+  "fetched": 1793709094
 }
