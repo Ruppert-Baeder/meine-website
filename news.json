@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "HEATEXPO 2026: Systemtechnik für die SHK-Praxis",
+      "excerpt": "Wärme- und Kälteversorgung entsteht im Zusammenspiel von Erzeugung, Hydraulik, Netzen, Speichern, Regelung und Service. Die HEATEXPO zeigt, worauf es an den Schnittstellen ankommt.",
+      "link": "https://www.sbz-online.de/messe/heatexpo-2026-systemtechnik-fuer-die-shk-praxis",
+      "date": 1793948006,
+      "dateStr": "6. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Personelle Veränderungen in der SHK-Branche",
+      "excerpt": "Ein Führungswechsel bei Hager, eine Neubesetzung beim ZIV sowie ein Abschied bei Phoenix Contact.",
+      "link": "https://www.sbz-online.de/meldungen/personalien-personelle-veraenderungen-der-shk-branche-37",
+      "date": 1793934007,
+      "dateStr": "6. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Gebäudebegrünung wächst trotz schwacher Baukonjunktur",
       "excerpt": "Der neue BuGG-Marktreport Gebäudegrün 2026 zeigt: Dach- und Fassadenbegrünungen wachsen weiter. Erstmals erfasst der Report auch die Innenraumbegrünung.",
       "link": "https://www.sbz-online.de/meldungen/bugg-marktreport-gebaeudegruen-2026-gebaeudebegruenung-waechst-trotz-schwacher",
@@ -162,25 +180,7 @@
       "dateStr": "29. Okt. 2026",
       "source": "SBZ Monteur",
       "category": "Aktuell"
-    },
-    {
-      "title": "SBZ ruft an – bei Kaldewei zum Brand Space Berlin",
-      "excerpt": "Was bringt ein Markenerlebnis dem SHK-Handwerk? Im neuen Podcast „SBZ ruft an“ sprechen wir mit Laura Heitmann von Kaldewei über den Brand Space in Berlin.",
-      "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-bei-kaldewei-zum-brand-space-berlin",
-      "date": 1793156408,
-      "dateStr": "28. Okt. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
-    },
-    {
-      "title": "DIN 18534 – FAQ zur novellierten Abdichtungsnorm",
-      "excerpt": "Mit der erweiterten DIN 18534 müssen alle ein­ge­bau­ten Ab­läufe norm­gerecht ab­ge­dichtet werden. Erläu­te­run­gen von Stefan Sauerland, Dallmer, im Beitrag.",
-      "link": "https://www.sbz-online.de/meldungen/bauwerksabdichtung-din-18534-faq-zur-novellierten-abdichtungsnorm",
-      "date": 1793156407,
-      "dateStr": "28. Okt. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1793883105
+  "fetched": 1793968657
 }
