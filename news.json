@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Maincor vernetzt Handwerksbetriebe bei Kapazitätsengpässen",
+      "excerpt": "Maincor hat den Service „Handwerker hilft Handwerker“ gestartet. Betriebe mit Unterstützungsbedarf finden darüber Partner mit freien Kapazitäten.",
+      "link": "https://www.sbz-online.de/meldungen/kapazitaetsengpaesse-maincor-vernetzt-handwerksbetriebe-bei-kapazitaetsengpaessen",
+      "date": 1794393192,
+      "dateStr": "11. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Smart Home"
+    },
+    {
+      "title": "SBZ ruft an – bei Hansgrohe zum 125. Geburtstag:",
+      "excerpt": "Anlässlich des 125-jährigen Bestehens von Hansgrohe hat die SBZ bei Dr. Jörg Hass angerufen (Vice President Corporate Communications der Hansgrohe Group).",
+      "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-bei-hansgrohe-zum-125-geburtstag",
+      "date": 1794366007,
+      "dateStr": "11. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Der AIronman jettet durch die SHK-Welt",
       "excerpt": "Wie bringt man Digitalisierung ins Handwerk, ohne erhobenen Zeigefinger und komplizierte Technik-Erklärungen? Matthias Niehaus hat dafür eine ungewöhnliche Lösung gefunden. Er tritt als AIronman an, die SHK-Handwerkerwel",
       "link": "https://www.sbz-online.de/meldungen/interview-der-aironman-jettet-durch-die-shk-welt",
@@ -162,25 +180,7 @@
       "dateStr": "2. Nov. 2026",
       "source": "SBZ Monteur",
       "category": "Branche"
-    },
-    {
-      "title": "VDMA startet Kampagne zu wegweisenden Sanitärneuheiten",
-      "excerpt": "Der VDMA Sanitärtechnik und -design hat eine Kam­pagne zur Prä­sen­ta­tion von Inno­va­tio­nen in der Sani­tär­in­dus­trie ins Leben gerufen.",
-      "link": "https://www.sbz-online.de/meldungen/sanitaerindustrie-vdma-startet-kampagne-zu-wegweisenden-sanitaerneuheiten",
-      "date": 1793570405,
-      "dateStr": "1. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
-      "title": "SHK-Handwerk: Nachwuchsförderung am Hockenheimring",
-      "excerpt": "Die Jungheizer & Friends Messe im Fahrerlager des Hockenheimrings will junge Menschen für das SHK-Handwerk begeistern.",
-      "link": "https://www.sbz-online.de/meldungen/13-november-2026-hockenheimring-shk-handwerk-nachwuchsfoerderung-am-hockenheimring",
-      "date": 1793350470,
-      "dateStr": "30. Okt. 2026",
-      "source": "SBZ Monteur",
-      "category": "Förderung"
     }
   ],
-  "fetched": 1794316192
+  "fetched": 1794399538
 }
