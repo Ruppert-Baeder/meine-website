@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "„Die Zukunft der Gebäudetechnik entsteht an den Schnittstellen“",
+      "excerpt": "Elektro und SHK: Wie sieht die künftige Zusammenarbeit aus, und welche Innovationen zeigt die GET NORD 2026? SBZ-Chefredakteur Dennis Jäger im Gespräch mit Anne Spielberg, Director GET NORD.",
+      "link": "https://www.sbz-online.de/meldungen/interview-die-zukunft-der-gebaeudetechnik-entsteht-den-schnittstellen",
+      "date": 1794452407,
+      "dateStr": "12. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Conel erhält SHI-Produktpässe für sieben Produkte",
+      "excerpt": "Für sieben Conel-Produkte liegen jetzt digitale Produktpässe des Sentinel Holding Instituts vor. Diese bündeln Nachweise für Zertifizierungen in einem Dokument. Die Daten stehen auch im Projektmanagement-Tool Zertiva ber",
+      "link": "https://www.sbz-online.de/meldungen/zertifizierung-conel-erhaelt-shi-produktpaesse-fuer-sieben-produkte",
+      "date": 1794452406,
+      "dateStr": "12. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Maincor vernetzt Handwerksbetriebe bei Kapazitätsengpässen",
       "excerpt": "Maincor hat den Service „Handwerker hilft Handwerker“ gestartet. Betriebe mit Unterstützungsbedarf finden darüber Partner mit freien Kapazitäten.",
       "link": "https://www.sbz-online.de/meldungen/kapazitaetsengpaesse-maincor-vernetzt-handwerksbetriebe-bei-kapazitaetsengpaessen",
@@ -162,25 +180,7 @@
       "dateStr": "2. Nov. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Föst: „Die Wärmewende muss man sich leisten können“",
-      "excerpt": "Daniel Föst, ZVSHK, fordert Entlastungen bei Stromsteuer und Netzentgelten, denn die beste Technik hilft wenig, wenn der Kunde sie nicht bezahlen kann.",
-      "link": "https://www.sbz-online.de/meldungen/standpunkt-foest-die-waermewende-muss-man-sich-leisten-koennen",
-      "date": 1793588408,
-      "dateStr": "2. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "wibutler: Weiter mit Schwer­punkt seri­el­les Bauen und Sanieren",
-      "excerpt": "Der Weiterbetrieb von wibutler ist ge­si­chert. Neue Eigen­tümer führen das Unter­neh­men fort. Beste­hende Sys­teme laufen wie gewohnt weiter.",
-      "link": "https://www.sbz-online.de/meldungen/gebaeudeautomation-wibutler-weiter-mit-schwerpunkt-serielles-bauen-und-sanieren",
-      "date": 1793588407,
-      "dateStr": "2. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
     }
   ],
-  "fetched": 1794399538
+  "fetched": 1794490109
 }
