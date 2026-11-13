@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "BWP rechnet mit bis zu 400.000 verkauften Wärmepumpen",
+      "excerpt": "Der Bundesverband Wärmepumpe (BWP) erwartet für 2026 einen Wärmepumpen-Anteil von 55 bis 60 % am Heizungsmarkt. Von der schwarz-roten Koalition fordert er eine verlässliche Heizungsförderung und eine niedrigere Stromsteu",
+      "link": "https://www.sbz-online.de/meldungen/24-forum-waermepumpe-bwp-rechnet-mit-bis-zu-400000-verkauften-waermepumpen",
+      "date": 1794553728,
+      "dateStr": "13. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Hansgrohe macht ernst: Wer darf künftig Axor anbieten?",
+      "excerpt": "Axor setzt künftig nur noch auf autorisierte Partner. Im SBZ-Interview erklärt Fabian Kinzler von Hansgrohe, was SHK-Betriebe dafür leisten müssen, welche Vorteile sie bekommen und welche Rolle der Online-Handel spielt.",
+      "link": "https://www.sbz-online.de/meldungen/interview-hansgrohe-macht-ernst-wer-darf-kuenftig-axor-anbieten",
+      "date": 1794538809,
+      "dateStr": "13. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "HSK investiert in Sandstrahlanlage für Duschabtrennungen",
+      "excerpt": "HSK Duschkabinenbau hat in Olsberg eine neue Sandstrahlanlage für Duschabtrennungen in Betrieb genommen. Sie erzeugt Mattierungen vom Streifen bis zum Dekor. Auch Logos und Schriftzüge sind möglich.",
+      "link": "https://www.sbz-online.de/meldungen/bad-design-hsk-investiert-sandstrahlanlage-fuer-duschabtrennungen",
+      "date": 1794538808,
+      "dateStr": "13. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "„Die Zukunft der Gebäudetechnik entsteht an den Schnittstellen“",
       "excerpt": "Elektro und SHK: Wie sieht die künftige Zusammenarbeit aus, und welche Innovationen zeigt die GET NORD 2026? SBZ-Chefredakteur Dennis Jäger im Gespräch mit Anne Spielberg, Director GET NORD.",
       "link": "https://www.sbz-online.de/meldungen/interview-die-zukunft-der-gebaeudetechnik-entsteht-den-schnittstellen",
@@ -153,34 +180,7 @@
       "dateStr": "3. Nov. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Novopress präsentiert Novopres32 – Event mit Olaf Schubert",
-      "excerpt": "Novopress lädt zu einem Abend ein, bei dem die Novopres32 – eine Neuheit für die Pressung von Kupferrohren in der Kältetechnik – erstmals vorgestellt wird. Mit dabei: Kabarettist Olaf Schubert.",
-      "link": "https://www.sbz-online.de/meldungen/19-november-2026-grossraum-dresden-novopress-praesentiert-novopres32-event-mit-olaf",
-      "date": 1793622699,
-      "dateStr": "2. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Heizungsanlagen messen statt schätzen",
-      "excerpt": "Temperaturüberwachung ohne Eingriff in die Regelung. Hydraulischer Abgleich, Heizkurve, Effizienz der Wärmepumpe: Viele Entscheidungen an Heizungsanlagen beruhen auf Momentaufnahmen und Erfahrungswerten. Die HELIOSYS Tem",
-      "link": "https://www.sbz-online.de/heizung/heliosys-temperaturueberwachung-tm2-heizungsanlagen-messen-statt-schaetzen",
-      "date": 1793604032,
-      "dateStr": "2. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Leise lüften in schallsensiblen Objekten: die dezentrale Lüftungsanlage M-WRG-II",
-      "excerpt": "Die M-WRG-II ist eine dezentrale Lüftungsanlage mit Wärmerückgewinnung und das „leise Kraftpaket\" des deutschen Herstellers Meltem GmbH. Sie versorgt Wohnräume nutzerunabhängig mit gefilterter Frischluft und überzeugt mi",
-      "link": "https://www.sbz-online.de/lueftungklima/leise-lueften-schallsensiblen-objekten-die-dezentrale-lueftungsanlage-m-wrg-ii",
-      "date": 1793603500,
-      "dateStr": "2. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1794490109
+  "fetched": 1794573883
 }
