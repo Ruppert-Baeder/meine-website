@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Neue Keramik und Software-Updates bei ViSoft Premium",
+      "excerpt": "ViSoft Premium erweitert seine Datenbank um neue Keramikkollektionen und Badmöbel sowie zusätzliche Artikel für ViSoft Smart und ViSoft ViPlan.",
+      "link": "https://www.sbz-online.de/meldungen/badplanung-neue-keramik-und-software-updates-bei-visoft-premium",
+      "date": 1794798008,
+      "dateStr": "16. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Bad direkt bringt Hersteller und SHK-Handwerk zusammen",
+      "excerpt": "Die Fachmesse Bad direkt hat im Oktober auch Station in Neumarkt gemacht. Hersteller haben dem Fachhandwerk Neuheiten für Bad, Heizung und Digitalisierung gezeigt.",
+      "link": "https://www.sbz-online.de/meldungen/messe-neumarkt-bad-direkt-bringt-hersteller-und-shk-handwerk-zusammen",
+      "date": 1794798007,
+      "dateStr": "16. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "BWP rechnet mit bis zu 400.000 verkauften Wärmepumpen",
       "excerpt": "Der Bundesverband Wärmepumpe (BWP) erwartet für 2026 einen Wärmepumpen-Anteil von 55 bis 60 % am Heizungsmarkt. Von der schwarz-roten Koalition fordert er eine verlässliche Heizungsförderung und eine niedrigere Stromsteu",
       "link": "https://www.sbz-online.de/meldungen/24-forum-waermepumpe-bwp-rechnet-mit-bis-zu-400000-verkauften-waermepumpen",
@@ -162,25 +180,7 @@
       "dateStr": "4. Nov. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "2026-Q3: SHK-Geschäftsklima verbessert sich deutlich",
-      "excerpt": "Das SHK-Konjunk­tur­ba­ro­meter ist im 3. Quar­tal 2026 auf positiv um­ge­schl­agen. Der Groß­han­del liegt erst­mals seit 13 Quar­ta­len wieder im Plus.",
-      "link": "https://www.sbz-online.de/meldungen/shk-konjunkturbarometer-2026-q3-shk-geschaeftsklima-verbessert-sich-deutlich",
-      "date": 1793686693,
-      "dateStr": "3. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Aquarea Service+ für Wärme­pum­pen jetzt auch in Deutschland",
-      "excerpt": "Mit dem neuen Service­paket bietet Pana­sonic cloud­ba­sierte Fern­war­tung und um­fas­sende Betreu­ung für Aquarea Luft/Wasser-Wärmepumpen.",
-      "link": "https://www.sbz-online.de/meldungen/panasonic-aquarea-service-fuer-waermepumpen-jetzt-auch-deutschland",
-      "date": 1793674806,
-      "dateStr": "3. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1794745416
+  "fetched": 1794834954
 }
