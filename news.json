@@ -2,6 +2,33 @@
   "ok": true,
   "articles": [
     {
+      "title": "Klimabilanz von Kälteanlagen: Kälte­mittel vs. Energieeffizienz",
+      "excerpt": "Die Energieeffizienz prägt laut UBA-Studie die Klimabilanz von Kälte­an­lagen stärker als das Kälte­mittel. Dennoch empfiehlt das UBA natürliche Kältemittel.",
+      "link": "https://www.sbz-online.de/meldungen/vdkf-zur-uba-studie-klimabilanz-von-kaelteanlagen-kaeltemittel-vs-energieeffizienz",
+      "date": 1794917138,
+      "dateStr": "17. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "SHK Innung Karlsruhe-Bruchsal: Jubiläum und SHK Award",
+      "excerpt": "Die SHK Innung Karlsruhe-Bruchsal feierte ihr 130-jähriges Bestehen, verlieh den SHK Award 2026 und verabschiedete Obermeister Frank Zöller nach 18 Jahren.",
+      "link": "https://www.sbz-online.de/meldungen/verbaende-shk-innung-karlsruhe-bruchsal-jubilaeum-und-shk-award",
+      "date": 1794884409,
+      "dateStr": "17. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Mitsubishi Electric: Schulungsprogramm 2026/2027",
+      "excerpt": "Mitsubishi Electric hat seinen Schulungskatalog 2026/2027 vorge­stellt. Im Mittel­punkt steht die neue VRF-Serie City Multi YXM mit dem Kälte­mittel R32.",
+      "link": "https://www.sbz-online.de/meldungen/schulungen-mitsubishi-electric-schulungsprogramm-2026-2027",
+      "date": 1794884408,
+      "dateStr": "17. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "Neue Keramik und Software-Updates bei ViSoft Premium",
       "excerpt": "ViSoft Premium erweitert seine Datenbank um neue Keramikkollektionen und Badmöbel sowie zusätzliche Artikel für ViSoft Smart und ViSoft ViPlan.",
       "link": "https://www.sbz-online.de/meldungen/badplanung-neue-keramik-und-software-updates-bei-visoft-premium",
@@ -153,34 +180,7 @@
       "dateStr": "4. Nov. 2026",
       "source": "SBZ Monteur",
       "category": "Branche"
-    },
-    {
-      "title": "Smarte Software für das Handwerk – Hottgenroth auf der GET NORD 2026",
-      "excerpt": "Vom 19. bis 21. November 2026 präsentiert die Hottgenroth Gruppe auf der GET NORD in Hamburg smarte Softwarelösungen für das Handwerk. Im Mittelpunkt stehen innovative Funktionen für die Photovoltaik-Planung und die ener",
-      "link": "https://www.sbz-online.de/software/smarte-software-fuer-das-handwerk-hottgenroth-auf-der-get-nord-2026",
-      "date": 1793777908,
-      "dateStr": "4. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Energy@GET Nord 2026: Ge­bäu­de wer­den ak­ti­ve En­er­gie­sys­te­me",
-      "excerpt": "Die GET Nord 2026 zeigt, wie Gebäude durch vernetzte Energiesysteme – von Photovoltaik bis Wärmepumpe – aktiv zur Energiewende beitragen.",
-      "link": "https://www.sbz-online.de/meldungen/19-21112026-messe-hamburg-energyget-nord-2026-gebaeude-werden-aktive-energiesysteme",
-      "date": 1793761208,
-      "dateStr": "4. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Pelletöfen: Wege zu we­ni­ger Emis­sio­nen",
-      "excerpt": "Wie können Pelletöfen und Holzpellets emissionsärmer werden? Wissenschaftler des Technologie- und Förderzentrums (TFZ) haben Antworten gefunden.",
-      "link": "https://www.sbz-online.de/meldungen/forschungsprojekt-pelletoefen-wege-zu-weniger-emissionen",
-      "date": 1793761208,
-      "dateStr": "4. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1794834954
+  "fetched": 1794924044
 }
