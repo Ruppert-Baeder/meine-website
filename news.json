@@ -2,6 +2,60 @@
   "ok": true,
   "articles": [
     {
+      "title": "HAROMED: Mehr Komfort und Selbstständigkeit am WC",
+      "excerpt": "Wenn das Hinsetzen und Aufstehen am WC zunehmend schwerfällt, können durchdachte Details im Bad einen wichtigen Unterschied machen. Mit dem neu überarbeiteten Bestseller HAROMED der Marke HARO bietet Hamberger Sanitary e",
+      "link": "https://www.sbz-online.de/bad/haromed-mehr-komfort-und-selbststaendigkeit-am-wc",
+      "date": 1795000973,
+      "dateStr": "18. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Heizungsanlagen messen statt schätzen",
+      "excerpt": "Temperaturüberwachung ohne Eingriff in die Regelung. Hydraulischer Abgleich, Heizkurve, Effizienz der Wärmepumpe: Viele Entscheidungen an Heizungsanlagen beruhen auf Momentaufnahmen und Erfahrungswerten. Die HELIOSYS Tem",
+      "link": "https://www.sbz-online.de/heizung/heliosys-temperaturueberwachung-tm2-heizungsanlagen-messen-statt-schaetzen",
+      "date": 1795000107,
+      "dateStr": "18. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Stiebel Eltron: Dr. Alexander Janzen wird CTO",
+      "excerpt": "Die Stiebel Eltron-Gruppe erweitert ihre Geschäftsführung: Mit Wirkung zum 1. Januar 2027 wird Dr. Alexander Janzen neuer Geschäftsführer Technik (CTO).",
+      "link": "https://www.sbz-online.de/meldungen/personalie-stiebel-eltron-dr-alexander-janzen-wird-cto",
+      "date": 1794985653,
+      "dateStr": "18. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "November 2026: Holzpellet­preis sinkt auf 461,82 Euro pro Tonne",
+      "excerpt": "Der Preis für Holz­pellets ist im November 2026 gegen­über dem Vor­mo­nat um 0,6 % auf 461,82 Euro/t ge­sunken und liegt da­mit ak­tu­ell 10,6 % über dem 12-Monats­durch­schnitt von 417,60 Euro/t.",
+      "link": "https://www.sbz-online.de/meldungen/energietraeger-november-2026-holzpelletpreis-sinkt-auf-46182-euro-pro-tonne",
+      "date": 1794970809,
+      "dateStr": "18. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Sonderschau zeigt Sanitärräume in sechs Themenwelten",
+      "excerpt": "Auf der ISH 2027 feiert die Sonderschau „bathroom stories“ Premiere. Im Foyer der Halle 4.1 zeigt eine begehbare Raumlandschaft, wie sich Gestaltung, Materialität, Technik und Nutzung von Sanitärräumen zu Gesamtkonzepten",
+      "link": "https://www.sbz-online.de/meldungen/ish-2027-sonderschau-zeigt-sanitaerraeume-sechs-themenwelten",
+      "date": 1794970809,
+      "dateStr": "18. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Zehnder Group bündelt Wärmetauscher-Produktion in Reinsdorf",
+      "excerpt": "Die Zehnder Group integriert die Wär­me­tau­scher-Pro­duk­tion ihres Stand­orts Waalwijk (NL) in den beste­henden Produk­tions­stand­ort Reinsdorf (D).",
+      "link": "https://www.sbz-online.de/meldungen/shk-hersteller-zehnder-group-buendelt-waermetauscher-produktion-reinsdorf",
+      "date": 1794970807,
+      "dateStr": "18. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Klimabilanz von Kälteanlagen: Kälte­mittel vs. Energieeffizienz",
       "excerpt": "Die Energieeffizienz prägt laut UBA-Studie die Klimabilanz von Kälte­an­lagen stärker als das Kälte­mittel. Dennoch empfiehlt das UBA natürliche Kältemittel.",
       "link": "https://www.sbz-online.de/meldungen/vdkf-zur-uba-studie-klimabilanz-von-kaelteanlagen-kaeltemittel-vs-energieeffizienz",
@@ -126,61 +180,7 @@
       "dateStr": "10. Nov. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "MHK bringt Küchenfachhandel und SHK-Handwerk zusammen",
-      "excerpt": "Beim MHK Jungunternehmertreffen kamen in Weimar erstmals junge Unternehmerinnen und Unternehmer aus beiden Branchen zusammen. Insgesamt kamen 42 Teilnehmer zusammen, zehn davon aus dem SHK-Handwerk.",
-      "link": "https://www.sbz-online.de/meldungen/jungunternehmertreffen-mhk-bringt-kuechenfachhandel-und-shk-handwerk-zusammen",
-      "date": 1794193208,
-      "dateStr": "9. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
-    },
-    {
-      "title": "Bauunternehmen brauchen Genehmigung für Asbest-Arbeiten",
-      "excerpt": "Ab 20. Dezember 2026 gilt für bestimmte Asbest-Arbeiten eine Genehmigungspflicht. Die BG BAU weist auf die Frist hin. Es drohen Bußgelder und Baustopps.",
-      "link": "https://www.sbz-online.de/meldungen/gefahrstoffverordnung-bauunternehmen-brauchen-genehmigung-fuer-asbest-arbeiten",
-      "date": 1794193207,
-      "dateStr": "9. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
-    },
-    {
-      "title": "HEATEXPO 2026: Systemtechnik für die SHK-Praxis",
-      "excerpt": "Wärme- und Kälteversorgung entsteht im Zusammenspiel von Erzeugung, Hydraulik, Netzen, Speichern, Regelung und Service. Die HEATEXPO zeigt, worauf es an den Schnittstellen ankommt.",
-      "link": "https://www.sbz-online.de/messe/heatexpo-2026-systemtechnik-fuer-die-shk-praxis",
-      "date": 1793948006,
-      "dateStr": "6. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Personelle Veränderungen in der SHK-Branche",
-      "excerpt": "Ein Führungswechsel bei Hager, eine Neubesetzung beim ZIV sowie ein Abschied bei Phoenix Contact.",
-      "link": "https://www.sbz-online.de/meldungen/personalien-personelle-veraenderungen-der-shk-branche-37",
-      "date": 1793934007,
-      "dateStr": "6. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Gebäudebegrünung wächst trotz schwacher Baukonjunktur",
-      "excerpt": "Der neue BuGG-Marktreport Gebäudegrün 2026 zeigt: Dach- und Fassadenbegrünungen wachsen weiter. Erstmals erfasst der Report auch die Innenraumbegrünung.",
-      "link": "https://www.sbz-online.de/meldungen/bugg-marktreport-gebaeudegruen-2026-gebaeudebegruenung-waechst-trotz-schwacher",
-      "date": 1793847608,
-      "dateStr": "5. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
-    },
-    {
-      "title": "SBZ ruft an – beim Creator-Manager zur GET Nord 2026:",
-      "excerpt": "Was haben Content Creator, Social Media und das klassische SHK-Fachhandwerk auf einer Fachmesse zu suchen? Eine ganze Menge!",
-      "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-beim-creator-manager-zur-get-nord-2026",
-      "date": 1793797505,
-      "dateStr": "4. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Branche"
     }
   ],
-  "fetched": 1794924044
+  "fetched": 1795008911
 }
