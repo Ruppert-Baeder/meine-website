@@ -2,6 +2,42 @@
   "ok": true,
   "articles": [
     {
+      "title": "Stromsteuersenkung – geringe Wirkung, hoher Aufwand",
+      "excerpt": "Daniel Föst, Hauptgeschäftsführer des ZVSHK, bewertet die Stromsteuersenkung ab 2027 als geringe Entlastung und kritisiert den politischen Weg sowie die fehlende Verlässlichkeit für die Wärmewende.",
+      "link": "https://www.sbz-online.de/meldungen/standpunkt-stromsteuersenkung-geringe-wirkung-hoher-aufwand",
+      "date": 1795077876,
+      "dateStr": "19. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Wasserzähler mit dauerhafter Stromversorgung von HERZ Messtechnik.",
+      "excerpt": "Ultraschall-Präzision mit maximaler Konnektivität von Betriebssystemen. Der Ultraschallwasserzähler von HERZ Messtechnik in 24 VDC oder 230 VAC.",
+      "link": "https://www.sbz-online.de/mess-und-regeltechnik/wasserzaehler-mit-dauerhafter-stromversorgung-von-herz-messtechnik",
+      "date": 1795071245,
+      "dateStr": "19. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Geberit bringt SHK-Fachleute und Nachwuchs zusammen",
+      "excerpt": "Geberit lädt 2027 zu zwei Veranstaltungsformaten ein: NahDran für praxisnahe Produkttests und Nachwuchsförderung sowie Sicher dabei! für aktuelles Fachwissen zu Normen und Bauanforderungen.",
+      "link": "https://www.sbz-online.de/meldungen/veranstaltungen-2027-geberit-bringt-shk-fachleute-und-nachwuchs-zusammen",
+      "date": 1795057207,
+      "dateStr": "19. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Förderung"
+    },
+    {
+      "title": "Kermi eröffnet mo­der­ni­sier­ten Campus und neue Academy",
+      "excerpt": "Mit der Neueröffnung des Kermi Campus in Plattling lanciert Kermi seine neu ausgerichtete Kermi Academy – mit praxisorientierten Schulungen für Fachpartner.",
+      "link": "https://www.sbz-online.de/meldungen/schulungen-kermi-eroeffnet-modernisierten-campus-und-neue-academy",
+      "date": 1795057206,
+      "dateStr": "19. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
       "title": "HAROMED: Mehr Komfort und Selbstständigkeit am WC",
       "excerpt": "Wenn das Hinsetzen und Aufstehen am WC zunehmend schwerfällt, können durchdachte Details im Bad einen wichtigen Unterschied machen. Mit dem neu überarbeiteten Bestseller HAROMED der Marke HARO bietet Hamberger Sanitary e",
       "link": "https://www.sbz-online.de/bad/haromed-mehr-komfort-und-selbststaendigkeit-am-wc",
@@ -144,43 +180,7 @@
       "dateStr": "12. Nov. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Maincor vernetzt Handwerksbetriebe bei Kapazitätsengpässen",
-      "excerpt": "Maincor hat den Service „Handwerker hilft Handwerker“ gestartet. Betriebe mit Unterstützungsbedarf finden darüber Partner mit freien Kapazitäten.",
-      "link": "https://www.sbz-online.de/meldungen/kapazitaetsengpaesse-maincor-vernetzt-handwerksbetriebe-bei-kapazitaetsengpaessen",
-      "date": 1794393192,
-      "dateStr": "11. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Smart Home"
-    },
-    {
-      "title": "SBZ ruft an – bei Hansgrohe zum 125. Geburtstag:",
-      "excerpt": "Anlässlich des 125-jährigen Bestehens von Hansgrohe hat die SBZ bei Dr. Jörg Hass angerufen (Vice President Corporate Communications der Hansgrohe Group).",
-      "link": "https://www.sbz-online.de/meldungen/sbz-podcast-sbz-ruft-bei-hansgrohe-zum-125-geburtstag",
-      "date": 1794366007,
-      "dateStr": "11. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Der AIronman jettet durch die SHK-Welt",
-      "excerpt": "Wie bringt man Digitalisierung ins Handwerk, ohne erhobenen Zeigefinger und komplizierte Technik-Erklärungen? Matthias Niehaus hat dafür eine ungewöhnliche Lösung gefunden. Er tritt als AIronman an, die SHK-Handwerkerwel",
-      "link": "https://www.sbz-online.de/meldungen/interview-der-aironman-jettet-durch-die-shk-welt",
-      "date": 1794279607,
-      "dateStr": "10. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Smart Home"
-    },
-    {
-      "title": "IG Infrarot zeigt E-Wärme auf Sustainable Solutions",
-      "excerpt": "Der IG Infrarot zeigt am 2. und 3. Dezember 2026 auf der Sustainable Solutions in Düsseldorf Lösungen für die elektrische Wärmeversorgung. Auf dem Programm stehen Fachvorträge zu Infrarotheizungen, Photovoltaik und elekt",
-      "link": "https://www.sbz-online.de/meldungen/messe-sustainable-solutions-ig-infrarot-zeigt-e-waerme-auf-sustainable-solutions",
-      "date": 1794279607,
-      "dateStr": "10. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1795008911
+  "fetched": 1795096910
 }
