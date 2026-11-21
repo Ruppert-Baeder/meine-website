@@ -2,6 +2,24 @@
   "ok": true,
   "articles": [
     {
+      "title": "Rekordbeteiligung beim „Tag des offenen Heizungskellers“",
+      "excerpt": "Über 2300 Haushalte in mehr als 750 Städten und Gemeinden öffnen heute ihre Türen, um Besuchern klimafreundliche Heiztechnik zu zeigen.",
+      "link": "https://www.sbz-online.de/meldungen/21-november-2026-bundesweit-rekordbeteiligung-beim-tag-des-offenen-heizungskellers",
+      "date": 1795233607,
+      "dateStr": "21. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Max Köhler aus Sachsen-Anhalt ist Deutschlands bester Nachwuchs-Schornsteinfeger",
+      "excerpt": "Vom 10. bis 11. November 2026 fand im Rahmen der Deutschen Meisterschaft im Handwerk in...",
+      "link": "https://www.shk-journal.de//news/default-691d90918c.html",
+      "date": 1795218720,
+      "dateStr": "21. Nov. 2026",
+      "source": "SHK Journal",
+      "category": "Branche"
+    },
+    {
       "title": "GEO: Neu im Programm - Die WS80 – Walk-In Schiebetür mit leichtgängiger Rollenführung",
       "excerpt": "Die zweiteilige Walk-In Schiebetür WS80 mit leichtgängiger Rollenführung verbindet den großzügigen...",
       "link": "https://www.shk-journal.de//news/neu-im-programm-die-ws80-walk-in-schiebetuer-mit-leichtgaengiger-rollenfuehrung.html",
@@ -173,15 +191,6 @@
       "category": "Heizung"
     },
     {
-      "title": "Resus sucht Verkaufsberater Außendienst Wasser- &amp; Haustechnik (m/w/d) HANDWERK &amp; GROSSHANDEL | GROSSRAUM HAMBURG | MARKT AUFBAUEN",
-      "excerpt": "Unser Mandant ist ein renommierter, mittelständischer Hersteller der Haus- und Trinkwassertechnik...",
-      "link": "https://www.shk-journal.de//news/default-42635cdcb4-2.html",
-      "date": 1795203960,
-      "dateStr": "20. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Sanitär"
-    },
-    {
       "title": "HEATEXPO 2026: Systemtechnik für die SHK-Praxis",
       "excerpt": "Wärme- und Kälteversorgung entsteht im Zusammenspiel von Erzeugung, Hydraulik, Netzen, Speichern, Regelung und Service. Die HEATEXPO zeigt, worauf es an den Schnittstellen ankommt.",
       "link": "https://www.sbz-online.de/messe/heatexpo-2026-systemtechnik-fuer-die-shk-praxis",
@@ -351,16 +360,7 @@
       "dateStr": "16. Nov. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "BWP rechnet mit bis zu 400.000 verkauften Wärmepumpen",
-      "excerpt": "Der Bundesverband Wärmepumpe (BWP) erwartet für 2026 einen Wärmepumpen-Anteil von 55 bis 60 % am Heizungsmarkt. Von der schwarz-roten Koalition fordert er eine verlässliche Heizungsförderung und eine niedrigere Stromsteu",
-      "link": "https://www.sbz-online.de/meldungen/24-forum-waermepumpe-bwp-rechnet-mit-bis-zu-400000-verkauften-waermepumpen",
-      "date": 1794553728,
-      "dateStr": "13. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1795182302
+  "fetched": 1795266608
 }
