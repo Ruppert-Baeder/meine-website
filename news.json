@@ -2,6 +2,15 @@
   "ok": true,
   "articles": [
     {
+      "title": "Elektrifizierung, Gasmarkt im Umbruch und Resilienz kritischer Infrastrukturen",
+      "excerpt": "17. bis 19. November 2026: Die Energiewirtschaft im Dialog - E-world Kick-off 2027 im Zeichen der...",
+      "link": "https://www.shk-journal.de//news/default-400c74b9d0.html",
+      "date": 1795305180,
+      "dateStr": "22. Nov. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
       "title": "Rekordbeteiligung beim „Tag des offenen Heizungskellers“",
       "excerpt": "Über 2300 Haushalte in mehr als 750 Städten und Gemeinden öffnen heute ihre Türen, um Besuchern klimafreundliche Heiztechnik zu zeigen.",
       "link": "https://www.sbz-online.de/meldungen/21-november-2026-bundesweit-rekordbeteiligung-beim-tag-des-offenen-heizungskellers",
@@ -182,15 +191,6 @@
       "category": "Sanitär"
     },
     {
-      "title": "Fröling: SCHICHTSPEICHER / SOLARSCHICHTSPEICHER",
-      "excerpt": "Die Raffinesse steckt im Detail! Mit den Schichtspeichern und Solarschichtspeichern bietet Fröling...",
-      "link": "https://www.shk-journal.de//news/schichtspeicher-solarschichtspeicher-1.html",
-      "date": 1795204140,
-      "dateStr": "20. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
       "title": "HEATEXPO 2026: Systemtechnik für die SHK-Praxis",
       "excerpt": "Wärme- und Kälteversorgung entsteht im Zusammenspiel von Erzeugung, Hydraulik, Netzen, Speichern, Regelung und Service. Die HEATEXPO zeigt, worauf es an den Schnittstellen ankommt.",
       "link": "https://www.sbz-online.de/messe/heatexpo-2026-systemtechnik-fuer-die-shk-praxis",
@@ -362,5 +362,5 @@
       "category": "Heizung"
     }
   ],
-  "fetched": 1795266608
+  "fetched": 1795352230
 }
