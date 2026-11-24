@@ -2,76 +2,31 @@
   "ok": true,
   "articles": [
     {
-      "title": "BetteCompact+: Effiziente Ablaufgarnitur mit minimaler Aufbauhöhe",
-      "excerpt": "Mit der neuen Ablaufgarnitur BetteCompact+ bringt Bette eine Lösung auf den Markt, die Technik,...",
-      "link": "https://www.shk-journal.de//news/default-b6bd565ad9.html",
-      "date": 1795438723,
-      "dateStr": "23. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Branche"
+      "title": "Kalkschutzanlagen trotzen hohen Umgebungstemperaturen",
+      "excerpt": "Die Biocat Kalkschutzanlagen von WaterCryst ermöglichen durch neue Sicherheitskonzepte den Einsatz auch bei Temperaturen bis 40 °C. Dies erweitert die Planungs- und Installationsmöglichkeiten in Heizzentralen.",
+      "link": "https://www.sbz-online.de/meldungen/wasseraufbereitung-kalkschutzanlagen-trotzen-hohen-umgebungstemperaturen",
+      "date": 1795489208,
+      "dateStr": "24. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
     },
     {
-      "title": "KESSEL: 🔔 Nicht verpassen Kompetenzwoche Haustechnik",
-      "excerpt": "Heute (23.11.2026) startet wieder die Kompetenzwoche Haustechnik und bringt fünf Tage lang frisches...",
-      "link": "https://www.shk-journal.de//news/kessel-nicht-verpassen-kompetenzwoche-haustechnik.html",
-      "date": 1795437967,
-      "dateStr": "23. Nov. 2026",
-      "source": "SHK Journal",
+      "title": "24 Mehrfamilienhäuser in 10 Wochen auf Wärmepumpe umgestellt",
+      "excerpt": "Im Rhein-Erft-Kreis wurden 24 Mehrfamilienhäuser mit rund 300 Wohnungen innerhalb von 10 Wochen von Gas und Öl auf 33 Luft-Wasser-Wärmepumpen von Zewotherm umgestellt.",
+      "link": "https://www.sbz-online.de/meldungen/referenzprojekt-24-mehrfamilienhaeuser-10-wochen-auf-waermepumpe-umgestellt",
+      "date": 1795489207,
+      "dateStr": "24. Nov. 2026",
+      "source": "SBZ Monteur",
       "category": "Heizung"
     },
     {
-      "title": "WOLF ist Finalist beim Deutschen Nachhaltigkeitspreis 2027",
-      "excerpt": "Die WOLF GmbH aus Mainburg ist in der Endauswahl um den 19. Deutschen Nachhaltigkeitspreis (DNP)...",
-      "link": "https://www.shk-journal.de//news/wolf-ist-finalist-beim-deutschen-nachhaltigkeitspreis-2027.html",
-      "date": 1795432260,
-      "dateStr": "23. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Laszlo &amp; Kollegen Personalberatung sucht einen Technischen Produktmanager (m/w/d) Energiesysteme",
-      "excerpt": "Derzeit unterstützen wir unseren Mandanten bei der Suche nach einem Technischen Produktmanager...",
-      "link": "https://www.shk-journal.de//news/laszlo-kollegen-personalberatung-sucht-einen-technischen-produktmanager-mwd-energiesysteme-1.html",
-      "date": 1795428780,
-      "dateStr": "23. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "DALLMER - Webinar: Bodengleiche Duschen in Neubau und Sanierung – normgerecht, sicher und zeitsparend einbauen",
-      "excerpt": "Am 26.11.2026 um 16:00 - 17:00 Uhr",
-      "link": "https://www.shk-journal.de//news/dallmer-webinar-bodengleiche-duschen-in-neubau-und-sanierung-normgerecht-sicher-und-zeitsparend-einbauen.html",
-      "date": 1795427809,
-      "dateStr": "23. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Baden-Württembergs Wirtschaftsministerin Dr. Nicole Hoffmeister-Kraut besucht Hansgrohe",
-      "excerpt": "Innovationskraft, Ausbildung und Wettbewerbsfähigkeit im Fokus des Ministerinnenbesuchs",
-      "link": "https://www.shk-journal.de//news/default-48a1b36843.html",
-      "date": 1795427611,
-      "dateStr": "23. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "GET NORD 2026 stärkt Branchendialog und setzt wichtige Impulse",
-      "excerpt": "Drei Messetage voller Innovationen, intensiver Gespräche und neuer Impulse für die Gebäudetechnik:...",
-      "link": "https://www.shk-journal.de//news/get-nord-2026-staerkt-branchendialog-und-setzt-wichtige-impulse.html",
-      "date": 1795427003,
-      "dateStr": "23. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Pluggit: Wohnraumlüftung und GModG",
-      "excerpt": "Wärmerückgewinnung gewinnt an Bedeutung",
-      "link": "https://www.shk-journal.de//news/pluggit-wohnraumlueftung-und-gmodg.html",
-      "date": 1795426531,
-      "dateStr": "23. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
+      "title": "Lüftungsanlagen: 5 Tipps zur BEG-Einzelförderung",
+      "excerpt": "Die BEG EM bietet weiterhin Zuschüsse für Lüftungsanlagen – doch die Anforderungen sind gestiegen. Welche technischen Kriterien erfüllt sein müssen, wie der Sanierungsfahrplan-Bonus genutzt wird und welche Schritte bei d",
+      "link": "https://www.sbz-online.de/meldungen/beg-em-lueftungsanlagen-5-tipps-zur-beg-einzelfoerderung",
+      "date": 1795489206,
+      "dateStr": "24. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Förderung"
     },
     {
       "title": "20 Jahre Daikin Altherma: Von Erfahrung inspiriert, für die Zukunft entwickelt",
@@ -128,120 +83,12 @@
       "category": "Heizung"
     },
     {
-      "title": "NahDran und Sicher dabei! – Geberit bringt 2027 die Branche zusammen",
-      "excerpt": "Zwei Veranstaltungsformate mit unterschiedlichen Themenschwerpunkten rund um SHK und die Zukunft...",
-      "link": "https://www.shk-journal.de//news/nahdran-und-sicher-dabei-geberit-bringt-2027-die-branche-zusammen-1.html",
-      "date": 1795391940,
-      "dateStr": "23. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "DEPI: Jetzt noch hohe Zuschüsse sichern",
-      "excerpt": "Die alte Pelletheizung austauschen",
-      "link": "https://www.shk-journal.de//news/depi-jetzt-noch-hohe-zuschuesse-sichern.html",
-      "date": 1795391940,
-      "dateStr": "23. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "WW PERSONAL sucht Gebietsverkaufsleiter (m/w/d) Fachgroßhandel Gebäudetechnik  Ausführungsort: Baden - Württemberg  Referenz-Nr.: 1432  Mobiles Arbeiten: Ja",
-      "excerpt": "Unser Auftraggeber ist ein international erfolgreicher Hersteller von Speicher- und...",
-      "link": "https://www.shk-journal.de//news/ww-personal-sucht-gebietsverkaufsleiter-mwd-fachgrosshandel-gebaeudetechnik-ausfuehrungsort-baden-wuerttemberg-referenz-nr-1432-mobiles-arbeiten-ja-3.html",
-      "date": 1795391940,
-      "dateStr": "23. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "BRÖTJE: Gaskessel raus, Wärmepumpen rein – Nachrüstung leicht gemacht",
-      "excerpt": "Der Austausch alter Heizsysteme durch Wärmepumpen gehört für viele Fachbetriebe inzwischen zum...",
-      "link": "https://www.shk-journal.de//news/default-45a56218a2-1.html",
-      "date": 1795391040,
-      "dateStr": "23. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Raab-Gruppe: Biomasse als Energieträger",
-      "excerpt": "Effiziente und umweltschonende Abgastechnik für Holzheizungen – Lösungen der Raab-Gruppe",
-      "link": "https://www.shk-journal.de//news/raab-gruppe-biomasse-als-energietraeger-3-1.html",
-      "date": 1795390620,
-      "dateStr": "23. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "DRAG'EAU auf der HEATEXPO",
-      "excerpt": "Besuchen Sie uns in Halle H7 Stand A42",
-      "link": "https://www.shk-journal.de//news/drageau-auf-der-get-nord-1-1.html",
-      "date": 1795390140,
-      "dateStr": "23. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Elektrifizierung, Gasmarkt im Umbruch und Resilienz kritischer Infrastrukturen",
-      "excerpt": "17. bis 19. November 2026: Die Energiewirtschaft im Dialog - E-world Kick-off 2027 im Zeichen der...",
-      "link": "https://www.shk-journal.de//news/default-400c74b9d0.html",
-      "date": 1795305180,
-      "dateStr": "22. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
       "title": "Rekordbeteiligung beim „Tag des offenen Heizungskellers“",
       "excerpt": "Über 2300 Haushalte in mehr als 750 Städten und Gemeinden öffnen heute ihre Türen, um Besuchern klimafreundliche Heiztechnik zu zeigen.",
       "link": "https://www.sbz-online.de/meldungen/21-november-2026-bundesweit-rekordbeteiligung-beim-tag-des-offenen-heizungskellers",
       "date": 1795233607,
       "dateStr": "21. Nov. 2026",
       "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Max Köhler aus Sachsen-Anhalt ist Deutschlands bester Nachwuchs-Schornsteinfeger",
-      "excerpt": "Vom 10. bis 11. November 2026 fand im Rahmen der Deutschen Meisterschaft im Handwerk in...",
-      "link": "https://www.shk-journal.de//news/default-691d90918c.html",
-      "date": 1795218720,
-      "dateStr": "21. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Branche"
-    },
-    {
-      "title": "GEO: Neu im Programm - Die WS80 – Walk-In Schiebetür mit leichtgängiger Rollenführung",
-      "excerpt": "Die zweiteilige Walk-In Schiebetür WS80 mit leichtgängiger Rollenführung verbindet den großzügigen...",
-      "link": "https://www.shk-journal.de//news/neu-im-programm-die-ws80-walk-in-schiebetuer-mit-leichtgaengiger-rollenfuehrung.html",
-      "date": 1795206600,
-      "dateStr": "20. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "glassdouche: Geteilte Tür, doppelte Freude",
-      "excerpt": "Kein Widerspruch: Barrierefreiheit und Designanspruch",
-      "link": "https://www.shk-journal.de//news/default-e0d56c5abf.html",
-      "date": 1795206540,
-      "dateStr": "20. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Dreifach ausgezeichnet: Stiebel Eltron überzeugt beim „Architects’ Darling 2026“",
-      "excerpt": "Gold in den Kategorien „Regenerative Energien“ und „Lüftung“, Bronze für technische...",
-      "link": "https://www.shk-journal.de//news/dreifach-ausgezeichnet-stiebel-eltron-ueberzeugt-beim-architects-darling-2026.html",
-      "date": 1795206480,
-      "dateStr": "20. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Neuer elektrischer Badheizkörper Reta-E von HSK Duschkabinenbau",
-      "excerpt": "Smarte Wärme durch minimalistisches Design",
-      "link": "https://www.shk-journal.de//news/neuer-elektrischer-badheizkoerper-reta-e-von-hsk-duschkabinenbau-1.html",
-      "date": 1795206420,
-      "dateStr": "20. Nov. 2026",
-      "source": "SHK Journal",
       "category": "Heizung"
     },
     {
@@ -333,34 +180,7 @@
       "dateStr": "18. Nov. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Stiebel Eltron: Dr. Alexander Janzen wird CTO",
-      "excerpt": "Die Stiebel Eltron-Gruppe erweitert ihre Geschäftsführung: Mit Wirkung zum 1. Januar 2027 wird Dr. Alexander Janzen neuer Geschäftsführer Technik (CTO).",
-      "link": "https://www.sbz-online.de/meldungen/personalie-stiebel-eltron-dr-alexander-janzen-wird-cto",
-      "date": 1794985653,
-      "dateStr": "18. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "November 2026: Holzpellet­preis sinkt auf 461,82 Euro pro Tonne",
-      "excerpt": "Der Preis für Holz­pellets ist im November 2026 gegen­über dem Vor­mo­nat um 0,6 % auf 461,82 Euro/t ge­sunken und liegt da­mit ak­tu­ell 10,6 % über dem 12-Monats­durch­schnitt von 417,60 Euro/t.",
-      "link": "https://www.sbz-online.de/meldungen/energietraeger-november-2026-holzpelletpreis-sinkt-auf-46182-euro-pro-tonne",
-      "date": 1794970809,
-      "dateStr": "18. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "Sonderschau zeigt Sanitärräume in sechs Themenwelten",
-      "excerpt": "Auf der ISH 2027 feiert die Sonderschau „bathroom stories“ Premiere. Im Foyer der Halle 4.1 zeigt eine begehbare Raumlandschaft, wie sich Gestaltung, Materialität, Technik und Nutzung von Sanitärräumen zu Gesamtkonzepten",
-      "link": "https://www.sbz-online.de/meldungen/ish-2027-sonderschau-zeigt-sanitaerraeume-sechs-themenwelten",
-      "date": 1794970809,
-      "dateStr": "18. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
     }
   ],
-  "fetched": 1795448040
+  "fetched": 1795533998
 }
