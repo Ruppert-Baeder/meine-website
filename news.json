@@ -2,6 +2,42 @@
   "ok": true,
   "articles": [
     {
+      "title": "GET Nord 2026 zog rund 37.000 Besuchende nach Hamburg",
+      "excerpt": "Die GET Nord 2026 stellte das Zusammenspiel von Elektro- und SHK-Gewerken in den Mittelpunkt. Erstmals findet die nächste Ausgabe 2028 von Mittwoch bis Freitag statt.",
+      "link": "https://www.sbz-online.de/meldungen/messe-hamburg-get-nord-2026-zog-rund-37000-besuchende-nach-hamburg",
+      "date": 1795593607,
+      "dateStr": "25. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Effiziente Wär­me­pum­pen­hy­drau­lik: Link3-Schich­ten­spei­cher im Hotel",
+      "excerpt": "Das Explorer Hotel Stubaital setzt auf Link3-Schichtenspeicher und Wärmepumpen, um Heizenergie und Stromverbrauch zu senken.",
+      "link": "https://www.sbz-online.de/meldungen/referenzprojekt-effiziente-waermepumpenhydraulik-link3-schichtenspeicher-im-hotel",
+      "date": 1795575607,
+      "dateStr": "25. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Wärmepumpen-Infotage: Zweite Saison startet mit rund 4.600 Gästen",
+      "excerpt": "Zu den ersten sieben Terminen der Saison 2026/27 kamen rund 4.600 Besuchende. Lokale SHK-Betriebe beraten dort kostenlos vor und nach neutralen Vorträgen zum Heizungstausch.",
+      "link": "https://www.sbz-online.de/meldungen/veranstaltungsreihe-waermepumpen-infotage-zweite-saison-startet-mit-rund-4600-gaesten",
+      "date": 1795575605,
+      "dateStr": "25. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Neuer Zahlungsstandard für Wärmepumpen und PV-Anlagen",
+      "excerpt": "Das Berliner FinTech Bees & Bears führt einen neuen Zahlungsstandard für Wärmepumpen und PV-Anlagen ein – Kund:innen zahlen erst nach Abnahme, Handwerksbetriebe erhalten die Liquidität trotzdem vorab.",
+      "link": "https://www.sbz-online.de/meldungen/energiemarkt-neuer-zahlungsstandard-fuer-waermepumpen-und-pv-anlagen",
+      "date": 1795575605,
+      "dateStr": "25. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
       "title": "Kalkschutzanlagen trotzen hohen Umgebungstemperaturen",
       "excerpt": "Die Biocat Kalkschutzanlagen von WaterCryst ermöglichen durch neue Sicherheitskonzepte den Einsatz auch bei Temperaturen bis 40 °C. Dies erweitert die Planungs- und Installationsmöglichkeiten in Heizzentralen.",
       "link": "https://www.sbz-online.de/meldungen/wasseraufbereitung-kalkschutzanlagen-trotzen-hohen-umgebungstemperaturen",
@@ -144,43 +180,7 @@
       "dateStr": "19. Nov. 2026",
       "source": "SBZ Monteur",
       "category": "Sanitär"
-    },
-    {
-      "title": "Geberit bringt SHK-Fachleute und Nachwuchs zusammen",
-      "excerpt": "Geberit lädt 2027 zu zwei Veranstaltungsformaten ein: NahDran für praxisnahe Produkttests und Nachwuchsförderung sowie Sicher dabei! für aktuelles Fachwissen zu Normen und Bauanforderungen.",
-      "link": "https://www.sbz-online.de/meldungen/veranstaltungen-2027-geberit-bringt-shk-fachleute-und-nachwuchs-zusammen",
-      "date": 1795057207,
-      "dateStr": "19. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Förderung"
-    },
-    {
-      "title": "Kermi eröffnet mo­der­ni­sier­ten Campus und neue Academy",
-      "excerpt": "Mit der Neueröffnung des Kermi Campus in Plattling lanciert Kermi seine neu ausgerichtete Kermi Academy – mit praxisorientierten Schulungen für Fachpartner.",
-      "link": "https://www.sbz-online.de/meldungen/schulungen-kermi-eroeffnet-modernisierten-campus-und-neue-academy",
-      "date": 1795057206,
-      "dateStr": "19. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
-    },
-    {
-      "title": "HAROMED: Mehr Komfort und Selbstständigkeit am WC",
-      "excerpt": "Wenn das Hinsetzen und Aufstehen am WC zunehmend schwerfällt, können durchdachte Details im Bad einen wichtigen Unterschied machen. Mit dem neu überarbeiteten Bestseller HAROMED der Marke HARO bietet Hamberger Sanitary e",
-      "link": "https://www.sbz-online.de/bad/haromed-mehr-komfort-und-selbststaendigkeit-am-wc",
-      "date": 1795000973,
-      "dateStr": "18. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Heizungsanlagen messen statt schätzen",
-      "excerpt": "Temperaturüberwachung ohne Eingriff in die Regelung. Hydraulischer Abgleich, Heizkurve, Effizienz der Wärmepumpe: Viele Entscheidungen an Heizungsanlagen beruhen auf Momentaufnahmen und Erfahrungswerten. Die HELIOSYS Tem",
-      "link": "https://www.sbz-online.de/heizung/heliosys-temperaturueberwachung-tm2-heizungsanlagen-messen-statt-schaetzen",
-      "date": 1795000107,
-      "dateStr": "18. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
     }
   ],
-  "fetched": 1795533998
+  "fetched": 1795619562
 }
