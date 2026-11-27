@@ -2,40 +2,220 @@
   "ok": true,
   "articles": [
     {
-      "title": "DEPI: Hausputz auch im Pelletlager",
-      "excerpt": "Reinigung für einen störungsfreien Betrieb",
-      "link": "https://www.shk-journal.de//news/default-c09dcef0bc.html",
-      "date": 1795697040,
-      "dateStr": "26. Nov. 2026",
+      "title": "HSK: Neue glasfaserverstärkte Duschwanne mit recyceltem Kern",
+      "excerpt": "Apunto ProLight: Ein Leichtgewicht für jede Einbausituation",
+      "link": "https://www.shk-journal.de//news/hsk-neue-glasfaserverstaerkte-duschwanne-mit-recyceltem-kern.html",
+      "date": 1795811400,
+      "dateStr": "27. Nov. 2026",
       "source": "SHK Journal",
       "category": "Heizung"
     },
     {
-      "title": "SYR - Video: Drufi - Der zuverlässige Wasser-Manager",
-      "excerpt": "Das System Drufi bietet perfekte Lösungen in der Hauseingangsinstallation",
-      "link": "https://www.shk-journal.de//news/default-cf1e5d78a3.html",
-      "date": 1795696289,
-      "dateStr": "26. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Airflow erweitert die SoundEar® 4-Reihe für Lärmmonitoring",
-      "excerpt": "Robuste Lärmüberwachung mit integriertem Dosimeter für Gehörschutz am Arbeitsplatz",
-      "link": "https://www.shk-journal.de//news/airflow-erweitert-die-soundearr-4-reihe-fuer-laermmonitoring-2.html",
-      "date": 1795694271,
-      "dateStr": "26. Nov. 2026",
+      "title": "i.GLUESYSTEMS: Silikon oder Hybrid-Dichtstoff? Die Fuge gibt den Ausschlag",
+      "excerpt": "Bei einer Sanierung trifft eine neue Wandverkleidung auf ein beschichtetes Metallprofil. Wenige...",
+      "link": "https://www.shk-journal.de//news/silikon-oder-hybrid-dichtstoff-die-fuge-gibt-den-ausschlag.html",
+      "date": 1795811340,
+      "dateStr": "27. Nov. 2026",
       "source": "SHK Journal",
       "category": "Aktuell"
     },
     {
-      "title": "NORDWEST: Digitalisierung wird zum Tagesgeschäft",
-      "excerpt": "IT Community Day 2026 zeigt neue Möglichkeiten für Beschaffung, Prozesse und KI im Fachhandel",
-      "link": "https://www.shk-journal.de//news/nordwest-digitalisierung-wird-zum-tagesgeschaeft.html",
-      "date": 1795693119,
-      "dateStr": "26. Nov. 2026",
+      "title": "GARANT Bad + Haus CONNECT 2026: Erfolgreicher Auftakt für neues Format",
+      "excerpt": "Aussteller, Impulse, Begegnungen",
+      "link": "https://www.shk-journal.de//news/garant-bad-haus-connect-2026-erfolgreicher-auftakt-fuer-neues-format.html",
+      "date": 1795811280,
+      "dateStr": "27. Nov. 2026",
       "source": "SHK Journal",
-      "category": "Smart Home"
+      "category": "Heizung"
+    },
+    {
+      "title": "Artweger: JOICE Walk In +  für doppelten Komfort in der Badreonvierung",
+      "excerpt": "JOICE vereint modernes Design mit maximaler Flexibilität: Die bodenebene Walk-in-Dusche lässt sich...",
+      "link": "https://www.shk-journal.de//news/joice-walk-in-fuer-doppelten-komfort-in-der-badreonvierung.html",
+      "date": 1795811220,
+      "dateStr": "27. Nov. 2026",
+      "source": "SHK Journal",
+      "category": "Sanitär"
+    },
+    {
+      "title": "HARGASSNER: JETZT SCHON AN DEN SOMMER DENKEN!",
+      "excerpt": "Mit der richtigen Ausstattung wird die Heizung zum Ganzjahres-System",
+      "link": "https://www.shk-journal.de//news/default-522011a6bc.html",
+      "date": 1795811160,
+      "dateStr": "27. Nov. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "Drei Tage GET NORD 2026: DELTAMESS blickt auf spannende Begegnungen und persönliche Gespräche zurück",
+      "excerpt": "Vom 19. bis 21. November 2026 war DELTAMESS auf der GET NORD in Hamburg vertreten. Drei Messetage...",
+      "link": "https://www.shk-journal.de//news/drei-tage-get-nord-2026-deltamess-blickt-auf-spannende-begegnungen-und-persoenliche-gespraeche-zurueck.html",
+      "date": 1795811100,
+      "dateStr": "27. Nov. 2026",
+      "source": "SHK Journal",
+      "category": "Branche"
+    },
+    {
+      "title": "DOYMA ist Most Innovative Brand 2026.",
+      "excerpt": "Der PLUS X AWARD zeichnet DOYMA als „Most Innovative Brand 2026“ in der Kategorie...",
+      "link": "https://www.shk-journal.de//news/doyma-ist-most-innovative-brand-2026.html",
+      "date": 1795811040,
+      "dateStr": "27. Nov. 2026",
+      "source": "SHK Journal",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Salm und Salm Plus von Schröder Wannentechnik: Vorwandbadewannen in schlichtem Design",
+      "excerpt": "Mit den Modellen Salm und Salm Plus bietet Schröder Wannentechnik zwei Vorwandbadewannen, die...",
+      "link": "https://www.shk-journal.de//news/salm-und-salm-plus-von-schroeder-wannentechnik-vorwandbadewannen-in-schlichtem-design.html",
+      "date": 1795810980,
+      "dateStr": "27. Nov. 2026",
+      "source": "SHK Journal",
+      "category": "Sanitär"
+    },
+    {
+      "title": "GEO: Teilsanierung mit den maw Paneelen - modernes Design und einfache Montage",
+      "excerpt": "Die Aluminium-Verbundplatten der GEO Fachhandelsmarke maw ermöglichen eine Montage in Rekordzeit....",
+      "link": "https://www.shk-journal.de//news/geo-teilsanierung-mit-den-maw-paneelen-modernes-design-und-einfache-montage-8-1-1-1-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1.html",
+      "date": 1795810920,
+      "dateStr": "27. Nov. 2026",
+      "source": "SHK Journal",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Radaway Duschkabinen: Wir stellen ein!",
+      "excerpt": "Die Radaway GmbH ist seit über zehn Jahren Spezialist für hochwertige Duschkabinen aus Echtglas....",
+      "link": "https://www.shk-journal.de//news/radaway-duschkabinen-wir-stellen-ein-2.html",
+      "date": 1795810680,
+      "dateStr": "27. Nov. 2026",
+      "source": "SHK Journal",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Rohrrino: Händlerrabatt!",
+      "excerpt": "„Dein persönlicher Rabattsatz!",
+      "link": "https://www.shk-journal.de//news/rohrrino-haendlerrabatt.html",
+      "date": 1795809540,
+      "dateStr": "27. Nov. 2026",
+      "source": "SHK Journal",
+      "category": "Sanitär"
+    },
+    {
+      "title": "acquabella: Kleines Bad, große Wirkung - Welche Badewannenform passt zum Grundriss?",
+      "excerpt": "Rund, kompakt oder wandnah: Die richtige Form kann dabei helfen, auch begrenzte Badezimmerflächen...",
+      "link": "https://www.shk-journal.de//news/kleines-bad-grosse-wirkung-welche-badewannenform-passt-zum-grundriss.html",
+      "date": 1795809540,
+      "dateStr": "27. Nov. 2026",
+      "source": "SHK Journal",
+      "category": "Sanitär"
+    },
+    {
+      "title": "Den eigenen Betrieb per Sprachnachricht steuern?",
+      "excerpt": "Sie sind unterwegs und Ihnen fällt etwas ein, das ein Mitarbeiter noch erledigen müsste.",
+      "link": "https://www.shk-journal.de//news/den-eigenen-betrieb-per-sprachnachricht-steuern.html",
+      "date": 1795809540,
+      "dateStr": "27. Nov. 2026",
+      "source": "SHK Journal",
+      "category": "Branche"
+    },
+    {
+      "title": "Ölbrennerdüsen gesucht? Vielleicht fehlt Ihnen noch der richtige Großhandel.",
+      "excerpt": "Große Auswahl. Hohe Verfügbarkeit. Preise, die sich für Ihren Betrieb rechnen.",
+      "link": "https://www.shk-journal.de//news/oelbrennerduesen-gesucht-vielleicht-fehlt-ihnen-noch-der-richtige-grosshandel.html",
+      "date": 1795809540,
+      "dateStr": "27. Nov. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "Vierfach ausgezeichnet: VIGOUR gewinnt German Design Award 2027",
+      "excerpt": "Große Freude bei VIGOUR: Gleich vier Produkte des Herstellers wurden mit dem renom¬mierten German...",
+      "link": "https://www.shk-journal.de//news/vierfach-ausgezeichnet-vigour-gewinnt-german-design-award-2027.html",
+      "date": 1795809480,
+      "dateStr": "27. Nov. 2026",
+      "source": "SHK Journal",
+      "category": "Aktuell"
+    },
+    {
+      "title": "Fröling: HYGIENE-SCHICHTSPEICHER H2 / HYGIENE-SOLARSCHICHT-SPEICHER H3",
+      "excerpt": "Beim Fröling H2 und H3 erhalten Sie Schichtspeicher und Warmwasserspei­cher in einem Produkt.",
+      "link": "https://www.shk-journal.de//news/froeling-hygiene-schichtspeicher-h2-hygiene-solarschicht-speicher-h3-4.html",
+      "date": 1795809420,
+      "dateStr": "27. Nov. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "autarc präsentiert erweiterte PV-Planung auf der Sustainable Solutions Düsseldorf 2026",
+      "excerpt": "Die autarc GmbH präsentiert am 2. und 3. Dezember auf der Sustainable Solutions Düsseldorf 2026,...",
+      "link": "https://www.shk-journal.de//news/default-0d18503e90-4.html",
+      "date": 1795809420,
+      "dateStr": "27. Nov. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "WW PERSONAL sucht Gebietsverkaufsleiter (m/w/d) SHK / Elektro – dezentrale Warmwasserversorgung  Ausführungsort: Großraum Leipzig  Referenz-Nr.: 1436  Mobiles Arbeiten: Ja",
+      "excerpt": "Unser Auftraggeber ist ein erfolgreicher, inhabergeführter deutscher Hersteller und einer der...",
+      "link": "https://www.shk-journal.de//news/ww-personal-sucht-gebietsverkaufsleiter-mwd-shk-elektro-dezentrale-warmwasserversorgung-ausfuehrungsort-grossraum-leipzig-referenz-nr-1436-mobiles-arbeiten-ja-2.html",
+      "date": 1795809360,
+      "dateStr": "27. Nov. 2026",
+      "source": "SHK Journal",
+      "category": "Heizung"
+    },
+    {
+      "title": "Perma-trade Wassertechnik hat für jede Anforderung die passende Filterlösung parat",
+      "excerpt": "Filtern bis ins Feinste",
+      "link": "https://www.shk-journal.de//news/perma-trade-wassertechnik-hat-fuer-jede-anforderung-die-passende-filterloesung-parat.html",
+      "date": 1795809240,
+      "dateStr": "27. Nov. 2026",
+      "source": "SHK Journal",
+      "category": "Sanitär"
+    },
+    {
+      "title": "MILWAUKEE®: Leiser arbeiten bei hoher Leistung",
+      "excerpt": "Neuer FUEL M18 Akku-Schlagschrauber mit hydraulischem Schlagwerk für professionelle Anwendungen in...",
+      "link": "https://www.shk-journal.de//news/milwaukeer-leiser-arbeiten-bei-hoher-leistung-2.html",
+      "date": 1795809000,
+      "dateStr": "27. Nov. 2026",
+      "source": "SHK Journal",
+      "category": "Aktuell"
+    },
+    {
+      "title": "VdZ wählt Michael Scheller zum Präsidenten",
+      "excerpt": "Oventrop-Manager Michael Scheller führt künftig die VdZ. Er folgt auf Dr. Frank Voßloh, der im Herbst 2026 in den Ruhestand gegangen ist.",
+      "link": "https://www.sbz-online.de/meldungen/verbaende-vdz-waehlt-michael-scheller-zum-praesidenten",
+      "date": 1795766750,
+      "dateStr": "27. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "BDH ernennt neuen Vi­ze­prä­si­den­ten und er­wei­tert sein Profil",
+      "excerpt": "Dr. Tillmann von Schroeter übernimmt das Amt des BDH-Vizepräsidenten. Der Verband schärft seinen Fokus auf Heizungs-, Klima- und Lüftungstechnik.",
+      "link": "https://www.sbz-online.de/meldungen/verbaende-bdh-ernennt-neuen-vizepraesidenten-und-erweitert-sein-profil",
+      "date": 1795748407,
+      "dateStr": "27. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Fluidmaster vereint europäische Marken unter einem Dach",
+      "excerpt": "Der WC-Technikspezialist Fluidmaster bündelt sein europäisches Portfolio künftig unter der globalen Marke Fluidmaster. Ab April 2027 werden die Produkte der Marken Schwab, WISA und LIV schrittweise umgestellt.",
+      "link": "https://www.sbz-online.de/meldungen/sanitaertechnik-fluidmaster-vereint-europaeische-marken-unter-einem-dach",
+      "date": 1795748406,
+      "dateStr": "27. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
+    },
+    {
+      "title": "Effizientes Heizen und Kühlen mit einer Technologie",
+      "excerpt": "Luft/Luft-Wärmepumpen können heizen und kühlen. ÖKKV informiert über Einsatzmöglichkeiten im Gebäudebestand, in Sanierungen und in Kombination mit bestehenden Heizsystemen.",
+      "link": "https://www.sbz-online.de/meldungen/luft-luft-waermepumpen-effizientes-heizen-und-kuehlen-mit-einer-technologie",
+      "date": 1795748406,
+      "dateStr": "27. Nov. 2026",
+      "source": "SBZ Monteur",
+      "category": "Heizung"
     },
     {
       "title": "GC-Gruppe führt digitalen Lieferschein ein",
@@ -58,155 +238,11 @@
     {
       "title": "ISH 2027: Handwerk und Pflege auf gemeinsamem Kongress",
       "excerpt": "Am 17. März 2027 bringt der ZVSHK auf der ISH in Frankfurt Handwerk und Pflege erstmals gemeinsam an einen Tisch – für bessere Wohnlösungen im Alter.",
-      "link": "https://www.sbz-online.de/meldungen/17-maerz-2027-1100-1415-uhr-messe-frankfurt-ish-2027-handwerk-und-pflege-auf-gemeinsamem",
+      "link": "https://www.sbz-online.de/meldungen/17-maerz-2027-messe-frankfurt-ish-2027-handwerk-und-pflege-auf-gemeinsamem-kongress",
       "date": 1795662006,
       "dateStr": "26. Nov. 2026",
       "source": "SBZ Monteur",
       "category": "Branche"
-    },
-    {
-      "title": "EWS sucht Vertriebsleiter (m/w/d) Lüftungs- und Gebäudetechnik (EWS 1809) Deutschland | Zweistufiger Vertrieb  Vertriebsführung | Strategische Weiterentwicklung",
-      "excerpt": "Eine starke Marke, innovative Lüftungslösungen und ein Markt voller Möglichkeiten: Unser Mandant...",
-      "link": "https://www.shk-journal.de//news/vertriebsleiter-mwd-lueftungs-und-gebaeudetechnik-ews-1809-deutschland-zweistufiger-vertrieb-vertriebsfuehrung-strategische-weiterentwicklung-1.html",
-      "date": 1795651140,
-      "dateStr": "26. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Meltem auf der BAU 2027",
-      "excerpt": "Planungsservice direkt am Stand",
-      "link": "https://www.shk-journal.de//news/meltem-auf-der-bau-2027.html",
-      "date": 1795651140,
-      "dateStr": "26. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Service-Champion 2026: Warum das SHK-Handwerk auf Grünbeck setzt",
-      "excerpt": "Auszeichnung bestätigt hohe Serviceorientierung in der Wasseraufbereitung",
-      "link": "https://www.shk-journal.de//news/service-champion-2026-warum-das-shk-handwerk-auf-gruenbeck-setzt.html",
-      "date": 1795650900,
-      "dateStr": "26. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Sanitär"
-    },
-    {
-      "title": "hansgrohe teilt Profi-Tipps für Küchendesign",
-      "excerpt": "Küchentrends 2027: Küche mit Persönlichkeit",
-      "link": "https://www.shk-journal.de//news/hansgrohe-teilt-profi-tipps-fuer-kuechendesign.html",
-      "date": 1795650660,
-      "dateStr": "26. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Hoval: Forschungsprojekt bestätigt - Hohe Effizienz ohne Komfortverlust mit Luft/Wasser-Wärmepumpen",
-      "excerpt": "Marktheidenfeld",
-      "link": "https://www.shk-journal.de//news/default-126bc2c5d5-1.html",
-      "date": 1795650300,
-      "dateStr": "26. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Laszlo &amp; Kollegen Personalberatung sucht einen Leiter Produkt- und Portfoliomanagement Heiztechnik (m/w/d)",
-      "excerpt": "Für unseren Kunden, einen etablierten und erfolgreichen Protagonisten der SHK-Branche, suchen wir...",
-      "link": "https://www.shk-journal.de//news/laszlo-kollegen-personalberatung-sucht-einen-leiter-produkt-und-portfoliomanagement-heiztechnik-mwd-1.html",
-      "date": 1795648920,
-      "dateStr": "26. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "ifo Geschäftsklimaindex gestiegen (November 2026)",
-      "excerpt": "Die Stimmung unter den Unternehmen in Deutschland hat sich verbessert.",
-      "link": "https://www.shk-journal.de//news/ifo-geschaeftsklimaindex-gestiegen-november-2026.html",
-      "date": 1795638720,
-      "dateStr": "25. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Branche"
-    },
-    {
-      "title": "DESTATIS: Auftragseingang im Bauhauptgewerbe im September 2026",
-      "excerpt": "-16,1 % zum Vormonat",
-      "link": "https://www.shk-journal.de//news/destatis-auftragseingang-im-bauhauptgewerbe-im-september-2026.html",
-      "date": 1795638660,
-      "dateStr": "25. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Durchlauferhitzer-Produktion erhält den GEO Award beim Wettbewerb „Fabrik des Jahres 2026“",
-      "excerpt": "Das Werk der CLAGE GmbH in Lüneburg wurde beim renommierten Produktions-Wettbewerb „Fabrik des...",
-      "link": "https://www.shk-journal.de//news/durchlauferhitzer-produktion-erhaelt-den-geo-award-beim-wettbewerb-fabrik-des-jahres-2026.html",
-      "date": 1795638600,
-      "dateStr": "25. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "Besondere Ehre für HSK Duschkabinenbau",
-      "excerpt": "Duschkabinenserie Vinya gewinnt den German Design Award",
-      "link": "https://www.shk-journal.de//news/besondere-ehre-fuer-hsk-duschkabinenbau.html",
-      "date": 1795638540,
-      "dateStr": "25. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Aktuell"
-    },
-    {
-      "title": "HARGASSNER: CLEVERE ZUBEHÖR­LÖSUNGEN FÜR IHRE KUNDEN",
-      "excerpt": "FÜR NOCH MEHR SICHERHEIT, KOMFORT UND MÖGLICHKEITEN",
-      "link": "https://www.shk-journal.de//news/default-5d6362dd3f.html",
-      "date": 1795638480,
-      "dateStr": "25. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "RADAWAY: Mehr Freiheit für die Badplanung",
-      "excerpt": "Perfekte Passform statt Kompromisse: Zuschneidbare Mineralguss-Duschwannen passen sich Ihrem Bad an...",
-      "link": "https://www.shk-journal.de//news/mehr-freiheit-fuer-die-badplanung.html",
-      "date": 1795638420,
-      "dateStr": "25. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Sanitär"
-    },
-    {
-      "title": "Selbst suchen, Anzeige schalten oder Direktansprache?",
-      "excerpt": "Nachhaltig besetzen, Folge 4 von 10",
-      "link": "https://www.shk-journal.de//news/selbst-suchen-anzeige-schalten-oder-direktansprache.html",
-      "date": 1795638360,
-      "dateStr": "25. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "puteus sucht zur Unterstützung seines Teams am Standort Tönisvorst einen Verkäufer (m/w/d) für den innerdeutschen Bereich mit dem Schwerpunkt Sanitär-, Heizungs- und Bewässerungstechnik.",
-      "excerpt": "Die 1979 als Ausgangspunkt der de-Gruyter-Stach-Unternehmensgruppe gegründete puteus GmbH ist ein...",
-      "link": "https://www.shk-journal.de//news/default-7e306f75cb-1.html",
-      "date": 1795638300,
-      "dateStr": "25. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "GEO präsentiert die Dusche, die sich Ihrem Stil anpasst",
-      "excerpt": "Verwandeln Sie Ihr Badezimmer in eine stilvolle Wohlfühloase - mit der neuen Duschserie S5 von GEO.",
-      "link": "https://www.shk-journal.de//news/geo-praesentiert-die-dusche-die-sich-ihrem-stil-anpasst-1-1-1-1-1-1-1-1-1-1-1-1.html",
-      "date": 1795638240,
-      "dateStr": "25. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
-    },
-    {
-      "title": "Alte Wärmepumpe beim Kunden? Jetzt wird’s interessant.",
-      "excerpt": "Ab 2027 drohen deutliche Förderkürzungen beim Wärmepumpentausch. Nutzen Sie das Austauschgeschäft –...",
-      "link": "https://www.shk-journal.de//news/default-15a35df038.html",
-      "date": 1795638120,
-      "dateStr": "25. Nov. 2026",
-      "source": "SHK Journal",
-      "category": "Heizung"
     },
     {
       "title": "GET Nord 2026 zog rund 37.000 Besuchende nach Hamburg",
@@ -324,43 +360,7 @@
       "dateStr": "23. Nov. 2026",
       "source": "SBZ Monteur",
       "category": "Heizung"
-    },
-    {
-      "title": "Rekordbeteiligung beim „Tag des offenen Heizungskellers“",
-      "excerpt": "Über 2300 Haushalte in mehr als 750 Städten und Gemeinden öffnen heute ihre Türen, um Besuchern klimafreundliche Heiztechnik zu zeigen.",
-      "link": "https://www.sbz-online.de/meldungen/21-november-2026-bundesweit-rekordbeteiligung-beim-tag-des-offenen-heizungskellers",
-      "date": 1795233607,
-      "dateStr": "21. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "HEATEXPO 2026: Systemtechnik für die SHK-Praxis",
-      "excerpt": "Wärme- und Kälteversorgung entsteht im Zusammenspiel von Erzeugung, Hydraulik, Netzen, Speichern, Regelung und Service. Die HEATEXPO zeigt, worauf es an den Schnittstellen ankommt.",
-      "link": "https://www.sbz-online.de/messe/heatexpo-2026-systemtechnik-fuer-die-shk-praxis",
-      "date": 1795163719,
-      "dateStr": "20. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Heizung"
-    },
-    {
-      "title": "HDG Bavaria rät zu frühen Förderanträgen",
-      "excerpt": "Der Hersteller HDG Bavaria verweist auf sinkende Zuschüsse ab 2027: Aktuell gelten weiter 30 % Grundförderung. In Einzelfällen sind bis zu 80 % möglich.",
-      "link": "https://www.sbz-online.de/meldungen/heizungsfoerderung-hdg-bavaria-raet-zu-fruehen-foerderantraegen",
-      "date": 1795143609,
-      "dateStr": "20. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Förderung"
-    },
-    {
-      "title": "Kälte-Klima-Verbände halten PFAS-Studie für zu pauschal",
-      "excerpt": "VDKF, BFS und BIV kritisieren eine aktuelle Studie zu PFAS-haltigen Kältemitteln als zu pauschal und fordern eine differenziertere Bewertung.",
-      "link": "https://www.sbz-online.de/meldungen/f-gase-verordnung-kaelte-klima-verbaende-halten-pfas-studie-fuer-zu-pauschal",
-      "date": 1795143609,
-      "dateStr": "20. Nov. 2026",
-      "source": "SBZ Monteur",
-      "category": "Aktuell"
     }
   ],
-  "fetched": 1795703829
+  "fetched": 1795789863
 }
